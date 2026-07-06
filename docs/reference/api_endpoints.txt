@@ -1,0 +1,1933 @@
+Games - Games scores and statistics
+
+/games
+
+#  response
+[
+  {
+    "id": 0,
+    "season": 0,
+    "week": 0,
+    "seasonType": "regular",
+    "startDate": "2026-06-28T02:42:13.557Z",
+    "startTimeTBD": true,
+    "completed": true,
+    "neutralSite": true,
+    "conferenceGame": true,
+    "attendance": 0,
+    "venueId": 0,
+    "venue": "string",
+    "homeId": 0,
+    "homeTeam": "string",
+    "homeConference": "string",
+    "homeClassification": "fbs",
+    "homePoints": 0,
+    "homeLineScores": [
+      0
+    ],
+    "homePostgameWinProbability": 0,
+    "homePregameElo": 0,
+    "homePostgameElo": 0,
+    "awayId": 0,
+    "awayTeam": "string",
+    "awayConference": "string",
+    "awayClassification": "fbs",
+    "awayPoints": 0,
+    "awayLineScores": [
+      0
+    ],
+    "awayPostgameWinProbability": 0,
+    "awayPregameElo": 0,
+    "awayPostgameElo": 0,
+    "excitementIndex": 0,
+    "highlights": "string",
+    "notes": "string"
+  }
+]
+
+/games/teams
+
+#  response
+[
+  {
+    "id": 0,
+    "teams": [
+      {
+        "teamId": 0,
+        "team": "string",
+        "conference": "string",
+        "homeAway": "home",
+        "points": 0,
+        "stats": [
+          {
+            "category": "string",
+            "stat": "string"
+          }
+        ]
+      }
+    ]
+  }
+]
+
+/games/players
+
+#  response
+[
+  {
+    "id": 0,
+    "teams": [
+      {
+        "team": "string",
+        "conference": "string",
+        "homeAway": "home",
+        "points": 0,
+        "categories": [
+          {
+            "name": "string",
+            "types": [
+              {
+                "name": "string",
+                "athletes": [
+                  {
+                    "id": "string",
+                    "name": "string",
+                    "stat": "string"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
+
+/games/media
+
+#  response
+[
+  {
+    "id": 0,
+    "season": 0,
+    "week": 0,
+    "seasonType": "regular",
+    "startTime": "2026-06-28T03:08:56.984Z",
+    "isStartTimeTBD": true,
+    "homeTeam": "string",
+    "homeConference": "string",
+    "awayTeam": "string",
+    "awayConference": "string",
+    "mediaType": "tv",
+    "outlet": "string"
+  }
+]
+
+/records
+
+#  response
+[
+  {
+    "year": 0,
+    "teamId": 0,
+    "team": "string",
+    "classification": "fbs",
+    "conference": "string",
+    "division": "string",
+    "expectedWins": 0,
+    "total": {
+      "games": 0,
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 0,
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 0,
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 0,
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    "neutralSiteGames": {
+      "games": 0,
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    "regularSeason": {
+      "games": 0,
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    "postseason": {
+      "games": 0,
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    }
+  }
+]
+
+/calendar
+
+#  response
+[
+  {
+    "season": 0,
+    "week": 0,
+    "seasonType": "regular",
+    "startDate": "2026-06-28T03:21:18.775Z",
+    "endDate": "2026-06-28T03:21:18.775Z"
+  }
+]
+
+/scoreboard
+
+#  response
+[
+  {
+    "id": 0,
+    "startDate": "2026-06-28T03:24:44.440Z",
+    "startTimeTBD": true,
+    "tv": "string",
+    "neutralSite": true,
+    "conferenceGame": true,
+    "status": "scheduled",
+    "period": 0,
+    "clock": "string",
+    "situation": "string",
+    "possession": "string",
+    "lastPlay": "string",
+    "venue": {
+      "state": "string",
+      "city": "string",
+      "name": "string"
+    },
+    "homeTeam": {
+      "winProbability": 0,
+      "lineScores": [
+        0
+      ],
+      "points": 0,
+      "classification": "fbs",
+      "conference": "string",
+      "name": "string",
+      "id": 0
+    },
+    "awayTeam": {
+      "winProbability": 0,
+      "lineScores": [
+        0
+      ],
+      "points": 0,
+      "classification": "fbs",
+      "conference": "string",
+      "name": "string",
+      "id": 0
+    },
+    "weather": {
+      "windDirection": 0,
+      "windSpeed": 0,
+      "description": "string",
+      "temperature": 0
+    },
+    "betting": {
+      "awayMoneyline": 0,
+      "homeMoneyline": 0,
+      "overUnder": 0,
+      "spread": 0
+    }
+  }
+]
+
+/games/game/box/advanced
+
+#  response
+{
+  "gameInfo": {
+    "excitement": 0,
+    "homeWinner": true,
+    "awayWinProb": 0,
+    "awayPoints": 0,
+    "awayTeam": "string",
+    "homeWinProb": 0,
+    "homePoints": 0,
+    "homeTeam": "string"
+  },
+  "teams": {
+    "fieldPosition": [
+      {
+        "team": "string",
+        "averageStart": 0,
+        "averageStartingPredictedPoints": 0
+      }
+    ],
+    "scoringOpportunities": [
+      {
+        "team": "string",
+        "opportunities": 0,
+        "points": 0,
+        "pointsPerOpportunity": 0
+      }
+    ],
+    "havoc": [
+      {
+        "team": "string",
+        "total": 0,
+        "frontSeven": 0,
+        "db": 0
+      }
+    ],
+    "rushing": [
+      {
+        "team": "string",
+        "powerSuccess": 0,
+        "stuffRate": 0,
+        "lineYards": 0,
+        "lineYardsAverage": 0,
+        "secondLevelYards": 0,
+        "secondLevelYardsAverage": 0,
+        "openFieldYards": 0,
+        "openFieldYardsAverage": 0
+      }
+    ],
+    "explosiveness": [
+      {
+        "team": "string",
+        "overall": {
+          "total": 0,
+          "quarter1": 0,
+          "quarter2": 0,
+          "quarter3": 0,
+          "quarter4": 0
+        }
+      }
+    ],
+    "successRates": [
+      {
+        "team": "string",
+        "overall": {
+          "total": 0,
+          "quarter1": 0,
+          "quarter2": 0,
+          "quarter3": 0,
+          "quarter4": 0
+        },
+        "standardDowns": {
+          "total": 0,
+          "quarter1": 0,
+          "quarter2": 0,
+          "quarter3": 0,
+          "quarter4": 0
+        },
+        "passingDowns": {
+          "total": 0,
+          "quarter1": 0,
+          "quarter2": 0,
+          "quarter3": 0,
+          "quarter4": 0
+        }
+      }
+    ],
+    "cumulativePpa": [
+      {
+        "team": "string",
+        "plays": 0,
+        "overall": {
+          "total": 0,
+          "quarter1": 0,
+          "quarter2": 0,
+          "quarter3": 0,
+          "quarter4": 0
+        },
+        "passing": {
+          "total": 0,
+          "quarter1": 0,
+          "quarter2": 0,
+          "quarter3": 0,
+          "quarter4": 0
+        },
+        "rushing": {
+          "total": 0,
+          "quarter1": 0,
+          "quarter2": 0,
+          "quarter3": 0,
+          "quarter4": 0
+        }
+      }
+    ],
+    "ppa": [
+      {
+        "team": "string",
+        "plays": 0,
+        "overall": {
+          "total": 0,
+          "quarter1": 0,
+          "quarter2": 0,
+          "quarter3": 0,
+          "quarter4": 0
+        },
+        "passing": {
+          "total": 0,
+          "quarter1": 0,
+          "quarter2": 0,
+          "quarter3": 0,
+          "quarter4": 0
+        },
+        "rushing": {
+          "total": 0,
+          "quarter1": 0,
+          "quarter2": 0,
+          "quarter3": 0,
+          "quarter4": 0
+        }
+      }
+    ]
+  },
+  "players": {
+    "ppa": [
+      {
+        "player": "string",
+        "team": "string",
+        "position": "string",
+        "average": {
+          "total": 0,
+          "quarter1": 0,
+          "quarter2": 0,
+          "quarter3": 0,
+          "quarter4": 0,
+          "rushing": 0,
+          "passing": 0
+        },
+        "cumulative": {
+          "total": 0,
+          "quarter1": 0,
+          "quarter2": 0,
+          "quarter3": 0,
+          "quarter4": 0,
+          "rushing": 0,
+          "passing": 0
+        }
+      }
+    ],
+    "usage": [
+      {
+        "total": 0,
+        "quarter1": 0,
+        "quarter2": 0,
+        "quarter3": 0,
+        "quarter4": 0,
+        "rushing": 0,
+        "passing": 0,
+        "player": "string",
+        "team": "string",
+        "position": "string"
+      }
+    ]
+  }
+}
+
+Drives - Drive data
+/drives
+
+#response
+[
+  {
+    "offense": "string",
+    "offenseConference": "string",
+    "defense": "string",
+    "defenseConference": "string",
+    "gameId": 0,
+    "id": "string",
+    "driveNumber": 0,
+    "scoring": true,
+    "startPeriod": 0,
+    "startYardline": 0,
+    "startYardsToGoal": 0,
+    "startTime": {
+      "seconds": 0,
+      "minutes": 0
+    },
+    "endPeriod": 0,
+    "endYardline": 0,
+    "endYardsToGoal": 0,
+    "endTime": {
+      "seconds": 0,
+      "minutes": 0
+    },
+    "elapsed": {
+      "seconds": 0,
+      "minutes": 0
+    },
+    "plays": 0,
+    "yards": 0,
+    "driveResult": "string",
+    "isHomeOffense": true,
+    "startOffenseScore": 0,
+    "startDefenseScore": 0,
+    "endOffenseScore": 0,
+    "endDefenseScore": 0
+  }
+]
+
+Plays - Play by play data
+/plays
+
+#response
+[
+  {
+    "id": "string",
+    "driveId": "string",
+    "gameId": 0,
+    "driveNumber": 0,
+    "playNumber": 0,
+    "offense": "string",
+    "offenseConference": "string",
+    "offenseScore": 0,
+    "defense": "string",
+    "home": "string",
+    "away": "string",
+    "defenseConference": "string",
+    "defenseScore": 0,
+    "period": 0,
+    "clock": {
+      "seconds": 0,
+      "minutes": 0
+    },
+    "offenseTimeouts": 0,
+    "defenseTimeouts": 0,
+    "yardline": 0,
+    "yardsToGoal": 0,
+    "down": 0,
+    "distance": 0,
+    "yardsGained": 0,
+    "scoring": true,
+    "playType": "string",
+    "playText": "string",
+    "ppa": 0,
+    "wallclock": "string"
+  }
+]
+
+/plays/types
+
+#response
+[
+  {
+    "id": 0,
+    "text": "string",
+    "abbreviation": "string"
+  }
+]
+
+/plays/stats
+
+#response
+[
+  {
+    "gameId": 0,
+    "season": 0,
+    "week": 0,
+    "team": "string",
+    "conference": "string",
+    "opponent": "string",
+    "teamScore": 0,
+    "opponentScore": 0,
+    "driveId": "string",
+    "playId": "string",
+    "period": 0,
+    "clock": {
+      "seconds": 0,
+      "minutes": 0
+    },
+    "yardsToGoal": 0,
+    "down": 0,
+    "distance": 0,
+    "athleteId": "string",
+    "athleteName": "string",
+    "statType": "string",
+    "stat": 0
+  }
+]
+
+/plays/stats/types
+
+#response
+[
+  {
+    "id": 0,
+    "name": "string"
+  }
+]
+
+/live/plays
+
+#response
+{
+  "id": 0,
+  "status": "string",
+  "period": 0,
+  "clock": "string",
+  "possession": "string",
+  "down": 0,
+  "distance": 0,
+  "yardsToGoal": 0,
+  "teams": [
+    {
+      "teamId": 0,
+      "team": "string",
+      "homeAway": "home",
+      "lineScores": [
+        0
+      ],
+      "points": 0,
+      "drives": 0,
+      "scoringOpportunities": 0,
+      "pointsPerOpportunity": 0,
+      "averageStartYardLine": 0,
+      "plays": 0,
+      "lineYards": 0,
+      "lineYardsPerRush": 0,
+      "secondLevelYards": 0,
+      "secondLevelYardsPerRush": 0,
+      "openFieldYards": 0,
+      "openFieldYardsPerRush": 0,
+      "epaPerPlay": 0,
+      "totalEpa": 0,
+      "passingEpa": 0,
+      "epaPerPass": 0,
+      "rushingEpa": 0,
+      "epaPerRush": 0,
+      "successRate": 0,
+      "standardDownSuccessRate": 0,
+      "passingDownSuccessRate": 0,
+      "explosiveness": 0,
+      "deserveToWin": 0
+    }
+  ],
+  "drives": [
+    {
+      "id": "string",
+      "offenseId": 0,
+      "offense": "string",
+      "defenseId": 0,
+      "defense": "string",
+      "playCount": 0,
+      "yards": 0,
+      "startPeriod": 0,
+      "startClock": "string",
+      "startYardsToGoal": 0,
+      "endPeriod": 0,
+      "endClock": "string",
+      "endYardsToGoal": 0,
+      "duration": "string",
+      "scoringOpportunity": true,
+      "result": "string",
+      "pointsGained": 0,
+      "plays": [
+        {
+          "id": "string",
+          "homeScore": 0,
+          "awayScore": 0,
+          "period": 0,
+          "clock": "string",
+          "wallClock": "2026-06-28T04:08:09.680Z",
+          "teamId": 0,
+          "team": "string",
+          "down": 0,
+          "distance": 0,
+          "yardsToGoal": 0,
+          "yardsGained": 0,
+          "playTypeId": 0,
+          "playType": "string",
+          "epa": 0,
+          "garbageTime": true,
+          "success": true,
+          "rushPass": "rush",
+          "downType": "passing",
+          "playText": "string"
+        }
+      ]
+    }
+  ]
+}
+
+Teams - Team information
+/teams
+
+#response
+[
+  {
+    "id": 0,
+    "school": "string",
+    "mascot": "string",
+    "abbreviation": "string",
+    "alternateNames": [
+      "string"
+    ],
+    "conference": "string",
+    "division": "string",
+    "classification": "string",
+    "color": "string",
+    "alternateColor": "string",
+    "logos": [
+      "string"
+    ],
+    "twitter": "string",
+    "location": {
+      "id": 0,
+      "name": "string",
+      "city": "string",
+      "state": "string",
+      "zip": "string",
+      "countryCode": "string",
+      "timezone": "string",
+      "latitude": 0,
+      "longitude": 0,
+      "elevation": "string",
+      "capacity": 0,
+      "constructionYear": 0,
+      "grass": true,
+      "dome": true
+    }
+  }
+]
+
+/teams/fbs
+
+#response
+[
+  {
+    "id": 0,
+    "school": "string",
+    "mascot": "string",
+    "abbreviation": "string",
+    "alternateNames": [
+      "string"
+    ],
+    "conference": "string",
+    "division": "string",
+    "classification": "string",
+    "color": "string",
+    "alternateColor": "string",
+    "logos": [
+      "string"
+    ],
+    "twitter": "string",
+    "location": {
+      "id": 0,
+      "name": "string",
+      "city": "string",
+      "state": "string",
+      "zip": "string",
+      "countryCode": "string",
+      "timezone": "string",
+      "latitude": 0,
+      "longitude": 0,
+      "elevation": "string",
+      "capacity": 0,
+      "constructionYear": 0,
+      "grass": true,
+      "dome": true
+    }
+  }
+]
+
+/teams/matchup
+#purpose
+
+#response
+{
+  "team1": "string",
+  "team2": "string",
+  "startYear": 0,
+  "endYear": 0,
+  "team1Wins": 0,
+  "team2Wins": 0,
+  "ties": 0,
+  "games": [
+    {
+      "season": 0,
+      "week": 0,
+      "seasonType": "string",
+      "date": "string",
+      "neutralSite": true,
+      "venue": "string",
+      "homeTeam": "string",
+      "homeScore": 0,
+      "awayTeam": "string",
+      "awayScore": 0,
+      "winner": "string"
+    }
+  ]
+}
+
+/teams/ats
+
+#response
+[
+  {
+    "year": 0,
+    "teamId": 0,
+    "team": "string",
+    "conference": "string",
+    "games": 0,
+    "atsWins": 0,
+    "atsLosses": 0,
+    "atsPushes": 0,
+    "avgCoverMargin": 0
+  }
+]
+
+/roster
+
+#response
+[
+  {
+    "id": "string",
+    "firstName": "string",
+    "lastName": "string",
+    "team": "string",
+    "height": 0,
+    "weight": 0,
+    "jersey": 0,
+    "position": "string",
+    "homeCity": "string",
+    "homeState": "string",
+    "homeCountry": "string",
+    "homeLatitude": 0,
+    "homeLongitude": 0,
+    "homeCountyFIPS": "string",
+    "recruitIds": [
+      "string"
+    ]
+  }
+]
+
+/talent
+
+#response
+[
+  {
+    "year": 0,
+    "team": "string",
+    "talent": 0
+  }
+]
+
+Conferences - Conference information
+/conferences
+
+#response
+[
+  {
+    "id": 0,
+    "name": "string",
+    "shortName": "string",
+    "abbreviation": "string",
+    "classification": "fbs"
+  }
+]
+
+
+Venues - Information about venues
+/venues
+
+#response
+[
+  {
+    "id": 0,
+    "name": "string",
+    "city": "string",
+    "state": "string",
+    "zip": "string",
+    "countryCode": "string",
+    "timezone": "string",
+    "latitude": 0,
+    "longitude": 0,
+    "elevation": "string",
+    "capacity": 0,
+    "constructionYear": 0,
+    "grass": true,
+    "dome": true
+  }
+]
+
+
+Coaches - Information about coaches
+/coaches
+
+#response
+[
+  {
+    "firstName": "string",
+    "lastName": "string",
+    "hireDate": "2026-06-28T04:24:42.380Z",
+    "seasons": [
+      {
+        "school": "string",
+        "year": 0,
+        "games": 0,
+        "wins": 0,
+        "losses": 0,
+        "ties": 0,
+        "preseasonRank": 0,
+        "postseasonRank": 0,
+        "srs": 0,
+        "spOverall": 0,
+        "spOffense": 0,
+        "spDefense": 0
+      }
+    ]
+  }
+]
+
+
+Players - Player information and data
+/player/search
+
+#response
+[
+  {
+    "id": "string",
+    "team": "string",
+    "name": "string",
+    "firstName": "string",
+    "lastName": "string",
+    "weight": 0,
+    "height": 0,
+    "jersey": 0,
+    "position": "string",
+    "hometown": "string",
+    "teamColor": "string",
+    "teamColorSecondary": "string"
+  }
+]
+
+/player/usage
+
+#response
+[
+  {
+    "season": 0,
+    "id": "string",
+    "name": "string",
+    "position": "string",
+    "team": "string",
+    "conference": "string",
+    "usage": {
+      "passingDowns": 0,
+      "standardDowns": 0,
+      "thirdDown": 0,
+      "secondDown": 0,
+      "firstDown": 0,
+      "rush": 0,
+      "pass": 0,
+      "overall": 0
+    }
+  }
+]
+
+/player/season/overview
+
+#response
+{
+  "season": 0,
+  "id": "string",
+  "name": "string",
+  "position": "string",
+  "team": "string",
+  "conference": "string",
+  "games": 0,
+  "boxScoreStats": {
+    "categories": [
+      {
+        "name": "string",
+        "stats": [
+          {
+            "name": "string",
+            "value": "string"
+          }
+        ]
+      }
+    ]
+  },
+  "usage": {
+    "passingDowns": 0,
+    "standardDowns": 0,
+    "thirdDown": 0,
+    "secondDown": 0,
+    "firstDown": 0,
+    "rush": 0,
+    "pass": 0,
+    "overall": 0
+  },
+  "ppa": {
+    "average": {
+      "passingDowns": 0,
+      "standardDowns": 0,
+      "thirdDown": 0,
+      "secondDown": 0,
+      "firstDown": 0,
+      "rush": 0,
+      "pass": 0,
+      "all": 0
+    },
+    "total": {
+      "passingDowns": 0,
+      "standardDowns": 0,
+      "thirdDown": 0,
+      "secondDown": 0,
+      "firstDown": 0,
+      "rush": 0,
+      "pass": 0,
+      "all": 0
+    }
+  }
+}
+
+/player/returning
+
+#response
+[
+  {
+    "season": 0,
+    "team": "string",
+    "conference": "string",
+    "totalPPA": 0,
+    "totalPassingPPA": 0,
+    "totalReceivingPPA": 0,
+    "totalRushingPPA": 0,
+    "percentPPA": 0,
+    "percentPassingPPA": 0,
+    "percentReceivingPPA": 0,
+    "percentRushingPPA": 0,
+    "usage": 0,
+    "passingUsage": 0,
+    "receivingUsage": 0,
+    "rushingUsage": 0
+  }
+]
+
+/player/portal
+
+#response
+[
+  {
+    "season": 0,
+    "firstName": "string",
+    "lastName": "string",
+    "position": "string",
+    "origin": "string",
+    "destination": "string",
+    "transferDate": "2026-06-28T04:33:26.332Z",
+    "rating": 0,
+    "stars": 0,
+    "eligibility": "Withdrawn"
+  }
+]
+
+
+Rankings - Historical poll rankings
+/rankings
+
+#response
+[
+  {
+    "season": 0,
+    "seasonType": "regular",
+    "week": 0,
+    "polls": [
+      {
+        "poll": "string",
+        "ranks": [
+          {
+            "rank": 0,
+            "teamId": 0,
+            "school": "string",
+            "conference": "string",
+            "firstPlaceVotes": 0,
+            "points": 0
+          }
+        ]
+      }
+    ]
+  }
+]
+
+
+Betting - Betting lines and data
+/lines
+
+#response
+[
+  {
+    "id": 0,
+    "season": 0,
+    "seasonType": "regular",
+    "week": 0,
+    "startDate": "2026-06-28T04:36:06.845Z",
+    "homeTeamId": 0,
+    "homeTeam": "string",
+    "homeConference": "string",
+    "homeClassification": "fbs",
+    "homeScore": 0,
+    "awayTeamId": 0,
+    "awayTeam": "string",
+    "awayConference": "string",
+    "awayClassification": "fbs",
+    "awayScore": 0,
+    "lines": [
+      {
+        "provider": "string",
+        "spread": 0,
+        "formattedSpread": "string",
+        "spreadOpen": 0,
+        "overUnder": 0,
+        "overUnderOpen": 0,
+        "homeMoneyline": 0,
+        "awayMoneyline": 0
+      }
+    ]
+  }
+]
+
+
+Recruiting - Recruiting rankings and data
+/recruiting/players
+
+#response
+[
+  {
+    "id": "string",
+    "athleteId": "string",
+    "recruitType": "JUCO",
+    "year": 0,
+    "ranking": 0,
+    "name": "string",
+    "school": "string",
+    "committedTo": "string",
+    "position": "string",
+    "height": 0,
+    "weight": 0,
+    "stars": 0,
+    "rating": 0,
+    "city": "string",
+    "stateProvince": "string",
+    "country": "string",
+    "hometownInfo": {
+      "fipsCode": "string",
+      "longitude": 0,
+      "latitude": 0
+    }
+  }
+]
+
+/recruiting/teams
+
+#response
+[
+  {
+    "year": 0,
+    "rank": 0,
+    "team": "string",
+    "points": 0
+  }
+]
+
+/recruiting/groups
+
+#response
+[
+  {
+    "team": "string",
+    "conference": "string",
+    "positionGroup": "string",
+    "averageRating": 0,
+    "totalRating": 0,
+    "commits": 0,
+    "averageStars": 0
+  }
+]
+
+
+Ratings - Team rating data
+/ratings/sp
+
+#response
+[
+  {
+    "year": 0,
+    "team": "string",
+    "conference": "string",
+    "rating": 0,
+    "ranking": 0,
+    "secondOrderWins": 0,
+    "sos": 0,
+    "offense": {
+      "pace": 0,
+      "runRate": 0,
+      "passingDowns": 0,
+      "standardDowns": 0,
+      "passing": 0,
+      "rushing": 0,
+      "explosiveness": 0,
+      "success": 0,
+      "rating": 0,
+      "ranking": 0
+    },
+    "defense": {
+      "havoc": {
+        "db": 0,
+        "frontSeven": 0,
+        "total": 0
+      },
+      "passingDowns": 0,
+      "standardDowns": 0,
+      "passing": 0,
+      "rushing": 0,
+      "explosiveness": 0,
+      "success": 0,
+      "rating": 0,
+      "ranking": 0
+    },
+    "specialTeams": {
+      "rating": 0
+    }
+  }
+]
+
+/ratings/sp/conferences
+#response
+[
+  {
+    "year": 0,
+    "conference": "string",
+    "rating": 0,
+    "secondOrderWins": 0,
+    "sos": 0,
+    "offense": {
+      "pace": 0,
+      "runRate": 0,
+      "passingDowns": 0,
+      "standardDowns": 0,
+      "passing": 0,
+      "rushing": 0,
+      "explosiveness": 0,
+      "success": 0,
+      "rating": 0
+    },
+    "defense": {
+      "havoc": {
+        "db": 0,
+        "frontSeven": 0,
+        "total": 0
+      },
+      "passingDowns": 0,
+      "standardDowns": 0,
+      "passing": 0,
+      "rushing": 0,
+      "explosiveness": 0,
+      "success": 0,
+      "rating": 0
+    },
+    "specialTeams": {
+      "rating": 0
+    }
+  }
+]
+
+/ratings/srs
+
+#response
+[
+  {
+    "year": 0,
+    "team": "string",
+    "conference": "string",
+    "division": "string",
+    "rating": 0,
+    "ranking": 0
+  }
+]
+
+/ratings/elo
+
+#response
+[
+  {
+    "year": 0,
+    "team": "string",
+    "conference": "string",
+    "elo": 0
+  }
+]
+
+/ratings/fpi
+
+#response
+[
+  {
+    "year": 0,
+    "team": "string",
+    "conference": "string",
+    "fpi": 0,
+    "resumeRanks": {
+      "gameControl": 0,
+      "remainingStrengthOfSchedule": 0,
+      "strengthOfSchedule": 0,
+      "averageWinProbability": 0,
+      "fpi": 0,
+      "strengthOfRecord": 0
+    },
+    "efficiencies": {
+      "specialTeams": 0,
+      "defense": 0,
+      "offense": 0,
+      "overall": 0
+    }
+  }
+]
+
+
+Metrics - Data relating to Predicted Points and other metrics
+/ppa/predicted
+
+#response
+[
+  {
+    "yardLine": 0,
+    "predictedPoints": 0
+  }
+]
+
+/ppa/teams
+
+#response
+[
+  {
+    "season": 0,
+    "conference": "string",
+    "team": "string",
+    "offense": {
+      "cumulative": {
+        "rushing": 0,
+        "passing": 0,
+        "total": 0
+      },
+      "thirdDown": 0,
+      "secondDown": 0,
+      "firstDown": 0,
+      "rushing": 0,
+      "passing": 0,
+      "overall": 0
+    },
+    "defense": {
+      "cumulative": {
+        "rushing": 0,
+        "passing": 0,
+        "total": 0
+      },
+      "thirdDown": 0,
+      "secondDown": 0,
+      "firstDown": 0,
+      "rushing": 0,
+      "passing": 0,
+      "overall": 0
+    }
+  }
+]
+
+/ppa/games
+
+#response
+[
+  {
+    "gameId": 0,
+    "season": 0,
+    "week": 0,
+    "seasonType": "regular",
+    "team": "string",
+    "conference": "string",
+    "opponent": "string",
+    "offense": {
+      "thirdDown": 0,
+      "secondDown": 0,
+      "firstDown": 0,
+      "rushing": 0,
+      "passing": 0,
+      "overall": 0
+    },
+    "defense": {
+      "thirdDown": 0,
+      "secondDown": 0,
+      "firstDown": 0,
+      "rushing": 0,
+      "passing": 0,
+      "overall": 0
+    }
+  }
+]
+
+/ppa/players/games
+
+#response
+[
+  {
+    "season": 0,
+    "week": 0,
+    "seasonType": "regular",
+    "id": "string",
+    "name": "string",
+    "position": "string",
+    "team": "string",
+    "opponent": "string",
+    "averagePPA": {
+      "rush": 0,
+      "pass": 0,
+      "all": 0
+    }
+  }
+]
+
+/ppa/players/season
+
+#response
+[
+  {
+    "season": 0,
+    "id": "string",
+    "name": "string",
+    "position": "string",
+    "team": "string",
+    "conference": "string",
+    "averagePPA": {
+      "passingDowns": 0,
+      "standardDowns": 0,
+      "thirdDown": 0,
+      "secondDown": 0,
+      "firstDown": 0,
+      "rush": 0,
+      "pass": 0,
+      "all": 0
+    },
+    "totalPPA": {
+      "passingDowns": 0,
+      "standardDowns": 0,
+      "thirdDown": 0,
+      "secondDown": 0,
+      "firstDown": 0,
+      "rush": 0,
+      "pass": 0,
+      "all": 0
+    }
+  }
+]
+
+/metrics/wp
+
+#response
+[
+  {
+    "gameId": 0,
+    "playId": "string",
+    "playText": "string",
+    "homeId": 0,
+    "home": "string",
+    "awayId": 0,
+    "away": "string",
+    "spread": 0,
+    "homeBall": true,
+    "homeScore": 0,
+    "awayScore": 0,
+    "yardLine": 0,
+    "down": 0,
+    "distance": 0,
+    "homeWinProbability": 0,
+    "playNumber": 0
+  }
+]
+
+/metrics/wp/pregame
+
+#response
+[
+  {
+    "season": 0,
+    "seasonType": "regular",
+    "week": 0,
+    "gameId": 0,
+    "homeTeam": "string",
+    "awayTeam": "string",
+    "spread": 0,
+    "homeWinProbability": 0
+  }
+]
+
+/metrics/fg/ep
+
+#response
+[
+  {
+    "yardsToGoal": 0,
+    "distance": 0,
+    "expectedPoints": 0
+  }
+]
+
+
+Stats - Statistical data
+/stats/player/season
+
+#response
+[
+  {
+    "season": 0,
+    "playerId": "string",
+    "player": "string",
+    "position": "string",
+    "team": "string",
+    "conference": "string",
+    "category": "string",
+    "statType": "string",
+    "stat": "string"
+  }
+]
+
+/stats/season
+
+#response
+[
+  {
+    "season": 0,
+    "team": "string",
+    "conference": "string",
+    "statName": "string",
+    "statValue": "string"
+  }
+]
+
+/stats/categories
+
+#response
+[
+  "string"
+]
+
+/stats/season/advanced
+
+#response
+
+[
+  {
+    "season": 0,
+    "team": "string",
+    "conference": "string",
+    "offense": {
+      "passingPlays": {
+        "explosiveness": 0,
+        "successRate": 0,
+        "totalPPA": 0,
+        "ppa": 0,
+        "rate": 0
+      },
+      "rushingPlays": {
+        "explosiveness": 0,
+        "successRate": 0,
+        "totalPPA": 0,
+        "ppa": 0,
+        "rate": 0
+      },
+      "passingDowns": {
+        "explosiveness": 0,
+        "successRate": 0,
+        "ppa": 0,
+        "rate": 0
+      },
+      "standardDowns": {
+        "explosiveness": 0,
+        "successRate": 0,
+        "ppa": 0,
+        "rate": 0
+      },
+      "havoc": {
+        "db": 0,
+        "frontSeven": 0,
+        "total": 0
+      },
+      "fieldPosition": {
+        "averagePredictedPoints": 0,
+        "averageStart": 0
+      },
+      "pointsPerOpportunity": 0,
+      "totalOpportunies": 0,
+      "openFieldYardsTotal": 0,
+      "openFieldYards": 0,
+      "secondLevelYardsTotal": 0,
+      "secondLevelYards": 0,
+      "lineYardsTotal": 0,
+      "lineYards": 0,
+      "stuffRate": 0,
+      "powerSuccess": 0,
+      "explosiveness": 0,
+      "successRate": 0,
+      "totalPPA": 0,
+      "ppa": 0,
+      "drives": 0,
+      "plays": 0
+    },
+    "defense": {
+      "passingPlays": {
+        "explosiveness": 0,
+        "successRate": 0,
+        "totalPPA": 0,
+        "ppa": 0,
+        "rate": 0
+      },
+      "rushingPlays": {
+        "explosiveness": 0,
+        "successRate": 0,
+        "totalPPA": 0,
+        "ppa": 0,
+        "rate": 0
+      },
+      "passingDowns": {
+        "explosiveness": 0,
+        "successRate": 0,
+        "totalPPA": 0,
+        "ppa": 0,
+        "rate": 0
+      },
+      "standardDowns": {
+        "explosiveness": 0,
+        "successRate": 0,
+        "ppa": 0,
+        "rate": 0
+      },
+      "havoc": {
+        "db": 0,
+        "frontSeven": 0,
+        "total": 0
+      },
+      "fieldPosition": {
+        "averagePredictedPoints": 0,
+        "averageStart": 0
+      },
+      "pointsPerOpportunity": 0,
+      "totalOpportunies": 0,
+      "openFieldYardsTotal": 0,
+      "openFieldYards": 0,
+      "secondLevelYardsTotal": 0,
+      "secondLevelYards": 0,
+      "lineYardsTotal": 0,
+      "lineYards": 0,
+      "stuffRate": 0,
+      "powerSuccess": 0,
+      "explosiveness": 0,
+      "successRate": 0,
+      "totalPPA": 0,
+      "ppa": 0,
+      "drives": 0,
+      "plays": 0
+    }
+  }
+]
+
+/stats/game/advanced
+
+#response
+
+[
+  {
+    "gameId": 0,
+    "season": 0,
+    "seasonType": "allstar",
+    "week": 0,
+    "team": "string",
+    "opponent": "string",
+    "offense": {
+      "passingPlays": {
+        "explosiveness": 0,
+        "successRate": 0,
+        "totalPPA": 0,
+        "ppa": 0
+      },
+      "rushingPlays": {
+        "explosiveness": 0,
+        "successRate": 0,
+        "totalPPA": 0,
+        "ppa": 0
+      },
+      "passingDowns": {
+        "explosiveness": 0,
+        "successRate": 0,
+        "ppa": 0
+      },
+      "standardDowns": {
+        "explosiveness": 0,
+        "successRate": 0,
+        "ppa": 0
+      },
+      "openFieldYardsTotal": 0,
+      "openFieldYards": 0,
+      "secondLevelYardsTotal": 0,
+      "secondLevelYards": 0,
+      "lineYardsTotal": 0,
+      "lineYards": 0,
+      "stuffRate": 0,
+      "powerSuccess": 0,
+      "explosiveness": 0,
+      "successRate": 0,
+      "totalPPA": 0,
+      "ppa": 0,
+      "drives": 0,
+      "plays": 0
+    },
+    "defense": {
+      "passingPlays": {
+        "explosiveness": 0,
+        "successRate": 0,
+        "totalPPA": 0,
+        "ppa": 0
+      },
+      "rushingPlays": {
+        "explosiveness": 0,
+        "successRate": 0,
+        "totalPPA": 0,
+        "ppa": 0
+      },
+      "passingDowns": {
+        "explosiveness": 0,
+        "successRate": 0,
+        "ppa": 0
+      },
+      "standardDowns": {
+        "explosiveness": 0,
+        "successRate": 0,
+        "ppa": 0
+      },
+      "openFieldYardsTotal": 0,
+      "openFieldYards": 0,
+      "secondLevelYardsTotal": 0,
+      "secondLevelYards": 0,
+      "lineYardsTotal": 0,
+      "lineYards": 0,
+      "stuffRate": 0,
+      "powerSuccess": 0,
+      "explosiveness": 0,
+      "successRate": 0,
+      "totalPPA": 0,
+      "ppa": 0,
+      "drives": 0,
+      "plays": 0
+    }
+  }
+]
+
+/stats/game/havoc
+
+#response
+
+[
+  {
+    "gameId": 0,
+    "season": 0,
+    "seasonType": "allstar",
+    "week": 0,
+    "team": "string",
+    "conference": "string",
+    "opponent": "string",
+    "opponentConference": "string",
+    "offense": {
+      "dbHavocRate": 0,
+      "frontSevenHavocRate": 0,
+      "havocRate": 0,
+      "dbHavocEvents": 0,
+      "frontSevenHavocEvents": 0,
+      "totalHavocEvents": 0,
+      "totalPlays": 0
+    },
+    "defense": {
+      "dbHavocRate": 0,
+      "frontSevenHavocRate": 0,
+      "havocRate": 0,
+      "dbHavocEvents": 0,
+      "frontSevenHavocEvents": 0,
+      "totalHavocEvents": 0,
+      "totalPlays": 0
+    }
+  }
+
+
+Draft - NFL Draft data
+/draft/teams
+
+#response
+[
+  {
+    "location": "string",
+    "nickname": "string",
+    "displayName": "string",
+    "logo": "string"
+  }
+]
+
+/draft/positions
+
+#response
+[
+  {
+    "name": "string",
+    "abbreviation": "string"
+  }
+]
+
+/draft/picks
+
+#response
+[
+  {
+    "collegeAthleteId": 0,
+    "nflAthleteId": 0,
+    "collegeId": 0,
+    "collegeTeam": "string",
+    "collegeConference": "string",
+    "nflTeamId": 0,
+    "nflTeam": "string",
+    "year": 0,
+    "overall": 0,
+    "round": 0,
+    "pick": 0,
+    "name": "string",
+    "position": "string",
+    "height": 0,
+    "weight": 0,
+    "preDraftRanking": 0,
+    "preDraftPositionRanking": 0,
+    "preDraftGrade": 0,
+    "hometownInfo": {
+      "countyFips": "string",
+      "longitude": "string",
+      "latitude": "string",
+      "country": "string",
+      "state": "string",
+      "city": "string"
+    }
+  }
+]
+
+
+AdjustedMetrics - Metrics adjusted for opponent strength and other factors
+/wepa/team/season
+
+#response
+[
+  {
+    "year": 0,
+    "teamId": 0,
+    "team": "string",
+    "conference": "string",
+    "epa": {
+      "rushing": 0,
+      "passing": 0,
+      "total": 0
+    },
+    "epaAllowed": {
+      "rushing": 0,
+      "passing": 0,
+      "total": 0
+    },
+    "successRate": {
+      "passingDowns": 0,
+      "standardDowns": 0,
+      "total": 0
+    },
+    "successRateAllowed": {
+      "passingDowns": 0,
+      "standardDowns": 0,
+      "total": 0
+    },
+    "rushing": {
+      "highlightYards": 0,
+      "openFieldYards": 0,
+      "secondLevelYards": 0,
+      "lineYards": 0
+    },
+    "rushingAllowed": {
+      "highlightYards": 0,
+      "openFieldYards": 0,
+      "secondLevelYards": 0,
+      "lineYards": 0
+    },
+    "explosiveness": 0,
+    "explosivenessAllowed": 0
+  }
+]
+
+/wepa/players/passing
+
+#response
+[
+  {
+    "year": 0,
+    "athleteId": "string",
+    "athleteName": "string",
+    "position": "string",
+    "team": "string",
+    "conference": "string",
+    "wepa": 0,
+    "plays": 0
+  }
+]
+
+/wepa/players/rushing
+
+#response
+[
+  {
+    "year": 0,
+    "athleteId": "string",
+    "athleteName": "string",
+    "position": "string",
+    "team": "string",
+    "conference": "string",
+    "wepa": 0,
+    "plays": 0
+  }
+]
+
+/wepa/players/kicking
+
+#response
+[
+  {
+    "year": 0,
+    "athleteId": "string",
+    "athleteName": "string",
+    "team": "string",
+    "conference": "string",
+    "paar": 0,
+    "attempts": 0
+  }
+]
+
+Info - General information about the API and user
+/info
+
+#response
+{
+  "patronLevel": 0,
+  "remainingCalls": 0
+}
