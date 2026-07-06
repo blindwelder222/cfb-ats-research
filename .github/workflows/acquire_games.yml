@@ -1,0 +1,39 @@
+name: Acquire Games Dataset
+
+on:
+  workflow_dispatch:
+
+jobs:
+  acquire-games:
+    runs-on: ubuntu-latest
+
+    env:
+      CFBD_API_KEY: ${{ secrets.CFBD_API_KEY }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install cfbd
+
+      - name: Create data directory
+        run: |
+          mkdir -p data/raw/games/2024
+
+      - name: Run acquisition
+        run: |
+          python src/acquisition/jobs/games.py --season 2024
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: games-2024
+          path: data/raw/games/2024/games.json
