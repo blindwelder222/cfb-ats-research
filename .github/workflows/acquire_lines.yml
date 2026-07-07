@@ -32,4 +32,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: betting-history
-          path: data/raw/lines/
+          path: data/raw/betting/
