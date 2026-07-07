@@ -1,0 +1,1872 @@
+[
+  {
+    "id": 400953322,
+    "season": 2017,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2017-12-16 18:00:00+00:00",
+    "homeTeamId": 249,
+    "homeTeam": "North Texas",
+    "homeConference": "Conference USA",
+    "homeClassification": "fbs",
+    "homeScore": 30,
+    "awayTeamId": 2653,
+    "awayTeam": "Troy",
+    "awayConference": "Sun Belt",
+    "awayClassification": "fbs",
+    "awayScore": 50,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 4.5,
+        "formattedSpread": "Troy -4.5",
+        "overUnder": 62,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 5.5,
+        "formattedSpread": "Troy -5.5",
+        "overUnder": 60.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": 5.5,
+        "formattedSpread": "Troy -5.5",
+        "overUnder": 61.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400953409,
+    "season": 2017,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2017-12-16 19:30:00+00:00",
+    "homeTeamId": 2247,
+    "homeTeam": "Georgia State",
+    "homeConference": "Sun Belt",
+    "homeClassification": "fbs",
+    "homeScore": 27,
+    "awayTeamId": 98,
+    "awayTeam": "Western Kentucky",
+    "awayConference": "Conference USA",
+    "awayClassification": "fbs",
+    "awayScore": 17,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 4.5,
+        "formattedSpread": "Western Kentucky -4.5",
+        "overUnder": 54,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 7,
+        "formattedSpread": "Western Kentucky -7",
+        "overUnder": 55,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -5,
+        "formattedSpread": "Georgia State -5",
+        "overUnder": 54.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400953323,
+    "season": 2017,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2017-12-16 20:30:00+00:00",
+    "homeTeamId": 2483,
+    "homeTeam": "Oregon",
+    "homeConference": "Pac-12",
+    "homeClassification": "fbs",
+    "homeScore": 28,
+    "awayTeamId": 68,
+    "awayTeam": "Boise State",
+    "awayConference": "Mountain West",
+    "awayClassification": "fbs",
+    "awayScore": 38,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -7,
+        "formattedSpread": "Oregon -7",
+        "overUnder": 62.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -7,
+        "formattedSpread": "Oregon -7",
+        "overUnder": 61,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -7,
+        "formattedSpread": "Oregon -7",
+        "overUnder": 63,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400953324,
+    "season": 2017,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2017-12-16 21:30:00+00:00",
+    "homeTeamId": 36,
+    "homeTeam": "Colorado State",
+    "homeConference": "Mountain West",
+    "homeClassification": "fbs",
+    "homeScore": 28,
+    "awayTeamId": 276,
+    "awayTeam": "Marshall",
+    "awayConference": "Conference USA",
+    "awayClassification": "fbs",
+    "awayScore": 31,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -3,
+        "formattedSpread": "Colorado State -3",
+        "overUnder": 58.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -3,
+        "formattedSpread": "Colorado State -3",
+        "overUnder": 59,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -3,
+        "formattedSpread": "Colorado State -3",
+        "overUnder": 58.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400953325,
+    "season": 2017,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2017-12-17 01:00:00+00:00",
+    "homeTeamId": 2032,
+    "homeTeam": "Arkansas State",
+    "homeConference": "Sun Belt",
+    "homeClassification": "fbs",
+    "homeScore": 30,
+    "awayTeamId": 2393,
+    "awayTeam": "Middle Tennessee",
+    "awayConference": "Conference USA",
+    "awayClassification": "fbs",
+    "awayScore": 35,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -3,
+        "formattedSpread": "Arkansas State -3",
+        "overUnder": 60.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -3.5,
+        "formattedSpread": "Arkansas State -3.5",
+        "overUnder": 60.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -3.5,
+        "formattedSpread": "Arkansas State -3.5",
+        "overUnder": 61,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400953386,
+    "season": 2017,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2017-12-20 00:00:00+00:00",
+    "homeTeamId": 2226,
+    "homeTeam": "Florida Atlantic",
+    "homeConference": "Conference USA",
+    "homeClassification": "fbs",
+    "homeScore": 50,
+    "awayTeamId": 2006,
+    "awayTeam": "Akron",
+    "awayConference": "Mid-American",
+    "awayClassification": "fbs",
+    "awayScore": 3,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -23,
+        "formattedSpread": "Florida Atlantic -23",
+        "overUnder": 65,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -23.5,
+        "formattedSpread": "Florida Atlantic -23.5",
+        "overUnder": 65.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -23.5,
+        "formattedSpread": "Florida Atlantic -23.5",
+        "overUnder": 65.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400954523,
+    "season": 2017,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2017-12-21 01:00:00+00:00",
+    "homeTeamId": 2567,
+    "homeTeam": "SMU",
+    "homeConference": "American Athletic",
+    "homeClassification": "fbs",
+    "homeScore": 10,
+    "awayTeamId": 2348,
+    "awayTeam": "Louisiana Tech",
+    "awayConference": "Conference USA",
+    "awayClassification": "fbs",
+    "awayScore": 51,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -4,
+        "formattedSpread": "SMU -4",
+        "overUnder": 71,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -4,
+        "formattedSpread": "SMU -4",
+        "overUnder": 71,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -4,
+        "formattedSpread": "SMU -4",
+        "overUnder": 70.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400953387,
+    "season": 2017,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2017-12-22 01:00:00+00:00",
+    "homeTeamId": 2229,
+    "homeTeam": "Florida International",
+    "homeConference": "Conference USA",
+    "homeClassification": "fbs",
+    "homeScore": 3,
+    "awayTeamId": 218,
+    "awayTeam": "Temple",
+    "awayConference": "American Athletic",
+    "awayClassification": "fbs",
+    "awayScore": 28,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 7,
+        "formattedSpread": "Temple -7",
+        "overUnder": 57,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 7,
+        "formattedSpread": "Temple -7",
+        "overUnder": 56.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": 7,
+        "formattedSpread": "Temple -7",
+        "overUnder": 57.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400953388,
+    "season": 2017,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2017-12-22 17:30:00+00:00",
+    "homeTeamId": 195,
+    "homeTeam": "Ohio",
+    "homeConference": "Mid-American",
+    "homeClassification": "fbs",
+    "homeScore": 41,
+    "awayTeamId": 5,
+    "awayTeam": "UAB",
+    "awayConference": "Conference USA",
+    "awayClassification": "fbs",
+    "awayScore": 6,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -6.5,
+        "formattedSpread": "Ohio -6.5",
+        "overUnder": 55.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -6.5,
+        "formattedSpread": "Ohio -6.5",
+        "overUnder": 55.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -6.5,
+        "formattedSpread": "Ohio -6.5",
+        "overUnder": 54.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400953389,
+    "season": 2017,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2017-12-22 21:00:00+00:00",
+    "homeTeamId": 2751,
+    "homeTeam": "Wyoming",
+    "homeConference": "Mountain West",
+    "homeClassification": "fbs",
+    "homeScore": 37,
+    "awayTeamId": 2117,
+    "awayTeam": "Central Michigan",
+    "awayConference": "Mid-American",
+    "awayClassification": "fbs",
+    "awayScore": 14,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -3,
+        "formattedSpread": "Wyoming -3",
+        "overUnder": 47,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -3,
+        "formattedSpread": "Wyoming -3",
+        "overUnder": 46.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -1,
+        "formattedSpread": "Wyoming -1",
+        "overUnder": 44.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400953390,
+    "season": 2017,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2017-12-23 17:00:00+00:00",
+    "homeTeamId": 58,
+    "homeTeam": "South Florida",
+    "homeConference": "American Athletic",
+    "homeClassification": "fbs",
+    "homeScore": 38,
+    "awayTeamId": 2641,
+    "awayTeam": "Texas Tech",
+    "awayConference": "Big 12",
+    "awayClassification": "fbs",
+    "awayScore": 34,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -2,
+        "formattedSpread": "South Florida -2",
+        "overUnder": 66,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -2,
+        "formattedSpread": "South Florida -2",
+        "overUnder": 65.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -2,
+        "formattedSpread": "South Florida -2",
+        "overUnder": 66,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400953391,
+    "season": 2017,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2017-12-23 20:30:00+00:00",
+    "homeTeamId": 349,
+    "homeTeam": "Army",
+    "homeConference": "FBS Independents",
+    "homeClassification": "fbs",
+    "homeScore": 42,
+    "awayTeamId": 21,
+    "awayTeam": "San Diego State",
+    "awayConference": "Mountain West",
+    "awayClassification": "fbs",
+    "awayScore": 35,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 6.5,
+        "formattedSpread": "San Diego State -6.5",
+        "overUnder": 47,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 6.5,
+        "formattedSpread": "San Diego State -6.5",
+        "overUnder": 46,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400953392,
+    "season": 2017,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2017-12-24 00:00:00+00:00",
+    "homeTeamId": 2649,
+    "homeTeam": "Toledo",
+    "homeConference": "Mid-American",
+    "homeClassification": "fbs",
+    "homeScore": 0,
+    "awayTeamId": 2026,
+    "awayTeam": "App State",
+    "awayConference": "Sun Belt",
+    "awayClassification": "fbs",
+    "awayScore": 34,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -6,
+        "formattedSpread": "Toledo -6",
+        "overUnder": 61,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -6,
+        "formattedSpread": "Toledo -6",
+        "overUnder": 61,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -6,
+        "formattedSpread": "Toledo -6",
+        "overUnder": 61.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400953393,
+    "season": 2017,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2017-12-25 01:30:00+00:00",
+    "homeTeamId": 248,
+    "homeTeam": "Houston",
+    "homeConference": "American Athletic",
+    "homeClassification": "fbs",
+    "homeScore": 27,
+    "awayTeamId": 278,
+    "awayTeam": "Fresno State",
+    "awayConference": "Mountain West",
+    "awayClassification": "fbs",
+    "awayScore": 33,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -3,
+        "formattedSpread": "Houston -3",
+        "overUnder": 51.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -2.5,
+        "formattedSpread": "Houston -2.5",
+        "overUnder": 52,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400953395,
+    "season": 2017,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2017-12-26 18:30:00+00:00",
+    "homeTeamId": 277,
+    "homeTeam": "West Virginia",
+    "homeConference": "Big 12",
+    "homeClassification": "fbs",
+    "homeScore": 14,
+    "awayTeamId": 254,
+    "awayTeam": "Utah",
+    "awayConference": "Pac-12",
+    "awayClassification": "fbs",
+    "awayScore": 30,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 7,
+        "formattedSpread": "Utah -7",
+        "overUnder": 56,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 7,
+        "formattedSpread": "Utah -7",
+        "overUnder": 56,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": 6.5,
+        "formattedSpread": "Utah -6.5",
+        "overUnder": 56,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400953394,
+    "season": 2017,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2017-12-26 22:15:00+00:00",
+    "homeTeamId": 2459,
+    "homeTeam": "Northern Illinois",
+    "homeConference": "Mid-American",
+    "homeClassification": "fbs",
+    "homeScore": 14,
+    "awayTeamId": 150,
+    "awayTeam": "Duke",
+    "awayConference": "ACC",
+    "awayClassification": "fbs",
+    "awayScore": 36,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 5.5,
+        "formattedSpread": "Duke -5.5",
+        "overUnder": 49,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 4.5,
+        "formattedSpread": "Duke -4.5",
+        "overUnder": 48,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400953396,
+    "season": 2017,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2017-12-27 02:00:00+00:00",
+    "homeTeamId": 26,
+    "homeTeam": "UCLA",
+    "homeConference": "Pac-12",
+    "homeClassification": "fbs",
+    "homeScore": 17,
+    "awayTeamId": 2306,
+    "awayTeam": "Kansas State",
+    "awayConference": "Big 12",
+    "awayClassification": "fbs",
+    "awayScore": 35,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 6,
+        "formattedSpread": "Kansas State -6",
+        "overUnder": 60,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 6,
+        "formattedSpread": "Kansas State -6",
+        "overUnder": 59,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": 6.5,
+        "formattedSpread": "Kansas State -6.5",
+        "overUnder": 59,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400953397,
+    "season": 2017,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2017-12-27 18:30:00+00:00",
+    "homeTeamId": 52,
+    "homeTeam": "Florida State",
+    "homeConference": "ACC",
+    "homeClassification": "fbs",
+    "homeScore": 42,
+    "awayTeamId": 2572,
+    "awayTeam": "Southern Miss",
+    "awayConference": "Conference USA",
+    "awayClassification": "fbs",
+    "awayScore": 13,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -13,
+        "formattedSpread": "Florida State -13",
+        "overUnder": 48.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -11.5,
+        "formattedSpread": "Florida State -11.5",
+        "overUnder": 49.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -12.5,
+        "formattedSpread": "Florida State -12.5",
+        "overUnder": 48,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400953398,
+    "season": 2017,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2017-12-27 22:15:00+00:00",
+    "homeTeamId": 103,
+    "homeTeam": "Boston College",
+    "homeConference": "ACC",
+    "homeClassification": "fbs",
+    "homeScore": 20,
+    "awayTeamId": 2294,
+    "awayTeam": "Iowa",
+    "awayConference": "Big Ten",
+    "awayClassification": "fbs",
+    "awayScore": 27,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 2.5,
+        "formattedSpread": "Iowa -2.5",
+        "overUnder": 46,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 2,
+        "formattedSpread": "Iowa -2",
+        "overUnder": 45.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400959398,
+    "season": 2017,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2017-12-28 01:30:00+00:00",
+    "homeTeamId": 2509,
+    "homeTeam": "Purdue",
+    "homeConference": "Big Ten",
+    "homeClassification": "fbs",
+    "homeScore": 38,
+    "awayTeamId": 12,
+    "awayTeam": "Arizona",
+    "awayConference": "Pac-12",
+    "awayClassification": "fbs",
+    "awayScore": 35,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 2.5,
+        "formattedSpread": "Arizona -2.5",
+        "overUnder": 64.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 3,
+        "formattedSpread": "Arizona -3",
+        "overUnder": 64.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400953399,
+    "season": 2017,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2017-12-28 02:00:00+00:00",
+    "homeTeamId": 142,
+    "homeTeam": "Missouri",
+    "homeConference": "SEC",
+    "homeClassification": "fbs",
+    "homeScore": 16,
+    "awayTeamId": 251,
+    "awayTeam": "Texas",
+    "awayConference": "Big 12",
+    "awayClassification": "fbs",
+    "awayScore": 33,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -3,
+        "formattedSpread": "Missouri -3",
+        "overUnder": 61.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -3,
+        "formattedSpread": "Missouri -3",
+        "overUnder": 62,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400953400,
+    "season": 2017,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2017-12-28 18:30:00+00:00",
+    "homeTeamId": 2426,
+    "homeTeam": "Navy",
+    "homeConference": "American Athletic",
+    "homeClassification": "fbs",
+    "homeScore": 49,
+    "awayTeamId": 258,
+    "awayTeam": "Virginia",
+    "awayConference": "ACC",
+    "awayClassification": "fbs",
+    "awayScore": 7,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -2.5,
+        "formattedSpread": "Navy -2.5",
+        "overUnder": 51,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -2,
+        "formattedSpread": "Navy -2",
+        "overUnder": 51,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -2.5,
+        "formattedSpread": "Navy -2.5",
+        "overUnder": 51,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400953416,
+    "season": 2017,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2017-12-28 22:15:00+00:00",
+    "homeTeamId": 197,
+    "homeTeam": "Oklahoma State",
+    "homeConference": "Big 12",
+    "homeClassification": "fbs",
+    "homeScore": 30,
+    "awayTeamId": 259,
+    "awayTeam": "Virginia Tech",
+    "awayConference": "ACC",
+    "awayClassification": "fbs",
+    "awayScore": 21,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -5.5,
+        "formattedSpread": "Oklahoma State -5.5",
+        "overUnder": 61.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -6,
+        "formattedSpread": "Oklahoma State -6",
+        "overUnder": 61.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -6,
+        "formattedSpread": "Oklahoma State -6",
+        "overUnder": 60,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400959397,
+    "season": 2017,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2017-12-29 02:00:00+00:00",
+    "homeTeamId": 127,
+    "homeTeam": "Michigan State",
+    "homeConference": "Big Ten",
+    "homeClassification": "fbs",
+    "homeScore": 42,
+    "awayTeamId": 265,
+    "awayTeam": "Washington State",
+    "awayConference": "Pac-12",
+    "awayClassification": "fbs",
+    "awayScore": 17,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -2.5,
+        "formattedSpread": "Michigan State -2.5",
+        "overUnder": 47,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -2.5,
+        "formattedSpread": "Michigan State -2.5",
+        "overUnder": 47.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -2.5,
+        "formattedSpread": "Michigan State -2.5",
+        "overUnder": 47.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400953401,
+    "season": 2017,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2017-12-29 02:00:00+00:00",
+    "homeTeamId": 2628,
+    "homeTeam": "TCU",
+    "homeConference": "Big 12",
+    "homeClassification": "fbs",
+    "homeScore": 39,
+    "awayTeamId": 24,
+    "awayTeam": "Stanford",
+    "awayConference": "Pac-12",
+    "awayClassification": "fbs",
+    "awayScore": 37,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -3,
+        "formattedSpread": "TCU -3",
+        "overUnder": 49.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -3,
+        "formattedSpread": "TCU -3",
+        "overUnder": 49.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -3,
+        "formattedSpread": "TCU -3",
+        "overUnder": 49.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400953402,
+    "season": 2017,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2017-12-29 18:00:00+00:00",
+    "homeTeamId": 245,
+    "homeTeam": "Texas A&M",
+    "homeConference": "SEC",
+    "homeClassification": "fbs",
+    "homeScore": 52,
+    "awayTeamId": 154,
+    "awayTeam": "Wake Forest",
+    "awayConference": "ACC",
+    "awayClassification": "fbs",
+    "awayScore": 55,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 3.5,
+        "formattedSpread": "Wake Forest -3.5",
+        "overUnder": 63,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 3.5,
+        "formattedSpread": "Wake Forest -3.5",
+        "overUnder": 63,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400953417,
+    "season": 2017,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2017-12-29 20:25:00+00:00",
+    "homeTeamId": 9,
+    "homeTeam": "Arizona State",
+    "homeConference": "Pac-12",
+    "homeClassification": "fbs",
+    "homeScore": 31,
+    "awayTeamId": 152,
+    "awayTeam": "NC State",
+    "awayConference": "ACC",
+    "awayClassification": "fbs",
+    "awayScore": 52,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 4.5,
+        "formattedSpread": "NC State -4.5",
+        "overUnder": 61.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 5.5,
+        "formattedSpread": "NC State -5.5",
+        "overUnder": 62.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": 5,
+        "formattedSpread": "NC State -5",
+        "overUnder": 62.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400953403,
+    "season": 2017,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2017-12-29 21:30:00+00:00",
+    "homeTeamId": 77,
+    "homeTeam": "Northwestern",
+    "homeConference": "Big Ten",
+    "homeClassification": "fbs",
+    "homeScore": 24,
+    "awayTeamId": 96,
+    "awayTeam": "Kentucky",
+    "awayConference": "SEC",
+    "awayClassification": "fbs",
+    "awayScore": 23,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -7.5,
+        "formattedSpread": "Northwestern -7.5",
+        "overUnder": 51.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -8,
+        "formattedSpread": "Northwestern -8",
+        "overUnder": 50,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -7.5,
+        "formattedSpread": "Northwestern -7.5",
+        "overUnder": 50.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400966332,
+    "season": 2017,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2017-12-29 22:30:00+00:00",
+    "homeTeamId": 328,
+    "homeTeam": "Utah State",
+    "homeConference": "Mountain West",
+    "homeClassification": "fbs",
+    "homeScore": 20,
+    "awayTeamId": 166,
+    "awayTeam": "New Mexico State",
+    "awayConference": "Sun Belt",
+    "awayClassification": "fbs",
+    "awayScore": 26,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -5.5,
+        "formattedSpread": "Utah State -5.5",
+        "overUnder": 63.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -4.5,
+        "formattedSpread": "Utah State -4.5",
+        "overUnder": 63.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": 4,
+        "formattedSpread": "New Mexico State -4",
+        "overUnder": 61,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400953404,
+    "season": 2017,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2017-12-30 01:30:00+00:00",
+    "homeTeamId": 194,
+    "homeTeam": "Ohio State",
+    "homeConference": "Big Ten",
+    "homeClassification": "fbs",
+    "homeScore": 24,
+    "awayTeamId": 30,
+    "awayTeam": "USC",
+    "awayConference": "Pac-12",
+    "awayClassification": "fbs",
+    "awayScore": 7,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -10,
+        "formattedSpread": "Ohio State -10",
+        "overUnder": 65,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -9.5,
+        "formattedSpread": "Ohio State -9.5",
+        "overUnder": 65,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -9.5,
+        "formattedSpread": "Ohio State -9.5",
+        "overUnder": 65.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400953405,
+    "season": 2017,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2017-12-30 17:00:00+00:00",
+    "homeTeamId": 344,
+    "homeTeam": "Mississippi State",
+    "homeConference": "SEC",
+    "homeClassification": "fbs",
+    "homeScore": 31,
+    "awayTeamId": 97,
+    "awayTeam": "Louisville",
+    "awayConference": "ACC",
+    "awayClassification": "fbs",
+    "awayScore": 27,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 6.5,
+        "formattedSpread": "Louisville -6.5",
+        "overUnder": 60,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 7,
+        "formattedSpread": "Louisville -7",
+        "overUnder": 63,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": 6.5,
+        "formattedSpread": "Louisville -6.5",
+        "overUnder": 62,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400953406,
+    "season": 2017,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2017-12-30 17:30:00+00:00",
+    "homeTeamId": 235,
+    "homeTeam": "Memphis",
+    "homeConference": "American Athletic",
+    "homeClassification": "fbs",
+    "homeScore": 20,
+    "awayTeamId": 66,
+    "awayTeam": "Iowa State",
+    "awayConference": "Big 12",
+    "awayClassification": "fbs",
+    "awayScore": 21,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -3.5,
+        "formattedSpread": "Memphis -3.5",
+        "overUnder": 67.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -3.5,
+        "formattedSpread": "Memphis -3.5",
+        "overUnder": 68,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -3.5,
+        "formattedSpread": "Memphis -3.5",
+        "overUnder": 67.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400953407,
+    "season": 2017,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2017-12-30 21:00:00+00:00",
+    "homeTeamId": 213,
+    "homeTeam": "Penn State",
+    "homeConference": "Big Ten",
+    "homeClassification": "fbs",
+    "homeScore": 35,
+    "awayTeamId": 264,
+    "awayTeam": "Washington",
+    "awayConference": "Pac-12",
+    "awayClassification": "fbs",
+    "awayScore": 28,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -3,
+        "formattedSpread": "Penn State -3",
+        "overUnder": 54.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -3,
+        "formattedSpread": "Penn State -3",
+        "overUnder": 54.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -3,
+        "formattedSpread": "Penn State -3",
+        "overUnder": 55,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400953408,
+    "season": 2017,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2017-12-31 01:00:00+00:00",
+    "homeTeamId": 2390,
+    "homeTeam": "Miami",
+    "homeConference": "ACC",
+    "homeClassification": "fbs",
+    "homeScore": 24,
+    "awayTeamId": 275,
+    "awayTeam": "Wisconsin",
+    "awayConference": "Big Ten",
+    "awayClassification": "fbs",
+    "awayScore": 34,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 6.5,
+        "formattedSpread": "Wisconsin -6.5",
+        "overUnder": 46,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 6.5,
+        "formattedSpread": "Wisconsin -6.5",
+        "overUnder": 46,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": 6.5,
+        "formattedSpread": "Wisconsin -6.5",
+        "overUnder": 46,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400953410,
+    "season": 2017,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2018-01-01 17:00:00+00:00",
+    "homeTeamId": 2579,
+    "homeTeam": "South Carolina",
+    "homeConference": "SEC",
+    "homeClassification": "fbs",
+    "homeScore": 26,
+    "awayTeamId": 130,
+    "awayTeam": "Michigan",
+    "awayConference": "Big Ten",
+    "awayClassification": "fbs",
+    "awayScore": 19,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 9,
+        "formattedSpread": "Michigan -9",
+        "overUnder": 41.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 9,
+        "formattedSpread": "Michigan -9",
+        "overUnder": 42.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400953411,
+    "season": 2017,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2018-01-01 17:30:00+00:00",
+    "homeTeamId": 2,
+    "homeTeam": "Auburn",
+    "homeConference": "SEC",
+    "homeClassification": "fbs",
+    "homeScore": 27,
+    "awayTeamId": 2116,
+    "awayTeam": "UCF",
+    "awayConference": "American Athletic",
+    "awayClassification": "fbs",
+    "awayScore": 34,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -10.5,
+        "formattedSpread": "Auburn -10.5",
+        "overUnder": 66,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -12,
+        "formattedSpread": "Auburn -12",
+        "overUnder": 67,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -9.5,
+        "formattedSpread": "Auburn -9.5",
+        "overUnder": 67,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400953414,
+    "season": 2017,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2018-01-01 18:00:00+00:00",
+    "homeTeamId": 99,
+    "homeTeam": "LSU",
+    "homeConference": "SEC",
+    "homeClassification": "fbs",
+    "homeScore": 17,
+    "awayTeamId": 87,
+    "awayTeam": "Notre Dame",
+    "awayConference": "FBS Independents",
+    "awayClassification": "fbs",
+    "awayScore": 21,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -2,
+        "formattedSpread": "LSU -2",
+        "overUnder": 53.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -2,
+        "formattedSpread": "LSU -2",
+        "overUnder": 52,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400953412,
+    "season": 2017,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2018-01-01 22:00:00+00:00",
+    "homeTeamId": 201,
+    "homeTeam": "Oklahoma",
+    "homeConference": "Big 12",
+    "homeClassification": "fbs",
+    "homeScore": 48,
+    "awayTeamId": 61,
+    "awayTeam": "Georgia",
+    "awayConference": "SEC",
+    "awayClassification": "fbs",
+    "awayScore": 54,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 2.5,
+        "formattedSpread": "Georgia -2.5",
+        "overUnder": 62.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 2.5,
+        "formattedSpread": "Georgia -2.5",
+        "overUnder": 62.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": 2.5,
+        "formattedSpread": "Georgia -2.5",
+        "overUnder": 62.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400953413,
+    "season": 2017,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2018-01-02 02:00:00+00:00",
+    "homeTeamId": 228,
+    "homeTeam": "Clemson",
+    "homeConference": "ACC",
+    "homeClassification": "fbs",
+    "homeScore": 6,
+    "awayTeamId": 333,
+    "awayTeam": "Alabama",
+    "awayConference": "SEC",
+    "awayClassification": "fbs",
+    "awayScore": 24,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 3.5,
+        "formattedSpread": "Alabama -3.5",
+        "overUnder": 46.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 3.5,
+        "formattedSpread": "Alabama -3.5",
+        "overUnder": 46.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": 3.5,
+        "formattedSpread": "Alabama -3.5",
+        "overUnder": 46.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400953415,
+    "season": 2017,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2018-01-09 01:00:00+00:00",
+    "homeTeamId": 61,
+    "homeTeam": "Georgia",
+    "homeConference": "SEC",
+    "homeClassification": "fbs",
+    "homeScore": 23,
+    "awayTeamId": 333,
+    "awayTeam": "Alabama",
+    "awayConference": "SEC",
+    "awayClassification": "fbs",
+    "awayScore": 26,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 3.5,
+        "formattedSpread": "Alabama -3.5",
+        "overUnder": 45.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 3,
+        "formattedSpread": "Alabama -3",
+        "overUnder": 45.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": 3.5,
+        "formattedSpread": "Alabama -3.5",
+        "overUnder": 45.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,2001 @@
+[
+  {
+    "id": 400876038,
+    "season": 2016,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2016-12-17 19:00:00+00:00",
+    "homeTeamId": 2636,
+    "homeTeam": "UTSA",
+    "homeConference": "Conference USA",
+    "homeClassification": "fbs",
+    "homeScore": 20,
+    "awayTeamId": 167,
+    "awayTeam": "New Mexico",
+    "awayConference": "Mountain West",
+    "awayClassification": "fbs",
+    "awayScore": 23,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 9,
+        "formattedSpread": "New Mexico -9",
+        "overUnder": 54,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 9.5,
+        "formattedSpread": "New Mexico -9.5",
+        "overUnder": 54,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": 7.5,
+        "formattedSpread": "New Mexico -7.5",
+        "spreadOpen": null,
+        "overUnder": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400876039,
+    "season": 2016,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2016-12-17 20:30:00+00:00",
+    "homeTeamId": 21,
+    "homeTeam": "San Diego State",
+    "homeConference": "Mountain West",
+    "homeClassification": "fbs",
+    "homeScore": 34,
+    "awayTeamId": 248,
+    "awayTeam": "Houston",
+    "awayConference": "American Athletic",
+    "awayClassification": "fbs",
+    "awayScore": 10,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 4.5,
+        "formattedSpread": "Houston -4.5",
+        "overUnder": 50.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 5,
+        "formattedSpread": "Houston -5",
+        "overUnder": 51,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": 3,
+        "formattedSpread": "Houston -3",
+        "spreadOpen": null,
+        "overUnder": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400876040,
+    "season": 2016,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2016-12-17 22:30:00+00:00",
+    "homeTeamId": 2649,
+    "homeTeam": "Toledo",
+    "homeConference": "Mid-American",
+    "homeClassification": "fbs",
+    "homeScore": 28,
+    "awayTeamId": 2026,
+    "awayTeam": "App State",
+    "awayConference": "Sun Belt",
+    "awayClassification": "fbs",
+    "awayScore": 31,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 1,
+        "formattedSpread": "App State -1",
+        "overUnder": 59.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 1.5,
+        "formattedSpread": "App State -1.5",
+        "overUnder": 60.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -2.5,
+        "formattedSpread": "Toledo -2.5",
+        "spreadOpen": null,
+        "overUnder": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400903611,
+    "season": 2016,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2016-12-17 22:30:00+00:00",
+    "homeTeamId": 2116,
+    "homeTeam": "UCF",
+    "homeConference": "American Athletic",
+    "homeClassification": "fbs",
+    "homeScore": 13,
+    "awayTeamId": 2032,
+    "awayTeam": "Arkansas State",
+    "awayConference": "Sun Belt",
+    "awayClassification": "fbs",
+    "awayScore": 31,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -4,
+        "formattedSpread": "UCF -4",
+        "overUnder": 51,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 4,
+        "formattedSpread": "Arkansas State -4",
+        "overUnder": 51,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": 6.5,
+        "formattedSpread": "Arkansas State -6.5",
+        "spreadOpen": null,
+        "overUnder": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400876041,
+    "season": 2016,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2016-12-18 02:00:00+00:00",
+    "homeTeamId": 309,
+    "homeTeam": "Louisiana",
+    "homeConference": "Sun Belt",
+    "homeClassification": "fbs",
+    "homeScore": 21,
+    "awayTeamId": 2572,
+    "awayTeam": "Southern Miss",
+    "awayConference": "Conference USA",
+    "awayClassification": "fbs",
+    "awayScore": 28,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 5.5,
+        "formattedSpread": "Southern Miss -5.5",
+        "overUnder": 56.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 6,
+        "formattedSpread": "Southern Miss -6",
+        "overUnder": 56.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": 2,
+        "formattedSpread": "Southern Miss -2",
+        "spreadOpen": null,
+        "overUnder": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400876042,
+    "season": 2016,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2016-12-19 19:30:00+00:00",
+    "homeTeamId": 202,
+    "homeTeam": "Tulsa",
+    "homeConference": "American Athletic",
+    "homeClassification": "fbs",
+    "homeScore": 55,
+    "awayTeamId": 2117,
+    "awayTeam": "Central Michigan",
+    "awayConference": "Mid-American",
+    "awayClassification": "fbs",
+    "awayScore": 10,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -13,
+        "formattedSpread": "Tulsa -13",
+        "overUnder": 67.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -13.5,
+        "formattedSpread": "Tulsa -13.5",
+        "overUnder": 67.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -11,
+        "formattedSpread": "Tulsa -11",
+        "spreadOpen": null,
+        "overUnder": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400876043,
+    "season": 2016,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2016-12-21 00:00:00+00:00",
+    "homeTeamId": 98,
+    "homeTeam": "Western Kentucky",
+    "homeConference": "Conference USA",
+    "homeClassification": "fbs",
+    "homeScore": 51,
+    "awayTeamId": 235,
+    "awayTeam": "Memphis",
+    "awayConference": "American Athletic",
+    "awayClassification": "fbs",
+    "awayScore": 31,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -6.5,
+        "formattedSpread": "Western Kentucky -6.5",
+        "overUnder": 78.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -6.5,
+        "formattedSpread": "Western Kentucky -6.5",
+        "overUnder": 78.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -6.5,
+        "formattedSpread": "Western Kentucky -6.5",
+        "spreadOpen": null,
+        "overUnder": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400876044,
+    "season": 2016,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2016-12-22 02:00:00+00:00",
+    "homeTeamId": 2751,
+    "homeTeam": "Wyoming",
+    "homeConference": "Mountain West",
+    "homeClassification": "fbs",
+    "homeScore": 21,
+    "awayTeamId": 252,
+    "awayTeam": "BYU",
+    "awayConference": "FBS Independents",
+    "awayClassification": "fbs",
+    "awayScore": 24,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 10,
+        "formattedSpread": "BYU -10",
+        "overUnder": 56,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 9.5,
+        "formattedSpread": "BYU -9.5",
+        "overUnder": 57,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": 7.5,
+        "formattedSpread": "BYU -7.5",
+        "spreadOpen": null,
+        "overUnder": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400876045,
+    "season": 2016,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2016-12-23 00:00:00+00:00",
+    "homeTeamId": 36,
+    "homeTeam": "Colorado State",
+    "homeConference": "Mountain West",
+    "homeClassification": "fbs",
+    "homeScore": 50,
+    "awayTeamId": 70,
+    "awayTeam": "Idaho",
+    "awayConference": "Sun Belt",
+    "awayClassification": "fbs",
+    "awayScore": 61,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -16,
+        "formattedSpread": "Colorado State -16",
+        "overUnder": 64.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -16,
+        "formattedSpread": "Colorado State -16",
+        "overUnder": 65,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -13,
+        "formattedSpread": "Colorado State -13",
+        "spreadOpen": null,
+        "overUnder": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400876046,
+    "season": 2016,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2016-12-23 18:00:00+00:00",
+    "homeTeamId": 295,
+    "homeTeam": "Old Dominion",
+    "homeConference": "Conference USA",
+    "homeClassification": "fbs",
+    "homeScore": 24,
+    "awayTeamId": 2199,
+    "awayTeam": "Eastern Michigan",
+    "awayConference": "Mid-American",
+    "awayClassification": "fbs",
+    "awayScore": 20,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -5,
+        "formattedSpread": "Old Dominion -5",
+        "overUnder": 63,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -5.5,
+        "formattedSpread": "Old Dominion -5.5",
+        "overUnder": 63,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -4,
+        "formattedSpread": "Old Dominion -4",
+        "spreadOpen": null,
+        "overUnder": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400876047,
+    "season": 2016,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2016-12-23 21:30:00+00:00",
+    "homeTeamId": 2426,
+    "homeTeam": "Navy",
+    "homeConference": "American Athletic",
+    "homeClassification": "fbs",
+    "homeScore": 45,
+    "awayTeamId": 2348,
+    "awayTeam": "Louisiana Tech",
+    "awayConference": "Conference USA",
+    "awayClassification": "fbs",
+    "awayScore": 48,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 7.5,
+        "formattedSpread": "Louisiana Tech -7.5",
+        "overUnder": 67,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 7.5,
+        "formattedSpread": "Louisiana Tech -7.5",
+        "overUnder": 67,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -1,
+        "formattedSpread": "Navy -1",
+        "spreadOpen": null,
+        "overUnder": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400876048,
+    "season": 2016,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2016-12-24 01:00:00+00:00",
+    "homeTeamId": 2653,
+    "homeTeam": "Troy",
+    "homeConference": "Sun Belt",
+    "homeClassification": "fbs",
+    "homeScore": 28,
+    "awayTeamId": 195,
+    "awayTeam": "Ohio",
+    "awayConference": "Mid-American",
+    "awayClassification": "fbs",
+    "awayScore": 23,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -6,
+        "formattedSpread": "Troy -6",
+        "overUnder": 49.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -6,
+        "formattedSpread": "Troy -6",
+        "overUnder": 49.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -5,
+        "formattedSpread": "Troy -5",
+        "spreadOpen": null,
+        "overUnder": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400876049,
+    "season": 2016,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2016-12-25 01:00:00+00:00",
+    "homeTeamId": 2393,
+    "homeTeam": "Middle Tennessee",
+    "homeConference": "Conference USA",
+    "homeClassification": "fbs",
+    "homeScore": 35,
+    "awayTeamId": 62,
+    "awayTeam": "Hawai'i",
+    "awayConference": "Mountain West",
+    "awayClassification": "fbs",
+    "awayScore": 52,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -7.5,
+        "formattedSpread": "Middle Tennessee -7.5",
+        "overUnder": 70,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -7.5,
+        "formattedSpread": "Middle Tennessee -7.5",
+        "overUnder": 70,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -4.5,
+        "formattedSpread": "Middle Tennessee -4.5",
+        "spreadOpen": null,
+        "overUnder": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400876090,
+    "season": 2016,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2016-12-26 16:00:00+00:00",
+    "homeTeamId": 344,
+    "homeTeam": "Mississippi State",
+    "homeConference": "SEC",
+    "homeClassification": "fbs",
+    "homeScore": 17,
+    "awayTeamId": 193,
+    "awayTeam": "Miami (OH)",
+    "awayConference": "Mid-American",
+    "awayClassification": "fbs",
+    "awayScore": 16,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -14.5,
+        "formattedSpread": "Mississippi State -14.5",
+        "overUnder": 57.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -14.5,
+        "formattedSpread": "Mississippi State -14.5",
+        "overUnder": 57.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -11.5,
+        "formattedSpread": "Mississippi State -11.5",
+        "spreadOpen": null,
+        "overUnder": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400876091,
+    "season": 2016,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2016-12-26 19:30:00+00:00",
+    "homeTeamId": 103,
+    "homeTeam": "Boston College",
+    "homeConference": "ACC",
+    "homeClassification": "fbs",
+    "homeScore": 36,
+    "awayTeamId": 120,
+    "awayTeam": "Maryland",
+    "awayConference": "Big Ten",
+    "awayClassification": "fbs",
+    "awayScore": 30,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 1,
+        "formattedSpread": "Maryland -1",
+        "overUnder": 43.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 1,
+        "formattedSpread": "Maryland -1",
+        "overUnder": 43.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -1,
+        "formattedSpread": "Boston College -1",
+        "spreadOpen": null,
+        "overUnder": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400876092,
+    "season": 2016,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2016-12-26 22:00:00+00:00",
+    "homeTeamId": 238,
+    "homeTeam": "Vanderbilt",
+    "homeConference": "SEC",
+    "homeClassification": "fbs",
+    "homeScore": 17,
+    "awayTeamId": 152,
+    "awayTeam": "NC State",
+    "awayConference": "ACC",
+    "awayClassification": "fbs",
+    "awayScore": 41,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 6.5,
+        "formattedSpread": "NC State -6.5",
+        "overUnder": 46.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 5.5,
+        "formattedSpread": "NC State -5.5",
+        "overUnder": 46,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": 4,
+        "formattedSpread": "NC State -4",
+        "spreadOpen": null,
+        "overUnder": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400876093,
+    "season": 2016,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2016-12-27 17:00:00+00:00",
+    "homeTeamId": 249,
+    "homeTeam": "North Texas",
+    "homeConference": "Conference USA",
+    "homeClassification": "fbs",
+    "homeScore": 31,
+    "awayTeamId": 349,
+    "awayTeam": "Army",
+    "awayConference": "FBS Independents",
+    "awayClassification": "fbs",
+    "awayScore": 38,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 10.5,
+        "formattedSpread": "Army -10.5",
+        "overUnder": 47,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 10.5,
+        "formattedSpread": "Army -10.5",
+        "overUnder": 47,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": 9.5,
+        "formattedSpread": "Army -9.5",
+        "spreadOpen": null,
+        "overUnder": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400876094,
+    "season": 2016,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2016-12-27 20:30:00+00:00",
+    "homeTeamId": 154,
+    "homeTeam": "Wake Forest",
+    "homeConference": "ACC",
+    "homeClassification": "fbs",
+    "homeScore": 34,
+    "awayTeamId": 218,
+    "awayTeam": "Temple",
+    "awayConference": "American Athletic",
+    "awayClassification": "fbs",
+    "awayScore": 26,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 10.5,
+        "formattedSpread": "Temple -10.5",
+        "overUnder": 41.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 10.5,
+        "formattedSpread": "Temple -10.5",
+        "overUnder": 41.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": 12.5,
+        "formattedSpread": "Temple -12.5",
+        "spreadOpen": null,
+        "overUnder": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400876095,
+    "season": 2016,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2016-12-28 00:00:00+00:00",
+    "homeTeamId": 265,
+    "homeTeam": "Washington State",
+    "homeConference": "Pac-12",
+    "homeClassification": "fbs",
+    "homeScore": 12,
+    "awayTeamId": 135,
+    "awayTeam": "Minnesota",
+    "awayConference": "Big Ten",
+    "awayClassification": "fbs",
+    "awayScore": 17,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -8.5,
+        "formattedSpread": "Washington State -8.5",
+        "overUnder": 61,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -8.5,
+        "formattedSpread": "Washington State -8.5",
+        "overUnder": 61,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -5.5,
+        "formattedSpread": "Washington State -5.5",
+        "spreadOpen": null,
+        "overUnder": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400876096,
+    "season": 2016,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2016-12-28 03:25:00+00:00",
+    "homeTeamId": 239,
+    "homeTeam": "Baylor",
+    "homeConference": "Big 12",
+    "homeClassification": "fbs",
+    "homeScore": 31,
+    "awayTeamId": 68,
+    "awayTeam": "Boise State",
+    "awayConference": "Mountain West",
+    "awayClassification": "fbs",
+    "awayScore": 12,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 7,
+        "formattedSpread": "Boise State -7",
+        "overUnder": 70.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 7,
+        "formattedSpread": "Boise State -7",
+        "overUnder": 70.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": 10,
+        "formattedSpread": "Boise State -10",
+        "spreadOpen": null,
+        "overUnder": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400876097,
+    "season": 2016,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2016-12-28 19:00:00+00:00",
+    "homeTeamId": 77,
+    "homeTeam": "Northwestern",
+    "homeConference": "Big Ten",
+    "homeClassification": "fbs",
+    "homeScore": 31,
+    "awayTeamId": 221,
+    "awayTeam": "Pittsburgh",
+    "awayConference": "ACC",
+    "awayClassification": "fbs",
+    "awayScore": 24,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 3.5,
+        "formattedSpread": "Pittsburgh -3.5",
+        "overUnder": 63,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 3.5,
+        "formattedSpread": "Pittsburgh -3.5",
+        "overUnder": 63,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": 3,
+        "formattedSpread": "Pittsburgh -3",
+        "spreadOpen": null,
+        "overUnder": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400876098,
+    "season": 2016,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2016-12-28 22:30:00+00:00",
+    "homeTeamId": 2390,
+    "homeTeam": "Miami",
+    "homeConference": "ACC",
+    "homeClassification": "fbs",
+    "homeScore": 31,
+    "awayTeamId": 277,
+    "awayTeam": "West Virginia",
+    "awayConference": "Big 12",
+    "awayClassification": "fbs",
+    "awayScore": 14,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -3,
+        "formattedSpread": "Miami -3",
+        "overUnder": 57.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -3,
+        "formattedSpread": "Miami -3",
+        "overUnder": 58,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -1.5,
+        "formattedSpread": "Miami -1.5",
+        "spreadOpen": null,
+        "overUnder": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400903226,
+    "season": 2016,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2016-12-29 01:30:00+00:00",
+    "homeTeamId": 254,
+    "homeTeam": "Utah",
+    "homeConference": "Pac-12",
+    "homeClassification": "fbs",
+    "homeScore": 26,
+    "awayTeamId": 84,
+    "awayTeam": "Indiana",
+    "awayConference": "Big Ten",
+    "awayClassification": "fbs",
+    "awayScore": 24,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -3.5,
+        "formattedSpread": "Utah -3.5",
+        "overUnder": 54,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -4,
+        "formattedSpread": "Utah -4",
+        "overUnder": 54,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -6.5,
+        "formattedSpread": "Utah -6.5",
+        "spreadOpen": null,
+        "overUnder": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400876099,
+    "season": 2016,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2016-12-29 02:00:00+00:00",
+    "homeTeamId": 2306,
+    "homeTeam": "Kansas State",
+    "homeConference": "Big 12",
+    "homeClassification": "fbs",
+    "homeScore": 33,
+    "awayTeamId": 245,
+    "awayTeam": "Texas A&M",
+    "awayConference": "SEC",
+    "awayClassification": "fbs",
+    "awayScore": 28,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 4,
+        "formattedSpread": "Texas A&M -4",
+        "overUnder": 56,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 4,
+        "formattedSpread": "Texas A&M -4",
+        "overUnder": 56.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": 2.5,
+        "formattedSpread": "Texas A&M -2.5",
+        "spreadOpen": null,
+        "overUnder": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400876100,
+    "season": 2016,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2016-12-29 19:00:00+00:00",
+    "homeTeamId": 2579,
+    "homeTeam": "South Carolina",
+    "homeConference": "SEC",
+    "homeClassification": "fbs",
+    "homeScore": 39,
+    "awayTeamId": 58,
+    "awayTeam": "South Florida",
+    "awayConference": "American Athletic",
+    "awayClassification": "fbs",
+    "awayScore": 46,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 10,
+        "formattedSpread": "South Florida -10",
+        "overUnder": 58,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 10.5,
+        "formattedSpread": "South Florida -10.5",
+        "overUnder": 60,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": 11,
+        "formattedSpread": "South Florida -11",
+        "spreadOpen": null,
+        "overUnder": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400876101,
+    "season": 2016,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2016-12-29 22:30:00+00:00",
+    "homeTeamId": 259,
+    "homeTeam": "Virginia Tech",
+    "homeConference": "ACC",
+    "homeClassification": "fbs",
+    "homeScore": 35,
+    "awayTeamId": 8,
+    "awayTeam": "Arkansas",
+    "awayConference": "SEC",
+    "awayClassification": "fbs",
+    "awayScore": 24,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -7.5,
+        "formattedSpread": "Virginia Tech -7.5",
+        "overUnder": 61,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -7,
+        "formattedSpread": "Virginia Tech -7",
+        "overUnder": 61.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -6,
+        "formattedSpread": "Virginia Tech -6",
+        "spreadOpen": null,
+        "overUnder": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400876102,
+    "season": 2016,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2016-12-30 02:00:00+00:00",
+    "homeTeamId": 38,
+    "homeTeam": "Colorado",
+    "homeConference": "Pac-12",
+    "homeClassification": "fbs",
+    "homeScore": 8,
+    "awayTeamId": 197,
+    "awayTeam": "Oklahoma State",
+    "awayConference": "Big 12",
+    "awayClassification": "fbs",
+    "awayScore": 38,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -3,
+        "formattedSpread": "Colorado -3",
+        "overUnder": 64,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -3,
+        "formattedSpread": "Colorado -3",
+        "overUnder": 64.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -2,
+        "formattedSpread": "Colorado -2",
+        "spreadOpen": null,
+        "overUnder": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400876103,
+    "season": 2016,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2016-12-30 17:00:00+00:00",
+    "homeTeamId": 2628,
+    "homeTeam": "TCU",
+    "homeConference": "Big 12",
+    "homeClassification": "fbs",
+    "homeScore": 23,
+    "awayTeamId": 61,
+    "awayTeam": "Georgia",
+    "awayConference": "SEC",
+    "awayClassification": "fbs",
+    "awayScore": 31,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -3,
+        "formattedSpread": "TCU -3",
+        "overUnder": 48.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -3,
+        "formattedSpread": "TCU -3",
+        "overUnder": 49,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -1.5,
+        "formattedSpread": "TCU -1.5",
+        "spreadOpen": null,
+        "overUnder": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400878692,
+    "season": 2016,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2016-12-30 19:00:00+00:00",
+    "homeTeamId": 153,
+    "homeTeam": "North Carolina",
+    "homeConference": "ACC",
+    "homeClassification": "fbs",
+    "homeScore": 23,
+    "awayTeamId": 24,
+    "awayTeam": "Stanford",
+    "awayConference": "Pac-12",
+    "awayClassification": "fbs",
+    "awayScore": 25,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 2.5,
+        "formattedSpread": "Stanford -2.5",
+        "overUnder": 54.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 2.5,
+        "formattedSpread": "Stanford -2.5",
+        "overUnder": 55,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": 2.5,
+        "formattedSpread": "Stanford -2.5",
+        "spreadOpen": null,
+        "overUnder": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400876104,
+    "season": 2016,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2016-12-30 20:30:00+00:00",
+    "homeTeamId": 2633,
+    "homeTeam": "Tennessee",
+    "homeConference": "SEC",
+    "homeClassification": "fbs",
+    "homeScore": 38,
+    "awayTeamId": 158,
+    "awayTeam": "Nebraska",
+    "awayConference": "Big Ten",
+    "awayClassification": "fbs",
+    "awayScore": 24,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -9.5,
+        "formattedSpread": "Tennessee -9.5",
+        "overUnder": 59,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -9.5,
+        "formattedSpread": "Tennessee -9.5",
+        "overUnder": 60.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -3,
+        "formattedSpread": "Tennessee -3",
+        "spreadOpen": null,
+        "overUnder": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400928102,
+    "season": 2016,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2016-12-30 22:30:00+00:00",
+    "homeTeamId": 2005,
+    "homeTeam": "Air Force",
+    "homeConference": "Mountain West",
+    "homeClassification": "fbs",
+    "homeScore": 45,
+    "awayTeamId": 6,
+    "awayTeam": "South Alabama",
+    "awayConference": "Sun Belt",
+    "awayClassification": "fbs",
+    "awayScore": 21,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -14.5,
+        "formattedSpread": "Air Force -14.5",
+        "overUnder": 54,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -14,
+        "formattedSpread": "Air Force -14",
+        "overUnder": 54,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -14,
+        "formattedSpread": "Air Force -14",
+        "spreadOpen": null,
+        "overUnder": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400876105,
+    "season": 2016,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2016-12-31 01:00:00+00:00",
+    "homeTeamId": 52,
+    "homeTeam": "Florida State",
+    "homeConference": "ACC",
+    "homeClassification": "fbs",
+    "homeScore": 33,
+    "awayTeamId": 130,
+    "awayTeam": "Michigan",
+    "awayConference": "Big Ten",
+    "awayClassification": "fbs",
+    "awayScore": 32,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 7,
+        "formattedSpread": "Michigan -7",
+        "overUnder": 50.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 7,
+        "formattedSpread": "Michigan -7",
+        "overUnder": 49,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": 6.5,
+        "formattedSpread": "Michigan -6.5",
+        "spreadOpen": null,
+        "overUnder": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400876106,
+    "season": 2016,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2016-12-31 16:00:00+00:00",
+    "homeTeamId": 97,
+    "homeTeam": "Louisville",
+    "homeConference": "ACC",
+    "homeClassification": "fbs",
+    "homeScore": 9,
+    "awayTeamId": 99,
+    "awayTeam": "LSU",
+    "awayConference": "SEC",
+    "awayClassification": "fbs",
+    "awayScore": 29,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 3,
+        "formattedSpread": "LSU -3",
+        "overUnder": 59.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 3,
+        "formattedSpread": "LSU -3",
+        "overUnder": 59,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400876113,
+    "season": 2016,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2016-12-31 16:00:00+00:00",
+    "homeTeamId": 96,
+    "homeTeam": "Kentucky",
+    "homeConference": "SEC",
+    "homeClassification": "fbs",
+    "homeScore": 18,
+    "awayTeamId": 59,
+    "awayTeam": "Georgia Tech",
+    "awayConference": "ACC",
+    "awayClassification": "fbs",
+    "awayScore": 33,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 3,
+        "formattedSpread": "Georgia Tech -3",
+        "overUnder": 61,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 3,
+        "formattedSpread": "Georgia Tech -3",
+        "overUnder": 61.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": 5,
+        "formattedSpread": "Georgia Tech -5",
+        "spreadOpen": null,
+        "overUnder": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400876107,
+    "season": 2016,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2016-12-31 20:00:00+00:00",
+    "homeTeamId": 333,
+    "homeTeam": "Alabama",
+    "homeConference": "SEC",
+    "homeClassification": "fbs",
+    "homeScore": 24,
+    "awayTeamId": 264,
+    "awayTeam": "Washington",
+    "awayConference": "Pac-12",
+    "awayClassification": "fbs",
+    "awayScore": 7,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -12.5,
+        "formattedSpread": "Alabama -12.5",
+        "overUnder": 50.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -13,
+        "formattedSpread": "Alabama -13",
+        "overUnder": 51.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -14,
+        "formattedSpread": "Alabama -14",
+        "spreadOpen": null,
+        "overUnder": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400876108,
+    "season": 2016,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2017-01-01 00:00:00+00:00",
+    "homeTeamId": 228,
+    "homeTeam": "Clemson",
+    "homeConference": "ACC",
+    "homeClassification": "fbs",
+    "homeScore": 31,
+    "awayTeamId": 194,
+    "awayTeam": "Ohio State",
+    "awayConference": "Big Ten",
+    "awayClassification": "fbs",
+    "awayScore": 0,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 1,
+        "formattedSpread": "Ohio State -1",
+        "overUnder": 56,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 1.5,
+        "formattedSpread": "Ohio State -1.5",
+        "overUnder": 57.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": 3,
+        "formattedSpread": "Ohio State -3",
+        "spreadOpen": null,
+        "overUnder": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400876109,
+    "season": 2016,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2017-01-02 18:00:00+00:00",
+    "homeTeamId": 2294,
+    "homeTeam": "Iowa",
+    "homeConference": "Big Ten",
+    "homeClassification": "fbs",
+    "homeScore": 3,
+    "awayTeamId": 57,
+    "awayTeam": "Florida",
+    "awayConference": "SEC",
+    "awayClassification": "fbs",
+    "awayScore": 30,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 1,
+        "formattedSpread": "Florida -1",
+        "overUnder": 41,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 1.5,
+        "formattedSpread": "Florida -1.5",
+        "overUnder": 40.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": 2,
+        "formattedSpread": "Florida -2",
+        "spreadOpen": null,
+        "overUnder": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400876110,
+    "season": 2016,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2017-01-02 18:00:00+00:00",
+    "homeTeamId": 275,
+    "homeTeam": "Wisconsin",
+    "homeConference": "Big Ten",
+    "homeClassification": "fbs",
+    "homeScore": 24,
+    "awayTeamId": 2711,
+    "awayTeam": "Western Michigan",
+    "awayConference": "Mid-American",
+    "awayClassification": "fbs",
+    "awayScore": 16,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -9,
+        "formattedSpread": "Wisconsin -9",
+        "overUnder": 53.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -9,
+        "formattedSpread": "Wisconsin -9",
+        "overUnder": 54,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -6.5,
+        "formattedSpread": "Wisconsin -6.5",
+        "spreadOpen": null,
+        "overUnder": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400876111,
+    "season": 2016,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2017-01-02 22:00:00+00:00",
+    "homeTeamId": 213,
+    "homeTeam": "Penn State",
+    "homeConference": "Big Ten",
+    "homeClassification": "fbs",
+    "homeScore": 49,
+    "awayTeamId": 30,
+    "awayTeam": "USC",
+    "awayConference": "Pac-12",
+    "awayClassification": "fbs",
+    "awayScore": 52,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 7,
+        "formattedSpread": "USC -7",
+        "overUnder": 59.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 7.5,
+        "formattedSpread": "USC -7.5",
+        "overUnder": 60.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": 6.5,
+        "formattedSpread": "USC -6.5",
+        "spreadOpen": null,
+        "overUnder": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400876112,
+    "season": 2016,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2017-01-03 01:50:00+00:00",
+    "homeTeamId": 201,
+    "homeTeam": "Oklahoma",
+    "homeConference": "Big 12",
+    "homeClassification": "fbs",
+    "homeScore": 35,
+    "awayTeamId": 2,
+    "awayTeam": "Auburn",
+    "awayConference": "SEC",
+    "awayClassification": "fbs",
+    "awayScore": 19,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -2,
+        "formattedSpread": "Oklahoma -2",
+        "overUnder": 67,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -2,
+        "formattedSpread": "Oklahoma -2",
+        "overUnder": 66,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -5.5,
+        "formattedSpread": "Oklahoma -5.5",
+        "spreadOpen": null,
+        "overUnder": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 400876570,
+    "season": 2016,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2017-01-10 01:00:00+00:00",
+    "homeTeamId": 333,
+    "homeTeam": "Alabama",
+    "homeConference": "SEC",
+    "homeClassification": "fbs",
+    "homeScore": 31,
+    "awayTeamId": 228,
+    "awayTeam": "Clemson",
+    "awayConference": "ACC",
+    "awayClassification": "fbs",
+    "awayScore": 35,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -6.5,
+        "formattedSpread": "Alabama -6.5",
+        "overUnder": 51,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -6.5,
+        "formattedSpread": "Alabama -6.5",
+        "overUnder": 51,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -6,
+        "formattedSpread": "Alabama -6",
+        "spreadOpen": null,
+        "overUnder": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  }
+]

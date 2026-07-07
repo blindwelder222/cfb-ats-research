@@ -1,0 +1,2213 @@
+[
+  {
+    "id": 401035253,
+    "season": 2018,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2018-12-15 18:30:00+00:00",
+    "homeTeamId": 309,
+    "homeTeam": "Louisiana",
+    "homeConference": "Sun Belt",
+    "homeClassification": "fbs",
+    "homeScore": 24,
+    "awayTeamId": 2655,
+    "awayTeam": "Tulane",
+    "awayConference": "American Athletic",
+    "awayClassification": "fbs",
+    "awayScore": 41,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 3.5,
+        "formattedSpread": "Tulane -3.5",
+        "overUnder": 60.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 3,
+        "formattedSpread": "Tulane -3",
+        "overUnder": 60.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": 3,
+        "formattedSpread": "Tulane -3",
+        "overUnder": 60.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "Caesars",
+        "spread": 3,
+        "formattedSpread": "Tulane -3",
+        "overUnder": 60,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 401032054,
+    "season": 2018,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2018-12-15 19:00:00+00:00",
+    "homeTeamId": 249,
+    "homeTeam": "North Texas",
+    "homeConference": "Conference USA",
+    "homeClassification": "fbs",
+    "homeScore": 13,
+    "awayTeamId": 328,
+    "awayTeam": "Utah State",
+    "awayConference": "Mountain West",
+    "awayClassification": "fbs",
+    "awayScore": 52,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 7,
+        "formattedSpread": "Utah State -7",
+        "overUnder": 67.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 7,
+        "formattedSpread": "Utah State -7",
+        "overUnder": 67.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": 7,
+        "formattedSpread": "Utah State -7",
+        "overUnder": 68,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "Caesars",
+        "spread": 7,
+        "formattedSpread": "Utah State -7",
+        "overUnder": 67.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 401032055,
+    "season": 2018,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2018-12-15 20:30:00+00:00",
+    "homeTeamId": 278,
+    "homeTeam": "Fresno State",
+    "homeConference": "Mountain West",
+    "homeClassification": "fbs",
+    "homeScore": 31,
+    "awayTeamId": 9,
+    "awayTeam": "Arizona State",
+    "awayConference": "Pac-12",
+    "awayClassification": "fbs",
+    "awayScore": 20,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -6,
+        "formattedSpread": "Fresno State -6",
+        "overUnder": 54,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -6,
+        "formattedSpread": "Fresno State -6",
+        "overUnder": 54,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -6,
+        "formattedSpread": "Fresno State -6",
+        "overUnder": 54,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "Caesars",
+        "spread": -6,
+        "formattedSpread": "Fresno State -6",
+        "overUnder": 54.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 401032056,
+    "season": 2018,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2018-12-15 22:30:00+00:00",
+    "homeTeamId": 2199,
+    "homeTeam": "Eastern Michigan",
+    "homeConference": "Mid-American",
+    "homeClassification": "fbs",
+    "homeScore": 21,
+    "awayTeamId": 290,
+    "awayTeam": "Georgia Southern",
+    "awayConference": "Sun Belt",
+    "awayClassification": "fbs",
+    "awayScore": 23,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 3,
+        "formattedSpread": "Georgia Southern -3",
+        "overUnder": 45.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 3,
+        "formattedSpread": "Georgia Southern -3",
+        "overUnder": 45.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": 2.5,
+        "formattedSpread": "Georgia Southern -2.5",
+        "overUnder": 45.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "Caesars",
+        "spread": 2.5,
+        "formattedSpread": "Georgia Southern -2.5",
+        "overUnder": 45.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 401032057,
+    "season": 2018,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2018-12-16 02:00:00+00:00",
+    "homeTeamId": 2026,
+    "homeTeam": "App State",
+    "homeConference": "Sun Belt",
+    "homeClassification": "fbs",
+    "homeScore": 45,
+    "awayTeamId": 2393,
+    "awayTeam": "Middle Tennessee",
+    "awayConference": "Conference USA",
+    "awayClassification": "fbs",
+    "awayScore": 13,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -6.5,
+        "formattedSpread": "App State -6.5",
+        "overUnder": 48,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -6.5,
+        "formattedSpread": "App State -6.5",
+        "overUnder": 48,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -6.5,
+        "formattedSpread": "App State -6.5",
+        "overUnder": 48,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "Caesars",
+        "spread": -6.5,
+        "formattedSpread": "App State -6.5",
+        "overUnder": 49.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 401032058,
+    "season": 2018,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2018-12-19 00:00:00+00:00",
+    "homeTeamId": 2459,
+    "homeTeam": "Northern Illinois",
+    "homeConference": "Mid-American",
+    "homeClassification": "fbs",
+    "homeScore": 13,
+    "awayTeamId": 5,
+    "awayTeam": "UAB",
+    "awayConference": "Conference USA",
+    "awayClassification": "fbs",
+    "awayScore": 37,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 1,
+        "formattedSpread": "UAB -1",
+        "overUnder": 41.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 1.5,
+        "formattedSpread": "UAB -1.5",
+        "overUnder": 41.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "formattedSpread": "UAB -NaN",
+        "overUnder": 41.5,
+        "spread": null,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "Caesars",
+        "spread": 2,
+        "formattedSpread": "UAB -2",
+        "overUnder": 41.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 401032059,
+    "season": 2018,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2018-12-20 01:00:00+00:00",
+    "homeTeamId": 195,
+    "homeTeam": "Ohio",
+    "homeConference": "Mid-American",
+    "homeClassification": "fbs",
+    "homeScore": 27,
+    "awayTeamId": 21,
+    "awayTeam": "San Diego State",
+    "awayConference": "Mountain West",
+    "awayClassification": "fbs",
+    "awayScore": 0,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -2.5,
+        "formattedSpread": "Ohio -2.5",
+        "overUnder": 49,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -2.5,
+        "formattedSpread": "Ohio -2.5",
+        "overUnder": 50,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -2,
+        "formattedSpread": "Ohio -2",
+        "overUnder": 48,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "Caesars",
+        "spread": -2,
+        "formattedSpread": "Ohio -2",
+        "overUnder": 48,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 401032060,
+    "season": 2018,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2018-12-21 01:00:00+00:00",
+    "homeTeamId": 58,
+    "homeTeam": "South Florida",
+    "homeConference": "American Athletic",
+    "homeClassification": "fbs",
+    "homeScore": 20,
+    "awayTeamId": 276,
+    "awayTeam": "Marshall",
+    "awayConference": "Conference USA",
+    "awayClassification": "fbs",
+    "awayScore": 38,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 3.5,
+        "formattedSpread": "Marshall -3.5",
+        "overUnder": 51,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 3.5,
+        "formattedSpread": "Marshall -3.5",
+        "overUnder": 51.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": 3,
+        "formattedSpread": "Marshall -3",
+        "overUnder": 50,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "Caesars",
+        "spread": 3,
+        "formattedSpread": "Marshall -3",
+        "overUnder": 50,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 401032061,
+    "season": 2018,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2018-12-21 17:30:00+00:00",
+    "homeTeamId": 2649,
+    "homeTeam": "Toledo",
+    "homeConference": "Mid-American",
+    "homeClassification": "fbs",
+    "homeScore": 32,
+    "awayTeamId": 2229,
+    "awayTeam": "Florida International",
+    "awayConference": "Conference USA",
+    "awayClassification": "fbs",
+    "awayScore": 35,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -7,
+        "formattedSpread": "Toledo -7",
+        "overUnder": 57.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -7,
+        "formattedSpread": "Toledo -7",
+        "overUnder": 57,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -7,
+        "formattedSpread": "Toledo -7",
+        "overUnder": 57.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "Caesars",
+        "spread": -7,
+        "formattedSpread": "Toledo -7",
+        "overUnder": 57.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 401032062,
+    "season": 2018,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2018-12-21 21:00:00+00:00",
+    "homeTeamId": 252,
+    "homeTeam": "BYU",
+    "homeConference": "FBS Independents",
+    "homeClassification": "fbs",
+    "homeScore": 49,
+    "awayTeamId": 2711,
+    "awayTeam": "Western Michigan",
+    "awayConference": "Mid-American",
+    "awayClassification": "fbs",
+    "awayScore": 18,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -10,
+        "formattedSpread": "BYU -10",
+        "overUnder": 52,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -10.5,
+        "formattedSpread": "BYU -10.5",
+        "overUnder": 52,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -10,
+        "formattedSpread": "BYU -10",
+        "overUnder": 52,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "Caesars",
+        "spread": -10,
+        "formattedSpread": "BYU -10",
+        "overUnder": 52,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 401032063,
+    "season": 2018,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2018-12-22 17:00:00+00:00",
+    "homeTeamId": 154,
+    "homeTeam": "Wake Forest",
+    "homeConference": "ACC",
+    "homeClassification": "fbs",
+    "homeScore": 37,
+    "awayTeamId": 235,
+    "awayTeam": "Memphis",
+    "awayConference": "American Athletic",
+    "awayClassification": "fbs",
+    "awayScore": 34,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 2,
+        "formattedSpread": "Memphis -2",
+        "overUnder": 71,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 2.5,
+        "formattedSpread": "Memphis -2.5",
+        "overUnder": 72,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": 2.5,
+        "formattedSpread": "Memphis -2.5",
+        "overUnder": 71,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "Caesars",
+        "spread": 2.5,
+        "formattedSpread": "Memphis -2.5",
+        "overUnder": 72,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 401032064,
+    "season": 2018,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2018-12-22 20:30:00+00:00",
+    "homeTeamId": 349,
+    "homeTeam": "Army",
+    "homeConference": "FBS Independents",
+    "homeClassification": "fbs",
+    "homeScore": 70,
+    "awayTeamId": 248,
+    "awayTeam": "Houston",
+    "awayConference": "American Athletic",
+    "awayClassification": "fbs",
+    "awayScore": 14,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -6.5,
+        "formattedSpread": "Army -6.5",
+        "overUnder": 56,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -6.5,
+        "formattedSpread": "Army -6.5",
+        "overUnder": 57.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -6.5,
+        "formattedSpread": "Army -6.5",
+        "overUnder": 57,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "Caesars",
+        "spread": -6.5,
+        "formattedSpread": "Army -6.5",
+        "overUnder": 57,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 401032065,
+    "season": 2018,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2018-12-23 00:00:00+00:00",
+    "homeTeamId": 2653,
+    "homeTeam": "Troy",
+    "homeConference": "Sun Belt",
+    "homeClassification": "fbs",
+    "homeScore": 42,
+    "awayTeamId": 2084,
+    "awayTeam": "Buffalo",
+    "awayConference": "Mid-American",
+    "awayClassification": "fbs",
+    "awayScore": 32,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 2,
+        "formattedSpread": "Buffalo -2",
+        "overUnder": 50.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 2,
+        "formattedSpread": "Buffalo -2",
+        "overUnder": 51,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 401032066,
+    "season": 2018,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2018-12-23 03:30:00+00:00",
+    "homeTeamId": 2348,
+    "homeTeam": "Louisiana Tech",
+    "homeConference": "Conference USA",
+    "homeClassification": "fbs",
+    "homeScore": 31,
+    "awayTeamId": 62,
+    "awayTeam": "Hawai'i",
+    "awayConference": "Mountain West",
+    "awayClassification": "fbs",
+    "awayScore": 14,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -2,
+        "formattedSpread": "Louisiana Tech -2",
+        "overUnder": 60.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -2,
+        "formattedSpread": "Louisiana Tech -2",
+        "overUnder": 61,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -1,
+        "formattedSpread": "Louisiana Tech -1",
+        "overUnder": 61.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "Caesars",
+        "spread": -1,
+        "formattedSpread": "Louisiana Tech -1",
+        "overUnder": 62,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 401032068,
+    "season": 2018,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2018-12-26 22:15:00+00:00",
+    "homeTeamId": 59,
+    "homeTeam": "Georgia Tech",
+    "homeConference": "ACC",
+    "homeClassification": "fbs",
+    "homeScore": 10,
+    "awayTeamId": 135,
+    "awayTeam": "Minnesota",
+    "awayConference": "Big Ten",
+    "awayClassification": "fbs",
+    "awayScore": 34,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -5.5,
+        "formattedSpread": "Georgia Tech -5.5",
+        "overUnder": 57,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -6,
+        "formattedSpread": "Georgia Tech -6",
+        "overUnder": 57,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -6,
+        "formattedSpread": "Georgia Tech -6",
+        "overUnder": 56.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "Caesars",
+        "spread": -5.5,
+        "formattedSpread": "Georgia Tech -5.5",
+        "overUnder": 56.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 401032069,
+    "season": 2018,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2018-12-27 02:00:00+00:00",
+    "homeTeamId": 2628,
+    "homeTeam": "TCU",
+    "homeConference": "Big 12",
+    "homeClassification": "fbs",
+    "homeScore": 10,
+    "awayTeamId": 25,
+    "awayTeam": "California",
+    "awayConference": "Pac-12",
+    "awayClassification": "fbs",
+    "awayScore": 7,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "formattedSpread": "California -NaN",
+        "overUnder": 38.5,
+        "spread": null,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 1.5,
+        "formattedSpread": "California -1.5",
+        "overUnder": 38.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -1.5,
+        "formattedSpread": "TCU -1.5",
+        "overUnder": 38.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "Caesars",
+        "spread": -1.5,
+        "formattedSpread": "TCU -1.5",
+        "overUnder": 38.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 401032070,
+    "season": 2018,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2018-12-27 18:30:00+00:00",
+    "homeTeamId": 150,
+    "homeTeam": "Duke",
+    "homeConference": "ACC",
+    "homeClassification": "fbs",
+    "homeScore": 56,
+    "awayTeamId": 218,
+    "awayTeam": "Temple",
+    "awayConference": "American Athletic",
+    "awayClassification": "fbs",
+    "awayScore": 27,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 3.5,
+        "formattedSpread": "Temple -3.5",
+        "overUnder": 56.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 3,
+        "formattedSpread": "Temple -3",
+        "overUnder": 55,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": 3.5,
+        "formattedSpread": "Temple -3.5",
+        "overUnder": 53.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "Caesars",
+        "spread": 3.5,
+        "formattedSpread": "Temple -3.5",
+        "overUnder": 56,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 401032071,
+    "season": 2018,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2018-12-27 22:15:00+00:00",
+    "homeTeamId": 275,
+    "homeTeam": "Wisconsin",
+    "homeConference": "Big Ten",
+    "homeClassification": "fbs",
+    "homeScore": 35,
+    "awayTeamId": 2390,
+    "awayTeam": "Miami",
+    "awayConference": "ACC",
+    "awayClassification": "fbs",
+    "awayScore": 3,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 2.5,
+        "formattedSpread": "Miami -2.5",
+        "overUnder": 43.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 3,
+        "formattedSpread": "Miami -3",
+        "overUnder": 44,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": 2.5,
+        "formattedSpread": "Miami -2.5",
+        "overUnder": 46,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "Caesars",
+        "spread": 2.5,
+        "formattedSpread": "Miami -2.5",
+        "overUnder": 44,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 401032072,
+    "season": 2018,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2018-12-28 02:00:00+00:00",
+    "homeTeamId": 238,
+    "homeTeam": "Vanderbilt",
+    "homeConference": "SEC",
+    "homeClassification": "fbs",
+    "homeScore": 38,
+    "awayTeamId": 239,
+    "awayTeam": "Baylor",
+    "awayConference": "Big 12",
+    "awayClassification": "fbs",
+    "awayScore": 45,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -4,
+        "formattedSpread": "Vanderbilt -4",
+        "overUnder": 56.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -4,
+        "formattedSpread": "Vanderbilt -4",
+        "overUnder": 57,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -4,
+        "formattedSpread": "Vanderbilt -4",
+        "overUnder": 55.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "Caesars",
+        "spread": -4.5,
+        "formattedSpread": "Vanderbilt -4.5",
+        "overUnder": 57,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 401032073,
+    "season": 2018,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2018-12-28 18:30:00+00:00",
+    "homeTeamId": 2,
+    "homeTeam": "Auburn",
+    "homeConference": "SEC",
+    "homeClassification": "fbs",
+    "homeScore": 63,
+    "awayTeamId": 2509,
+    "awayTeam": "Purdue",
+    "awayConference": "Big Ten",
+    "awayClassification": "fbs",
+    "awayScore": 14,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -3.5,
+        "formattedSpread": "Auburn -3.5",
+        "overUnder": 58.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -3.5,
+        "formattedSpread": "Auburn -3.5",
+        "overUnder": 59.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -3.5,
+        "formattedSpread": "Auburn -3.5",
+        "overUnder": 55.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "Caesars",
+        "spread": -3.5,
+        "formattedSpread": "Auburn -3.5",
+        "overUnder": 57,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 401032074,
+    "season": 2018,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2018-12-28 22:15:00+00:00",
+    "homeTeamId": 183,
+    "homeTeam": "Syracuse",
+    "homeConference": "ACC",
+    "homeClassification": "fbs",
+    "homeScore": 34,
+    "awayTeamId": 277,
+    "awayTeam": "West Virginia",
+    "awayConference": "Big 12",
+    "awayClassification": "fbs",
+    "awayScore": 18,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -3,
+        "formattedSpread": "Syracuse -3",
+        "overUnder": 67.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -3,
+        "formattedSpread": "Syracuse -3",
+        "overUnder": 67.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -1.5,
+        "formattedSpread": "Syracuse -1.5",
+        "overUnder": 66,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "Caesars",
+        "spread": -3,
+        "formattedSpread": "Syracuse -3",
+        "overUnder": 66.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 401032075,
+    "season": 2018,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2018-12-29 02:00:00+00:00",
+    "homeTeamId": 265,
+    "homeTeam": "Washington State",
+    "homeConference": "Pac-12",
+    "homeClassification": "fbs",
+    "homeScore": 28,
+    "awayTeamId": 66,
+    "awayTeam": "Iowa State",
+    "awayConference": "Big 12",
+    "awayClassification": "fbs",
+    "awayScore": 26,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -2.5,
+        "formattedSpread": "Washington State -2.5",
+        "overUnder": 56.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -2.5,
+        "formattedSpread": "Washington State -2.5",
+        "overUnder": 56,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -3,
+        "formattedSpread": "Washington State -3",
+        "overUnder": 56,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "Caesars",
+        "spread": -2,
+        "formattedSpread": "Washington State -2",
+        "overUnder": 56.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 401032077,
+    "season": 2018,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2018-12-29 17:00:00+00:00",
+    "homeTeamId": 258,
+    "homeTeam": "Virginia",
+    "homeConference": "ACC",
+    "homeClassification": "fbs",
+    "homeScore": 28,
+    "awayTeamId": 2579,
+    "awayTeam": "South Carolina",
+    "awayConference": "SEC",
+    "awayClassification": "fbs",
+    "awayScore": 0,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 3.5,
+        "formattedSpread": "South Carolina -3.5",
+        "overUnder": 54,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 3.5,
+        "formattedSpread": "South Carolina -3.5",
+        "overUnder": 53.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": 5.5,
+        "formattedSpread": "South Carolina -5.5",
+        "overUnder": 53.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "Caesars",
+        "spread": 3.5,
+        "formattedSpread": "South Carolina -3.5",
+        "overUnder": 54,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 401032076,
+    "season": 2018,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2018-12-29 17:00:00+00:00",
+    "homeTeamId": 130,
+    "homeTeam": "Michigan",
+    "homeConference": "Big Ten",
+    "homeClassification": "fbs",
+    "homeScore": 15,
+    "awayTeamId": 57,
+    "awayTeam": "Florida",
+    "awayConference": "SEC",
+    "awayClassification": "fbs",
+    "awayScore": 41,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -4,
+        "formattedSpread": "Michigan -4",
+        "overUnder": 51,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -4,
+        "formattedSpread": "Michigan -4",
+        "overUnder": 51,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -6,
+        "formattedSpread": "Michigan -6",
+        "overUnder": 50.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "Caesars",
+        "spread": -4.5,
+        "formattedSpread": "Michigan -4.5",
+        "overUnder": 51.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 401035252,
+    "season": 2018,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2018-12-29 18:15:00+00:00",
+    "homeTeamId": 2440,
+    "homeTeam": "Nevada",
+    "homeConference": "Mountain West",
+    "homeClassification": "fbs",
+    "homeScore": 16,
+    "awayTeamId": 2032,
+    "awayTeam": "Arkansas State",
+    "awayConference": "Sun Belt",
+    "awayClassification": "fbs",
+    "awayScore": 13,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -1.5,
+        "formattedSpread": "Nevada -1.5",
+        "overUnder": 56.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -1.5,
+        "formattedSpread": "Nevada -1.5",
+        "overUnder": 56.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": 1.5,
+        "formattedSpread": "Arkansas State -1.5",
+        "overUnder": 56,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "Caesars",
+        "spread": -2,
+        "formattedSpread": "Nevada -2",
+        "overUnder": 58,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 401032079,
+    "season": 2018,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2018-12-29 21:00:00+00:00",
+    "homeTeamId": 228,
+    "homeTeam": "Clemson",
+    "homeConference": "ACC",
+    "homeClassification": "fbs",
+    "homeScore": 30,
+    "awayTeamId": 87,
+    "awayTeam": "Notre Dame",
+    "awayConference": "FBS Independents",
+    "awayClassification": "fbs",
+    "awayScore": 3,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -10.5,
+        "formattedSpread": "Clemson -10.5",
+        "overUnder": 58,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -10.5,
+        "formattedSpread": "Clemson -10.5",
+        "overUnder": 58,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "Caesars",
+        "spread": -12,
+        "formattedSpread": "Clemson -12",
+        "overUnder": 56,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 401032078,
+    "season": 2018,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2018-12-30 01:00:00+00:00",
+    "homeTeamId": 333,
+    "homeTeam": "Alabama",
+    "homeConference": "SEC",
+    "homeClassification": "fbs",
+    "homeScore": 45,
+    "awayTeamId": 201,
+    "awayTeam": "Oklahoma",
+    "awayConference": "Big 12",
+    "awayClassification": "fbs",
+    "awayScore": 34,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -14.5,
+        "formattedSpread": "Alabama -14.5",
+        "overUnder": 81.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -14.5,
+        "formattedSpread": "Alabama -14.5",
+        "overUnder": 80.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "Caesars",
+        "spread": -13.5,
+        "formattedSpread": "Alabama -13.5",
+        "overUnder": 77,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 401032080,
+    "season": 2018,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2018-12-31 17:00:00+00:00",
+    "homeTeamId": 259,
+    "homeTeam": "Virginia Tech",
+    "homeConference": "ACC",
+    "homeClassification": "fbs",
+    "homeScore": 31,
+    "awayTeamId": 2132,
+    "awayTeam": "Cincinnati",
+    "awayConference": "American Athletic",
+    "awayClassification": "fbs",
+    "awayScore": 35,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 5.5,
+        "formattedSpread": "Cincinnati -5.5",
+        "overUnder": 48.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 5.5,
+        "formattedSpread": "Cincinnati -5.5",
+        "overUnder": 49.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 401035251,
+    "season": 2018,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2018-12-31 19:00:00+00:00",
+    "homeTeamId": 221,
+    "homeTeam": "Pittsburgh",
+    "homeConference": "ACC",
+    "homeClassification": "fbs",
+    "homeScore": 13,
+    "awayTeamId": 24,
+    "awayTeam": "Stanford",
+    "awayConference": "Pac-12",
+    "awayClassification": "fbs",
+    "awayScore": 14,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 3.5,
+        "formattedSpread": "Stanford -3.5",
+        "overUnder": 52.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 3.5,
+        "formattedSpread": "Stanford -3.5",
+        "overUnder": 52,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": 5.5,
+        "formattedSpread": "Stanford -5.5",
+        "overUnder": 52,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "Caesars",
+        "spread": 3,
+        "formattedSpread": "Stanford -3",
+        "overUnder": 53,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 401035254,
+    "season": 2018,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2018-12-31 20:00:00+00:00",
+    "homeTeamId": 2483,
+    "homeTeam": "Oregon",
+    "homeConference": "Pac-12",
+    "homeClassification": "fbs",
+    "homeScore": 7,
+    "awayTeamId": 127,
+    "awayTeam": "Michigan State",
+    "awayConference": "Big Ten",
+    "awayClassification": "fbs",
+    "awayScore": 6,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 1,
+        "formattedSpread": "Michigan State -1",
+        "overUnder": 47,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 0.5,
+        "formattedSpread": "Michigan State -0.5",
+        "overUnder": 45.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -2.5,
+        "formattedSpread": "Oregon -2.5",
+        "overUnder": 48,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "Caesars",
+        "spread": 1.5,
+        "formattedSpread": "Michigan State -1.5",
+        "overUnder": 48,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 401032081,
+    "season": 2018,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2018-12-31 20:45:00+00:00",
+    "homeTeamId": 197,
+    "homeTeam": "Oklahoma State",
+    "homeConference": "Big 12",
+    "homeClassification": "fbs",
+    "homeScore": 38,
+    "awayTeamId": 142,
+    "awayTeam": "Missouri",
+    "awayConference": "SEC",
+    "awayClassification": "fbs",
+    "awayScore": 33,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 9.5,
+        "formattedSpread": "Missouri -9.5",
+        "overUnder": 72.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 9.5,
+        "formattedSpread": "Missouri -9.5",
+        "overUnder": 72,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": 8.5,
+        "formattedSpread": "Missouri -8.5",
+        "overUnder": 74.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "Caesars",
+        "spread": 9,
+        "formattedSpread": "Missouri -9",
+        "overUnder": 73,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 401035250,
+    "season": 2018,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2019-01-01 00:00:00+00:00",
+    "homeTeamId": 254,
+    "homeTeam": "Utah",
+    "homeConference": "Pac-12",
+    "homeClassification": "fbs",
+    "homeScore": 20,
+    "awayTeamId": 77,
+    "awayTeam": "Northwestern",
+    "awayConference": "Big Ten",
+    "awayClassification": "fbs",
+    "awayScore": 31,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -7,
+        "formattedSpread": "Utah -7",
+        "overUnder": 43,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -6.5,
+        "formattedSpread": "Utah -6.5",
+        "overUnder": 43,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -7,
+        "formattedSpread": "Utah -7",
+        "overUnder": 46,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "Caesars",
+        "spread": -6.5,
+        "formattedSpread": "Utah -6.5",
+        "overUnder": 44,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 401032082,
+    "season": 2018,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2019-01-01 00:30:00+00:00",
+    "homeTeamId": 245,
+    "homeTeam": "Texas A&M",
+    "homeConference": "SEC",
+    "homeClassification": "fbs",
+    "homeScore": 52,
+    "awayTeamId": 152,
+    "awayTeam": "NC State",
+    "awayConference": "ACC",
+    "awayClassification": "fbs",
+    "awayScore": 13,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -7.5,
+        "formattedSpread": "Texas A&M -7.5",
+        "overUnder": 58.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -7,
+        "formattedSpread": "Texas A&M -7",
+        "overUnder": 57.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -7,
+        "formattedSpread": "Texas A&M -7",
+        "overUnder": 58.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "Caesars",
+        "spread": -7.5,
+        "formattedSpread": "Texas A&M -7.5",
+        "overUnder": 58,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 401032083,
+    "season": 2018,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2019-01-01 17:00:00+00:00",
+    "homeTeamId": 2294,
+    "homeTeam": "Iowa",
+    "homeConference": "Big Ten",
+    "homeClassification": "fbs",
+    "homeScore": 27,
+    "awayTeamId": 344,
+    "awayTeam": "Mississippi State",
+    "awayConference": "SEC",
+    "awayClassification": "fbs",
+    "awayScore": 22,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 7,
+        "formattedSpread": "Mississippi State -7",
+        "overUnder": 40,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 7,
+        "formattedSpread": "Mississippi State -7",
+        "overUnder": 40,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": 7,
+        "formattedSpread": "Mississippi State -7",
+        "overUnder": 43.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "Caesars",
+        "spread": 7.5,
+        "formattedSpread": "Mississippi State -7.5",
+        "overUnder": 39.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 401032084,
+    "season": 2018,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2019-01-01 18:00:00+00:00",
+    "homeTeamId": 2116,
+    "homeTeam": "UCF",
+    "homeConference": "American Athletic",
+    "homeClassification": "fbs",
+    "homeScore": 32,
+    "awayTeamId": 99,
+    "awayTeam": "LSU",
+    "awayConference": "SEC",
+    "awayClassification": "fbs",
+    "awayScore": 40,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": 7.5,
+        "formattedSpread": "LSU -7.5",
+        "overUnder": 57.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": 7.5,
+        "formattedSpread": "LSU -7.5",
+        "overUnder": 58,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 401032088,
+    "season": 2018,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2019-01-01 18:00:00+00:00",
+    "homeTeamId": 213,
+    "homeTeam": "Penn State",
+    "homeConference": "Big Ten",
+    "homeClassification": "fbs",
+    "homeScore": 24,
+    "awayTeamId": 96,
+    "awayTeam": "Kentucky",
+    "awayConference": "SEC",
+    "awayClassification": "fbs",
+    "awayScore": 27,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -4.5,
+        "formattedSpread": "Penn State -4.5",
+        "overUnder": 47.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -5,
+        "formattedSpread": "Penn State -5",
+        "overUnder": 47.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -6.5,
+        "formattedSpread": "Penn State -6.5",
+        "overUnder": 47.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "Caesars",
+        "spread": -4.5,
+        "formattedSpread": "Penn State -4.5",
+        "overUnder": 48,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 401032085,
+    "season": 2018,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2019-01-01 22:00:00+00:00",
+    "homeTeamId": 194,
+    "homeTeam": "Ohio State",
+    "homeConference": "Big Ten",
+    "homeClassification": "fbs",
+    "homeScore": 28,
+    "awayTeamId": 264,
+    "awayTeam": "Washington",
+    "awayConference": "Pac-12",
+    "awayClassification": "fbs",
+    "awayScore": 23,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -5.5,
+        "formattedSpread": "Ohio State -5.5",
+        "overUnder": 55.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -5,
+        "formattedSpread": "Ohio State -5",
+        "overUnder": 55.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -6.5,
+        "formattedSpread": "Ohio State -6.5",
+        "overUnder": 58,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "Caesars",
+        "formattedSpread": "Washington -NaN",
+        "overUnder": 55.5,
+        "spread": null,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 401032086,
+    "season": 2018,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2019-01-02 01:45:00+00:00",
+    "homeTeamId": 61,
+    "homeTeam": "Georgia",
+    "homeConference": "SEC",
+    "homeClassification": "fbs",
+    "homeScore": 21,
+    "awayTeamId": 251,
+    "awayTeam": "Texas",
+    "awayConference": "Big 12",
+    "awayClassification": "fbs",
+    "awayScore": 28,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -12,
+        "formattedSpread": "Georgia -12",
+        "overUnder": 59,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -12,
+        "formattedSpread": "Georgia -12",
+        "overUnder": 59.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "consensus",
+        "spread": -13,
+        "formattedSpread": "Georgia -13",
+        "overUnder": 58,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "Caesars",
+        "spread": -13.5,
+        "formattedSpread": "Georgia -13.5",
+        "overUnder": 60,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  },
+  {
+    "id": 401032087,
+    "season": 2018,
+    "seasonType": "postseason",
+    "week": 1,
+    "startDate": "2019-01-08 01:00:00+00:00",
+    "homeTeamId": 333,
+    "homeTeam": "Alabama",
+    "homeConference": "SEC",
+    "homeClassification": "fbs",
+    "homeScore": 16,
+    "awayTeamId": 228,
+    "awayTeam": "Clemson",
+    "awayConference": "ACC",
+    "awayClassification": "fbs",
+    "awayScore": 44,
+    "lines": [
+      {
+        "provider": "teamrankings",
+        "spread": -5.5,
+        "formattedSpread": "Alabama -5.5",
+        "overUnder": 56.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "numberfire",
+        "spread": -5.5,
+        "formattedSpread": "Alabama -5.5",
+        "overUnder": 56.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      },
+      {
+        "provider": "Caesars",
+        "spread": -5.5,
+        "formattedSpread": "Alabama -5.5",
+        "overUnder": 57.5,
+        "spreadOpen": null,
+        "overUnderOpen": null,
+        "homeMoneyline": null,
+        "awayMoneyline": null
+      }
+    ]
+  }
+]
