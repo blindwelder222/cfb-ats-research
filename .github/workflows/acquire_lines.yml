@@ -24,10 +24,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install cfbd
 
-      - name: Create data directory
-        run: |
-          mkdir -p data/raw/lines/
-
       - name: Run acquisition
         run: |
           python src/acquisition/jobs/betting.py
@@ -35,5 +31,5 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
-          name: lines
+          name: betting-history
           path: data/raw/lines/
