@@ -26,11 +26,11 @@ jobs:
 
       - name: Create data directory
         run: |
-          mkdir -p data/raw/games/2024
+          mkdir -p data/raw/games/
 
       - name: Run acquisition
         run: |
-          python src/acquisition/jobs/games.py --season 2024
+          python src/acquisition/jobs/games.py
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
