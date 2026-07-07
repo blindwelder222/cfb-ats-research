@@ -35,5 +35,5 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
-          name: games-2024
-          path: data/raw/games/2024/games.json
+          name: games
+          path: data/raw/games/
