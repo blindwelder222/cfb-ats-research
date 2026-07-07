@@ -26,8 +26,7 @@ def acquire_lines(api, year, season_type, suffix):
 
     lines = api.get_lines(
         year=year,
-        season_type=season_type,
-        classification="fbs"
+        season_type=season_type
     )
 
     filename = f"{year}_{suffix}.json"
