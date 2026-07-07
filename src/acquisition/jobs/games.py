@@ -1,34 +1,71 @@
-import argparse
 import json
 import os
 from pathlib import Path
 
 import cfbd
 
+# ---------------------------------------------------------------------
+# Configuration
+# ---------------------------------------------------------------------
+
+YEARS = range(2016, 2026)
+
+SEASON_TYPES = {
+    "regular": "gd",
+    "postseason": "gdb"
+}
+
+
+# ---------------------------------------------------------------------
+# Acquisition
+# ---------------------------------------------------------------------
+
+def acquire_games(api, year, season_type, suffix):
+
+    print(f"Downloading {year} {season_type} games...")
+
+    games = api.get_games(
+        year=year,
+        season_type=season_type,
+        classification="fbs"
+    )
+
+    filename = f"{year}_{suffix}.json"
+
+    output_dir = Path("data/raw/games")
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    output_file = output_dir / filename
+
+    with output_file.open("w", encoding="utf-8") as f:
+        json.dump(
+            [
+                game.to_dict() if hasattr(game, "to_dict") else game
+                for game in games
+            ],
+            f,
+            indent=2,
+            default=str
+        )
+
+    print(f"  ✓ {filename} ({len(games)} games)")
+
+
+# ---------------------------------------------------------------------
+# Main
+# ---------------------------------------------------------------------
 
 def main():
 
-    parser = argparse.ArgumentParser()
-
-    parser.add_argument(
-        "--season",
-        required=True,
-        type=int,
-        help="Season to acquire"
-    )
-
-    args = parser.parse_args()
-
-    print("===================================")
-    print("CFBD Games Acquisition")
-    print("===================================")
+    print("===================================================")
+    print("College Football ATS Research Platform")
+    print("Historical Games Acquisition")
+    print("===================================================")
 
     api_key = os.getenv("CFBD_API_KEY")
 
     if not api_key:
-        raise RuntimeError("CFBD_API_KEY was not found.")
-
-    print("API key located.")
+        raise RuntimeError("CFBD_API_KEY environment variable not found.")
 
     configuration = cfbd.Configuration(
         access_token=api_key
@@ -38,36 +75,29 @@ def main():
 
     api = cfbd.GamesApi(client)
 
-    print(f"Requesting season {args.season}...")
+    total_files = 0
 
-    games = api.get_games(
-        year=args.season,
-        classification="fbs"
-    )
+    for year in YEARS:
 
-    print(f"Retrieved {len(games)} games.")
+        for season_type, suffix in SEASON_TYPES.items():
 
-    output_dir = Path(f"data/raw/games/{args.season}")
+            acquire_games(
+                api=api,
+                year=year,
+                season_type=season_type,
+                suffix=suffix
+            )
 
-    output_dir.mkdir(parents=True, exist_ok=True)
+            total_files += 1
 
-    output_file = output_dir / "games.json"
-
-    with output_file.open("w", encoding="utf-8") as f:
-
-        json.dump(
-            [
-                g.to_dict() if hasattr(g, "to_dict") else g
-                for g in games
-            ],
-            f,
-            indent=2,
-            default=str
-        )
-
-    print(f"Archive written to {output_file}")
-
-    print("Done.")
+    print()
+    print("===================================================")
+    print("Historical Games Acquisition Complete")
+    print("===================================================")
+    print(f"Years Processed : {len(YEARS)}")
+    print(f"Files Created   : {total_files}")
+    print("Output Directory: data/raw/games/")
+    print("===================================================")
 
 
 if __name__ == "__main__":
