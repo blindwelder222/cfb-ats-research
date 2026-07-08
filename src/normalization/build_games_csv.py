@@ -6,16 +6,12 @@ from pathlib import Path
 # Configuration
 # ---------------------------------------------------------------------
 
-FILES = [
-    {
-        "input": Path("data/raw/games/regular/2016_gd.json"),
-        "output": Path("data/normalized/games/2016_regular.csv"),
-    },
-    {
-        "input": Path("data/raw/games/post/2016_gdb.json"),
-        "output": Path("data/normalized/games/2016_post.csv"),
-    },
-]
+YEARS = range(2016, 2026)
+
+SEASON_TYPES = {
+    "regular": "gd",
+    "post": "gdb"
+}
 
 FIELDS = [
     "game_id",
@@ -44,47 +40,74 @@ OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 # Processing
 # ---------------------------------------------------------------------
 
-for file in FILES:
+for year in YEARS:
 
-    print(f"\nReading {file['input'].name}")
+    for season_folder, suffix in SEASON_TYPES.items():
 
-    with file["input"].open("r", encoding="utf-8") as f:
-        games = json.load(f)
+        input_file = Path(
+            f"data/raw/games/{season_folder}/{year}_{suffix}.json"
+        )
 
-    with file["output"].open("w", newline="", encoding="utf-8") as csvfile:
+        output_file = OUTPUT_DIR / f"{year}_{season_folder}.csv"
 
-        writer = csv.DictWriter(csvfile, fieldnames=FIELDS)
-        writer.writeheader()
+        print("---------------------------------------------------")
+        print(f"Reading : {input_file.name}")
 
-        for game in games:
+        with input_file.open("r", encoding="utf-8") as f:
+            games = json.load(f)
 
-            writer.writerow({
+        with output_file.open(
+            "w",
+            newline="",
+            encoding="utf-8"
+        ) as csvfile:
 
-                "game_id": game.get("id"),
-                "season": game.get("season"),
-                "season_type": game.get("seasonType"),
-                "week": game.get("week"),
-                "start_date": game.get("startDate"),
+            writer = csv.DictWriter(
+                csvfile,
+                fieldnames=FIELDS
+            )
 
-                "completed": game.get("completed"),
-                "neutral_site": game.get("neutralSite"),
-                "conference_game": game.get("conferenceGame"),
-                "attendance": game.get("attendance"),
+            writer.writeheader()
 
-                "venue_id": game.get("venueId"),
-                "venue": game.get("venue"),
+            for game in games:
 
-                "home_team_id": game.get("homeId"),
-                "home_team": game.get("homeTeam"),
+                writer.writerow({
 
-                "away_team_id": game.get("awayId"),
-                "away_team": game.get("awayTeam"),
+                    "game_id": game.get("id"),
+                    "season": game.get("season"),
+                    "season_type": game.get("seasonType"),
+                    "week": game.get("week"),
+                    "start_date": game.get("startDate"),
 
-                "home_points": game.get("homePoints"),
-                "away_points": game.get("awayPoints")
+                    "completed": game.get("completed"),
+                    "neutral_site": game.get("neutralSite"),
+                    "conference_game": game.get("conferenceGame"),
+                    "attendance": game.get("attendance"),
 
-            })
+                    "venue_id": game.get("venueId"),
+                    "venue": game.get("venue"),
 
-    print(f"Loaded : {len(games)}")
-    print(f"Wrote  : {len(games)}")
-    print("PASS")
+                    "home_team_id": game.get("homeId"),
+                    "home_team": game.get("homeTeam"),
+
+                    "away_team_id": game.get("awayId"),
+                    "away_team": game.get("awayTeam"),
+
+                    "home_points": game.get("homePoints"),
+                    "away_points": game.get("awayPoints")
+
+                })
+
+        print(f"Loaded : {len(games)}")
+        print(f"Wrote  : {len(games)}")
+
+        if len(games) == sum(1 for _ in open(output_file, encoding="utf-8")) - 1:
+            print("PASS")
+        else:
+            raise RuntimeError(
+                f"Record count mismatch for {output_file.name}"
+            )
+
+print("===================================================")
+print("Games CSV Normalization Complete")
+print("===================================================")
