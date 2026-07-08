@@ -1,0 +1,29 @@
+name: Build Games CSV
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build-games-csv:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run normalization
+        run: |
+          python src/normalization/build_games_csv.py
+
+      - name: Upload CSV
+        uses: actions/upload-artifact@v4
+        with:
+          name: normalized-games
+          path: data/normalized/games/
