@@ -1,0 +1,47 @@
+game_id,season,season_type,week,start_date,completed,neutral_site,conference_game,attendance,venue_id,venue,home_team_id,home_team,away_team_id,away_team,home_points,away_points
+401778302,2025,postseason,1,2025-12-14 01:00:00+00:00,True,True,False,,7065,SoFi Stadium,264,Washington,68,Boise State,38,10
+401778303,2025,postseason,1,2025-12-17 02:00:00+00:00,True,True,False,,3689,Cramton Bowl,55,Jacksonville State,2653,Troy,17,13
+401778304,2025,postseason,1,2025-12-17 22:00:00+00:00,True,True,False,,4013,Camping World Stadium,58,South Florida,295,Old Dominion,10,24
+401778305,2025,postseason,1,2025-12-18 01:30:00+00:00,True,True,False,,6526,Hancock Whitney Stadium,48,Delaware,309,Louisiana,20,13
+401838053,2025,postseason,1,2025-12-19 02:00:00+00:00,True,True,False,,5455,Ford Center At The Star,2032,Arkansas State,2623,Missouri State,34,28
+401778306,2025,postseason,1,2025-12-19 16:00:00+00:00,True,True,False,,3654,Brooks Stadium (SC),2711,Western Michigan,338,Kennesaw State,41,6
+401778307,2025,postseason,1,2025-12-19 19:30:00+00:00,True,True,False,,3886,Raymond James Stadium,152,NC State,235,Memphis,31,7
+401779840,2025,postseason,1,2025-12-20 01:00:00+00:00,True,False,False,,3835,"Memorial Stadium (Norman, OK)",201,Oklahoma,333,Alabama,24,34
+401779841,2025,postseason,1,2025-12-20 17:00:00+00:00,True,False,False,,3795,Kyle Field,245,Texas A&M,2390,Miami,3,10
+401779842,2025,postseason,1,2025-12-20 20:30:00+00:00,True,False,False,,3974,Vaught-Hemingway Stadium,145,Ole Miss,2655,Tulane,41,10
+401779843,2025,postseason,1,2025-12-21 00:30:00+00:00,True,False,False,,3626,Autzen Stadium,2483,Oregon,256,James Madison,51,34
+401778308,2025,postseason,1,2025-12-22 19:00:00+00:00,True,True,False,,3653,Albertsons Stadium,328,Utah State,265,Washington State,21,34
+401778309,2025,postseason,1,2025-12-23 19:00:00+00:00,True,True,False,,3715,FAU Stadium,97,Louisville,2649,Toledo,27,22
+401778310,2025,postseason,1,2025-12-23 22:30:00+00:00,True,True,False,,3493,Caesars Superdome,2572,Southern Miss,98,Western Kentucky,16,27
+401778311,2025,postseason,1,2025-12-24 02:00:00+00:00,True,True,False,,5455,Ford Center At The Star,195,Ohio,2439,UNLV,17,10
+401778312,2025,postseason,1,2025-12-25 01:00:00+00:00,True,False,False,,7220,Clarence T.C. Ching Athletics Complex,62,Hawai'i,25,California,35,31
+401778313,2025,postseason,1,2025-12-26 18:00:00+00:00,True,True,False,,3727,Ford Field,77,Northwestern,2117,Central Michigan,34,7
+401778314,2025,postseason,1,2025-12-26 21:30:00+00:00,True,True,False,,4251,Chase Field,135,Minnesota,167,New Mexico,20,17
+401778315,2025,postseason,1,2025-12-27 01:00:00+00:00,True,True,False,,3735,Gerald J. Ford Stadium,2636,UTSA,2229,Florida International,57,20
+401778316,2025,postseason,1,2025-12-27 16:00:00+00:00,True,True,False,,3852,Navy-Marine Corps Memorial Stadium,151,East Carolina,221,Pittsburgh,23,17
+401778317,2025,postseason,1,2025-12-27 17:00:00+00:00,True,True,False,,4102,Yankee Stadium,228,Clemson,213,Penn State,10,22
+401778318,2025,postseason,1,2025-12-27 19:15:00+00:00,True,True,False,,4245,Fenway Park,349,Army,41,UConn,41,16
+401778319,2025,postseason,1,2025-12-27 20:30:00+00:00,True,True,False,,4013,Camping World Stadium,252,BYU,59,Georgia Tech,25,21
+401778320,2025,postseason,1,2025-12-27 21:30:00+00:00,True,True,False,,3619,Arizona Stadium,278,Fresno State,193,Miami (OH),18,3
+401778321,2025,postseason,1,2025-12-27 22:45:00+00:00,True,True,False,,3971,University Stadium (NM),21,San Diego State,249,North Texas,47,49
+401778322,2025,postseason,1,2025-12-28 00:30:00+00:00,True,True,False,,3712,EverBank Stadium,142,Missouri,258,Virginia,7,13
+401778323,2025,postseason,1,2025-12-28 02:15:00+00:00,True,True,False,,3891,NRG Stadium,248,Houston,99,LSU,38,35
+401778324,2025,postseason,1,2025-12-29 19:00:00+00:00,True,True,False,,7221,Protective Stadium,2026,App State,290,Georgia Southern,10,29
+401778325,2025,postseason,1,2025-12-30 19:00:00+00:00,True,True,False,,3766,Independence Stadium,2348,Louisiana Tech,324,Coastal Carolina,23,14
+401778326,2025,postseason,1,2025-12-30 22:30:00+00:00,True,True,False,,3810,Nissan Stadium,356,Illinois,2633,Tennessee,30,28
+401778327,2025,postseason,1,2025-12-31 02:00:00+00:00,True,True,False,,3604,Alamodome,2628,TCU,30,USC,30,27
+401778328,2025,postseason,1,2025-12-31 17:00:00+00:00,True,True,False,,3886,Raymond James Stadium,238,Vanderbilt,2294,Iowa,27,34
+401778329,2025,postseason,1,2025-12-31 19:00:00+00:00,True,True,False,,3946,Sun Bowl,150,Duke,9,Arizona State,42,39
+401778330,2025,postseason,1,2025-12-31 20:00:00+00:00,True,True,False,,4013,Camping World Stadium,251,Texas,130,Michigan,41,27
+401778331,2025,postseason,1,2025-12-31 20:30:00+00:00,True,True,False,,6501,Allegiant Stadium,254,Utah,158,Nebraska,44,22
+401769070,2025,postseason,1,2026-01-01 00:30:00+00:00,True,True,False,,3687,AT&T Stadium,194,Ohio State,2390,Miami,14,24
+401769071,2025,postseason,1,2026-01-01 17:00:00+00:00,True,True,False,,3948,Hard Rock Stadium,2641,Texas Tech,2483,Oregon,0,23
+401769072,2025,postseason,1,2026-01-01 21:00:00+00:00,True,True,False,,1056,Rose Bowl,84,Indiana,333,Alabama,38,3
+401769073,2025,postseason,1,2026-01-02 01:00:00+00:00,True,True,False,,3493,Caesars Superdome,61,Georgia,145,Ole Miss,34,39
+401778332,2025,postseason,1,2026-01-02 18:00:00+00:00,True,True,False,,3616,Amon G. Carter Stadium,326,Texas State,242,Rice,41,10
+401778333,2025,postseason,1,2026-01-02 21:30:00+00:00,True,True,False,,3805,Simmons Bank Liberty Stadium,2132,Cincinnati,2426,Navy,13,35
+401831583,2025,postseason,1,2026-01-03 01:00:00+00:00,True,True,False,,7311,Snapdragon Stadium,2567,SMU,12,Arizona,24,19
+401778334,2025,postseason,1,2026-01-03 01:00:00+00:00,True,True,False,,3628,Bank of America Stadium,344,Mississippi State,154,Wake Forest,29,43
+401769075,2025,postseason,1,2026-01-09 00:30:00+00:00,True,True,False,,3970,State Farm Stadium,145,Ole Miss,2390,Miami,27,31
+401769074,2025,postseason,1,2026-01-10 00:30:00+00:00,True,True,False,,5348,Mercedes-Benz Stadium,84,Indiana,2483,Oregon,56,22
+401769076,2025,postseason,1,2026-01-20 00:30:00+00:00,True,True,False,,3948,Hard Rock Stadium,84,Indiana,2390,Miami,27,21

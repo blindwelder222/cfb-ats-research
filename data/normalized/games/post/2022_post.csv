@@ -1,0 +1,43 @@
+game_id,season,season_type,week,start_date,completed,neutral_site,conference_game,attendance,venue_id,venue,home_team_id,home_team,away_team_id,away_team,home_points,away_points
+401441993,2022,postseason,1,2022-12-16 16:30:00+00:00,True,True,False,12172,4779,Thomas A. Robinson National Stadium,5,UAB,193,Miami (OH),24,20
+401441994,2022,postseason,1,2022-12-16 20:00:00+00:00,True,True,False,,5403,Orlando City Stadium,2653,Troy,2636,UTSA,18,12
+401441995,2022,postseason,1,2022-12-17 16:00:00+00:00,True,True,False,,4245,Fenway Park,97,Louisville,2132,Cincinnati,24,7
+401441999,2022,postseason,1,2022-12-17 19:30:00+00:00,True,True,False,29750,6501,Allegiant Stadium,204,Oregon State,57,Florida,30,3
+401442038,2022,postseason,1,2022-12-17 20:30:00+00:00,True,True,False,32405,7065,SoFi Stadium,278,Fresno State,265,Washington State,29,6
+401442041,2022,postseason,1,2022-12-17 22:45:00+00:00,True,True,False,20512,6526,Hancock Whitney Stadium,2572,Southern Miss,242,Rice,38,24
+401441997,2022,postseason,1,2022-12-18 00:30:00+00:00,True,True,False,22209,3971,University Stadium (NM),252,BYU,2567,SMU,24,23
+401442001,2022,postseason,1,2022-12-18 02:15:00+00:00,True,True,False,12211,1400,Toyota Stadium,68,Boise State,249,North Texas,35,32
+401442003,2022,postseason,1,2022-12-19 19:30:00+00:00,True,True,False,12023,3654,Brooks Stadium (SC),41,UConn,276,Marshall,14,28
+401442004,2022,postseason,1,2022-12-20 20:30:00+00:00,True,True,False,10122,3653,Albertsons Stadium,23,San José State,2199,Eastern Michigan,27,41
+401442006,2022,postseason,1,2022-12-21 00:30:00+00:00,True,True,False,20622,3715,FAU Stadium,2649,Toledo,2335,Liberty,21,19
+401442039,2022,postseason,1,2022-12-22 02:00:00+00:00,True,True,False,13456,3493,Caesars Superdome,6,South Alabama,98,Western Kentucky,23,44
+401442040,2022,postseason,1,2022-12-23 00:30:00+00:00,True,True,False,,3616,Amon G. Carter Stadium,2005,Air Force,239,Baylor,30,15
+401442042,2022,postseason,1,2022-12-23 20:00:00+00:00,True,True,False,23410,3766,Independence Stadium,248,Houston,309,Louisiana,23,16
+401442007,2022,postseason,1,2022-12-23 23:30:00+00:00,True,True,False,34370,3886,Raymond James Stadium,142,Missouri,154,Wake Forest,17,27
+401442009,2022,postseason,1,2022-12-25 01:00:00+00:00,True,True,False,6605,7220,Clarence T.C. Ching Athletics Complex,21,San Diego State,2393,Middle Tennessee,23,25
+401442037,2022,postseason,1,2022-12-26 19:30:00+00:00,True,True,False,22987,3727,Ford Field,189,Bowling Green,166,New Mexico State,19,24
+401441998,2022,postseason,1,2022-12-27 17:00:00+00:00,True,True,False,15322,3689,Cramton Bowl,2084,Buffalo,290,Georgia Southern,23,21
+401442000,2022,postseason,1,2022-12-27 20:15:00+00:00,True,True,False,,3735,Gerald J. Ford Stadium,328,Utah State,235,Memphis,10,38
+401442002,2022,postseason,1,2022-12-27 23:45:00+00:00,True,True,False,,7221,Protective Stadium,151,East Carolina,324,Coastal Carolina,53,29
+401442005,2022,postseason,1,2022-12-28 03:15:00+00:00,True,True,False,23187,4251,Chase Field,197,Oklahoma State,275,Wisconsin,17,24
+401442008,2022,postseason,1,2022-12-28 19:00:00+00:00,True,True,False,17974,3852,Navy-Marine Corps Memorial Stadium,150,Duke,2116,UCF,30,13
+401442030,2022,postseason,1,2022-12-28 22:30:00+00:00,True,True,False,52847,3805,Simmons Bank Liberty Stadium,8,Arkansas,2305,Kansas,55,53
+401470891,2022,postseason,1,2022-12-29 01:00:00+00:00,True,True,False,36242,4205,Petco Park,153,North Carolina,2483,Oregon,27,28
+401442031,2022,postseason,1,2022-12-29 02:00:00+00:00,True,True,False,53251,3891,NRG Stadium,145,Ole Miss,2641,Texas Tech,25,42
+401442032,2022,postseason,1,2022-12-29 19:00:00+00:00,True,True,False,31131,4102,Yankee Stadium,135,Minnesota,183,Syracuse,28,20
+401442033,2022,postseason,1,2022-12-29 22:30:00+00:00,True,True,False,61520,4013,Camping World Stadium,52,Florida State,201,Oklahoma,35,32
+401442034,2022,postseason,1,2022-12-30 02:00:00+00:00,True,True,False,62730,3604,Alamodome,264,Washington,251,Texas,27,20
+401442035,2022,postseason,1,2022-12-30 17:00:00+00:00,True,True,False,37228,3628,Bank of America Stadium,152,NC State,120,Maryland,12,16
+401443542,2022,postseason,1,2022-12-30 19:00:00+00:00,True,True,False,41104,3946,Sun Bowl,26,UCLA,221,Pittsburgh,35,37
+401442036,2022,postseason,1,2022-12-30 20:30:00+00:00,True,True,False,67383,3712,EverBank Stadium,2579,South Carolina,87,Notre Dame,38,45
+401443543,2022,postseason,1,2022-12-30 21:30:00+00:00,True,True,False,27691,3619,Arizona Stadium,2751,Wyoming,195,Ohio,27,30
+401442019,2022,postseason,1,2022-12-31 01:00:00+00:00,True,True,False,63912,3948,Hard Rock Stadium,228,Clemson,2633,Tennessee,14,31
+401442017,2022,postseason,1,2022-12-31 17:00:00+00:00,True,True,False,,3810,Nissan Stadium,96,Kentucky,2294,Iowa,0,21
+401442018,2022,postseason,1,2022-12-31 17:00:00+00:00,True,True,False,60437,3493,Caesars Superdome,2306,Kansas State,333,Alabama,20,45
+401442016,2022,postseason,1,2022-12-31 21:00:00+00:00,True,True,False,71723,3970,State Farm Stadium,130,Michigan,2628,TCU,45,51
+401442015,2022,postseason,1,2023-01-01 01:00:00+00:00,True,True,False,79330,5348,Mercedes-Benz Stadium,61,Georgia,194,Ohio State,42,41
+401442011,2022,postseason,1,2023-01-02 17:00:00+00:00,True,True,False,35797,3886,Raymond James Stadium,356,Illinois,344,Mississippi State,10,19
+401442012,2022,postseason,1,2023-01-02 18:00:00+00:00,True,True,False,42791,4013,Camping World Stadium,2509,Purdue,99,LSU,7,63
+401442013,2022,postseason,1,2023-01-02 18:00:00+00:00,True,True,False,55329,3687,AT&T Stadium,30,USC,2655,Tulane,45,46
+401442014,2022,postseason,1,2023-01-02 22:00:00+00:00,True,True,False,94873,1056,Rose Bowl,254,Utah,213,Penn State,21,35
+401442010,2022,postseason,1,2023-01-10 00:30:00+00:00,True,True,False,72628,7065,SoFi Stadium,61,Georgia,2628,TCU,65,7

@@ -1,0 +1,41 @@
+game_id,season,season_type,week,start_date,completed,neutral_site,conference_game,attendance,venue_id,venue,home_team_id,home_team,away_team_id,away_team,home_points,away_points
+401135260,2019,postseason,1,2019-12-20 19:00:00+00:00,True,True,False,13547,4779,Thomas A. Robinson National Stadium,2429,Charlotte,2084,Buffalo,9,31
+401135261,2019,postseason,1,2019-12-21 00:30:00+00:00,True,True,False,12120,1400,Toyota Stadium,2309,Kent State,328,Utah State,51,41
+401135263,2019,postseason,1,2019-12-21 19:00:00+00:00,True,True,False,18823,3971,University Stadium (NM),21,San Diego State,2117,Central Michigan,48,11
+401147693,2019,postseason,1,2019-12-21 19:30:00+00:00,True,True,False,18158,5403,Orlando City Stadium,290,Georgia Southern,2335,Liberty,16,23
+401135264,2019,postseason,1,2019-12-21 20:30:00+00:00,True,False,False,23187,3715,FAU Stadium,2226,Florida Atlantic,2567,SMU,52,28
+401135265,2019,postseason,1,2019-12-21 22:30:00+00:00,True,True,False,16209,3689,Cramton Bowl,2032,Arkansas State,2229,Florida International,34,26
+401135266,2019,postseason,1,2019-12-22 00:30:00+00:00,True,True,False,34197,3914,Sam Boyd Stadium,264,Washington,68,Boise State,38,7
+401135267,2019,postseason,1,2019-12-22 02:00:00+00:00,True,True,False,21202,3493,Caesars Superdome,5,UAB,2026,App State,17,31
+401135268,2019,postseason,1,2019-12-23 19:30:00+00:00,True,True,False,28987,3886,Raymond James Stadium,276,Marshall,2116,UCF,25,48
+401135269,2019,postseason,1,2019-12-25 01:00:00+00:00,True,True,False,21582,3610,Aloha Stadium,252,BYU,62,Hawai'i,34,38
+401135270,2019,postseason,1,2019-12-26 21:00:00+00:00,True,True,False,33129,3766,Independence Stadium,2390,Miami,2348,Louisiana Tech,0,14
+401135271,2019,postseason,1,2019-12-27 01:00:00+00:00,True,True,False,34765,3727,Ford Field,2199,Eastern Michigan,221,Pittsburgh,30,34
+401135272,2019,postseason,1,2019-12-27 17:00:00+00:00,True,True,False,24242,3852,Navy-Marine Corps Memorial Stadium,218,Temple,153,North Carolina,13,55
+401135273,2019,postseason,1,2019-12-27 20:20:00+00:00,True,True,False,36895,4102,Yankee Stadium,154,Wake Forest,127,Michigan State,21,27
+401135274,2019,postseason,1,2019-12-27 23:45:00+00:00,True,True,False,68415,3891,NRG Stadium,245,Texas A&M,197,Oklahoma State,24,21
+401136253,2019,postseason,1,2019-12-28 01:00:00+00:00,True,True,False,50123,3932,Qualcomm Stadium,2294,Iowa,30,USC,49,24
+401135275,2019,postseason,1,2019-12-28 03:15:00+00:00,True,True,False,34105,4251,Chase Field,265,Washington State,2005,Air Force,21,31
+401135276,2019,postseason,1,2019-12-28 17:00:00+00:00,True,True,False,46948,4013,Camping World Stadium,66,Iowa State,87,Notre Dame,9,33
+401135277,2019,postseason,1,2019-12-28 17:00:00+00:00,True,True,False,54828,3687,AT&T Stadium,213,Penn State,235,Memphis,53,39
+401135278,2019,postseason,1,2019-12-28 21:20:00+00:00,True,True,False,78347,5348,Mercedes-Benz Stadium,99,LSU,201,Oklahoma,63,28
+401135279,2019,postseason,1,2019-12-29 01:20:00+00:00,True,True,False,71330,3970,State Farm Stadium,194,Ohio State,228,Clemson,23,29
+401135280,2019,postseason,1,2019-12-30 17:30:00+00:00,True,True,False,13164,3735,Gerald J. Ford Stadium,2711,Western Michigan,98,Western Kentucky,20,23
+401135281,2019,postseason,1,2019-12-30 21:00:00+00:00,True,True,False,46850,3810,Nissan Stadium,97,Louisville,344,Mississippi State,38,28
+401136254,2019,postseason,1,2019-12-30 21:00:00+00:00,True,True,False,34177,4738,Levi's Stadium,356,Illinois,25,California,20,35
+401135282,2019,postseason,1,2019-12-31 01:00:00+00:00,True,True,False,65157,3948,Hard Rock Stadium,258,Virginia,57,Florida,28,36
+401135283,2019,postseason,1,2019-12-31 17:00:00+00:00,True,True,False,44138,3628,Bank of America Stadium,96,Kentucky,259,Virginia Tech,37,30
+401136255,2019,postseason,1,2019-12-31 19:00:00+00:00,True,True,False,42412,3946,Sun Bowl,9,Arizona State,52,Florida State,20,14
+401135284,2019,postseason,1,2019-12-31 20:45:00+00:00,True,True,False,50515,3805,Simmons Bank Liberty Stadium,2306,Kansas State,2426,Navy,17,20
+401147695,2019,postseason,1,2019-12-31 21:30:00+00:00,True,True,False,36892,3619,Arizona Stadium,2247,Georgia State,2751,Wyoming,17,38
+401135285,2019,postseason,1,2020-01-01 00:30:00+00:00,True,True,False,60147,3604,Alamodome,251,Texas,254,Utah,38,10
+401135287,2019,postseason,1,2020-01-01 18:00:00+00:00,True,True,False,45652,3886,Raymond James Stadium,2,Auburn,135,Minnesota,24,31
+401135286,2019,postseason,1,2020-01-01 18:00:00+00:00,True,True,False,59746,4013,Camping World Stadium,333,Alabama,130,Michigan,35,16
+401135288,2019,postseason,1,2020-01-01 22:10:00+00:00,True,True,False,90462,1056,Rose Bowl,275,Wisconsin,2483,Oregon,27,28
+401135289,2019,postseason,1,2020-01-02 01:45:00+00:00,True,True,False,55211,3493,Caesars Superdome,239,Baylor,61,Georgia,14,26
+401135290,2019,postseason,1,2020-01-02 20:00:00+00:00,True,True,False,27193,3803,Legion Field,2132,Cincinnati,103,Boston College,38,6
+401135291,2019,postseason,1,2020-01-03 00:00:00+00:00,True,True,False,61789,3712,EverBank Stadium,2633,Tennessee,84,Indiana,23,22
+401135292,2019,postseason,1,2020-01-03 20:30:00+00:00,True,True,False,13611,3653,Albertsons Stadium,2440,Nevada,195,Ohio,21,30
+401135293,2019,postseason,1,2020-01-04 16:30:00+00:00,True,True,False,38513,3616,Amon G. Carter Stadium,2655,Tulane,2572,Southern Miss,30,13
+401135294,2019,postseason,1,2020-01-07 00:30:00+00:00,True,True,False,29212,3797,Ladd Peebles Stadium,193,Miami (OH),309,Louisiana,17,27
+401135295,2019,postseason,1,2020-01-14 01:00:00+00:00,True,True,False,76885,3493,Caesars Superdome,99,LSU,228,Clemson,42,25

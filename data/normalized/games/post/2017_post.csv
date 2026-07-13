@@ -1,0 +1,41 @@
+game_id,season,season_type,week,start_date,completed,neutral_site,conference_game,attendance,venue_id,venue,home_team_id,home_team,away_team_id,away_team,home_points,away_points
+400953322,2017,postseason,1,2017-12-16 18:00:00+00:00,True,True,False,24904,3493,Caesars Superdome,249,North Texas,2653,Troy,30,50
+400953409,2017,postseason,1,2017-12-16 19:30:00+00:00,True,True,False,19585,4013,Camping World Stadium,2247,Georgia State,98,Western Kentucky,27,17
+400953323,2017,postseason,1,2017-12-16 20:30:00+00:00,True,True,False,36432,3914,Sam Boyd Stadium,2483,Oregon,68,Boise State,28,38
+400953324,2017,postseason,1,2017-12-16 21:30:00+00:00,True,True,False,26087,3971,University Stadium (NM),36,Colorado State,276,Marshall,28,31
+400953325,2017,postseason,1,2017-12-17 01:00:00+00:00,True,True,False,0,3689,Cramton Bowl,2032,Arkansas State,2393,Middle Tennessee,30,35
+400953386,2017,postseason,1,2017-12-20 00:00:00+00:00,True,False,False,25912,3715,FAU Stadium,2226,Florida Atlantic,2006,Akron,50,3
+400954523,2017,postseason,1,2017-12-21 01:00:00+00:00,True,True,False,0,1400,Toyota Stadium,2567,SMU,2348,Louisiana Tech,10,51
+400953387,2017,postseason,1,2017-12-22 01:00:00+00:00,True,True,False,16363,4113,Tropicana Field,2229,Florida International,218,Temple,3,28
+400953388,2017,postseason,1,2017-12-22 17:30:00+00:00,True,True,False,13585,4779,Thomas A. Robinson National Stadium,195,Ohio,5,UAB,41,6
+400953389,2017,postseason,1,2017-12-22 21:00:00+00:00,True,True,False,16512,3653,Albertsons Stadium,2751,Wyoming,2117,Central Michigan,37,14
+400953390,2017,postseason,1,2017-12-23 17:00:00+00:00,True,True,False,28623,3803,Legion Field,58,South Florida,2641,Texas Tech,38,34
+400953391,2017,postseason,1,2017-12-23 20:30:00+00:00,True,True,False,35986,3616,Amon G. Carter Stadium,349,Army,21,San Diego State,42,35
+400953392,2017,postseason,1,2017-12-24 00:00:00+00:00,True,True,False,28706,3797,Ladd Peebles Stadium,2649,Toledo,2026,App State,0,34
+400953393,2017,postseason,1,2017-12-25 01:30:00+00:00,True,True,False,20546,3610,Aloha Stadium,248,Houston,278,Fresno State,27,33
+400953395,2017,postseason,1,2017-12-26 18:30:00+00:00,True,True,False,20507,499,Cotton Bowl,277,West Virginia,254,Utah,14,30
+400953394,2017,postseason,1,2017-12-26 22:15:00+00:00,True,True,False,20211,3727,Ford Field,2459,Northern Illinois,150,Duke,14,36
+400953396,2017,postseason,1,2017-12-27 02:00:00+00:00,True,True,False,32859,4251,Chase Field,26,UCLA,2306,Kansas State,17,35
+400953397,2017,postseason,1,2017-12-27 18:30:00+00:00,True,True,False,33601,3766,Independence Stadium,52,Florida State,2572,Southern Miss,42,13
+400953398,2017,postseason,1,2017-12-27 22:15:00+00:00,True,True,False,37667,4102,Yankee Stadium,103,Boston College,2294,Iowa,20,27
+400959398,2017,postseason,1,2017-12-28 01:30:00+00:00,True,True,False,28436,4738,Levi's Stadium,2509,Purdue,12,Arizona,38,35
+400953399,2017,postseason,1,2017-12-28 02:00:00+00:00,True,True,False,67820,3891,NRG Stadium,142,Missouri,251,Texas,16,33
+400953400,2017,postseason,1,2017-12-28 18:30:00+00:00,True,False,False,35921,3852,Navy-Marine Corps Memorial Stadium,2426,Navy,258,Virginia,49,7
+400953416,2017,postseason,1,2017-12-28 22:15:00+00:00,True,True,False,39610,4013,Camping World Stadium,197,Oklahoma State,259,Virginia Tech,30,21
+400959397,2017,postseason,1,2017-12-29 02:00:00+00:00,True,True,False,47092,3932,Qualcomm Stadium,127,Michigan State,265,Washington State,42,17
+400953401,2017,postseason,1,2017-12-29 02:00:00+00:00,True,True,False,57653,3604,Alamodome,2628,TCU,24,Stanford,39,37
+400953402,2017,postseason,1,2017-12-29 18:00:00+00:00,True,True,False,32784,3628,Bank of America Stadium,245,Texas A&M,154,Wake Forest,52,55
+400953417,2017,postseason,1,2017-12-29 20:25:00+00:00,True,True,False,39897,3946,Sun Bowl,9,Arizona State,152,NC State,31,52
+400953403,2017,postseason,1,2017-12-29 21:30:00+00:00,True,True,False,48675,3810,Nissan Stadium,77,Northwestern,96,Kentucky,24,23
+400966332,2017,postseason,1,2017-12-29 22:30:00+00:00,True,True,False,39132,3619,Arizona Stadium,328,Utah State,166,New Mexico State,20,26
+400953404,2017,postseason,1,2017-12-30 01:30:00+00:00,True,True,False,67510,3687,AT&T Stadium,194,Ohio State,30,USC,24,7
+400953405,2017,postseason,1,2017-12-30 17:00:00+00:00,True,True,False,41310,3712,EverBank Stadium,344,Mississippi State,97,Louisville,31,27
+400953406,2017,postseason,1,2017-12-30 17:30:00+00:00,True,False,False,57266,3805,Simmons Bank Liberty Stadium,235,Memphis,66,Iowa State,20,21
+400953407,2017,postseason,1,2017-12-30 21:00:00+00:00,True,True,False,61842,3970,State Farm Stadium,213,Penn State,264,Washington,35,28
+400953408,2017,postseason,1,2017-12-31 01:00:00+00:00,True,False,False,65032,3948,Hard Rock Stadium,2390,Miami,275,Wisconsin,24,34
+400953410,2017,postseason,1,2018-01-01 17:00:00+00:00,True,True,False,45687,3886,Raymond James Stadium,2579,South Carolina,130,Michigan,26,19
+400953411,2017,postseason,1,2018-01-01 17:30:00+00:00,True,True,False,71109,5348,Mercedes-Benz Stadium,2,Auburn,2116,UCF,27,34
+400953414,2017,postseason,1,2018-01-01 18:00:00+00:00,True,True,False,57726,4013,Camping World Stadium,99,LSU,87,Notre Dame,17,21
+400953412,2017,postseason,1,2018-01-01 22:00:00+00:00,True,True,False,92844,1056,Rose Bowl,201,Oklahoma,61,Georgia,48,54
+400953413,2017,postseason,1,2018-01-02 02:00:00+00:00,True,True,False,72360,3493,Caesars Superdome,228,Clemson,333,Alabama,6,24
+400953415,2017,postseason,1,2018-01-09 01:00:00+00:00,True,True,True,77430,5348,Mercedes-Benz Stadium,61,Georgia,333,Alabama,23,26

@@ -1,0 +1,47 @@
+game_id,season,season_type,week,start_date,completed,neutral_site,conference_game,attendance,venue_id,venue,home_team_id,home_team,away_team_id,away_team,home_points,away_points
+401677077,2024,postseason,1,2024-12-15 02:00:00+00:00,True,True,False,12021,3689,Cramton Bowl,2711,Western Michigan,6,South Alabama,23,30
+401677080,2024,postseason,1,2024-12-18 02:00:00+00:00,True,True,False,12022,1400,Toyota Stadium,277,West Virginia,235,Memphis,37,42
+401677079,2024,postseason,1,2024-12-18 22:30:00+00:00,True,True,False,15808,3715,FAU Stadium,256,James Madison,98,Western Kentucky,27,17
+401677081,2024,postseason,1,2024-12-19 02:00:00+00:00,True,True,False,24420,7065,SoFi Stadium,2439,UNLV,25,California,24,13
+401677082,2024,postseason,1,2024-12-20 00:00:00+00:00,True,True,False,13151,3493,Caesars Superdome,2534,Sam Houston,290,Georgia Southern,31,26
+401677083,2024,postseason,1,2024-12-20 17:00:00+00:00,True,True,False,10518,4013,Camping World Stadium,55,Jacksonville State,195,Ohio,27,30
+401677084,2024,postseason,1,2024-12-20 20:30:00+00:00,True,True,False,41472,3886,Raymond James Stadium,57,Florida,2655,Tulane,33,8
+401677179,2024,postseason,1,2024-12-21 01:00:00+00:00,True,False,False,77622,3855,Notre Dame Stadium,87,Notre Dame,84,Indiana,27,17
+401677178,2024,postseason,1,2024-12-21 17:00:00+00:00,True,False,False,106013,3632,Beaver Stadium,213,Penn State,2567,SMU,38,10
+401677176,2024,postseason,1,2024-12-21 21:00:00+00:00,True,False,False,101150,3910,DKR-Texas Memorial Stadium,251,Texas,228,Clemson,38,24
+401677177,2024,postseason,1,2024-12-22 01:00:00+00:00,True,False,False,102819,3861,Ohio Stadium,194,Ohio State,2633,Tennessee,42,17
+401677085,2024,postseason,1,2024-12-23 16:00:00+00:00,True,False,False,8164,3654,Brooks Stadium (SC),2636,UTSA,324,Coastal Carolina,44,15
+401677086,2024,postseason,1,2024-12-23 19:30:00+00:00,True,True,False,10359,3653,Albertsons Stadium,278,Fresno State,2459,Northern Illinois,20,28
+401677087,2024,postseason,1,2024-12-25 01:00:00+00:00,True,True,False,6720,7220,Clarence T.C. Ching Athletics Complex,23,San José State,58,South Florida,39,41
+401677180,2024,postseason,1,2024-12-26 19:00:00+00:00,True,True,False,26219,3727,Ford Field,2649,Toledo,221,Pittsburgh,48,46
+401677088,2024,postseason,1,2024-12-26 22:30:00+00:00,True,True,False,21659,4251,Chase Field,2306,Kansas State,164,Rutgers,44,41
+401677089,2024,postseason,1,2024-12-27 02:00:00+00:00,True,True,False,19582,6526,Hancock Whitney Stadium,189,Bowling Green,2032,Arkansas State,31,38
+401677090,2024,postseason,1,2024-12-27 17:00:00+00:00,True,True,False,50754,3616,Amon G. Carter Stadium,2426,Navy,201,Oklahoma,21,20
+401677091,2024,postseason,1,2024-12-27 20:30:00+00:00,True,True,False,33840,7221,Protective Stadium,238,Vanderbilt,59,Georgia Tech,35,27
+401677092,2024,postseason,1,2024-12-28 00:00:00+00:00,True,True,False,37764,3805,Simmons Bank Liberty Stadium,8,Arkansas,2641,Texas Tech,39,26
+401729867,2024,postseason,1,2024-12-28 01:00:00+00:00,True,True,False,23920,7311,Snapdragon Stadium,265,Washington State,183,Syracuse,35,52
+401677093,2024,postseason,1,2024-12-28 03:30:00+00:00,True,True,False,26671,6501,Allegiant Stadium,30,USC,245,Texas A&M,35,31
+401677094,2024,postseason,1,2024-12-28 16:00:00+00:00,True,True,False,27900,4245,Fenway Park,153,North Carolina,41,UConn,14,27
+401677095,2024,postseason,1,2024-12-28 17:00:00+00:00,True,True,False,30062,4102,Yankee Stadium,158,Nebraska,103,Boston College,20,15
+401677096,2024,postseason,1,2024-12-28 19:15:00+00:00,True,True,False,22827,3971,University Stadium (NM),2628,TCU,309,Louisiana,34,3
+401677097,2024,postseason,1,2024-12-28 20:30:00+00:00,True,True,False,38650,4013,Camping World Stadium,2390,Miami,66,Iowa State,41,42
+401677188,2024,postseason,1,2024-12-28 21:30:00+00:00,True,True,False,40076,3619,Arizona Stadium,36,Colorado State,193,Miami (OH),17,43
+401677098,2024,postseason,1,2024-12-28 22:45:00+00:00,True,True,False,23981,3852,Navy-Marine Corps Memorial Stadium,152,NC State,151,East Carolina,21,26
+401677099,2024,postseason,1,2024-12-29 00:30:00+00:00,True,True,False,64261,3604,Alamodome,38,Colorado,252,BYU,14,36
+401677100,2024,postseason,1,2024-12-29 02:15:00+00:00,True,True,False,34283,3766,Independence Stadium,349,Army,2348,Louisiana Tech,27,6
+401677101,2024,postseason,1,2024-12-30 19:30:00+00:00,True,True,False,43375,3810,Nissan Stadium,142,Missouri,2294,Iowa,27,24
+401677102,2024,postseason,1,2024-12-31 17:00:00+00:00,True,True,False,51439,3886,Raymond James Stadium,130,Michigan,333,Alabama,19,13
+401677190,2024,postseason,1,2024-12-31 19:00:00+00:00,True,True,False,40826,3946,Sun Bowl,264,Washington,97,Louisville,34,35
+401677103,2024,postseason,1,2024-12-31 20:00:00+00:00,True,True,False,47129,4013,Camping World Stadium,356,Illinois,2579,South Carolina,21,17
+401677104,2024,postseason,1,2024-12-31 20:30:00+00:00,True,True,False,59940,3891,NRG Stadium,99,LSU,239,Baylor,44,31
+401677181,2024,postseason,1,2025-01-01 00:30:00+00:00,True,True,False,63854,3970,State Farm Stadium,68,Boise State,213,Penn State,14,31
+401677182,2024,postseason,1,2025-01-01 18:00:00+00:00,True,True,False,71105,5348,Mercedes-Benz Stadium,9,Arizona State,251,Texas,31,39
+401677183,2024,postseason,1,2025-01-01 22:00:00+00:00,True,True,False,90732,1056,Rose Bowl,2483,Oregon,194,Ohio State,21,41
+401677184,2024,postseason,1,2025-01-02 21:00:00+00:00,True,True,False,57267,3493,Caesars Superdome,61,Georgia,87,Notre Dame,10,23
+401677105,2024,postseason,1,2025-01-03 01:00:00+00:00,True,True,False,31290,3712,EverBank Stadium,145,Ole Miss,150,Duke,52,20
+401677106,2024,postseason,1,2025-01-03 21:00:00+00:00,True,True,False,28725,3735,Gerald J. Ford Stadium,326,Texas State,249,North Texas,30,28
+401677107,2024,postseason,1,2025-01-04 00:30:00+00:00,True,True,False,31027,3628,Bank of America Stadium,259,Virginia Tech,135,Minnesota,10,24
+401677108,2024,postseason,1,2025-01-04 16:00:00+00:00,True,True,False,4610,4779,Thomas A. Robinson National Stadium,2335,Liberty,2084,Buffalo,7,26
+401677189,2024,postseason,1,2025-01-10 00:30:00+00:00,True,True,False,66881,3948,Hard Rock Stadium,213,Penn State,87,Notre Dame,24,27
+401677191,2024,postseason,1,2025-01-11 00:30:00+00:00,True,True,False,74527,3687,AT&T Stadium,251,Texas,194,Ohio State,14,28
+401677192,2024,postseason,1,2025-01-21 00:30:00+00:00,True,True,False,77660,5348,Mercedes-Benz Stadium,87,Notre Dame,194,Ohio State,23,34

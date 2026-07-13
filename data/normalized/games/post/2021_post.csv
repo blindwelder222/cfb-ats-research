@@ -1,0 +1,39 @@
+game_id,season,season_type,week,start_date,completed,neutral_site,conference_game,attendance,venue_id,venue,home_team_id,home_team,away_team_id,away_team,home_points,away_points
+401331164,2021,postseason,1,2021-12-17 17:00:00+00:00,True,True,False,13596,4779,Thomas A. Robinson National Stadium,2649,Toledo,2393,Middle Tennessee,24,31
+401331165,2021,postseason,1,2021-12-17 23:00:00+00:00,True,True,False,9784,5403,Orlando City Stadium,324,Coastal Carolina,2459,Northern Illinois,47,41
+401331166,2021,postseason,1,2021-12-18 16:00:00+00:00,True,True,False,15429,3715,FAU Stadium,2026,App State,98,Western Kentucky,38,59
+401331167,2021,postseason,1,2021-12-18 19:15:00+00:00,True,True,False,16422,3971,University Stadium (NM),278,Fresno State,2638,UTEP,31,24
+401331168,2021,postseason,1,2021-12-18 20:30:00+00:00,True,True,False,26276,3766,Independence Stadium,252,BYU,5,UAB,28,31
+401331169,2021,postseason,1,2021-12-18 22:45:00+00:00,True,True,False,15186,6526,Hancock Whitney Stadium,2335,Liberty,2199,Eastern Michigan,56,20
+401331170,2021,postseason,1,2021-12-19 00:30:00+00:00,True,True,False,29896,7065,SoFi Stadium,204,Oregon State,328,Utah State,13,24
+401331171,2021,postseason,1,2021-12-19 02:15:00+00:00,True,True,False,21642,3493,Caesars Superdome,276,Marshall,309,Louisiana,21,36
+401331172,2021,postseason,1,2021-12-20 19:30:00+00:00,True,True,False,6557,3654,Brooks Stadium (SC),202,Tulsa,295,Old Dominion,30,17
+401331213,2021,postseason,1,2021-12-21 20:30:00+00:00,True,True,False,10217,3653,Albertsons Stadium,2751,Wyoming,2309,Kent State,52,38
+401331214,2021,postseason,1,2021-12-22 00:30:00+00:00,True,True,False,15801,1400,Toyota Stadium,21,San Diego State,2636,UTSA,38,24
+401331215,2021,postseason,1,2021-12-23 01:00:00+00:00,True,True,False,34888,3616,Amon G. Carter Stadium,349,Army,142,Missouri,24,22
+401391158,2021,postseason,1,2021-12-23 20:30:00+00:00,True,True,False,11721,1400,Toyota Stadium,193,Miami (OH),249,North Texas,27,14
+401331216,2021,postseason,1,2021-12-24 00:00:00+00:00,True,True,False,63669,3886,Raymond James Stadium,57,Florida,2116,UCF,17,29
+401331218,2021,postseason,1,2021-12-25 19:30:00+00:00,True,True,False,4200,3689,Cramton Bowl,2050,Ball State,2247,Georgia State,20,51
+401331219,2021,postseason,1,2021-12-27 16:00:00+00:00,True,True,False,22321,3727,Ford Field,2440,Nevada,2711,Western Michigan,24,52
+401331221,2021,postseason,1,2021-12-28 17:00:00+00:00,True,True,False,47100,7221,Protective Stadium,2,Auburn,248,Houston,13,17
+401331222,2021,postseason,1,2021-12-28 20:15:00+00:00,True,True,False,15251,3735,Gerald J. Ford Stadium,97,Louisville,2005,Air Force,28,31
+401331223,2021,postseason,1,2021-12-28 23:45:00+00:00,True,True,False,48615,3805,Simmons Bank Liberty Stadium,2641,Texas Tech,344,Mississippi State,34,7
+401331224,2021,postseason,1,2021-12-29 03:15:00+00:00,True,True,False,21220,4251,Chase Field,135,Minnesota,277,West Virginia,18,6
+401331226,2021,postseason,1,2021-12-29 19:15:00+00:00,True,True,False,29653,4102,Yankee Stadium,259,Virginia Tech,120,Maryland,10,54
+401331227,2021,postseason,1,2021-12-29 22:45:00+00:00,True,True,False,39051,4013,Camping World Stadium,66,Iowa State,228,Clemson,13,20
+401331228,2021,postseason,1,2021-12-30 02:15:00+00:00,True,True,False,59121,3604,Alamodome,201,Oklahoma,2483,Oregon,47,32
+401331229,2021,postseason,1,2021-12-30 16:30:00+00:00,True,True,False,45520,3628,Bank of America Stadium,2579,South Carolina,153,North Carolina,38,21
+401331230,2021,postseason,1,2021-12-30 20:00:00+00:00,True,True,False,69489,3810,Nissan Stadium,2509,Purdue,2633,Tennessee,48,45
+401331231,2021,postseason,1,2021-12-31 00:00:00+00:00,True,True,False,41230,5348,Mercedes-Benz Stadium,127,Michigan State,221,Pittsburgh,31,21
+401331232,2021,postseason,1,2021-12-31 03:30:00+00:00,True,True,False,32515,6501,Allegiant Stadium,9,Arizona State,275,Wisconsin,13,20
+401331233,2021,postseason,1,2021-12-31 16:00:00+00:00,True,True,False,28508,3712,EverBank Stadium,164,Rutgers,154,Wake Forest,10,38
+401331654,2021,postseason,1,2021-12-31 17:00:00+00:00,True,True,False,34540,3946,Sun Bowl,2117,Central Michigan,265,Washington State,24,21
+401331235,2021,postseason,1,2021-12-31 20:30:00+00:00,True,True,False,76313,3687,AT&T Stadium,333,Alabama,2132,Cincinnati,27,6
+401331234,2021,postseason,1,2022-01-01 00:30:00+00:00,True,True,False,66839,3948,Hard Rock Stadium,130,Michigan,61,Georgia,11,34
+401331236,2021,postseason,1,2022-01-01 17:00:00+00:00,True,True,False,46577,3886,Raymond James Stadium,8,Arkansas,213,Penn State,24,10
+401331237,2021,postseason,1,2022-01-01 18:00:00+00:00,True,True,False,50769,4013,Camping World Stadium,96,Kentucky,2294,Iowa,20,17
+401331238,2021,postseason,1,2022-01-01 18:00:00+00:00,True,True,False,49550,3970,State Farm Stadium,87,Notre Dame,197,Oklahoma State,35,37
+401331239,2021,postseason,1,2022-01-01 22:00:00+00:00,True,True,False,87842,1056,Rose Bowl,194,Ohio State,254,Utah,48,45
+401331240,2021,postseason,1,2022-01-02 01:45:00+00:00,True,True,False,66479,3493,Caesars Superdome,145,Ole Miss,239,Baylor,7,21
+401331241,2021,postseason,1,2022-01-05 02:00:00+00:00,True,True,False,52207,3891,NRG Stadium,2306,Kansas State,99,LSU,42,20
+401331242,2021,postseason,1,2022-01-11 01:00:00+00:00,True,True,False,68311,3812,Lucas Oil Stadium,333,Alabama,61,Georgia,18,33
