@@ -1,0 +1,846 @@
+game_id,season,season_type,week,start_date,completed,neutral_site,conference_game,attendance,venue_id,venue,home_team_id,home_team,away_team_id,away_team,home_points,away_points
+401013357,2018,regular,1,2018-08-25 21:30:00+00:00,True,False,False,8684,3985,Warren McGuirk Alumni Stadium,113,Massachusetts,2184,Duquesne,63,15
+401014972,2018,regular,1,2018-08-25 23:00:00+00:00,True,False,False,20050,3895,Rice Stadium,242,Rice,2504,Prairie View A&M,31,28
+401022510,2018,regular,1,2018-08-25 23:30:00+00:00,True,False,True,31007,5388,Canvas Stadium,36,Colorado State,62,Hawai'i,34,43
+401013437,2018,regular,1,2018-08-26 02:00:00+00:00,True,False,False,20322,3601,Aggie Memorial Stadium,166,New Mexico State,2751,Wyoming,7,29
+401021651,2018,regular,1,2018-08-30 23:00:00+00:00,True,False,False,23088,4246,Center Parc Stadium,2247,Georgia State,338,Kennesaw State,24,20
+401020671,2018,regular,1,2018-08-30 23:00:00+00:00,True,False,False,9801,3919,Scheumann Stadium,2050,Ball State,2115,Central Connecticut,42,6
+401019470,2018,regular,1,2018-08-30 23:00:00+00:00,True,False,True,23081,3892,Pratt & Whitney Stadium,41,UConn,2116,UCF,17,56
+401013328,2018,regular,1,2018-08-30 23:00:00+00:00,True,False,False,41291,3953,Huntington Bank Stadium,135,Minnesota,166,New Mexico State,48,10
+401013086,2018,regular,1,2018-08-31 00:00:00+00:00,True,False,False,15478,4729,Yulman Stadium,2655,Tulane,154,Wake Forest,17,23
+401014979,2018,regular,1,2018-08-31 00:00:00+00:00,True,True,False,27124,3803,Legion Field,5,UAB,2542,Savannah St,52,0
+401012675,2018,regular,1,2018-08-31 00:00:00+00:00,True,False,False,45988,587,Rice-Eccles Stadium,254,Utah,2692,Weber State,41,10
+401013489,2018,regular,1,2018-08-31 00:00:00+00:00,True,False,False,50103,3646,Boone Pickens Stadium,197,Oklahoma State,2623,Missouri State,58,17
+401021655,2018,regular,1,2018-08-31 00:00:00+00:00,True,False,False,10137,3817,Malone Stadium,2433,UL Monroe,2545,SE Louisiana,34,31
+401013342,2018,regular,1,2018-08-31 00:00:00+00:00,True,False,True,47410,3907,Ross-Ade Stadium,2509,Purdue,77,Northwestern,27,31
+401012258,2018,regular,1,2018-08-31 00:30:00+00:00,True,False,False,95855,3795,Kyle Field,245,Texas A&M,2466,Northwestern State,59,7
+401022511,2018,regular,1,2018-08-31 02:00:00+00:00,True,False,False,12675,3935,CEFCU Stadium,23,San José State,302,UC Davis,38,44
+401020673,2018,regular,1,2018-08-31 22:00:00+00:00,True,False,False,20628,3980,Waldo Stadium,2711,Western Michigan,183,Syracuse,42,55
+401020672,2018,regular,1,2018-08-31 22:30:00+00:00,True,False,False,14357,3912,Rynearson Stadium,2199,Eastern Michigan,2405,Monmouth,51,17
+401012880,2018,regular,1,2018-08-31 23:00:00+00:00,True,False,False,73114,3936,Spartan Stadium,127,Michigan State,328,Utah State,38,31
+401013089,2018,regular,1,2018-08-31 23:00:00+00:00,True,False,False,26017,3982,Wallace Wade Stadium,150,Duke,349,Army,34,14
+401022512,2018,regular,1,2018-09-01 01:00:00+00:00,True,False,False,40913,3940,Stanford Stadium,24,Stanford,21,San Diego State,31,10
+401013354,2018,regular,1,2018-09-01 01:00:00+00:00,True,False,False,74145,347,Camp Randall Stadium,275,Wisconsin,98,Western Kentucky,34,3
+401022517,2018,regular,1,2018-09-01 01:00:00+00:00,True,False,False,17525,3816,Mackay Stadium,2440,Nevada,2502,Portland State,72,19
+401012680,2018,regular,1,2018-09-01 01:30:00+00:00,True,True,False,70158,3937,Sports Authority Field at Mile High,36,Colorado State,38,Colorado,13,45
+401019473,2018,regular,1,2018-09-01 16:00:00+00:00,True,False,False,32357,3806,Lincoln Financial Field,218,Temple,222,Villanova,17,19
+401013072,2018,regular,1,2018-09-01 16:00:00+00:00,True,False,False,42219,3616,Amon G. Carter Stadium,2628,TCU,2582,Southern,55,7
+401012872,2018,regular,1,2018-09-01 16:00:00+00:00,True,True,False,47641,3719,Northwest Stadium,120,Maryland,251,Texas,34,29
+401013091,2018,regular,1,2018-09-01 16:00:00+00:00,True,False,False,56073,3670,Carter-Finley Stadium,152,NC State,256,James Madison,24,13
+401013065,2018,regular,1,2018-09-01 16:00:00+00:00,True,False,False,86402,3835,"Memorial Stadium (Norman, OK)",201,Oklahoma,2226,Florida Atlantic,63,14
+401012682,2018,regular,1,2018-09-01 16:00:00+00:00,True,False,False,102169,3861,Ohio Stadium,194,Ohio State,204,Oregon State,77,31
+401012253,2018,regular,1,2018-09-01 16:00:00+00:00,True,True,False,40333,3891,NRG Stadium,2641,Texas Tech,145,Ole Miss,27,47
+401014977,2018,regular,1,2018-09-01 16:00:00+00:00,True,False,False,26390,3895,Rice Stadium,242,Rice,248,Houston,27,45
+401012804,2018,regular,1,2018-09-01 16:00:00+00:00,True,False,False,31898,3832,"Memorial Stadium (Champaign, IL)",356,Illinois,2309,Kent State,31,24
+401012820,2018,regular,1,2018-09-01 16:00:00+00:00,True,False,False,40124,3754,High Point Solutions Stadium,164,Rutgers,326,Texas State,35,7
+401012256,2018,regular,1,2018-09-01 16:00:00+00:00,True,False,False,75126,3994,Williams-Brice Stadium,2579,South Carolina,324,Coastal Carolina,49,15
+401013088,2018,regular,1,2018-09-01 16:20:00+00:00,True,False,False,80048,3836,"Memorial Stadium (Clemson, SC)",228,Clemson,231,Furman,48,7
+401013090,2018,regular,1,2018-09-01 16:30:00+00:00,True,False,False,39719,721,Bobby Dodd Stadium,59,Georgia Tech,2016,Alcorn State,41,0
+401013087,2018,regular,1,2018-09-01 17:00:00+00:00,True,False,False,30112,3615,"Alumni Stadium (Chestnut Hill, MA)",103,Boston College,113,Massachusetts,55,21
+401020675,2018,regular,1,2018-09-01 18:00:00+00:00,True,False,False,18275,3876,Peden Stadium,195,Ohio,47,Howard,38,32
+401022514,2018,regular,1,2018-09-01 18:00:00+00:00,True,False,False,33415,3713,Falcon Stadium,2005,Air Force,2619,Stony Brook,38,0
+401012248,2018,regular,1,2018-09-01 19:30:00+00:00,True,True,False,70103,5348,Mercedes-Benz Stadium,2,Auburn,264,Washington,21,16
+401013092,2018,regular,1,2018-09-01 19:30:00+00:00,True,False,False,34486,3752,Acrisure Stadium,221,Pittsburgh,399,UAlbany,33,7
+401012251,2018,regular,1,2018-09-01 19:30:00+00:00,True,False,False,49138,3683,Kroger Field,96,Kentucky,2117,Central Michigan,35,20
+401012250,2018,regular,1,2018-09-01 19:30:00+00:00,True,False,False,92746,3917,Sanford Stadium,61,Georgia,2046,Austin Peay,45,0
+401013349,2018,regular,1,2018-09-01 19:30:00+00:00,True,False,False,105232,3632,Beaver Stadium,213,Penn State,2026,App State,45,38
+401012683,2018,regular,1,2018-09-01 19:30:00+00:00,True,False,False,24131,3984,War Memorial Stadium,2751,Wyoming,265,Washington State,19,41
+401012257,2018,regular,1,2018-09-01 19:30:00+00:00,True,True,False,66793,3628,Bank of America Stadium,2633,Tennessee,277,West Virginia,14,40
+401012862,2018,regular,1,2018-09-01 19:40:00+00:00,True,False,False,67510,3793,Kinnick Stadium,2294,Iowa,2459,Northern Illinois,33,7
+401012255,2018,regular,1,2018-09-01 20:00:00+00:00,True,False,False,44019,3838,Memorial Stadium,142,Missouri,2630,UT Martin,51,14
+401012247,2018,regular,1,2018-09-01 20:00:00+00:00,True,False,False,63342,3887,Razorback Stadium,8,Arkansas,2197,Eastern Illinois,55,20
+401012678,2018,regular,1,2018-09-01 20:00:00+00:00,True,False,False,58708,477,Los Angeles Memorial Coliseum,30,USC,2439,UNLV,43,21
+401012684,2018,regular,1,2018-09-01 20:00:00+00:00,True,False,False,42168,3831,California Memorial Stadium,25,California,153,North Carolina,24,17
+401013448,2018,regular,1,2018-09-01 22:00:00+00:00,True,False,False,20425,3992,Williams Stadium (VA),2335,Liberty,295,Old Dominion,52,10
+401020674,2018,regular,1,2018-09-01 22:00:00+00:00,True,False,False,17959,3965,UB Stadium,2084,Buffalo,2169,Delaware State,48,10
+401013094,2018,regular,1,2018-09-01 22:00:00+00:00,True,False,False,40524,3923,Scott Stadium,258,Virginia,257,Richmond,42,13
+401021656,2018,regular,1,2018-09-01 22:00:00+00:00,True,False,False,29612,3975,Veterans Memorial Stadium (AL),2653,Troy,68,Boise State,20,56
+401021653,2018,regular,1,2018-09-01 22:00:00+00:00,True,False,False,15260,3608,Allen E. Paulson Stadium,290,Georgia Southern,2569,South Carolina State,37,6
+401019472,2018,regular,1,2018-09-01 22:00:00+00:00,True,False,False,31217,3886,Raymond James Stadium,58,South Florida,2210,Elon,34,14
+401014975,2018,regular,1,2018-09-01 22:00:00+00:00,True,False,False,15827,3996,Yager Stadium,193,Miami (OH),276,Marshall,28,35
+401014973,2018,regular,1,2018-09-01 22:00:00+00:00,True,False,False,9240,4418,Jerry Richardson Stadium,2429,Charlotte,2230,Fordham,34,10
+401013057,2018,regular,1,2018-09-01 23:00:00+00:00,True,False,False,50063,3636,Bill Snyder Family Stadium,2306,Kansas State,233,South Dakota,27,24
+401013048,2018,regular,1,2018-09-01 23:00:00+00:00,True,False,False,24305,3833,Memorial Stadium,2305,Kansas,2447,Nicholls,23,26
+401014978,2018,regular,1,2018-09-01 23:00:00+00:00,True,False,False,29176,3815,M. M. Roberts Stadium,2572,Southern Miss,2296,Jackson State,55,7
+401020676,2018,regular,1,2018-09-01 23:00:00+00:00,True,False,False,24136,3739,Glass Bowl,2649,Toledo,2678,VMI,66,3
+401019476,2018,regular,1,2018-09-01 23:00:00+00:00,True,False,False,18356,3674,Chapman Stadium,202,Tulsa,2110,Central Arkansas,38,27
+401021652,2018,regular,1,2018-09-01 23:00:00+00:00,True,False,False,20184,3625,Centennial Bank Stadium,2032,Arkansas State,2546,Southeast Missouri State,48,21
+401012679,2018,regular,1,2018-09-01 23:00:00+00:00,True,False,False,54116,1056,Rose Bowl,26,UCLA,2132,Cincinnati,17,26
+401014974,2018,regular,1,2018-09-01 23:00:00+00:00,True,False,False,13457,3797,Ladd Peebles Stadium,6,South Alabama,2348,Louisiana Tech,26,30
+401012851,2018,regular,1,2018-09-01 23:00:00+00:00,True,False,False,17082,218,FIU Stadium,2229,Florida International,84,Indiana,28,38
+401019474,2018,regular,1,2018-09-01 23:00:00+00:00,True,False,False,33697,3805,Simmons Bank Liberty Stadium,235,Memphis,2382,Mercer,66,14
+401021654,2018,regular,1,2018-09-01 23:00:00+00:00,True,False,False,28866,3666,Cajun Field,309,Louisiana,2755,Grambling,49,17
+401012888,2018,regular,1,2018-09-01 23:30:00+00:00,True,False,False,77622,3855,Notre Dame Stadium,87,Notre Dame,130,Michigan,24,17
+401012259,2018,regular,1,2018-09-01 23:30:00+00:00,True,False,False,25348,3973,FirstBank Stadium,238,Vanderbilt,2393,Middle Tennessee,35,7
+401014976,2018,regular,1,2018-09-01 23:30:00+00:00,True,False,False,29519,3825,DATCU Stadium,249,North Texas,2567,SMU,46,23
+401014980,2018,regular,1,2018-09-01 23:30:00+00:00,True,False,False,17271,3946,Sun Bowl,2638,UTEP,2464,Northern Arizona,10,30
+401012249,2018,regular,1,2018-09-01 23:30:00+00:00,True,False,False,81164,3634,Ben Hill Griffin Stadium,57,Florida,2127,Charleston Southern,53,6
+401012254,2018,regular,1,2018-09-01 23:30:00+00:00,True,False,False,54289,3693,Davis Wade Stadium,344,Mississippi State,2617,Stephen F. Austin,63,6
+401022515,2018,regular,1,2018-09-02 00:00:00+00:00,True,False,False,18213,3971,University Stadium (NM),167,New Mexico,2916,Incarnate Word,62,30
+401012681,2018,regular,1,2018-09-02 00:00:00+00:00,True,False,False,50112,3626,Autzen Stadium,2483,Oregon,189,Bowling Green,58,24
+401013026,2018,regular,1,2018-09-02 00:00:00+00:00,True,False,False,45330,4727,McLane Stadium,239,Baylor,2000,Abilene Christian,55,27
+401012246,2018,regular,1,2018-09-02 00:00:00+00:00,True,True,False,57280,4013,Camping World Stadium,333,Alabama,97,Louisville,51,14
+401022516,2018,regular,1,2018-09-02 02:00:00+00:00,True,False,False,31170,3660,Valley Children's Stadium,278,Fresno State,70,Idaho,79,13
+401012677,2018,regular,1,2018-09-02 02:30:00+00:00,True,False,False,50188,3947,Mountain America Stadium,9,Arizona State,2636,UTSA,49,7
+401012676,2018,regular,1,2018-09-02 02:45:00+00:00,True,False,False,51002,3619,Arizona Stadium,12,Arizona,252,BYU,23,28
+401019475,2018,regular,1,2018-09-02 03:00:00+00:00,True,False,False,29702,3610,Aloha Stadium,62,Hawai'i,2426,Navy,59,41
+401079833,2018,regular,1,2018-09-02 19:30:00+00:00,True,False,False,38640,3699,Dowdy-Ficklen Stadium,151,East Carolina,2448,North Carolina A&T,23,28
+401013095,2018,regular,1,2018-09-02 23:30:00+00:00,True,True,False,68841,3687,AT&T Stadium,99,LSU,2390,Miami,33,17
+401013096,2018,regular,1,2018-09-04 00:00:00+00:00,True,False,True,75237,3697,Doak Campbell Stadium,52,Florida State,259,Virginia Tech,3,24
+401019477,2018,regular,2,2018-09-08 00:00:00+00:00,True,False,False,24216,3735,Gerald J. Ford Stadium,2567,SMU,2628,TCU,12,42
+401012726,2018,regular,2,2018-09-08 16:00:00+00:00,True,False,False,32534,4728,TDECU Stadium,248,Houston,12,Arizona,45,18
+401013098,2018,regular,2,2018-09-08 16:00:00+00:00,True,False,False,40654,3911,Ryan Field,77,Northwestern,150,Duke,7,21
+401013355,2018,regular,2,2018-09-08 16:00:00+00:00,True,False,False,77003,347,Camp Randall Stadium,275,Wisconsin,167,New Mexico,45,14
+401013100,2018,regular,2,2018-09-08 16:00:00+00:00,True,False,False,34182,3886,Raymond James Stadium,58,South Florida,59,Georgia Tech,49,38
+401013367,2018,regular,2,2018-09-08 16:00:00+00:00,True,False,False,25133,3841,Michie Stadium,349,Army,2335,Liberty,38,14
+401013352,2018,regular,2,2018-09-08 16:00:00+00:00,True,False,False,47661,3907,Ross-Ade Stadium,2509,Purdue,2199,Eastern Michigan,19,20
+401012271,2018,regular,2,2018-09-08 16:00:00+00:00,True,False,False,25676,3973,FirstBank Stadium,238,Vanderbilt,2440,Nevada,41,10
+401013108,2018,regular,2,2018-09-08 16:00:00+00:00,True,False,False,23619,3630,Allegacy Federal Credit Union Stadium,154,Wake Forest,119,Towson,51,20
+401012889,2018,regular,2,2018-09-08 16:00:00+00:00,True,False,False,110814,3558,Michigan Stadium,130,Michigan,2711,Western Michigan,49,3
+401012266,2018,regular,2,2018-09-08 16:00:00+00:00,True,False,False,49784,3636,Bill Snyder Family Stadium,2306,Kansas State,344,Mississippi State,10,31
+401013104,2018,regular,2,2018-09-08 16:30:00+00:00,True,False,False,56017,3670,Carter-Finley Stadium,152,NC State,2247,Georgia State,41,7
+401012728,2018,regular,2,2018-09-08 17:00:00+00:00,True,False,False,86402,3835,"Memorial Stadium (Norman, OK)",201,Oklahoma,26,UCLA,49,21
+401013097,2018,regular,2,2018-09-08 17:00:00+00:00,True,False,False,40311,3615,"Alumni Stadium (Chestnut Hill, MA)",103,Boston College,107,Holy Cross,62,14
+401012731,2018,regular,2,2018-09-08 18:00:00+00:00,True,False,False,47210,3626,Autzen Stadium,2483,Oregon,2502,Portland State,62,14
+401014983,2018,regular,2,2018-09-08 18:00:00+00:00,True,False,False,24101,3715,FAU Stadium,2226,Florida Atlantic,2005,Air Force,33,26
+401013107,2018,regular,2,2018-09-08 18:00:00+00:00,True,False,False,65632,3799,Lane Stadium,259,Virginia Tech,2729,William & Mary,62,17
+401013049,2018,regular,2,2018-09-08 19:00:00+00:00,True,False,False,18127,3786,Kelly/Shorts Stadium,2117,Central Michigan,2305,Kansas,7,31
+401019479,2018,regular,2,2018-09-08 19:30:00+00:00,True,False,True,31762,3852,Navy-Marine Corps Memorial Stadium,2426,Navy,235,Memphis,22,21
+401012821,2018,regular,2,2018-09-08 19:30:00+00:00,True,False,True,93057,3861,Ohio Stadium,194,Ohio State,164,Rutgers,52,3
+401012268,2018,regular,2,2018-09-08 19:30:00+00:00,True,False,True,83140,3994,Williams-Brice Stadium,2579,South Carolina,61,Georgia,17,41
+401013106,2018,regular,2,2018-09-08 19:30:00+00:00,True,False,False,29395,1964,JMA Wireless Dome,183,Syracuse,2681,Wagner,62,10
+401012260,2018,regular,2,2018-09-08 19:30:00+00:00,True,False,False,100495,3657,Bryant-Denny Stadium,333,Alabama,2032,Arkansas State,57,7
+401013103,2018,regular,2,2018-09-08 19:30:00+00:00,True,False,False,39298,3699,Dowdy-Ficklen Stadium,151,East Carolina,153,North Carolina,41,19
+401019478,2018,regular,2,2018-09-08 19:30:00+00:00,True,False,False,25511,3806,Lincoln Financial Field,218,Temple,2084,Buffalo,29,36
+401020677,2018,regular,2,2018-09-08 19:30:00+00:00,True,False,False,15242,3696,Dix Stadium,2309,Kent State,47,Howard,54,14
+401020678,2018,regular,2,2018-09-08 19:30:00+00:00,True,False,False,18413,3768,InfoCision Stadium,2006,Akron,2415,Morgan State,41,7
+401013377,2018,regular,2,2018-09-08 19:30:00+00:00,True,False,False,77622,3855,Notre Dame Stadium,87,Notre Dame,2050,Ball State,24,16
+401012729,2018,regular,2,2018-09-08 19:30:00+00:00,True,False,False,89853,3834,"Memorial Stadium (Lincoln, NE)",158,Nebraska,38,Colorado,28,33
+401012265,2018,regular,2,2018-09-08 20:00:00+00:00,True,False,False,53339,3974,Vaught-Hemingway Stadium,145,Ole Miss,79,Southern Illinois,76,41
+401012269,2018,regular,2,2018-09-08 20:00:00+00:00,True,False,False,96464,3853,Neyland Stadium,2633,Tennessee,2193,East Tennessee State,59,3
+401013322,2018,regular,2,2018-09-08 20:00:00+00:00,True,False,False,52126,3784,Jones AT&T Stadium,2641,Texas Tech,2320,Lamar,77,0
+401012733,2018,regular,2,2018-09-08 21:00:00+00:00,True,False,False,68093,3765,Husky Stadium,264,Washington,155,North Dakota,45,3
+401012863,2018,regular,2,2018-09-08 21:00:00+00:00,True,False,False,69250,3793,Kinnick Stadium,2294,Iowa,66,Iowa State,13,3
+401014981,2018,regular,2,2018-09-08 22:00:00+00:00,True,False,False,19151,4418,Jerry Richardson Stadium,2429,Charlotte,2026,App State,9,45
+401019481,2018,regular,2,2018-09-08 22:00:00+00:00,True,False,False,43269,3652,FBC Mortgage Stadium,2116,UCF,2569,South Carolina State,38,0
+401013326,2018,regular,2,2018-09-08 22:00:00+00:00,True,False,False,58446,3842,Milan Puskar Stadium,277,West Virginia,2754,Youngstown State,52,17
+401013102,2018,regular,2,2018-09-08 22:00:00+00:00,True,False,False,60307,3948,Hard Rock Stadium,2390,Miami,2542,Savannah St,77,0
+401013358,2018,regular,2,2018-09-08 22:00:00+00:00,True,False,False,15071,3608,Allen E. Paulson Stadium,290,Georgia Southern,113,Massachusetts,34,13
+401012873,2018,regular,2,2018-09-08 22:00:00+00:00,True,False,False,16142,3700,Doyt L. Perry Stadium,189,Bowling Green,120,Maryland,14,45
+401014985,2018,regular,2,2018-09-08 22:30:00+00:00,True,False,False,24304,3775,Joan C. Edwards Stadium,276,Marshall,2198,Eastern Kentucky,32,16
+401014984,2018,regular,2,2018-09-08 23:00:00+00:00,True,False,False,22926,3776,Joe Aillet Stadium,2348,Louisiana Tech,2582,Southern,54,17
+401021658,2018,regular,2,2018-09-08 23:00:00+00:00,True,False,False,25767,3975,Veterans Memorial Stadium (AL),2653,Troy,50,Florida A&M,59,7
+401012270,2018,regular,2,2018-09-08 23:00:00+00:00,True,False,False,104794,3795,Kyle Field,245,Texas A&M,228,Clemson,26,28
+401021657,2018,regular,2,2018-09-08 23:00:00+00:00,True,False,False,15440,3644,Bobcat Stadium (TX),326,Texas State,2640,Texas Southern,36,20
+401012264,2018,regular,2,2018-09-08 23:00:00+00:00,True,False,False,96883,3958,Tiger Stadium (LA),99,LSU,2545,SE Louisiana,31,0
+401014990,2018,regular,2,2018-09-08 23:00:00+00:00,True,False,False,9776,3654,Brooks Stadium (SC),324,Coastal Carolina,5,UAB,47,24
+401013027,2018,regular,2,2018-09-08 23:00:00+00:00,True,False,False,42071,3604,Alamodome,2636,UTSA,239,Baylor,20,37
+401013101,2018,regular,2,2018-09-08 23:00:00+00:00,True,False,False,44520,3873,L&N Federal Credit Union Stadium,97,Louisville,282,Indiana State,31,7
+401014986,2018,regular,2,2018-09-08 23:00:00+00:00,True,False,False,16227,3725,"Johnny ""Red"" Floyd Stadium",2393,Middle Tennessee,2630,UT Martin,61,37
+401014989,2018,regular,2,2018-09-08 23:00:00+00:00,True,False,False,19579,3815,M. M. Roberts Stadium,2572,Southern Miss,2433,UL Monroe,20,21
+401012267,2018,regular,2,2018-09-08 23:00:00+00:00,True,False,False,50820,3838,Memorial Stadium,142,Missouri,2751,Wyoming,40,13
+401013099,2018,regular,2,2018-09-08 23:20:00+00:00,True,False,False,72239,3697,Doak Campbell Stadium,52,Florida State,2535,Samford,36,26
+401012852,2018,regular,2,2018-09-08 23:30:00+00:00,True,False,False,35492,3830,"Memorial Stadium (Bloomington, IN)",84,Indiana,258,Virginia,20,16
+401012263,2018,regular,2,2018-09-08 23:30:00+00:00,True,False,True,80651,3634,Ben Hill Griffin Stadium,57,Florida,96,Kentucky,16,27
+401013329,2018,regular,2,2018-09-08 23:30:00+00:00,True,False,False,38280,3953,Huntington Bank Stadium,135,Minnesota,278,Fresno State,21,14
+401014987,2018,regular,2,2018-09-08 23:30:00+00:00,True,False,False,18538,3825,DATCU Stadium,249,North Texas,2916,Incarnate Word,58,16
+401012730,2018,regular,2,2018-09-08 23:30:00+00:00,True,False,False,16762,3764,Huskie Stadium,2459,Northern Illinois,254,Utah,6,17
+401014982,2018,regular,2,2018-09-08 23:30:00+00:00,True,False,True,19243,3918,S.B. Ballard Stadium,295,Old Dominion,2229,Florida International,20,28
+401012261,2018,regular,2,2018-09-08 23:30:00+00:00,True,False,False,31894,5388,Canvas Stadium,36,Colorado State,8,Arkansas,34,27
+401012805,2018,regular,2,2018-09-08 23:30:00+00:00,True,False,False,39252,3832,"Memorial Stadium (Champaign, IL)",356,Illinois,2710,Western Illinois,34,14
+401014992,2018,regular,2,2018-09-08 23:30:00+00:00,True,False,False,15718,3796,Houchens Industries-L.T. Smith Stadium,98,Western Kentucky,311,Maine,28,31
+401012262,2018,regular,2,2018-09-08 23:30:00+00:00,True,False,False,84806,3785,Jordan-Hare Stadium,2,Auburn,2011,Alabama State,63,9
+401019482,2018,regular,2,2018-09-09 00:00:00+00:00,True,False,False,16062,3874,Paul Brown Stadium,193,Miami (OH),2132,Cincinnati,0,21
+401012732,2018,regular,2,2018-09-09 00:00:00+00:00,True,False,False,36448,3893,Reser Stadium,204,Oregon State,253,Southern Utah,48,25
+401019480,2018,regular,2,2018-09-09 00:00:00+00:00,True,False,False,21092,4729,Yulman Stadium,2655,Tulane,2447,Nicholls,42,17
+401013319,2018,regular,2,2018-09-09 00:00:00+00:00,True,False,False,90563,3910,DKR-Texas Memorial Stadium,251,Texas,202,Tulsa,28,21
+401013438,2018,regular,2,2018-09-09 00:00:00+00:00,True,False,False,18223,3905,Maverik Stadium,328,Utah State,166,New Mexico State,60,13
+401013490,2018,regular,2,2018-09-09 00:00:00+00:00,True,False,False,53923,3646,Boone Pickens Stadium,197,Oklahoma State,6,South Alabama,55,13
+401013105,2018,regular,2,2018-09-09 00:00:00+00:00,True,False,False,68400,3752,Acrisure Stadium,221,Pittsburgh,213,Penn State,6,51
+401012736,2018,regular,2,2018-09-09 00:30:00+00:00,True,False,True,42856,3940,Stanford Stadium,24,Stanford,30,USC,17,3
+401014991,2018,regular,2,2018-09-09 01:00:00+00:00,True,False,False,14122,3914,Sam Boyd Stadium,2439,UNLV,2638,UTEP,52,24
+401022518,2018,regular,2,2018-09-09 01:00:00+00:00,True,False,False,45755,3932,Qualcomm Stadium,21,San Diego State,16,Sacramento State,28,14
+401012735,2018,regular,2,2018-09-09 02:15:00+00:00,True,False,False,52602,3801,LaVell Edwards Stadium,252,BYU,25,California,18,21
+401019483,2018,regular,2,2018-09-09 02:15:00+00:00,True,False,False,34515,3653,Albertsons Stadium,68,Boise State,41,UConn,62,7
+401012727,2018,regular,2,2018-09-09 02:45:00+00:00,True,False,False,53599,3947,Mountain America Stadium,9,Arizona State,127,Michigan State,16,13
+401012734,2018,regular,2,2018-09-09 03:00:00+00:00,True,False,False,26141,3820,Gesa Field,265,Washington State,23,San José State,31,0
+401014988,2018,regular,2,2018-09-09 03:59:00+00:00,True,False,False,23112,3610,Aloha Stadium,62,Hawai'i,242,Rice,43,29
+401021659,2018,regular,3,2018-09-12 18:00:00+00:00,True,False,False,2047,3629,Barker-Lane Stadium,2097,Campbell,324,Coastal Carolina,21,58
+401014993,2018,regular,3,2018-09-13 20:00:00+00:00,True,False,True,8204,4418,Jerry Richardson Stadium,2429,Charlotte,295,Old Dominion,28,25
+401013109,2018,regular,3,2018-09-13 21:30:00+00:00,True,False,True,25309,3630,Allegacy Federal Credit Union Stadium,154,Wake Forest,103,Boston College,34,41
+401022519,2018,regular,3,2018-09-14 00:00:00+00:00,True,False,False,15011,3905,Maverik Stadium,328,Utah State,2635,Tennessee Tech,73,12
+401019484,2018,regular,3,2018-09-14 23:00:00+00:00,True,False,False,27678,3805,Simmons Bank Liberty Stadium,235,Memphis,2247,Georgia State,59,22
+401013039,2018,regular,3,2018-09-15 16:00:00+00:00,True,False,True,58479,3772,Jack Trice Stadium,66,Iowa State,201,Oklahoma,27,37
+401013368,2018,regular,3,2018-09-15 16:00:00+00:00,True,False,False,31133,3841,Michie Stadium,349,Army,62,Hawai'i,28,21
+401012874,2018,regular,3,2018-09-15 16:00:00+00:00,True,False,False,32057,3665,SECU Stadium,120,Maryland,218,Temple,14,35
+401012853,2018,regular,3,2018-09-15 16:00:00+00:00,True,False,False,40240,3830,"Memorial Stadium (Bloomington, IN)",84,Indiana,2050,Ball State,38,10
+401012281,2018,regular,3,2018-09-15 16:00:00+00:00,True,False,False,87074,3853,Neyland Stadium,2633,Tennessee,2638,UTEP,24,0
+401013111,2018,regular,3,2018-09-15 16:00:00+00:00,True,False,True,37457,1964,JMA Wireless Dome,183,Syracuse,52,Florida State,30,7
+401013350,2018,regular,3,2018-09-15 16:00:00+00:00,True,False,False,106528,3632,Beaver Stadium,213,Penn State,2309,Kent State,63,10
+401012822,2018,regular,3,2018-09-15 16:00:00+00:00,True,False,False,28044,3833,Memorial Stadium,2305,Kansas,164,Rutgers,55,14
+401013337,2018,regular,3,2018-09-15 16:00:00+00:00,True,False,False,89360,3834,"Memorial Stadium (Lincoln, NE)",158,Nebraska,2653,Troy,19,24
+401013114,2018,regular,3,2018-09-15 16:00:00+00:00,True,False,False,28117,3739,Glass Bowl,2649,Toledo,2390,Miami,24,49
+401012276,2018,regular,3,2018-09-15 16:00:00+00:00,True,False,False,48217,3683,Kroger Field,96,Kentucky,93,Murray State,48,10
+401012275,2018,regular,3,2018-09-15 16:00:00+00:00,True,False,False,92746,3917,Sanford Stadium,61,Georgia,2393,Middle Tennessee,49,7
+401013110,2018,regular,3,2018-09-15 16:00:00+00:00,True,False,False,79844,3836,"Memorial Stadium (Clemson, SC)",228,Clemson,290,Georgia Southern,38,7
+401019486,2018,regular,3,2018-09-15 16:00:00+00:00,True,False,False,20691,3892,Pratt & Whitney Stadium,41,UConn,227,Rhode Island,56,49
+401013112,2018,regular,3,2018-09-15 16:30:00+00:00,True,False,True,34284,3752,Acrisure Stadium,221,Pittsburgh,59,Georgia Tech,24,19
+401014996,2018,regular,3,2018-09-15 17:00:00+00:00,True,False,False,21991,3803,Legion Field,5,UAB,2655,Tulane,31,24
+401012747,2018,regular,3,2018-09-15 18:00:00+00:00,True,False,False,31772,3940,Stanford Stadium,24,Stanford,302,UC Davis,30,10
+401012283,2018,regular,3,2018-09-15 18:30:00+00:00,True,False,False,77622,3855,Notre Dame Stadium,87,Notre Dame,238,Vanderbilt,22,17
+401013491,2018,regular,3,2018-09-15 19:30:00+00:00,True,False,False,54974,3646,Boone Pickens Stadium,197,Oklahoma State,68,Boise State,44,21
+401013028,2018,regular,3,2018-09-15 19:30:00+00:00,True,False,False,40442,4727,McLane Stadium,239,Baylor,150,Duke,27,40
+401013330,2018,regular,3,2018-09-15 19:30:00+00:00,True,False,False,41162,3953,Huntington Bank Stadium,135,Minnesota,193,Miami (OH),26,3
+401013356,2018,regular,3,2018-09-15 19:30:00+00:00,True,False,False,80720,347,Camp Randall Stadium,275,Wisconsin,252,BYU,21,24
+401020679,2018,regular,3,2018-09-15 19:30:00+00:00,True,False,True,12354,3764,Huskie Stadium,2459,Northern Illinois,2117,Central Michigan,24,16
+401012890,2018,regular,3,2018-09-15 19:30:00+00:00,True,False,False,110549,3558,Michigan Stadium,130,Michigan,2567,SMU,45,20
+401012806,2018,regular,3,2018-09-15 19:30:00+00:00,True,True,False,21725,3933,Soldier Field,356,Illinois,58,South Florida,19,25
+401019487,2018,regular,3,2018-09-15 19:30:00+00:00,True,False,False,30011,3852,Navy-Marine Corps Memorial Stadium,2426,Navy,2329,Lehigh,51,21
+401012273,2018,regular,3,2018-09-15 19:30:00+00:00,True,False,True,86787,3785,Jordan-Hare Stadium,2,Auburn,99,LSU,21,22
+401022520,2018,regular,3,2018-09-15 20:00:00+00:00,True,False,False,20293,3984,War Memorial Stadium,2751,Wyoming,2747,Wofford,17,14
+401020681,2018,regular,3,2018-09-15 20:00:00+00:00,True,False,False,17542,3700,Doyt L. Perry Stadium,189,Bowling Green,2198,Eastern Kentucky,42,35
+401012274,2018,regular,3,2018-09-15 20:00:00+00:00,True,False,False,80021,3634,Ben Hill Griffin Stadium,57,Florida,36,Colorado State,48,10
+401013058,2018,regular,3,2018-09-15 20:00:00+00:00,True,False,False,50618,3636,Bill Snyder Family Stadium,2306,Kansas State,2636,UTSA,41,17
+401012272,2018,regular,3,2018-09-15 20:00:00+00:00,True,False,False,62355,3887,Razorback Stadium,8,Arkansas,249,North Texas,17,44
+401013323,2018,regular,3,2018-09-15 20:15:00+00:00,True,False,False,53484,3784,Jones AT&T Stadium,2641,Texas Tech,248,Houston,63,49
+401013117,2018,regular,3,2018-09-15 20:30:00+00:00,True,False,False,5438,3973,FirstBank Stadium,258,Virginia,195,Ohio,45,31
+401012743,2018,regular,3,2018-09-15 21:00:00+00:00,True,False,False,50049,3626,Autzen Stadium,2483,Oregon,23,San José State,35,22
+401012741,2018,regular,3,2018-09-15 21:00:00+00:00,True,False,False,42360,3726,Folsom Field,38,Colorado,160,New Hampshire,45,14
+401014994,2018,regular,3,2018-09-15 22:00:00+00:00,True,False,False,19017,3715,FAU Stadium,2226,Florida Atlantic,2065,Bethune-Cookman,49,28
+401020682,2018,regular,3,2018-09-15 22:00:00+00:00,True,False,True,18384,3965,UB Stadium,2084,Buffalo,2199,Eastern Michigan,35,28
+401012746,2018,regular,3,2018-09-15 22:00:00+00:00,True,False,False,37104,3831,California Memorial Stadium,25,California,304,Idaho State,45,23
+401019488,2018,regular,3,2018-09-15 23:00:00+00:00,True,False,False,17349,3674,Chapman Stadium,202,Tulsa,2032,Arkansas State,20,29
+401021660,2018,regular,3,2018-09-15 23:00:00+00:00,True,False,True,16051,3797,Ladd Peebles Stadium,6,South Alabama,326,Texas State,41,31
+401020680,2018,regular,3,2018-09-15 23:00:00+00:00,True,False,False,23244,3980,Waldo Stadium,2711,Western Michigan,2169,Delaware State,68,0
+401019485,2018,regular,3,2018-09-15 23:00:00+00:00,True,False,False,28834,3854,Nippert Stadium,2132,Cincinnati,2010,Alabama A&M,63,7
+401012277,2018,regular,3,2018-09-15 23:00:00+00:00,True,False,True,62919,3974,Vaught-Hemingway Stadium,145,Ole Miss,333,Alabama,7,62
+401012744,2018,regular,3,2018-09-15 23:00:00+00:00,True,False,False,20462,3816,Mackay Stadium,2440,Nevada,204,Oregon State,37,35
+401012278,2018,regular,3,2018-09-15 23:30:00+00:00,True,False,False,56505,3693,Davis Wade Stadium,344,Mississippi State,309,Louisiana,56,10
+401013343,2018,regular,3,2018-09-15 23:30:00+00:00,True,False,False,40014,3911,Ryan Field,77,Northwestern,2006,Akron,34,39
+401013359,2018,regular,3,2018-09-15 23:30:00+00:00,True,False,False,14695,218,FIU Stadium,2229,Florida International,113,Massachusetts,63,24
+401012864,2018,regular,3,2018-09-15 23:30:00+00:00,True,False,False,69250,3793,Kinnick Stadium,2294,Iowa,2460,Northern Iowa,38,14
+401013113,2018,regular,3,2018-09-15 23:30:00+00:00,True,False,False,54923,3873,L&N Federal Credit Union Stadium,97,Louisville,98,Western Kentucky,20,17
+401012282,2018,regular,3,2018-09-15 23:30:00+00:00,True,False,False,96727,3795,Kyle Field,245,Texas A&M,2433,UL Monroe,48,10
+401012279,2018,regular,3,2018-09-15 23:30:00+00:00,True,False,False,48103,3907,Ross-Ade Stadium,2509,Purdue,142,Missouri,37,40
+401012739,2018,regular,3,2018-09-16 00:00:00+00:00,True,False,False,103507,3910,DKR-Texas Memorial Stadium,251,Texas,30,USC,37,14
+401013074,2018,regular,3,2018-09-16 00:00:00+00:00,True,True,False,64362,3687,AT&T Stadium,2628,TCU,194,Ohio State,28,40
+401012745,2018,regular,3,2018-09-16 00:00:00+00:00,True,False,False,32952,3820,Gesa Field,265,Washington State,331,Eastern Washington,59,24
+401013439,2018,regular,3,2018-09-16 00:00:00+00:00,True,False,False,20673,3601,Aggie Memorial Stadium,166,New Mexico State,167,New Mexico,25,42
+401022521,2018,regular,3,2018-09-16 02:00:00+00:00,True,False,False,14786,3914,Sam Boyd Stadium,2439,UNLV,2504,Prairie View A&M,46,17
+401012742,2018,regular,3,2018-09-16 02:10:00+00:00,True,False,True,47445,587,Rice-Eccles Stadium,254,Utah,264,Washington,7,21
+401012738,2018,regular,3,2018-09-16 02:30:00+00:00,True,False,False,34641,3932,Qualcomm Stadium,21,San Diego State,9,Arizona State,28,21
+401012740,2018,regular,3,2018-09-16 02:30:00+00:00,True,False,False,60867,1056,Rose Bowl,26,UCLA,278,Fresno State,14,38
+401012737,2018,regular,3,2018-09-16 03:00:00+00:00,True,False,False,41493,3619,Arizona Stadium,12,Arizona,253,Southern Utah,62,31
+401019489,2018,regular,4,2018-09-20 23:30:00+00:00,True,False,True,24217,3806,Lincoln Financial Field,218,Temple,202,Tulsa,31,17
+401019490,2018,regular,4,2018-09-21 23:00:00+00:00,True,False,False,44257,3652,FBC Mortgage Stadium,2116,UCF,2226,Florida Atlantic,56,36
+401012807,2018,regular,4,2018-09-22 01:00:00+00:00,True,False,True,34704,3832,"Memorial Stadium (Champaign, IL)",356,Illinois,213,Penn State,24,63
+401012748,2018,regular,4,2018-09-22 02:30:00+00:00,True,False,True,52421,477,Los Angeles Memorial Coliseum,30,USC,265,Washington State,39,36
+401019495,2018,regular,4,2018-09-22 16:00:00+00:00,True,False,True,17531,3735,Gerald J. Ford Stadium,2567,SMU,2426,Navy,31,30
+401013119,2018,regular,4,2018-09-22 16:00:00+00:00,True,False,False,47119,3907,Ross-Ade Stadium,2509,Purdue,103,Boston College,30,13
+401012875,2018,regular,4,2018-09-22 16:00:00+00:00,True,False,True,36211,3665,SECU Stadium,120,Maryland,135,Minnesota,42,13
+401012823,2018,regular,4,2018-09-22 16:00:00+00:00,True,False,False,34574,3754,High Point Solutions Stadium,164,Rutgers,2084,Buffalo,13,42
+401013040,2018,regular,4,2018-09-22 16:00:00+00:00,True,False,False,54028,3772,Jack Trice Stadium,66,Iowa State,2006,Akron,26,13
+401012891,2018,regular,4,2018-09-22 16:00:00+00:00,True,False,True,111037,3558,Michigan Stadium,130,Michigan,158,Nebraska,56,10
+401020685,2018,regular,4,2018-09-22 16:00:00+00:00,True,False,False,23675,3739,Glass Bowl,2649,Toledo,2440,Nevada,63,44
+401013129,2018,regular,4,2018-09-22 16:00:00+00:00,True,False,False,31092,3630,Allegacy Federal Credit Union Stadium,154,Wake Forest,87,Notre Dame,27,56
+401012288,2018,regular,4,2018-09-22 16:00:00+00:00,True,False,False,50417,3974,Vaught-Hemingway Stadium,145,Ole Miss,2309,Kent State,38,17
+401019491,2018,regular,4,2018-09-22 16:00:00+00:00,True,False,False,35220,3854,Nippert Stadium,2132,Cincinnati,195,Ohio,34,30
+401012289,2018,regular,4,2018-09-22 16:00:00+00:00,True,False,True,58284,3838,Memorial Stadium,142,Missouri,61,Georgia,29,43
+401013125,2018,regular,4,2018-09-22 16:20:00+00:00,True,False,True,44168,3787,Kenan Stadium,153,North Carolina,221,Pittsburgh,38,35
+401013123,2018,regular,4,2018-09-22 16:30:00+00:00,True,False,True,34446,3923,Scott Stadium,258,Virginia,97,Louisville,27,3
+401020686,2018,regular,4,2018-09-22 18:00:00+00:00,True,False,False,15264,4246,Center Parc Stadium,2247,Georgia State,2711,Western Michigan,15,34
+401022523,2018,regular,4,2018-09-22 19:00:00+00:00,True,False,False,26259,5388,Canvas Stadium,36,Colorado State,2287,Illinois State,19,35
+401020811,2018,regular,4,2018-09-22 19:00:00+00:00,True,False,True,14380,3700,Doyt L. Perry Stadium,189,Bowling Green,193,Miami (OH),23,38
+401020684,2018,regular,4,2018-09-22 19:00:00+00:00,True,False,False,16474,3786,Kelly/Shorts Stadium,2117,Central Michigan,311,Maine,17,5
+401015000,2018,regular,4,2018-09-22 19:00:00+00:00,True,False,False,15873,3919,Scheumann Stadium,2050,Ball State,98,Western Kentucky,20,28
+401012284,2018,regular,4,2018-09-22 19:30:00+00:00,True,False,True,101821,3657,Bryant-Denny Stadium,333,Alabama,245,Texas A&M,45,23
+401013346,2018,regular,4,2018-09-22 19:30:00+00:00,True,False,False,103336,3861,Ohio Stadium,194,Ohio State,2655,Tulane,49,6
+401013029,2018,regular,4,2018-09-22 19:30:00+00:00,True,False,True,36725,4727,McLane Stadium,239,Baylor,2305,Kansas,26,7
+401013121,2018,regular,4,2018-09-22 19:30:00+00:00,True,False,False,25132,3982,Wallace Wade Stadium,150,Duke,2428,North Carolina Central,55,13
+401013128,2018,regular,4,2018-09-22 19:30:00+00:00,True,False,False,20532,3918,S.B. Ballard Stadium,295,Old Dominion,259,Virginia Tech,49,35
+401013360,2018,regular,4,2018-09-22 19:30:00+00:00,True,False,False,10086,3985,Warren McGuirk Alumni Stadium,113,Massachusetts,2429,Charlotte,49,31
+401013124,2018,regular,4,2018-09-22 19:30:00+00:00,True,False,False,59814,3948,Hard Rock Stadium,2390,Miami,2229,Florida International,31,17
+401013059,2018,regular,4,2018-09-22 19:30:00+00:00,True,False,True,59245,3842,Milan Puskar Stadium,277,West Virginia,2306,Kansas State,35,6
+401013122,2018,regular,4,2018-09-22 19:30:00+00:00,True,False,False,65633,3697,Doak Campbell Stadium,52,Florida State,2459,Northern Illinois,37,19
+401021661,2018,regular,4,2018-09-22 19:30:00+00:00,True,False,False,21084,3792,Kidd Brewer Stadium,2026,App State,2241,Gardner-Webb,72,7
+401013120,2018,regular,4,2018-09-22 19:30:00+00:00,True,False,True,50595,721,Bobby Dodd Stadium,59,Georgia Tech,228,Clemson,21,49
+401013127,2018,regular,4,2018-09-22 20:00:00+00:00,True,False,False,36632,1964,JMA Wireless Dome,183,Syracuse,41,UConn,51,21
+401012750,2018,regular,4,2018-09-22 20:00:00+00:00,True,False,True,33022,3893,Reser Stadium,204,Oregon State,12,Arizona,14,35
+401012291,2018,regular,4,2018-09-22 20:00:00+00:00,True,False,True,26078,3973,FirstBank Stadium,238,Vanderbilt,2579,South Carolina,14,37
+401013075,2018,regular,4,2018-09-22 20:30:00+00:00,True,False,True,95124,3910,DKR-Texas Memorial Stadium,251,Texas,2628,TCU,31,16
+401016406,2018,regular,4,2018-09-22 22:00:00+00:00,True,False,False,53223,3801,LaVell Edwards Stadium,252,BYU,2377,McNeese,30,3
+401013450,2018,regular,4,2018-09-22 22:00:00+00:00,True,False,False,14112,3992,Williams Stadium (VA),2335,Liberty,249,North Texas,7,47
+401012287,2018,regular,4,2018-09-22 23:00:00+00:00,True,False,False,102321,3958,Tiger Stadium (LA),99,LSU,2348,Louisiana Tech,38,21
+401021663,2018,regular,4,2018-09-22 23:00:00+00:00,True,False,True,17125,3666,Cajun Field,309,Louisiana,324,Coastal Carolina,28,30
+401012286,2018,regular,4,2018-09-22 23:00:00+00:00,True,False,True,60037,3683,Kroger Field,96,Kentucky,344,Mississippi State,28,7
+401021664,2018,regular,4,2018-09-22 23:00:00+00:00,True,False,True,15722,3817,Malone Stadium,2433,UL Monroe,2653,Troy,27,35
+401021662,2018,regular,4,2018-09-22 23:00:00+00:00,True,False,False,18537,3625,Centennial Bank Stadium,2032,Arkansas State,2439,UNLV,27,20
+401012290,2018,regular,4,2018-09-22 23:00:00+00:00,True,False,True,100027,3853,Neyland Stadium,2633,Tennessee,57,Florida,21,47
+401013066,2018,regular,4,2018-09-22 23:00:00+00:00,True,False,False,87177,3835,"Memorial Stadium (Norman, OK)",201,Oklahoma,349,Army,28,21
+401014998,2018,regular,4,2018-09-22 23:00:00+00:00,True,False,True,20159,3815,M. M. Roberts Stadium,2572,Southern Miss,242,Rice,40,22
+401013324,2018,regular,4,2018-09-22 23:00:00+00:00,True,False,True,53166,3646,Boone Pickens Stadium,197,Oklahoma State,2641,Texas Tech,17,41
+401013126,2018,regular,4,2018-09-22 23:00:00+00:00,True,False,False,32349,3775,Joan C. Edwards Stadium,276,Marshall,152,NC State,20,37
+401014999,2018,regular,4,2018-09-22 23:00:00+00:00,True,False,False,29205,3604,Alamodome,2636,UTSA,326,Texas State,25,21
+401012854,2018,regular,4,2018-09-22 23:30:00+00:00,True,False,True,45445,3830,"Memorial Stadium (Bloomington, IN)",84,Indiana,127,Michigan State,21,35
+401013440,2018,regular,4,2018-09-22 23:30:00+00:00,True,False,False,19412,3946,Sun Bowl,2638,UTEP,166,New Mexico State,20,27
+401012285,2018,regular,4,2018-09-22 23:30:00+00:00,True,False,True,84188,3785,Jordan-Hare Stadium,2,Auburn,8,Arkansas,34,3
+401019493,2018,regular,4,2018-09-23 00:00:00+00:00,True,False,False,29970,4728,TDECU Stadium,248,Houston,2640,Texas Southern,70,14
+401012749,2018,regular,4,2018-09-23 00:00:00+00:00,True,False,True,58453,3626,Autzen Stadium,2483,Oregon,24,Stanford,31,38
+401019492,2018,regular,4,2018-09-23 00:00:00+00:00,True,False,True,34562,3886,Raymond James Stadium,58,South Florida,151,East Carolina,20,13
+401019494,2018,regular,4,2018-09-23 00:00:00+00:00,True,False,False,27765,3805,Simmons Bank Liberty Stadium,235,Memphis,6,South Alabama,52,35
+401012865,2018,regular,4,2018-09-23 00:35:00+00:00,True,False,True,69250,3793,Kinnick Stadium,2294,Iowa,275,Wisconsin,17,28
+401020683,2018,regular,4,2018-09-23 02:30:00+00:00,True,False,False,30898,3932,Qualcomm Stadium,21,San Diego State,2199,Eastern Michigan,23,20
+401022522,2018,regular,4,2018-09-23 02:30:00+00:00,True,False,True,22720,3905,Maverik Stadium,328,Utah State,2005,Air Force,42,32
+401012751,2018,regular,4,2018-09-23 02:30:00+00:00,True,False,True,71200,3765,Husky Stadium,264,Washington,9,Arizona State,27,20
+401022524,2018,regular,4,2018-09-23 03:59:00+00:00,True,False,False,26175,3610,Aloha Stadium,62,Hawai'i,2184,Duquesne,42,21
+401013466,2018,regular,5,2018-09-28 00:00:00+00:00,True,False,True,60843,3948,Hard Rock Stadium,2390,Miami,153,North Carolina,47,10
+401019496,2018,regular,5,2018-09-29 00:00:00+00:00,True,False,True,16631,4729,Yulman Stadium,2655,Tulane,235,Memphis,40,24
+401012752,2018,regular,5,2018-09-29 01:00:00+00:00,True,False,True,46814,3726,Folsom Field,38,Colorado,26,UCLA,38,16
+401012293,2018,regular,5,2018-09-29 16:00:00+00:00,True,True,True,55383,3687,AT&T Stadium,245,Texas A&M,8,Arkansas,24,17
+401013325,2018,regular,5,2018-09-29 16:00:00+00:00,True,False,True,55283,3784,Jones AT&T Stadium,2641,Texas Tech,277,West Virginia,34,42
+401013130,2018,regular,5,2018-09-29 16:00:00+00:00,True,False,False,40111,3615,"Alumni Stadium (Chestnut Hill, MA)",103,Boston College,218,Temple,45,35
+401013050,2018,regular,5,2018-09-29 16:00:00+00:00,True,False,True,18364,3833,Memorial Stadium,2305,Kansas,197,Oklahoma State,28,48
+401012824,2018,regular,5,2018-09-29 16:00:00+00:00,True,False,True,32056,3754,High Point Solutions Stadium,164,Rutgers,84,Indiana,17,24
+401012881,2018,regular,5,2018-09-29 16:00:00+00:00,True,False,False,73752,3936,Spartan Stadium,127,Michigan State,2117,Central Michigan,31,20
+401013134,2018,regular,5,2018-09-29 16:00:00+00:00,True,False,False,40740,721,Bobby Dodd Stadium,59,Georgia Tech,189,Bowling Green,63,17
+401012292,2018,regular,5,2018-09-29 16:00:00+00:00,True,False,False,101471,3657,Bryant-Denny Stadium,333,Alabama,309,Louisiana,56,14
+401013369,2018,regular,5,2018-09-29 16:00:00+00:00,True,False,False,23671,3965,UB Stadium,2084,Buffalo,349,Army,13,42
+401013131,2018,regular,5,2018-09-29 16:00:00+00:00,True,False,True,80122,3836,"Memorial Stadium (Clemson, SC)",228,Clemson,183,Syracuse,27,23
+401013135,2018,regular,5,2018-09-29 16:20:00+00:00,True,False,True,57600,3670,Carter-Finley Stadium,152,NC State,258,Virginia,35,21
+401021668,2018,regular,5,2018-09-29 18:00:00+00:00,True,False,True,14368,4246,Center Parc Stadium,2247,Georgia State,2433,UL Monroe,46,14
+401013361,2018,regular,5,2018-09-29 18:00:00+00:00,True,False,False,19056,3876,Peden Stadium,195,Ohio,113,Massachusetts,58,42
+401020687,2018,regular,5,2018-09-29 19:00:00+00:00,True,False,True,9367,3919,Scheumann Stadium,2050,Ball State,2309,Kent State,52,24
+401019497,2018,regular,5,2018-09-29 19:30:00+00:00,True,False,True,20322,3892,Pratt & Whitney Stadium,41,UConn,2132,Cincinnati,7,49
+401013133,2018,regular,5,2018-09-29 19:30:00+00:00,True,False,True,52798,3873,L&N Federal Credit Union Stadium,97,Louisville,52,Florida State,24,28
+401015006,2018,regular,5,2018-09-29 19:30:00+00:00,True,False,False,35047,3699,Dowdy-Ficklen Stadium,151,East Carolina,295,Old Dominion,37,35
+401013136,2018,regular,5,2018-09-29 19:30:00+00:00,True,False,False,44904,3652,FBC Mortgage Stadium,2116,UCF,221,Pittsburgh,45,14
+401021665,2018,regular,5,2018-09-29 19:30:00+00:00,True,False,True,25862,3792,Kidd Brewer Stadium,2026,App State,6,South Alabama,52,7
+401013060,2018,regular,5,2018-09-29 19:30:00+00:00,True,False,True,49916,3636,Bill Snyder Family Stadium,2306,Kansas State,251,Texas,14,19
+401012295,2018,regular,5,2018-09-29 19:30:00+00:00,True,False,True,92746,3917,Sanford Stadium,61,Georgia,2633,Tennessee,38,12
+401013137,2018,regular,5,2018-09-29 19:30:00+00:00,True,False,False,24519,3630,Allegacy Federal Credit Union Stadium,154,Wake Forest,242,Rice,56,24
+401020750,2018,regular,5,2018-09-29 19:30:00+00:00,True,False,True,15012,3996,Yager Stadium,193,Miami (OH),2711,Western Michigan,39,40
+401021667,2018,regular,5,2018-09-29 19:30:00+00:00,True,False,True,23810,3975,Veterans Memorial Stadium (AL),2653,Troy,324,Coastal Carolina,45,21
+401013030,2018,regular,5,2018-09-29 19:30:00+00:00,True,False,True,86642,3835,"Memorial Stadium (Norman, OK)",201,Oklahoma,239,Baylor,66,33
+401013338,2018,regular,5,2018-09-29 19:30:00+00:00,True,False,True,88911,3834,"Memorial Stadium (Lincoln, NE)",158,Nebraska,2509,Purdue,28,42
+401012299,2018,regular,5,2018-09-29 20:00:00+00:00,True,False,False,27340,3973,FirstBank Stadium,238,Vanderbilt,2634,Tennessee State,31,27
+401012294,2018,regular,5,2018-09-29 20:00:00+00:00,True,False,False,83792,3785,Jordan-Hare Stadium,2,Auburn,2572,Southern Miss,24,13
+401022525,2018,regular,5,2018-09-29 20:00:00+00:00,True,False,True,23707,3713,Falcon Stadium,2005,Air Force,2440,Nevada,25,28
+401012892,2018,regular,5,2018-09-29 20:47:00+00:00,True,False,True,47330,3911,Ryan Field,77,Northwestern,130,Michigan,17,20
+401020688,2018,regular,5,2018-09-29 22:00:00+00:00,True,False,True,14779,3912,Rynearson Stadium,2199,Eastern Michigan,2459,Northern Illinois,23,26
+401012756,2018,regular,5,2018-09-29 22:00:00+00:00,True,False,True,30088,3820,Gesa Field,265,Washington State,254,Utah,28,24
+401021666,2018,regular,5,2018-09-29 22:00:00+00:00,True,False,True,17320,3608,Allen E. Paulson Stadium,290,Georgia Southern,2032,Arkansas State,28,21
+401012298,2018,regular,5,2018-09-29 22:00:00+00:00,True,False,True,61406,3693,Davis Wade Stadium,344,Mississippi State,57,Florida,6,13
+401013451,2018,regular,5,2018-09-29 22:00:00+00:00,True,False,False,18804,3971,University Stadium (NM),167,New Mexico,2335,Liberty,43,52
+401022527,2018,regular,5,2018-09-29 23:00:00+00:00,True,False,True,16363,3935,CEFCU Stadium,23,San José State,62,Hawai'i,41,44
+401015003,2018,regular,5,2018-09-29 23:00:00+00:00,True,False,True,17299,3725,"Johnny ""Red"" Floyd Stadium",2393,Middle Tennessee,2226,Florida Atlantic,25,24
+401022526,2018,regular,5,2018-09-29 23:00:00+00:00,True,False,True,22271,3984,War Memorial Stadium,2751,Wyoming,68,Boise State,14,34
+401013041,2018,regular,5,2018-09-29 23:00:00+00:00,True,False,True,42664,3616,Amon G. Carter Stadium,2628,TCU,66,Iowa State,17,14
+401015007,2018,regular,5,2018-09-29 23:00:00+00:00,True,False,True,20176,3604,Alamodome,2636,UTSA,2638,UTEP,30,21
+401015001,2018,regular,5,2018-09-29 23:00:00+00:00,True,False,True,25395,3803,Legion Field,5,UAB,2429,Charlotte,28,7
+401013132,2018,regular,5,2018-09-29 23:00:00+00:00,True,False,True,32177,3982,Wallace Wade Stadium,150,Duke,259,Virginia Tech,14,31
+401019498,2018,regular,5,2018-09-29 23:00:00+00:00,True,False,False,18983,3735,Gerald J. Ford Stadium,2567,SMU,2277,Houston Christian,63,27
+401015005,2018,regular,5,2018-09-29 23:30:00+00:00,True,False,True,20811,3796,Houchens Industries-L.T. Smith Stadium,98,Western Kentucky,276,Marshall,17,20
+401013347,2018,regular,5,2018-09-29 23:30:00+00:00,True,False,True,110889,3632,Beaver Stadium,213,Penn State,194,Ohio State,26,27
+401015004,2018,regular,5,2018-09-29 23:30:00+00:00,True,False,True,30105,3825,DATCU Stadium,249,North Texas,2348,Louisiana Tech,27,29
+401015002,2018,regular,5,2018-09-29 23:30:00+00:00,True,False,False,14937,218,FIU Stadium,2229,Florida International,2029,Arkansas-Pine Bluff,55,9
+401012296,2018,regular,5,2018-09-29 23:30:00+00:00,True,False,True,63081,3683,Kroger Field,96,Kentucky,2579,South Carolina,24,10
+401012758,2018,regular,5,2018-09-29 23:30:00+00:00,True,False,False,77622,3855,Notre Dame Stadium,87,Notre Dame,24,Stanford,38,17
+401012755,2018,regular,5,2018-09-30 00:30:00+00:00,True,False,False,70155,3765,Husky Stadium,264,Washington,252,BYU,35,7
+401012297,2018,regular,5,2018-09-30 01:00:00+00:00,True,False,True,100224,3958,Tiger Stadium (LA),99,LSU,145,Ole Miss,45,16
+401012754,2018,regular,5,2018-09-30 02:00:00+00:00,True,False,True,51447,3947,Mountain America Stadium,9,Arizona State,204,Oregon State,52,24
+401012753,2018,regular,5,2018-09-30 02:30:00+00:00,True,False,True,43573,3619,Arizona Stadium,12,Arizona,30,USC,20,24
+401012757,2018,regular,5,2018-09-30 02:30:00+00:00,True,False,True,43448,3831,California Memorial Stadium,25,California,2483,Oregon,24,42
+401020689,2018,regular,5,2018-09-30 02:30:00+00:00,True,False,False,33401,3660,Valley Children's Stadium,278,Fresno State,2649,Toledo,49,27
+401021669,2018,regular,6,2018-10-04 23:30:00+00:00,True,False,True,22903,3975,Veterans Memorial Stadium (AL),2653,Troy,2247,Georgia State,37,20
+401019499,2018,regular,6,2018-10-05 00:00:00+00:00,True,False,True,29823,4728,TDECU Stadium,248,Houston,202,Tulsa,41,26
+401013138,2018,regular,6,2018-10-05 23:00:00+00:00,True,False,True,51658,3873,L&N Federal Credit Union Stadium,97,Louisville,59,Georgia Tech,31,66
+401015010,2018,regular,6,2018-10-05 23:30:00+00:00,True,False,True,25979,3775,Joan C. Edwards Stadium,276,Marshall,2393,Middle Tennessee,24,34
+401016407,2018,regular,6,2018-10-06 01:00:00+00:00,True,False,False,58087,3801,LaVell Edwards Stadium,252,BYU,328,Utah State,20,45
+401013051,2018,regular,6,2018-10-06 16:00:00+00:00,True,False,True,57419,3842,Milan Puskar Stadium,277,West Virginia,2305,Kansas,38,22
+401019501,2018,regular,6,2018-10-06 16:00:00+00:00,True,False,True,32200,3854,Nippert Stadium,2132,Cincinnati,2655,Tulane,37,21
+401013067,2018,regular,6,2018-10-06 16:00:00+00:00,True,True,True,92300,499,Cotton Bowl,201,Oklahoma,251,Texas,45,48
+401019503,2018,regular,6,2018-10-06 16:00:00+00:00,True,False,True,26681,3806,Lincoln Financial Field,218,Temple,151,East Carolina,49,6
+401012882,2018,regular,6,2018-10-06 16:00:00+00:00,True,False,True,72850,3936,Spartan Stadium,127,Michigan State,77,Northwestern,19,29
+401012808,2018,regular,6,2018-10-06 16:00:00+00:00,True,False,True,36702,3754,High Point Solutions Stadium,164,Rutgers,356,Illinois,17,38
+401012305,2018,regular,6,2018-10-06 16:00:00+00:00,True,False,True,73393,3994,Williams-Brice Stadium,2579,South Carolina,142,Missouri,37,35
+401020753,2018,regular,6,2018-10-06 16:00:00+00:00,True,False,True,24282,3980,Waldo Stadium,2711,Western Michigan,2199,Eastern Michigan,27,24
+401012300,2018,regular,6,2018-10-06 16:00:00+00:00,True,False,True,64974,3887,Razorback Stadium,8,Arkansas,333,Alabama,31,65
+401020752,2018,regular,6,2018-10-06 16:00:00+00:00,True,False,True,14044,3786,Kelly/Shorts Stadium,2117,Central Michigan,2084,Buffalo,24,34
+401012876,2018,regular,6,2018-10-06 16:00:00+00:00,True,False,True,109531,3558,Michigan Stadium,130,Michigan,120,Maryland,42,21
+401013142,2018,regular,6,2018-10-06 16:20:00+00:00,True,False,True,37100,3752,Acrisure Stadium,221,Pittsburgh,183,Syracuse,44,37
+401013139,2018,regular,6,2018-10-06 16:30:00+00:00,True,False,True,57241,3670,Carter-Finley Stadium,152,NC State,103,Boston College,28,23
+401020754,2018,regular,6,2018-10-06 19:00:00+00:00,True,False,True,7159,3919,Scheumann Stadium,2050,Ball State,2459,Northern Illinois,16,24
+401013362,2018,regular,6,2018-10-06 19:30:00+00:00,True,False,False,7988,3985,Warren McGuirk Alumni Stadium,113,Massachusetts,58,South Florida,42,58
+401019504,2018,regular,6,2018-10-06 19:30:00+00:00,True,False,False,40175,3713,Falcon Stadium,2005,Air Force,2426,Navy,35,7
+401020812,2018,regular,6,2018-10-06 19:30:00+00:00,True,False,True,22437,3768,InfoCision Stadium,2006,Akron,193,Miami (OH),17,41
+401013042,2018,regular,6,2018-10-06 19:30:00+00:00,True,False,True,52995,3646,Boone Pickens Stadium,197,Oklahoma State,66,Iowa State,42,48
+401012866,2018,regular,6,2018-10-06 19:30:00+00:00,True,False,True,48199,3953,Huntington Bank Stadium,135,Minnesota,2294,Iowa,31,48
+401013141,2018,regular,6,2018-10-06 19:30:00+00:00,True,False,True,65490,3948,Hard Rock Stadium,2390,Miami,52,Florida State,28,27
+401021670,2018,regular,6,2018-10-06 19:30:00+00:00,True,False,True,17622,3608,Allen E. Paulson Stadium,290,Georgia Southern,6,South Alabama,48,13
+401012301,2018,regular,6,2018-10-06 19:30:00+00:00,True,False,True,90283,3634,Ben Hill Griffin Stadium,57,Florida,99,LSU,27,19
+401020751,2018,regular,6,2018-10-06 19:30:00+00:00,True,False,True,24685,3739,Glass Bowl,2649,Toledo,189,Bowling Green,52,36
+401020755,2018,regular,6,2018-10-06 19:30:00+00:00,True,False,True,20062,3696,Dix Stadium,2309,Kent State,195,Ohio,26,27
+401013140,2018,regular,6,2018-10-06 19:30:00+00:00,True,False,True,31608,3630,Allegacy Federal Credit Union Stadium,154,Wake Forest,228,Clemson,3,63
+401013031,2018,regular,6,2018-10-06 19:30:00+00:00,True,False,True,36888,4727,McLane Stadium,239,Baylor,2306,Kansas State,37,34
+401022528,2018,regular,6,2018-10-06 19:30:00+00:00,True,False,True,36679,3653,Albertsons Stadium,68,Boise State,21,San Diego State,13,19
+401012761,2018,regular,6,2018-10-06 20:00:00+00:00,True,False,True,52681,3726,Folsom Field,38,Colorado,9,Arizona State,28,21
+401012855,2018,regular,6,2018-10-06 20:00:00+00:00,True,False,True,104193,3861,Ohio Stadium,194,Ohio State,84,Indiana,49,26
+401012303,2018,regular,6,2018-10-06 20:00:00+00:00,True,False,False,52875,3974,Vaught-Hemingway Stadium,145,Ole Miss,2433,UL Monroe,70,21
+401022530,2018,regular,6,2018-10-06 20:00:00+00:00,True,False,True,18949,3914,Sam Boyd Stadium,2439,UNLV,167,New Mexico,14,50
+401015008,2018,regular,6,2018-10-06 21:00:00+00:00,True,False,True,18204,3715,FAU Stadium,2226,Florida Atlantic,295,Old Dominion,52,33
+401019500,2018,regular,6,2018-10-06 23:00:00+00:00,True,False,True,40856,3652,FBC Mortgage Stadium,2116,UCF,2567,SMU,48,20
+401015012,2018,regular,6,2018-10-06 23:00:00+00:00,True,False,True,19170,3895,Rice Stadium,242,Rice,2636,UTSA,3,20
+401021671,2018,regular,6,2018-10-06 23:00:00+00:00,True,False,True,17062,3644,Bobcat Stadium (TX),326,Texas State,309,Louisiana,27,42
+401012306,2018,regular,6,2018-10-06 23:00:00+00:00,True,False,True,99829,3795,Kyle Field,245,Texas A&M,96,Kentucky,20,14
+401015009,2018,regular,6,2018-10-06 23:00:00+00:00,True,False,True,18983,3776,Joe Aillet Stadium,2348,Louisiana Tech,5,UAB,7,28
+401019502,2018,regular,6,2018-10-06 23:00:00+00:00,True,False,True,27581,3805,Simmons Bank Liberty Stadium,235,Memphis,41,UConn,55,14
+401012304,2018,regular,6,2018-10-06 23:30:00+00:00,True,False,True,60635,3693,Davis Wade Stadium,344,Mississippi State,2,Auburn,23,9
+401015011,2018,regular,6,2018-10-06 23:30:00+00:00,True,False,True,12809,3946,Sun Bowl,2638,UTEP,249,North Texas,24,27
+401012760,2018,regular,6,2018-10-06 23:30:00+00:00,True,False,True,51123,1056,Rose Bowl,26,UCLA,264,Washington,24,31
+401012302,2018,regular,6,2018-10-06 23:30:00+00:00,True,False,True,92746,3917,Sanford Stadium,61,Georgia,238,Vanderbilt,41,13
+401013339,2018,regular,6,2018-10-06 23:30:00+00:00,True,False,True,80051,347,Camp Randall Stadium,275,Wisconsin,158,Nebraska,41,24
+401013441,2018,regular,6,2018-10-07 00:00:00+00:00,True,False,False,8337,3601,Aggie Memorial Stadium,166,New Mexico State,2335,Liberty,49,41
+401013143,2018,regular,6,2018-10-07 00:00:00+00:00,True,False,False,65632,3799,Lane Stadium,259,Virginia Tech,87,Notre Dame,23,45
+401012762,2018,regular,6,2018-10-07 01:00:00+00:00,True,False,True,34429,3893,Reser Stadium,204,Oregon State,265,Washington State,37,56
+401012759,2018,regular,6,2018-10-07 02:00:00+00:00,True,False,True,44253,3619,Arizona Stadium,12,Arizona,25,California,24,17
+401022532,2018,regular,6,2018-10-07 02:30:00+00:00,True,False,True,15367,3816,Mackay Stadium,2440,Nevada,278,Fresno State,3,21
+401022529,2018,regular,6,2018-10-07 02:30:00+00:00,True,False,True,13802,3935,CEFCU Stadium,23,San José State,36,Colorado State,30,42
+401012763,2018,regular,6,2018-10-07 02:30:00+00:00,True,False,True,37244,3940,Stanford Stadium,24,Stanford,254,Utah,21,40
+401022531,2018,regular,6,2018-10-07 03:59:00+00:00,True,False,True,23907,3610,Aloha Stadium,62,Hawai'i,2751,Wyoming,17,13
+401021672,2018,regular,7,2018-10-10 00:00:00+00:00,True,False,True,21421,3625,Centennial Bank Stadium,2032,Arkansas State,2026,App State,9,35
+401013076,2018,regular,7,2018-10-11 23:30:00+00:00,True,False,True,44387,3616,Amon G. Carter Stadium,2628,TCU,2641,Texas Tech,14,17
+401021673,2018,regular,7,2018-10-11 23:30:00+00:00,True,False,True,9545,3644,Bobcat Stadium (TX),326,Texas State,290,Georgia Southern,13,15
+401019505,2018,regular,7,2018-10-12 23:00:00+00:00,True,False,True,16142,3674,Chapman Stadium,202,Tulsa,58,South Florida,24,25
+401022533,2018,regular,7,2018-10-13 01:00:00+00:00,True,False,True,25326,3932,Qualcomm Stadium,21,San Diego State,2005,Air Force,21,17
+401012764,2018,regular,7,2018-10-13 02:00:00+00:00,True,False,True,45862,587,Rice-Eccles Stadium,254,Utah,12,Arizona,42,10
+401020759,2018,regular,7,2018-10-13 16:00:00+00:00,True,False,True,17998,3912,Rynearson Stadium,2199,Eastern Michigan,2649,Toledo,28,26
+401020756,2018,regular,7,2018-10-13 16:00:00+00:00,True,False,True,19506,3965,UB Stadium,2084,Buffalo,2006,Akron,24,6
+401013061,2018,regular,7,2018-10-13 16:00:00+00:00,True,False,True,50245,3636,Bill Snyder Family Stadium,2306,Kansas State,197,Oklahoma State,31,12
+401012309,2018,regular,7,2018-10-13 16:00:00+00:00,True,False,True,84589,3785,Jordan-Hare Stadium,2,Auburn,2633,Tennessee,24,30
+401013331,2018,regular,7,2018-10-13 16:00:00+00:00,True,False,True,100042,3861,Ohio Stadium,194,Ohio State,135,Minnesota,30,14
+401012825,2018,regular,7,2018-10-13 16:00:00+00:00,True,False,True,32995,3665,SECU Stadium,120,Maryland,164,Rutgers,34,7
+401012856,2018,regular,7,2018-10-13 16:00:00+00:00,True,False,True,40512,3830,"Memorial Stadium (Bloomington, IN)",84,Indiana,2294,Iowa,16,42
+401012312,2018,regular,7,2018-10-13 16:00:00+00:00,True,False,True,31118,3973,FirstBank Stadium,238,Vanderbilt,57,Florida,27,37
+401013340,2018,regular,7,2018-10-13 16:00:00+00:00,True,False,True,47330,3911,Ryan Field,77,Northwestern,158,Nebraska,34,31
+401013145,2018,regular,7,2018-10-13 16:20:00+00:00,True,False,True,41709,721,Bobby Dodd Stadium,59,Georgia Tech,150,Duke,14,28
+401013144,2018,regular,7,2018-10-13 16:30:00+00:00,True,False,True,31478,3615,"Alumni Stadium (Chestnut Hill, MA)",103,Boston College,97,Louisville,38,20
+401015018,2018,regular,7,2018-10-13 17:00:00+00:00,True,False,True,18916,3895,Rice Stadium,242,Rice,5,UAB,0,42
+401015017,2018,regular,7,2018-10-13 18:00:00+00:00,True,False,True,18252,3825,DATCU Stadium,249,North Texas,2572,Southern Miss,30,7
+401013452,2018,regular,7,2018-10-13 18:00:00+00:00,True,False,False,17389,3992,Williams Stadium (VA),2335,Liberty,2653,Troy,22,16
+401020810,2018,regular,7,2018-10-13 18:30:00+00:00,True,False,True,5003,3996,Yager Stadium,193,Miami (OH),2309,Kent State,31,6
+401013148,2018,regular,7,2018-10-13 18:30:00+00:00,True,False,False,77622,3855,Notre Dame Stadium,87,Notre Dame,221,Pittsburgh,19,14
+401020760,2018,regular,7,2018-10-13 19:00:00+00:00,True,False,True,18551,3700,Doyt L. Perry Stadium,189,Bowling Green,2711,Western Michigan,35,42
+401020757,2018,regular,7,2018-10-13 19:00:00+00:00,True,False,True,10255,3786,Kelly/Shorts Stadium,2117,Central Michigan,2050,Ball State,23,24
+401019508,2018,regular,7,2018-10-13 19:30:00+00:00,True,False,True,30106,3852,Navy-Marine Corps Memorial Stadium,2426,Navy,218,Temple,17,24
+401013032,2018,regular,7,2018-10-13 19:30:00+00:00,True,False,True,93882,3910,DKR-Texas Memorial Stadium,251,Texas,239,Baylor,23,17
+401012310,2018,regular,7,2018-10-13 19:30:00+00:00,True,False,True,102321,3958,Tiger Stadium (LA),99,LSU,61,Georgia,36,16
+401012311,2018,regular,7,2018-10-13 19:30:00+00:00,True,False,True,76871,3994,Williams-Brice Stadium,2579,South Carolina,245,Texas A&M,23,26
+401012809,2018,regular,7,2018-10-13 19:30:00+00:00,True,False,True,41966,3832,"Memorial Stadium (Champaign, IL)",356,Illinois,2509,Purdue,7,46
+401020758,2018,regular,7,2018-10-13 19:30:00+00:00,True,False,True,12138,3764,Huskie Stadium,2459,Northern Illinois,195,Ohio,24,21
+401013370,2018,regular,7,2018-10-13 19:30:00+00:00,True,True,False,15627,4738,Levi's Stadium,23,San José State,349,Army,3,52
+401012766,2018,regular,7,2018-10-13 19:30:00+00:00,True,False,True,58691,3626,Autzen Stadium,2483,Oregon,264,Washington,30,27
+401012883,2018,regular,7,2018-10-13 19:30:00+00:00,True,False,True,106685,3632,Beaver Stadium,213,Penn State,127,Michigan State,17,21
+401015016,2018,regular,7,2018-10-13 19:30:00+00:00,True,False,True,20118,3918,S.B. Ballard Stadium,295,Old Dominion,276,Marshall,20,42
+401015013,2018,regular,7,2018-10-13 19:30:00+00:00,True,False,True,11610,4418,Jerry Richardson Stadium,2429,Charlotte,98,Western Kentucky,40,14
+401019506,2018,regular,7,2018-10-13 19:30:00+00:00,True,False,True,38831,3805,Simmons Bank Liberty Stadium,235,Memphis,2116,UCF,30,31
+401022535,2018,regular,7,2018-10-13 20:00:00+00:00,True,False,True,36514,5388,Canvas Stadium,36,Colorado State,167,New Mexico,20,18
+401022536,2018,regular,7,2018-10-13 20:00:00+00:00,True,False,True,21212,3905,Maverik Stadium,328,Utah State,2439,UNLV,59,28
+401013442,2018,regular,7,2018-10-13 21:00:00+00:00,True,False,False,18131,3666,Cajun Field,309,Louisiana,166,New Mexico State,66,38
+401021675,2018,regular,7,2018-10-13 21:00:00+00:00,True,False,False,16231,3797,Ladd Peebles Stadium,6,South Alabama,2011,Alabama State,45,7
+401021674,2018,regular,7,2018-10-13 22:00:00+00:00,True,False,True,11506,3654,Brooks Stadium (SC),324,Coastal Carolina,2433,UL Monroe,20,45
+401013043,2018,regular,7,2018-10-13 23:00:00+00:00,True,False,True,56629,3772,Jack Trice Stadium,66,Iowa State,277,West Virginia,30,14
+401012767,2018,regular,7,2018-10-13 23:00:00+00:00,True,False,True,45889,3831,California Memorial Stadium,25,California,26,UCLA,7,37
+401013147,2018,regular,7,2018-10-13 23:00:00+00:00,True,False,True,50500,3787,Kenan Stadium,153,North Carolina,259,Virginia Tech,19,22
+401015015,2018,regular,7,2018-10-13 23:00:00+00:00,True,False,True,20057,3604,Alamodome,2636,UTSA,2348,Louisiana Tech,3,31
+401012307,2018,regular,7,2018-10-13 23:00:00+00:00,True,False,True,101821,3657,Bryant-Denny Stadium,333,Alabama,142,Missouri,39,10
+401013146,2018,regular,7,2018-10-13 23:00:00+00:00,True,False,True,42393,3923,Scott Stadium,258,Virginia,2390,Miami,16,13
+401019507,2018,regular,7,2018-10-13 23:00:00+00:00,True,False,True,29851,3699,Dowdy-Ficklen Stadium,151,East Carolina,248,Houston,20,42
+401012893,2018,regular,7,2018-10-13 23:30:00+00:00,True,False,True,111360,3558,Michigan Stadium,130,Michigan,275,Wisconsin,38,13
+401012308,2018,regular,7,2018-10-13 23:30:00+00:00,True,False,True,51438,3983,War Memorial Stadium (AR),8,Arkansas,145,Ole Miss,33,37
+401015014,2018,regular,7,2018-10-13 23:30:00+00:00,True,False,True,16002,218,FIU Stadium,2229,Florida International,2393,Middle Tennessee,24,21
+401016408,2018,regular,7,2018-10-14 02:15:00+00:00,True,False,False,52354,3801,LaVell Edwards Stadium,252,BYU,62,Hawai'i,49,23
+401012765,2018,regular,7,2018-10-14 02:30:00+00:00,True,False,True,57615,477,Los Angeles Memorial Coliseum,30,USC,38,Colorado,31,20
+401022534,2018,regular,7,2018-10-14 02:30:00+00:00,True,False,True,21431,3816,Mackay Stadium,2440,Nevada,68,Boise State,27,31
+401022537,2018,regular,7,2018-10-14 02:30:00+00:00,True,False,True,28501,3660,Valley Children's Stadium,278,Fresno State,2751,Wyoming,27,3
+401021676,2018,regular,8,2018-10-18 23:30:00+00:00,True,False,True,18176,3625,Centennial Bank Stadium,2032,Arkansas State,2247,Georgia State,51,35
+401012768,2018,regular,8,2018-10-19 01:00:00+00:00,True,False,True,42946,3947,Mountain America Stadium,9,Arizona State,24,Stanford,13,20
+401022538,2018,regular,8,2018-10-20 01:00:00+00:00,True,False,True,32299,3653,Albertsons Stadium,68,Boise State,36,Colorado State,56,28
+401022539,2018,regular,8,2018-10-20 02:00:00+00:00,True,False,True,17881,3914,Sam Boyd Stadium,2439,UNLV,2005,Air Force,35,41
+401019510,2018,regular,8,2018-10-20 16:00:00+00:00,True,False,True,33026,3806,Lincoln Financial Field,218,Temple,2132,Cincinnati,24,17
+401020763,2018,regular,8,2018-10-20 16:00:00+00:00,True,False,True,18114,3739,Glass Bowl,2649,Toledo,2084,Buffalo,17,31
+401013371,2018,regular,8,2018-10-20 16:00:00+00:00,True,False,False,38016,3841,Michie Stadium,349,Army,193,Miami (OH),31,30
+401012884,2018,regular,8,2018-10-20 16:00:00+00:00,True,False,True,76131,3936,Spartan Stadium,127,Michigan State,130,Michigan,7,21
+401012867,2018,regular,8,2018-10-20 16:00:00+00:00,True,False,True,69250,3793,Kinnick Stadium,2294,Iowa,120,Maryland,23,0
+401012313,2018,regular,8,2018-10-20 16:00:00+00:00,True,False,False,56691,3887,Razorback Stadium,8,Arkansas,202,Tulsa,23,0
+401012316,2018,regular,8,2018-10-20 16:00:00+00:00,True,False,True,56885,3974,Vaught-Hemingway Stadium,145,Ole Miss,2,Auburn,16,31
+401013068,2018,regular,8,2018-10-20 16:00:00+00:00,True,False,True,45055,3616,Amon G. Carter Stadium,2628,TCU,201,Oklahoma,27,52
+401012846,2018,regular,8,2018-10-20 16:00:00+00:00,True,False,True,32514,3754,High Point Solutions Stadium,164,Rutgers,77,Northwestern,15,18
+401012810,2018,regular,8,2018-10-20 16:00:00+00:00,True,False,True,79736,347,Camp Randall Stadium,275,Wisconsin,356,Illinois,49,20
+401013152,2018,regular,8,2018-10-20 16:20:00+00:00,True,False,True,35210,1964,JMA Wireless Dome,183,Syracuse,153,North Carolina,40,37
+401013150,2018,regular,8,2018-10-20 16:30:00+00:00,True,False,True,20277,3982,Wallace Wade Stadium,150,Duke,258,Virginia,14,28
+401013453,2018,regular,8,2018-10-20 18:00:00+00:00,True,False,False,16502,3992,Williams Stadium (VA),2335,Liberty,304,Idaho State,48,41
+401020762,2018,regular,8,2018-10-20 18:00:00+00:00,True,False,True,19492,3876,Peden Stadium,195,Ohio,189,Bowling Green,49,14
+401022540,2018,regular,8,2018-10-20 18:30:00+00:00,True,False,True,18378,3984,War Memorial Stadium,2751,Wyoming,328,Utah State,16,24
+401015021,2018,regular,8,2018-10-20 18:30:00+00:00,True,False,True,23825,3775,Joan C. Edwards Stadium,276,Marshall,2226,Florida Atlantic,31,7
+401020764,2018,regular,8,2018-10-20 19:00:00+00:00,True,False,True,14022,3919,Scheumann Stadium,2050,Ball State,2199,Eastern Michigan,20,42
+401020765,2018,regular,8,2018-10-20 19:00:00+00:00,True,False,True,10097,3786,Kelly/Shorts Stadium,2117,Central Michigan,2711,Western Michigan,10,35
+401015019,2018,regular,8,2018-10-20 19:00:00+00:00,True,False,True,13102,3725,"Johnny ""Red"" Floyd Stadium",2393,Middle Tennessee,2429,Charlotte,21,13
+401013052,2018,regular,8,2018-10-20 19:30:00+00:00,True,False,True,54402,3784,Jones AT&T Stadium,2641,Texas Tech,2305,Kansas,48,16
+401012772,2018,regular,8,2018-10-20 19:30:00+00:00,True,False,True,68798,3765,Husky Stadium,264,Washington,38,Colorado,27,13
+401021677,2018,regular,8,2018-10-20 19:30:00+00:00,True,False,True,27082,3792,Kidd Brewer Stadium,2026,App State,309,Louisiana,27,17
+401013363,2018,regular,8,2018-10-20 19:30:00+00:00,True,False,False,11134,3985,Warren McGuirk Alumni Stadium,113,Massachusetts,324,Coastal Carolina,13,24
+401019512,2018,regular,8,2018-10-20 19:30:00+00:00,True,False,True,33924,3852,Navy-Marine Corps Memorial Stadium,2426,Navy,248,Houston,36,49
+401015022,2018,regular,8,2018-10-20 19:30:00+00:00,True,False,True,18972,3776,Joe Aillet Stadium,2348,Louisiana Tech,2638,UTEP,31,24
+401013332,2018,regular,8,2018-10-20 19:30:00+00:00,True,False,True,89272,3834,"Memorial Stadium (Lincoln, NE)",158,Nebraska,135,Minnesota,53,28
+401013151,2018,regular,8,2018-10-20 19:30:00+00:00,True,False,True,67274,3697,Doak Campbell Stadium,52,Florida State,154,Wake Forest,38,17
+401020761,2018,regular,8,2018-10-20 19:30:00+00:00,True,False,True,18774,3696,Dix Stadium,2309,Kent State,2006,Akron,23,24
+401019513,2018,regular,8,2018-10-20 19:30:00+00:00,True,False,True,13987,4729,Yulman Stadium,2655,Tulane,2567,SMU,23,27
+401012318,2018,regular,8,2018-10-20 19:30:00+00:00,True,False,True,97087,3853,Neyland Stadium,2633,Tennessee,333,Alabama,21,58
+401012857,2018,regular,8,2018-10-20 19:30:00+00:00,True,False,True,41553,3830,"Memorial Stadium (Bloomington, IN)",84,Indiana,213,Penn State,28,33
+401013149,2018,regular,8,2018-10-20 19:30:00+00:00,True,False,True,81295,3836,"Memorial Stadium (Clemson, SC)",228,Clemson,152,NC State,41,7
+401012317,2018,regular,8,2018-10-20 20:00:00+00:00,True,False,False,52917,3838,Memorial Stadium,142,Missouri,235,Memphis,65,33
+401012771,2018,regular,8,2018-10-20 20:00:00+00:00,True,False,True,32390,3893,Reser Stadium,204,Oregon State,25,California,7,49
+401013443,2018,regular,8,2018-10-20 22:00:00+00:00,True,False,False,7300,3601,Aggie Memorial Stadium,166,New Mexico State,290,Georgia Southern,31,48
+401012315,2018,regular,8,2018-10-20 23:00:00+00:00,True,False,True,101340,3958,Tiger Stadium (LA),99,LSU,344,Mississippi State,19,3
+401015025,2018,regular,8,2018-10-20 23:00:00+00:00,True,False,True,21259,3815,M. M. Roberts Stadium,2572,Southern Miss,2636,UTSA,27,17
+401019511,2018,regular,8,2018-10-20 23:00:00+00:00,True,False,True,42127,3886,Raymond James Stadium,58,South Florida,41,UConn,38,30
+401019509,2018,regular,8,2018-10-20 23:00:00+00:00,True,False,True,31159,3699,Dowdy-Ficklen Stadium,151,East Carolina,2116,UCF,10,37
+401021678,2018,regular,8,2018-10-20 23:00:00+00:00,True,False,True,13235,3817,Malone Stadium,2433,UL Monroe,326,Texas State,20,14
+401015020,2018,regular,8,2018-10-20 23:30:00+00:00,True,False,True,13741,218,FIU Stadium,2229,Florida International,242,Rice,36,17
+401012773,2018,regular,8,2018-10-20 23:30:00+00:00,True,False,True,33152,3820,Gesa Field,265,Washington State,2483,Oregon,34,20
+401013348,2018,regular,8,2018-10-20 23:30:00+00:00,True,False,True,60716,3907,Ross-Ade Stadium,2509,Purdue,194,Ohio State,49,20
+401015024,2018,regular,8,2018-10-20 23:30:00+00:00,True,False,True,13269,3796,Houchens Industries-L.T. Smith Stadium,98,Western Kentucky,295,Old Dominion,34,37
+401022541,2018,regular,8,2018-10-20 23:30:00+00:00,True,False,True,16708,3971,University Stadium (NM),167,New Mexico,278,Fresno State,7,38
+401012314,2018,regular,8,2018-10-20 23:30:00+00:00,True,False,True,54269,3683,Kroger Field,96,Kentucky,238,Vanderbilt,14,7
+401015023,2018,regular,8,2018-10-20 23:30:00+00:00,True,False,True,28014,3803,Legion Field,5,UAB,249,North Texas,29,21
+401012770,2018,regular,8,2018-10-21 00:00:00+00:00,True,False,True,46405,587,Rice-Eccles Stadium,254,Utah,30,USC,41,28
+401012769,2018,regular,8,2018-10-21 02:30:00+00:00,True,False,True,54686,1056,Rose Bowl,26,UCLA,12,Arizona,31,30
+401022543,2018,regular,8,2018-10-21 02:30:00+00:00,True,False,True,30451,3932,Qualcomm Stadium,21,San Diego State,23,San José State,16,13
+401022542,2018,regular,8,2018-10-21 03:59:00+00:00,True,False,True,24475,3610,Aloha Stadium,62,Hawai'i,2440,Nevada,22,40
+401021679,2018,regular,9,2018-10-24 00:00:00+00:00,True,False,True,25878,3797,Ladd Peebles Stadium,6,South Alabama,2653,Troy,17,38
+401013033,2018,regular,9,2018-10-25 23:00:00+00:00,True,False,True,53117,3842,Milan Puskar Stadium,277,West Virginia,239,Baylor,58,14
+401020766,2018,regular,9,2018-10-25 23:00:00+00:00,True,False,True,13774,3876,Peden Stadium,195,Ohio,2050,Ball State,52,14
+401020767,2018,regular,9,2018-10-25 23:00:00+00:00,True,False,True,11389,3980,Waldo Stadium,2711,Western Michigan,2649,Toledo,24,51
+401013153,2018,regular,9,2018-10-25 23:30:00+00:00,True,False,True,65632,3799,Lane Stadium,259,Virginia Tech,59,Georgia Tech,28,49
+401021680,2018,regular,9,2018-10-25 23:30:00+00:00,True,False,True,19252,3608,Allen E. Paulson Stadium,290,Georgia Southern,2026,App State,34,14
+401015028,2018,regular,9,2018-10-26 22:30:00+00:00,True,False,True,14948,3715,FAU Stadium,2226,Florida Atlantic,2348,Louisiana Tech,13,21
+401013154,2018,regular,9,2018-10-26 23:00:00+00:00,True,False,True,44514,3615,"Alumni Stadium (Chestnut Hill, MA)",103,Boston College,2390,Miami,27,14
+401012858,2018,regular,9,2018-10-27 00:00:00+00:00,True,False,True,33273,3953,Huntington Bank Stadium,135,Minnesota,84,Indiana,38,31
+401022546,2018,regular,9,2018-10-27 02:00:00+00:00,True,False,True,32125,5388,Canvas Stadium,36,Colorado State,2751,Wyoming,21,34
+401012774,2018,regular,9,2018-10-27 02:30:00+00:00,True,False,True,41848,1056,Rose Bowl,26,UCLA,254,Utah,10,41
+401012885,2018,regular,9,2018-10-27 16:00:00+00:00,True,False,True,72657,3936,Spartan Stadium,127,Michigan State,2509,Purdue,23,13
+401013044,2018,regular,9,2018-10-27 16:00:00+00:00,True,False,True,57908,3772,Jack Trice Stadium,66,Iowa State,2641,Texas Tech,40,31
+401020768,2018,regular,9,2018-10-27 16:00:00+00:00,True,False,True,17582,3768,InfoCision Stadium,2006,Akron,2117,Central Michigan,17,10
+401013364,2018,regular,9,2018-10-27 16:00:00+00:00,True,False,False,24150,3892,Pratt & Whitney Stadium,41,UConn,113,Massachusetts,17,22
+401013372,2018,regular,9,2018-10-27 16:00:00+00:00,True,False,False,22627,3912,Rynearson Stadium,2199,Eastern Michigan,349,Army,22,37
+401013344,2018,regular,9,2018-10-27 16:00:00+00:00,True,False,True,47330,3911,Ryan Field,77,Northwestern,275,Wisconsin,31,17
+401013155,2018,regular,9,2018-10-27 16:00:00+00:00,True,False,True,68403,3697,Doak Campbell Stadium,52,Florida State,228,Clemson,10,59
+401085385,2018,regular,9,2018-10-27 16:00:00+00:00,True,False,False,88735,3834,"Memorial Stadium (Lincoln, NE)",158,Nebraska,2065,Bethune-Cookman,45,9
+401013157,2018,regular,9,2018-10-27 16:00:00+00:00,True,False,True,49603,3873,L&N Federal Credit Union Stadium,97,Louisville,154,Wake Forest,35,56
+401012319,2018,regular,9,2018-10-27 16:00:00+00:00,True,False,True,56251,3887,Razorback Stadium,8,Arkansas,238,Vanderbilt,31,45
+401013158,2018,regular,9,2018-10-27 16:20:00+00:00,True,False,True,43128,3923,Scott Stadium,258,Virginia,153,North Carolina,31,21
+401021682,2018,regular,9,2018-10-27 18:00:00+00:00,True,False,True,15648,4246,Center Parc Stadium,2247,Georgia State,324,Coastal Carolina,34,37
+401015026,2018,regular,9,2018-10-27 18:00:00+00:00,True,False,True,8687,4418,Jerry Richardson Stadium,2429,Charlotte,2572,Southern Miss,20,17
+401012777,2018,regular,9,2018-10-27 19:00:00+00:00,True,False,True,48050,3726,Folsom Field,38,Colorado,204,Oregon State,34,41
+401013053,2018,regular,9,2018-10-27 19:00:00+00:00,True,False,True,15069,3833,Memorial Stadium,2305,Kansas,2628,TCU,27,26
+401012868,2018,regular,9,2018-10-27 19:30:00+00:00,True,False,True,105244,3632,Beaver Stadium,213,Penn State,2294,Iowa,30,24
+401019515,2018,regular,9,2018-10-27 19:30:00+00:00,True,False,True,31631,4728,TDECU Stadium,248,Houston,58,South Florida,57,36
+401013062,2018,regular,9,2018-10-27 19:30:00+00:00,True,False,True,86436,3835,"Memorial Stadium (Norman, OK)",201,Oklahoma,2306,Kansas State,51,14
+401013156,2018,regular,9,2018-10-27 19:30:00+00:00,True,False,True,31510,3752,Acrisure Stadium,221,Pittsburgh,150,Duke,54,45
+401012811,2018,regular,9,2018-10-27 19:30:00+00:00,True,False,True,30387,3665,SECU Stadium,120,Maryland,356,Illinois,63,33
+401019514,2018,regular,9,2018-10-27 19:30:00+00:00,True,False,True,16121,3735,Gerald J. Ford Stadium,2567,SMU,2132,Cincinnati,20,26
+401015029,2018,regular,9,2018-10-27 19:30:00+00:00,True,False,True,19725,3918,S.B. Ballard Stadium,295,Old Dominion,2393,Middle Tennessee,17,51
+401016409,2018,regular,9,2018-10-27 19:30:00+00:00,True,False,False,51084,3801,LaVell Edwards Stadium,252,BYU,2459,Northern Illinois,6,7
+401012320,2018,regular,9,2018-10-27 19:30:00+00:00,True,True,True,84463,3712,EverBank Stadium,61,Georgia,57,Florida,36,17
+401012776,2018,regular,9,2018-10-27 19:30:00+00:00,True,False,True,47406,477,Los Angeles Memorial Coliseum,30,USC,9,Arizona State,35,38
+401022545,2018,regular,9,2018-10-27 20:00:00+00:00,True,False,True,16119,3905,Maverik Stadium,328,Utah State,167,New Mexico,61,19
+401012322,2018,regular,9,2018-10-27 20:00:00+00:00,True,False,True,53397,3838,Memorial Stadium,142,Missouri,96,Kentucky,14,15
+401015030,2018,regular,9,2018-10-27 20:00:00+00:00,True,False,True,25379,3825,DATCU Stadium,249,North Texas,242,Rice,41,17
+401012778,2018,regular,9,2018-10-27 22:30:00+00:00,True,False,True,39138,3831,California Memorial Stadium,25,California,264,Washington,12,10
+401022549,2018,regular,9,2018-10-27 22:30:00+00:00,True,False,True,16165,3935,CEFCU Stadium,23,San José State,2439,UNLV,50,37
+401019516,2018,regular,9,2018-10-27 23:00:00+00:00,True,False,True,16133,3674,Chapman Stadium,202,Tulsa,2655,Tulane,17,24
+401013444,2018,regular,9,2018-10-27 23:00:00+00:00,True,False,False,15045,3644,Bobcat Stadium (TX),326,Texas State,166,New Mexico State,27,20
+401021681,2018,regular,9,2018-10-27 23:00:00+00:00,True,False,True,17068,3666,Cajun Field,309,Louisiana,2032,Arkansas State,47,43
+401012779,2018,regular,9,2018-10-27 23:00:00+00:00,True,False,True,39596,3940,Stanford Stadium,24,Stanford,265,Washington State,38,41
+401022544,2018,regular,9,2018-10-27 23:00:00+00:00,True,False,True,27753,3713,Falcon Stadium,2005,Air Force,68,Boise State,38,48
+401012321,2018,regular,9,2018-10-27 23:00:00+00:00,True,False,True,57085,3693,Davis Wade Stadium,344,Mississippi State,245,Texas A&M,28,13
+401013159,2018,regular,9,2018-10-27 23:00:00+00:00,True,False,True,40769,1964,JMA Wireless Dome,183,Syracuse,152,NC State,51,41
+401015027,2018,regular,9,2018-10-27 23:30:00+00:00,True,False,True,15138,3796,Houchens Industries-L.T. Smith Stadium,98,Western Kentucky,2229,Florida International,17,38
+401015031,2018,regular,9,2018-10-27 23:30:00+00:00,True,False,True,10787,3946,Sun Bowl,2638,UTEP,5,UAB,0,19
+401012323,2018,regular,9,2018-10-27 23:30:00+00:00,True,False,True,80614,3994,Williams-Brice Stadium,2579,South Carolina,2633,Tennessee,27,24
+401013320,2018,regular,9,2018-10-28 00:00:00+00:00,True,False,True,56790,3646,Boone Pickens Stadium,197,Oklahoma State,251,Texas,38,35
+401013189,2018,regular,9,2018-10-28 00:00:00+00:00,True,True,False,63626,3932,Qualcomm Stadium,2426,Navy,87,Notre Dame,22,44
+401022547,2018,regular,9,2018-10-28 02:30:00+00:00,True,False,True,33659,3660,Valley Children's Stadium,278,Fresno State,62,Hawai'i,50,20
+401012775,2018,regular,9,2018-10-28 02:30:00+00:00,True,False,True,42845,3619,Arizona Stadium,12,Arizona,2483,Oregon,44,15
+401022548,2018,regular,9,2018-10-28 02:30:00+00:00,True,False,True,14545,3816,Mackay Stadium,2440,Nevada,21,San Diego State,28,24
+401020769,2018,regular,10,2018-10-31 00:00:00+00:00,True,False,True,13131,3700,Doyt L. Perry Stadium,189,Bowling Green,2309,Kent State,28,35
+401020770,2018,regular,10,2018-10-31 00:00:00+00:00,True,False,True,15682,3965,UB Stadium,2084,Buffalo,193,Miami (OH),51,42
+401020771,2018,regular,10,2018-10-31 23:30:00+00:00,True,False,True,15214,3739,Glass Bowl,2649,Toledo,2050,Ball State,45,13
+401020772,2018,regular,10,2018-11-01 23:00:00+00:00,True,False,True,16401,3768,InfoCision Stadium,2006,Akron,2459,Northern Illinois,26,36
+401020773,2018,regular,10,2018-11-01 23:00:00+00:00,True,False,True,11935,3980,Waldo Stadium,2711,Western Michigan,195,Ohio,14,59
+401019517,2018,regular,10,2018-11-01 23:30:00+00:00,True,False,True,41153,3652,FBC Mortgage Stadium,2116,UCF,218,Temple,52,40
+401013160,2018,regular,10,2018-11-02 23:30:00+00:00,True,False,True,36256,3923,Scott Stadium,258,Virginia,221,Pittsburgh,13,23
+401015034,2018,regular,10,2018-11-03 00:00:00+00:00,True,False,True,16617,3725,"Johnny ""Red"" Floyd Stadium",2393,Middle Tennessee,98,Western Kentucky,29,10
+401012780,2018,regular,10,2018-11-03 02:30:00+00:00,True,False,True,43080,3619,Arizona Stadium,12,Arizona,38,Colorado,42,34
+401013373,2018,regular,10,2018-11-03 12:00:00+00:00,True,False,False,38502,3841,Michie Stadium,349,Army,2005,Air Force,17,14
+401012324,2018,regular,10,2018-11-03 16:00:00+00:00,True,False,True,85945,3785,Jordan-Hare Stadium,2,Auburn,245,Texas A&M,28,24
+401012847,2018,regular,10,2018-11-03 16:00:00+00:00,True,False,True,74379,347,Camp Randall Stadium,275,Wisconsin,164,Rutgers,31,17
+401013034,2018,regular,10,2018-11-03 16:00:00+00:00,True,False,True,43492,4727,McLane Stadium,239,Baylor,197,Oklahoma State,35,31
+401013045,2018,regular,10,2018-11-03 16:00:00+00:00,True,False,True,15543,3833,Memorial Stadium,2305,Kansas,66,Iowa State,3,27
+401012328,2018,regular,10,2018-11-03 16:00:00+00:00,True,False,True,56798,3974,Vaught-Hemingway Stadium,145,Ole Miss,2579,South Carolina,44,48
+401019520,2018,regular,10,2018-11-03 16:00:00+00:00,True,False,True,29127,3699,Dowdy-Ficklen Stadium,151,East Carolina,235,Memphis,41,59
+401013162,2018,regular,10,2018-11-03 16:00:00+00:00,True,False,True,78741,3836,"Memorial Stadium (Clemson, SC)",228,Clemson,97,Louisville,77,16
+401012877,2018,regular,10,2018-11-03 16:00:00+00:00,True,False,True,31735,3665,SECU Stadium,120,Maryland,127,Michigan State,3,24
+401020774,2018,regular,10,2018-11-03 16:00:00+00:00,True,False,True,13468,3912,Rynearson Stadium,2199,Eastern Michigan,2117,Central Michigan,17,7
+401013341,2018,regular,10,2018-11-03 16:00:00+00:00,True,False,True,104245,3861,Ohio Stadium,194,Ohio State,158,Nebraska,36,31
+401013166,2018,regular,10,2018-11-03 16:00:00+00:00,True,False,True,26136,3630,Allegacy Federal Credit Union Stadium,154,Wake Forest,183,Syracuse,24,41
+401013165,2018,regular,10,2018-11-03 16:15:00+00:00,True,False,True,40782,3787,Kenan Stadium,153,North Carolina,59,Georgia Tech,28,38
+401021686,2018,regular,10,2018-11-03 18:00:00+00:00,True,False,True,11312,4246,Center Parc Stadium,2247,Georgia State,326,Texas State,30,40
+401022552,2018,regular,10,2018-11-03 18:00:00+00:00,True,False,True,13238,3984,War Memorial Stadium,2751,Wyoming,23,San José State,24,9
+401015033,2018,regular,10,2018-11-03 19:00:00+00:00,True,False,True,20375,3815,M. M. Roberts Stadium,2572,Southern Miss,276,Marshall,26,24
+401021684,2018,regular,10,2018-11-03 19:00:00+00:00,True,False,True,20671,3625,Centennial Bank Stadium,2032,Arkansas State,6,South Alabama,38,14
+401021685,2018,regular,10,2018-11-03 19:00:00+00:00,True,False,True,13787,3817,Malone Stadium,2433,UL Monroe,290,Georgia Southern,44,25
+401013063,2018,regular,10,2018-11-03 19:30:00+00:00,True,False,True,40486,3616,Amon G. Carter Stadium,2628,TCU,2306,Kansas State,14,13
+401015035,2018,regular,10,2018-11-03 19:30:00+00:00,True,False,True,18420,3895,Rice Stadium,242,Rice,2638,UTEP,26,34
+401021687,2018,regular,10,2018-11-03 19:30:00+00:00,True,False,True,24631,3975,Veterans Memorial Stadium (AL),2653,Troy,309,Louisiana,26,16
+401013188,2018,regular,10,2018-11-03 19:30:00+00:00,True,False,True,100703,3910,DKR-Texas Memorial Stadium,251,Texas,277,West Virginia,41,42
+401013164,2018,regular,10,2018-11-03 19:30:00+00:00,True,False,True,57600,3670,Carter-Finley Stadium,152,NC State,52,Florida State,47,28
+401012869,2018,regular,10,2018-11-03 19:30:00+00:00,True,False,True,60716,3907,Ross-Ade Stadium,2509,Purdue,2294,Iowa,38,36
+401012326,2018,regular,10,2018-11-03 19:30:00+00:00,True,False,True,63543,3683,Kroger Field,96,Kentucky,61,Georgia,17,34
+401013365,2018,regular,10,2018-11-03 19:30:00+00:00,True,False,False,10338,3985,Warren McGuirk Alumni Stadium,113,Massachusetts,2335,Liberty,62,59
+401019521,2018,regular,10,2018-11-03 19:30:00+00:00,True,False,True,31388,3886,Raymond James Stadium,58,South Florida,2655,Tulane,15,41
+401019518,2018,regular,10,2018-11-03 19:30:00+00:00,True,False,True,36318,3854,Nippert Stadium,2132,Cincinnati,2426,Navy,42,0
+401012812,2018,regular,10,2018-11-03 19:30:00+00:00,True,False,True,35774,3832,"Memorial Stadium (Champaign, IL)",356,Illinois,135,Minnesota,55,31
+401012894,2018,regular,10,2018-11-03 19:45:00+00:00,True,False,True,111747,3558,Michigan Stadium,130,Michigan,213,Penn State,42,7
+401013161,2018,regular,10,2018-11-03 19:45:00+00:00,True,False,True,65632,3799,Lane Stadium,259,Virginia Tech,103,Boston College,21,31
+401013445,2018,regular,10,2018-11-03 20:00:00+00:00,True,False,False,11897,3601,Aggie Memorial Stadium,166,New Mexico State,2016,Alcorn State,52,42
+401012781,2018,regular,10,2018-11-03 20:00:00+00:00,True,False,True,46445,3947,Mountain America Stadium,9,Arizona State,254,Utah,38,20
+401012330,2018,regular,10,2018-11-03 20:00:00+00:00,True,False,False,86753,3853,Neyland Stadium,2633,Tennessee,2429,Charlotte,14,3
+401012325,2018,regular,10,2018-11-03 20:00:00+00:00,True,False,True,80017,3634,Ben Hill Griffin Stadium,57,Florida,142,Missouri,17,38
+401021683,2018,regular,10,2018-11-03 21:00:00+00:00,True,False,True,13004,3654,Brooks Stadium (SC),324,Coastal Carolina,2026,App State,7,23
+401019519,2018,regular,10,2018-11-03 23:00:00+00:00,True,False,True,17451,3674,Chapman Stadium,202,Tulsa,41,UConn,49,19
+401013163,2018,regular,10,2018-11-03 23:00:00+00:00,True,False,True,62754,3948,Hard Rock Stadium,2390,Miami,150,Duke,12,20
+401019522,2018,regular,10,2018-11-03 23:00:00+00:00,True,False,True,23654,3735,Gerald J. Ford Stadium,2567,SMU,248,Houston,45,31
+401013345,2018,regular,10,2018-11-03 23:15:00+00:00,True,False,False,47330,3911,Ryan Field,77,Northwestern,87,Notre Dame,21,31
+401012329,2018,regular,10,2018-11-03 23:30:00+00:00,True,False,False,58709,3693,Davis Wade Stadium,344,Mississippi State,2348,Louisiana Tech,45,3
+401015036,2018,regular,10,2018-11-03 23:30:00+00:00,True,False,True,17605,3803,Legion Field,5,UAB,2636,UTSA,52,3
+401015032,2018,regular,10,2018-11-03 23:30:00+00:00,True,False,True,18478,218,FIU Stadium,2229,Florida International,2226,Florida Atlantic,14,49
+401012782,2018,regular,10,2018-11-03 23:30:00+00:00,True,False,True,56114,3626,Autzen Stadium,2483,Oregon,26,UCLA,42,21
+401012327,2018,regular,10,2018-11-04 00:00:00+00:00,True,False,True,102321,3958,Tiger Stadium (LA),99,LSU,333,Alabama,0,29
+401013069,2018,regular,10,2018-11-04 00:00:00+00:00,True,False,True,60454,3784,Jones AT&T Stadium,2641,Texas Tech,201,Oklahoma,46,51
+401012784,2018,regular,10,2018-11-04 01:00:00+00:00,True,False,True,69690,3765,Husky Stadium,264,Washington,24,Stanford,27,23
+401012783,2018,regular,10,2018-11-04 02:00:00+00:00,True,False,True,35187,3893,Reser Stadium,204,Oregon State,30,USC,21,38
+401016410,2018,regular,10,2018-11-04 02:15:00+00:00,True,False,False,35241,3653,Albertsons Stadium,68,Boise State,252,BYU,21,16
+401022550,2018,regular,10,2018-11-04 02:15:00+00:00,True,False,True,14646,3971,University Stadium (NM),167,New Mexico,21,San Diego State,23,31
+401022553,2018,regular,10,2018-11-04 02:30:00+00:00,True,False,True,15276,3914,Sam Boyd Stadium,2439,UNLV,278,Fresno State,3,48
+401012785,2018,regular,10,2018-11-04 02:45:00+00:00,True,False,True,32952,3820,Gesa Field,265,Washington State,25,California,19,13
+401022551,2018,regular,10,2018-11-04 03:59:00+00:00,True,False,True,21476,3610,Aloha Stadium,62,Hawai'i,328,Utah State,17,56
+401020775,2018,regular,11,2018-11-07 00:30:00+00:00,True,False,True,15078,3965,UB Stadium,2084,Buffalo,2309,Kent State,48,14
+401020776,2018,regular,11,2018-11-08 00:00:00+00:00,True,False,True,15975,3996,Yager Stadium,193,Miami (OH),195,Ohio,30,28
+401020777,2018,regular,11,2018-11-08 01:00:00+00:00,True,False,True,5887,3764,Huskie Stadium,2459,Northern Illinois,2649,Toledo,38,15
+401013167,2018,regular,11,2018-11-09 00:30:00+00:00,True,False,True,56228,3670,Carter-Finley Stadium,152,NC State,154,Wake Forest,23,27
+401013168,2018,regular,11,2018-11-10 00:00:00+00:00,True,False,True,42797,1964,JMA Wireless Dome,183,Syracuse,97,Louisville,54,23
+401022556,2018,regular,11,2018-11-10 03:15:00+00:00,True,False,True,33118,3653,Albertsons Stadium,68,Boise State,278,Fresno State,24,17
+401013366,2018,regular,11,2018-11-10 17:00:00+00:00,True,False,False,14082,3738,Gillette Stadium,113,Massachusetts,252,BYU,16,35
+401013351,2018,regular,11,2018-11-10 17:00:00+00:00,True,False,True,105396,3632,Beaver Stadium,213,Penn State,275,Wisconsin,22,10
+401012335,2018,regular,11,2018-11-10 17:00:00+00:00,True,False,True,48342,3838,Memorial Stadium,142,Missouri,238,Vanderbilt,33,28
+401012337,2018,regular,11,2018-11-10 17:00:00+00:00,True,False,True,102618,3795,Kyle Field,245,Texas A&M,145,Ole Miss,38,24
+401013054,2018,regular,11,2018-11-10 17:00:00+00:00,True,False,True,50062,3636,Bill Snyder Family Stadium,2306,Kansas State,2305,Kansas,21,17
+401013374,2018,regular,11,2018-11-10 17:00:00+00:00,True,False,False,31286,3841,Michie Stadium,349,Army,322,Lafayette,31,13
+401019523,2018,regular,11,2018-11-10 17:00:00+00:00,True,False,True,44738,3652,FBC Mortgage Stadium,2116,UCF,2426,Navy,35,24
+401012333,2018,regular,11,2018-11-10 17:00:00+00:00,True,False,True,82696,3634,Ben Hill Griffin Stadium,57,Florida,2579,South Carolina,35,31
+401019528,2018,regular,11,2018-11-10 17:00:00+00:00,True,False,True,27905,3805,Simmons Bank Liberty Stadium,235,Memphis,202,Tulsa,47,21
+401019525,2018,regular,11,2018-11-10 17:00:00+00:00,True,False,True,19096,3892,Pratt & Whitney Stadium,41,UConn,2567,SMU,50,62
+401012859,2018,regular,11,2018-11-10 17:00:00+00:00,True,False,True,35264,3830,"Memorial Stadium (Bloomington, IN)",84,Indiana,120,Maryland,34,32
+401012886,2018,regular,11,2018-11-10 17:00:00+00:00,True,False,True,74633,3936,Spartan Stadium,127,Michigan State,194,Ohio State,6,26
+401020778,2018,regular,11,2018-11-10 17:00:00+00:00,True,False,True,12403,3912,Rynearson Stadium,2199,Eastern Michigan,2006,Akron,27,7
+401012813,2018,regular,11,2018-11-10 17:00:00+00:00,True,False,True,88316,3834,"Memorial Stadium (Lincoln, NE)",158,Nebraska,356,Illinois,54,35
+401013077,2018,regular,11,2018-11-10 17:00:00+00:00,True,False,True,60007,3842,Milan Puskar Stadium,277,West Virginia,2628,TCU,47,10
+401013170,2018,regular,11,2018-11-10 17:20:00+00:00,True,False,True,35493,3982,Wallace Wade Stadium,150,Duke,153,North Carolina,42,35
+401021689,2018,regular,11,2018-11-10 18:00:00+00:00,True,False,True,16289,3608,Allen E. Paulson Stadium,290,Georgia Southern,2653,Troy,21,35
+401012786,2018,regular,11,2018-11-10 19:00:00+00:00,True,False,True,46466,3947,Mountain America Stadium,9,Arizona State,26,UCLA,31,28
+401015037,2018,regular,11,2018-11-10 19:30:00+00:00,True,False,True,19418,3775,Joan C. Edwards Stadium,276,Marshall,2429,Charlotte,30,13
+401020779,2018,regular,11,2018-11-10 20:00:00+00:00,True,False,True,8041,3786,Kelly/Shorts Stadium,2117,Central Michigan,189,Bowling Green,13,24
+401013174,2018,regular,11,2018-11-10 20:00:00+00:00,True,False,False,41485,3923,Scott Stadium,258,Virginia,2335,Liberty,45,24
+401015041,2018,regular,11,2018-11-10 20:00:00+00:00,True,False,True,9690,3946,Sun Bowl,2638,UTEP,2393,Middle Tennessee,32,48
+401012848,2018,regular,11,2018-11-10 20:30:00+00:00,True,False,True,43786,3754,High Point Solutions Stadium,164,Rutgers,130,Michigan,7,42
+401013070,2018,regular,11,2018-11-10 20:30:00+00:00,True,False,True,87635,3835,"Memorial Stadium (Norman, OK)",201,Oklahoma,197,Oklahoma State,48,47
+401015042,2018,regular,11,2018-11-10 20:30:00+00:00,True,False,True,18062,3918,S.B. Ballard Stadium,295,Old Dominion,249,North Texas,34,31
+401013173,2018,regular,11,2018-11-10 20:30:00+00:00,True,False,True,44398,3752,Acrisure Stadium,221,Pittsburgh,259,Virginia Tech,52,22
+401013333,2018,regular,11,2018-11-10 20:30:00+00:00,True,False,True,31068,3953,Huntington Bank Stadium,135,Minnesota,2509,Purdue,41,10
+401012870,2018,regular,11,2018-11-10 20:30:00+00:00,True,False,True,66493,3793,Kinnick Stadium,2294,Iowa,77,Northwestern,10,14
+401022554,2018,regular,11,2018-11-10 20:30:00+00:00,True,False,True,23723,3713,Falcon Stadium,2005,Air Force,167,New Mexico,42,24
+401012788,2018,regular,11,2018-11-10 20:30:00+00:00,True,False,True,45587,3726,Folsom Field,38,Colorado,265,Washington State,7,31
+401012336,2018,regular,11,2018-11-10 20:30:00+00:00,True,False,True,95258,3853,Neyland Stadium,2633,Tennessee,96,Kentucky,24,7
+401013035,2018,regular,11,2018-11-10 20:30:00+00:00,True,False,True,53860,3772,Jack Trice Stadium,66,Iowa State,239,Baylor,28,14
+401012331,2018,regular,11,2018-11-10 20:30:00+00:00,True,False,True,101821,3657,Bryant-Denny Stadium,333,Alabama,344,Mississippi State,24,0
+401021702,2018,regular,11,2018-11-10 21:00:00+00:00,True,False,True,11482,3644,Bobcat Stadium (TX),326,Texas State,2026,App State,7,38
+401022557,2018,regular,11,2018-11-10 21:00:00+00:00,True,False,True,19017,3905,Maverik Stadium,328,Utah State,23,San José State,62,24
+401019526,2018,regular,11,2018-11-10 21:00:00+00:00,True,False,True,20860,4729,Yulman Stadium,2655,Tulane,151,East Carolina,24,18
+401021688,2018,regular,11,2018-11-10 22:00:00+00:00,True,False,True,8141,3654,Brooks Stadium (SC),324,Coastal Carolina,2032,Arkansas State,16,44
+401015039,2018,regular,11,2018-11-10 22:00:00+00:00,True,False,True,14400,3715,FAU Stadium,2226,Florida Atlantic,98,Western Kentucky,34,15
+401021690,2018,regular,11,2018-11-10 22:00:00+00:00,True,False,True,14945,3666,Cajun Field,309,Louisiana,2247,Georgia State,36,22
+401021691,2018,regular,11,2018-11-10 22:00:00+00:00,True,False,True,14096,3797,Ladd Peebles Stadium,6,South Alabama,2433,UL Monroe,10,38
+401012789,2018,regular,11,2018-11-10 22:30:00+00:00,True,False,True,46275,587,Rice-Eccles Stadium,254,Utah,2483,Oregon,32,25
+401015038,2018,regular,11,2018-11-11 00:00:00+00:00,True,False,True,16874,3604,Alamodome,2636,UTSA,2229,Florida International,7,45
+401012334,2018,regular,11,2018-11-11 00:00:00+00:00,True,False,True,92746,3917,Sanford Stadium,61,Georgia,2,Auburn,27,10
+401013172,2018,regular,11,2018-11-11 00:00:00+00:00,True,False,True,48217,721,Bobby Dodd Stadium,59,Georgia Tech,2390,Miami,27,21
+401019524,2018,regular,11,2018-11-11 00:00:00+00:00,True,False,True,29310,3854,Nippert Stadium,2132,Cincinnati,58,South Florida,35,23
+401015040,2018,regular,11,2018-11-11 00:00:00+00:00,True,False,True,15283,3776,Joe Aillet Stadium,2348,Louisiana Tech,242,Rice,28,13
+401019527,2018,regular,11,2018-11-11 00:00:00+00:00,True,False,True,30862,4728,TDECU Stadium,248,Houston,218,Temple,49,59
+401013321,2018,regular,11,2018-11-11 00:30:00+00:00,True,False,True,60454,3784,Jones AT&T Stadium,2641,Texas Tech,251,Texas,34,41
+401012332,2018,regular,11,2018-11-11 00:30:00+00:00,True,False,True,64135,3887,Razorback Stadium,8,Arkansas,99,LSU,17,24
+401013171,2018,regular,11,2018-11-11 00:30:00+00:00,True,False,False,77622,3855,Notre Dame Stadium,87,Notre Dame,52,Florida State,42,13
+401015043,2018,regular,11,2018-11-11 00:30:00+00:00,True,False,True,25618,3803,Legion Field,5,UAB,2572,Southern Miss,26,23
+401013169,2018,regular,11,2018-11-11 01:00:00+00:00,True,False,True,44500,3615,"Alumni Stadium (Chestnut Hill, MA)",103,Boston College,228,Clemson,7,27
+401012790,2018,regular,11,2018-11-11 02:00:00+00:00,True,False,True,34671,3940,Stanford Stadium,24,Stanford,204,Oregon State,48,17
+401022558,2018,regular,11,2018-11-11 03:30:00+00:00,True,False,True,24986,3932,Qualcomm Stadium,21,San Diego State,2439,UNLV,24,27
+401022555,2018,regular,11,2018-11-11 03:30:00+00:00,True,False,True,13755,3816,Mackay Stadium,2440,Nevada,36,Colorado State,49,10
+401012787,2018,regular,11,2018-11-11 03:30:00+00:00,True,False,True,56721,477,Los Angeles Memorial Coliseum,30,USC,25,California,14,15
+401020780,2018,regular,12,2018-11-13 23:00:00+00:00,True,False,True,5503,3919,Scheumann Stadium,2050,Ball State,2711,Western Michigan,42,41
+401020781,2018,regular,12,2018-11-15 00:00:00+00:00,True,False,True,13839,3876,Peden Stadium,195,Ohio,2084,Buffalo,52,17
+401020782,2018,regular,12,2018-11-15 01:00:00+00:00,True,False,True,4878,3764,Huskie Stadium,2459,Northern Illinois,193,Miami (OH),7,13
+401020783,2018,regular,12,2018-11-15 23:00:00+00:00,True,False,True,5387,3696,Dix Stadium,2309,Kent State,2649,Toledo,34,56
+401019529,2018,regular,12,2018-11-16 01:00:00+00:00,True,False,True,24209,4728,TDECU Stadium,248,Houston,2655,Tulane,48,17
+401015045,2018,regular,12,2018-11-16 02:30:00+00:00,True,False,True,18338,3825,DATCU Stadium,249,North Texas,2226,Florida Atlantic,41,38
+401022560,2018,regular,12,2018-11-17 02:00:00+00:00,True,False,True,16883,3971,University Stadium (NM),167,New Mexico,68,Boise State,14,45
+401019530,2018,regular,12,2018-11-17 02:00:00+00:00,True,False,True,15794,3735,Gerald J. Ford Stadium,2567,SMU,235,Memphis,18,28
+401013334,2018,regular,12,2018-11-17 17:00:00+00:00,True,False,True,32134,3953,Huntington Bank Stadium,135,Minnesota,77,Northwestern,14,24
+401012849,2018,regular,12,2018-11-17 17:00:00+00:00,True,False,True,44840,3754,High Point Solutions Stadium,164,Rutgers,213,Penn State,7,20
+401019533,2018,regular,12,2018-11-17 17:00:00+00:00,True,False,True,21029,3806,Lincoln Financial Field,218,Temple,58,South Florida,27,17
+401012340,2018,regular,12,2018-11-17 17:00:00+00:00,True,False,False,81467,3634,Ben Hill Griffin Stadium,57,Florida,70,Idaho,63,10
+401012878,2018,regular,12,2018-11-17 17:00:00+00:00,True,False,True,38177,3665,SECU Stadium,120,Maryland,194,Ohio State,51,52
+401013036,2018,regular,12,2018-11-17 17:00:00+00:00,True,False,True,45140,4727,McLane Stadium,239,Baylor,2628,TCU,9,16
+401012342,2018,regular,12,2018-11-17 17:00:00+00:00,True,False,False,47535,3683,Kroger Field,96,Kentucky,2393,Middle Tennessee,34,23
+401013181,2018,regular,12,2018-11-17 17:00:00+00:00,True,False,True,25609,3630,Allegacy Federal Credit Union Stadium,154,Wake Forest,221,Pittsburgh,13,34
+401012887,2018,regular,12,2018-11-17 17:00:00+00:00,True,False,True,88793,3834,"Memorial Stadium (Lincoln, NE)",158,Nebraska,127,Michigan State,9,6
+401012338,2018,regular,12,2018-11-17 17:00:00+00:00,True,False,False,101681,3657,Bryant-Denny Stadium,333,Alabama,2643,The Citadel,50,17
+401013375,2018,regular,12,2018-11-17 17:00:00+00:00,True,False,False,26086,3841,Michie Stadium,349,Army,2142,Colgate,28,14
+401012344,2018,regular,12,2018-11-17 17:00:00+00:00,True,False,True,57772,3693,Davis Wade Stadium,344,Mississippi State,8,Arkansas,52,6
+401013178,2018,regular,12,2018-11-17 17:20:00+00:00,True,False,True,48265,3873,L&N Federal Credit Union Stadium,97,Louisville,152,NC State,10,52
+401012792,2018,regular,12,2018-11-17 18:30:00+00:00,True,False,True,39360,3726,Folsom Field,38,Colorado,254,Utah,7,30
+401022561,2018,regular,12,2018-11-17 19:00:00+00:00,True,False,True,19226,5388,Canvas Stadium,36,Colorado State,328,Utah State,24,29
+401015044,2018,regular,12,2018-11-17 19:00:00+00:00,True,False,True,13371,4418,Jerry Richardson Stadium,2429,Charlotte,2229,Florida International,35,42
+401015048,2018,regular,12,2018-11-17 19:00:00+00:00,True,False,False,20118,3918,S.B. Ballard Stadium,295,Old Dominion,2678,VMI,77,14
+401013182,2018,regular,12,2018-11-17 19:30:00+00:00,True,True,False,48104,4102,Yankee Stadium,87,Notre Dame,183,Syracuse,36,3
+401021692,2018,regular,12,2018-11-17 19:30:00+00:00,True,False,True,22315,3792,Kidd Brewer Stadium,2026,App State,2247,Georgia State,45,17
+401015047,2018,regular,12,2018-11-17 19:30:00+00:00,True,False,True,18502,3775,Joan C. Edwards Stadium,276,Marshall,2636,UTSA,23,0
+401021693,2018,regular,12,2018-11-17 20:00:00+00:00,True,False,True,20012,3625,Centennial Bank Stadium,2032,Arkansas State,2433,UL Monroe,31,17
+401022562,2018,regular,12,2018-11-17 20:00:00+00:00,True,False,True,12271,3935,CEFCU Stadium,23,San José State,2440,Nevada,12,21
+401013180,2018,regular,12,2018-11-17 20:00:00+00:00,True,False,False,41151,3787,Kenan Stadium,153,North Carolina,2717,Western Carolina,49,26
+401015046,2018,regular,12,2018-11-17 20:30:00+00:00,True,False,True,19142,3815,M. M. Roberts Stadium,2572,Southern Miss,2348,Louisiana Tech,21,20
+401013177,2018,regular,12,2018-11-17 20:30:00+00:00,True,False,True,37543,721,Bobby Dodd Stadium,59,Georgia Tech,258,Virginia,30,27
+401013179,2018,regular,12,2018-11-17 20:30:00+00:00,True,False,True,62379,3799,Lane Stadium,259,Virginia Tech,2390,Miami,14,38
+401013327,2018,regular,12,2018-11-17 20:30:00+00:00,True,False,True,52842,3646,Boone Pickens Stadium,197,Oklahoma State,277,West Virginia,45,41
+401013353,2018,regular,12,2018-11-17 20:30:00+00:00,True,False,True,46114,3907,Ross-Ade Stadium,2509,Purdue,275,Wisconsin,44,47
+401021696,2018,regular,12,2018-11-17 20:30:00+00:00,True,False,True,20437,3975,Veterans Memorial Stadium (AL),2653,Troy,326,Texas State,12,7
+401013175,2018,regular,12,2018-11-17 20:30:00+00:00,True,False,True,57274,3697,Doak Campbell Stadium,52,Florida State,103,Boston College,22,21
+401012346,2018,regular,12,2018-11-17 20:30:00+00:00,True,False,True,88224,3853,Neyland Stadium,2633,Tennessee,142,Missouri,17,50
+401020784,2018,regular,12,2018-11-17 20:30:00+00:00,True,False,True,17742,3768,InfoCision Stadium,2006,Akron,189,Bowling Green,6,21
+401013064,2018,regular,12,2018-11-17 20:30:00+00:00,True,False,True,47287,3636,Bill Snyder Family Stadium,2306,Kansas State,2641,Texas Tech,21,6
+401012814,2018,regular,12,2018-11-17 20:30:00+00:00,True,False,True,33313,3832,"Memorial Stadium (Champaign, IL)",356,Illinois,2294,Iowa,0,63
+401012791,2018,regular,12,2018-11-17 20:30:00+00:00,True,False,True,57116,1056,Rose Bowl,26,UCLA,30,USC,34,27
+401019534,2018,regular,12,2018-11-17 20:30:00+00:00,True,False,True,31517,3852,Navy-Marine Corps Memorial Stadium,2426,Navy,202,Tulsa,37,29
+401022559,2018,regular,12,2018-11-17 21:00:00+00:00,True,False,True,14966,3984,War Memorial Stadium,2751,Wyoming,2005,Air Force,35,27
+401012341,2018,regular,12,2018-11-17 21:00:00+00:00,True,False,False,92746,3917,Sanford Stadium,61,Georgia,113,Massachusetts,66,27
+401012339,2018,regular,12,2018-11-17 21:00:00+00:00,True,False,False,81129,3785,Jordan-Hare Stadium,2,Auburn,2335,Liberty,53,0
+401012860,2018,regular,12,2018-11-17 21:00:00+00:00,True,False,True,110118,3558,Michigan Stadium,130,Michigan,84,Indiana,31,20
+401012794,2018,regular,12,2018-11-17 21:30:00+00:00,True,False,True,66469,3765,Husky Stadium,264,Washington,204,Oregon State,42,23
+401021694,2018,regular,12,2018-11-17 22:00:00+00:00,True,False,True,9886,3654,Brooks Stadium (SC),324,Coastal Carolina,290,Georgia Southern,17,41
+401021695,2018,regular,12,2018-11-17 22:00:00+00:00,True,False,True,15168,3666,Cajun Field,309,Louisiana,6,South Alabama,48,38
+401012347,2018,regular,12,2018-11-18 00:00:00+00:00,True,False,False,97584,3795,Kyle Field,245,Texas A&M,5,UAB,41,20
+401019532,2018,regular,12,2018-11-18 00:00:00+00:00,True,False,True,27234,3699,Dowdy-Ficklen Stadium,151,East Carolina,41,UConn,55,21
+401013176,2018,regular,12,2018-11-18 00:00:00+00:00,True,False,True,81313,3836,"Memorial Stadium (Clemson, SC)",228,Clemson,150,Duke,35,6
+401015049,2018,regular,12,2018-11-18 00:30:00+00:00,True,False,True,6221,3796,Houchens Industries-L.T. Smith Stadium,98,Western Kentucky,2638,UTEP,40,16
+401012343,2018,regular,12,2018-11-18 00:30:00+00:00,True,False,False,100323,3958,Tiger Stadium (LA),99,LSU,242,Rice,42,10
+401012348,2018,regular,12,2018-11-18 00:30:00+00:00,True,False,True,24866,3973,FirstBank Stadium,238,Vanderbilt,145,Ole Miss,36,29
+401013055,2018,regular,12,2018-11-18 00:30:00+00:00,True,False,True,86371,3835,"Memorial Stadium (Norman, OK)",201,Oklahoma,2305,Kansas,55,40
+401012345,2018,regular,12,2018-11-18 00:30:00+00:00,True,False,False,72832,3994,Williams-Brice Stadium,2579,South Carolina,236,Chattanooga,49,9
+401013046,2018,regular,12,2018-11-18 01:00:00+00:00,True,False,True,102498,3910,DKR-Texas Memorial Stadium,251,Texas,66,Iowa State,24,10
+401019531,2018,regular,12,2018-11-18 01:00:00+00:00,True,False,True,47795,3652,FBC Mortgage Stadium,2116,UCF,2132,Cincinnati,38,13
+401013446,2018,regular,12,2018-11-18 03:15:00+00:00,True,False,False,47505,3801,LaVell Edwards Stadium,252,BYU,166,New Mexico State,45,10
+401012795,2018,regular,12,2018-11-18 03:30:00+00:00,True,False,True,22400,3820,Gesa Field,265,Washington State,12,Arizona,69,28
+401022563,2018,regular,12,2018-11-18 03:30:00+00:00,True,False,True,36123,3660,Valley Children's Stadium,278,Fresno State,21,San Diego State,23,14
+401012793,2018,regular,12,2018-11-18 03:30:00+00:00,True,False,True,50485,3626,Autzen Stadium,2483,Oregon,9,Arizona State,31,29
+401022564,2018,regular,12,2018-11-18 04:00:00+00:00,True,False,True,25697,3610,Aloha Stadium,62,Hawai'i,2439,UNLV,35,28
+401020785,2018,regular,13,2018-11-21 00:00:00+00:00,True,False,True,17639,3996,Yager Stadium,193,Miami (OH),2050,Ball State,42,21
+401020786,2018,regular,13,2018-11-21 00:00:00+00:00,True,False,True,18278,3980,Waldo Stadium,2711,Western Michigan,2459,Northern Illinois,28,21
+401022565,2018,regular,13,2018-11-22 20:30:00+00:00,True,False,True,17432,3713,Falcon Stadium,2005,Air Force,36,Colorado State,27,19
+401012349,2018,regular,13,2018-11-23 00:30:00+00:00,True,False,True,56561,3974,Vaught-Hemingway Stadium,145,Ole Miss,344,Mississippi State,3,35
+401020788,2018,regular,13,2018-11-23 17:00:00+00:00,True,False,True,10518,3700,Doyt L. Perry Stadium,189,Bowling Green,2084,Buffalo,14,44
+401020790,2018,regular,13,2018-11-23 17:00:00+00:00,True,False,True,6125,3696,Dix Stadium,2309,Kent State,2199,Eastern Michigan,20,28
+401013056,2018,regular,13,2018-11-23 17:00:00+00:00,True,False,True,15219,3833,Memorial Stadium,2305,Kansas,251,Texas,17,24
+401019537,2018,regular,13,2018-11-23 17:00:00+00:00,True,False,True,27790,3805,Simmons Bank Liberty Stadium,235,Memphis,248,Houston,52,31
+401020789,2018,regular,13,2018-11-23 17:00:00+00:00,True,False,True,15521,3739,Glass Bowl,2649,Toledo,2117,Central Michigan,51,13
+401012871,2018,regular,13,2018-11-23 17:00:00+00:00,True,False,True,65299,3793,Kinnick Stadium,2294,Iowa,158,Nebraska,31,28
+401020787,2018,regular,13,2018-11-23 17:00:00+00:00,True,False,True,12938,3876,Peden Stadium,195,Ohio,2006,Akron,49,28
+401012354,2018,regular,13,2018-11-23 19:30:00+00:00,True,False,True,52482,3838,Memorial Stadium,142,Missouri,8,Arkansas,38,0
+401021699,2018,regular,13,2018-11-23 20:00:00+00:00,True,False,True,10670,3797,Ladd Peebles Stadium,6,South Alabama,324,Coastal Carolina,31,28
+401019536,2018,regular,13,2018-11-23 20:30:00+00:00,True,False,True,21230,3854,Nippert Stadium,2132,Cincinnati,151,East Carolina,56,6
+401013183,2018,regular,13,2018-11-23 20:30:00+00:00,True,False,True,60776,3799,Lane Stadium,259,Virginia Tech,258,Virginia,34,31
+401012797,2018,regular,13,2018-11-23 21:00:00+00:00,True,False,True,39776,3893,Reser Stadium,204,Oregon State,2483,Oregon,15,55
+401019535,2018,regular,13,2018-11-23 21:15:00+00:00,True,False,True,57626,3886,Raymond James Stadium,58,South Florida,2116,UCF,10,38
+401013071,2018,regular,13,2018-11-24 01:00:00+00:00,True,False,True,60713,3842,Milan Puskar Stadium,277,West Virginia,201,Oklahoma,56,59
+401012798,2018,regular,13,2018-11-24 01:30:00+00:00,True,False,True,32952,3820,Gesa Field,265,Washington State,264,Washington,15,28
+401012895,2018,regular,13,2018-11-24 17:00:00+00:00,True,False,True,106588,3861,Ohio Stadium,194,Ohio State,130,Michigan,62,39
+401012861,2018,regular,13,2018-11-24 17:00:00+00:00,True,False,True,48247,3830,"Memorial Stadium (Bloomington, IN)",84,Indiana,2509,Purdue,21,28
+401019539,2018,regular,13,2018-11-24 17:00:00+00:00,True,False,True,20042,4729,Yulman Stadium,2655,Tulane,2426,Navy,29,28
+401012351,2018,regular,13,2018-11-24 17:00:00+00:00,True,False,False,71953,3697,Doak Campbell Stadium,52,Florida State,57,Florida,14,41
+401015051,2018,regular,13,2018-11-24 17:00:00+00:00,True,False,True,14862,218,FIU Stadium,2229,Florida International,276,Marshall,25,28
+401013184,2018,regular,13,2018-11-24 17:00:00+00:00,True,False,True,34959,3615,"Alumni Stadium (Chestnut Hill, MA)",103,Boston College,183,Syracuse,21,42
+401015052,2018,regular,13,2018-11-24 17:00:00+00:00,True,False,True,11459,3776,Joe Aillet Stadium,2348,Louisiana Tech,98,Western Kentucky,15,30
+401012352,2018,regular,13,2018-11-24 17:00:00+00:00,True,False,False,92746,3917,Sanford Stadium,61,Georgia,59,Georgia Tech,45,21
+401013037,2018,regular,13,2018-11-24 17:00:00+00:00,True,True,True,27308,3687,AT&T Stadium,2641,Texas Tech,239,Baylor,24,35
+401013187,2018,regular,13,2018-11-24 17:20:00+00:00,True,False,True,41510,3787,Kenan Stadium,153,North Carolina,152,NC State,28,34
+401013185,2018,regular,13,2018-11-24 17:30:00+00:00,True,False,True,20782,3982,Wallace Wade Stadium,150,Duke,154,Wake Forest,7,59
+401015055,2018,regular,13,2018-11-24 18:00:00+00:00,True,False,True,18083,3895,Rice Stadium,242,Rice,295,Old Dominion,27,13
+401013447,2018,regular,13,2018-11-24 19:00:00+00:00,True,False,False,16022,3992,Williams Stadium (VA),2335,Liberty,166,New Mexico State,28,21
+401021700,2018,regular,13,2018-11-24 19:00:00+00:00,True,False,True,20011,4246,Center Parc Stadium,2247,Georgia State,290,Georgia Southern,14,35
+401021697,2018,regular,13,2018-11-24 19:30:00+00:00,True,False,True,20410,3792,Kidd Brewer Stadium,2026,App State,2653,Troy,21,10
+401022567,2018,regular,13,2018-11-24 19:30:00+00:00,True,False,True,14269,3971,University Stadium (NM),167,New Mexico,2751,Wyoming,3,31
+401021701,2018,regular,13,2018-11-24 20:00:00+00:00,True,False,True,18167,3817,Malone Stadium,2433,UL Monroe,309,Louisiana,28,31
+401012801,2018,regular,13,2018-11-24 20:00:00+00:00,True,False,True,38391,1056,Rose Bowl,26,UCLA,24,Stanford,42,49
+401015053,2018,regular,13,2018-11-24 20:00:00+00:00,True,False,True,14411,3725,"Johnny ""Red"" Floyd Stadium",2393,Middle Tennessee,5,UAB,27,3
+401015056,2018,regular,13,2018-11-24 20:00:00+00:00,True,False,True,14962,3946,Sun Bowl,2638,UTEP,2572,Southern Miss,7,39
+401012815,2018,regular,13,2018-11-24 20:30:00+00:00,True,False,True,37124,3911,Ryan Field,77,Northwestern,356,Illinois,24,16
+401012350,2018,regular,13,2018-11-24 20:30:00+00:00,True,False,True,101821,3657,Bryant-Denny Stadium,333,Alabama,2,Auburn,52,21
+401013335,2018,regular,13,2018-11-24 20:30:00+00:00,True,False,True,74038,347,Camp Randall Stadium,275,Wisconsin,135,Minnesota,15,37
+401019540,2018,regular,13,2018-11-24 20:30:00+00:00,True,False,True,17159,3674,Chapman Stadium,202,Tulsa,2567,SMU,27,24
+401012879,2018,regular,13,2018-11-24 20:30:00+00:00,True,False,True,98442,3632,Beaver Stadium,213,Penn State,120,Maryland,38,3
+401012799,2018,regular,13,2018-11-24 20:30:00+00:00,True,False,True,51805,3619,Arizona Stadium,12,Arizona,9,Arizona State,40,41
+401019538,2018,regular,13,2018-11-24 20:30:00+00:00,True,False,True,18203,3892,Pratt & Whitney Stadium,41,UConn,218,Temple,7,57
+401013186,2018,regular,13,2018-11-24 20:30:00+00:00,True,False,True,59606,3948,Hard Rock Stadium,2390,Miami,221,Pittsburgh,24,3
+401012357,2018,regular,13,2018-11-24 21:00:00+00:00,True,False,True,35887,3973,FirstBank Stadium,238,Vanderbilt,2633,Tennessee,38,13
+401021698,2018,regular,13,2018-11-24 21:00:00+00:00,True,False,True,10115,3644,Bobcat Stadium (TX),326,Texas State,2032,Arkansas State,7,33
+401012850,2018,regular,13,2018-11-24 21:00:00+00:00,True,False,True,64951,3936,Spartan Stadium,127,Michigan State,164,Rutgers,14,10
+401015050,2018,regular,13,2018-11-24 23:00:00+00:00,True,False,True,11638,3715,FAU Stadium,2226,Florida Atlantic,2429,Charlotte,24,27
+401012355,2018,regular,13,2018-11-25 00:00:00+00:00,True,False,False,81436,3836,"Memorial Stadium (Clemson, SC)",228,Clemson,2579,South Carolina,56,35
+401012353,2018,regular,13,2018-11-25 00:00:00+00:00,True,False,False,49988,3873,L&N Federal Credit Union Stadium,97,Louisville,96,Kentucky,10,56
+401022570,2018,regular,13,2018-11-25 00:00:00+00:00,True,False,True,26162,3660,Valley Children's Stadium,278,Fresno State,23,San José State,31,13
+401015054,2018,regular,13,2018-11-25 00:00:00+00:00,True,False,True,19874,3604,Alamodome,2636,UTSA,249,North Texas,21,24
+401013047,2018,regular,13,2018-11-25 00:00:00+00:00,True,False,True,54430,3772,Jack Trice Stadium,66,Iowa State,2306,Kansas State,42,38
+401012803,2018,regular,13,2018-11-25 00:00:00+00:00,True,False,True,34457,3831,California Memorial Stadium,25,California,38,Colorado,33,21
+401012356,2018,regular,13,2018-11-25 00:30:00+00:00,True,False,True,101501,3795,Kyle Field,245,Texas A&M,99,LSU,74,72
+401013078,2018,regular,13,2018-11-25 01:00:00+00:00,True,False,True,42394,3616,Amon G. Carter Stadium,2628,TCU,197,Oklahoma State,31,24
+401012800,2018,regular,13,2018-11-25 01:00:00+00:00,True,False,False,59821,477,Los Angeles Memorial Coliseum,30,USC,87,Notre Dame,17,24
+401022569,2018,regular,13,2018-11-25 02:30:00+00:00,True,False,True,19921,3914,Sam Boyd Stadium,2439,UNLV,2440,Nevada,34,29
+401012802,2018,regular,13,2018-11-25 03:00:00+00:00,True,False,False,46017,587,Rice-Eccles Stadium,254,Utah,252,BYU,35,27
+401022566,2018,regular,13,2018-11-25 03:15:00+00:00,True,False,True,35960,3653,Albertsons Stadium,68,Boise State,328,Utah State,33,24
+401022568,2018,regular,13,2018-11-25 03:30:00+00:00,True,False,True,28014,3932,Qualcomm Stadium,21,San Diego State,62,Hawai'i,30,31
+401056696,2018,regular,14,2018-12-01 00:00:00+00:00,True,True,True,10255,3727,Ford Field,2084,Buffalo,2459,Northern Illinois,29,30
+401056704,2018,regular,14,2018-12-01 01:00:00+00:00,True,True,True,35134,4738,Levi's Stadium,264,Washington,254,Utah,10,3
+401098253,2018,regular,14,2018-12-01 17:00:00+00:00,True,False,False,53420,3994,Williams-Brice Stadium,2579,South Carolina,2006,Akron,28,3
+401056701,2018,regular,14,2018-12-01 17:00:00+00:00,True,False,True,14963,3792,Kidd Brewer Stadium,2026,App State,309,Louisiana,30,19
+401082044,2018,regular,14,2018-12-01 17:00:00+00:00,True,False,False,56738,3772,Jack Trice Stadium,66,Iowa State,2181,Drake,27,24
+401100159,2018,regular,14,2018-12-01 17:00:00+00:00,True,False,False,31336,3799,Lane Stadium,259,Virginia Tech,276,Marshall,41,20
+401056698,2018,regular,14,2018-12-01 17:00:00+00:00,True,True,True,83114,3687,AT&T Stadium,201,Oklahoma,251,Texas,39,27
+401088766,2018,regular,14,2018-12-01 17:00:00+00:00,True,False,False,57223,3670,Carter-Finley Stadium,152,NC State,151,East Carolina,58,3
+401056703,2018,regular,14,2018-12-01 18:30:00+00:00,True,False,True,15806,3725,"Johnny ""Red"" Floyd Stadium",2393,Middle Tennessee,5,UAB,25,27
+401081953,2018,regular,14,2018-12-01 19:00:00+00:00,True,False,False,13243,3992,Williams Stadium (VA),2335,Liberty,2450,Norfolk State,52,17
+401099853,2018,regular,14,2018-12-01 20:00:00+00:00,True,False,True,57857,3831,California Memorial Stadium,25,California,24,Stanford,13,23
+401056699,2018,regular,14,2018-12-01 20:45:00+00:00,True,False,True,45176,3652,FBC Mortgage Stadium,2116,UCF,235,Memphis,56,41
+401056705,2018,regular,14,2018-12-01 21:00:00+00:00,True,True,True,77141,5348,Mercedes-Benz Stadium,61,Georgia,333,Alabama,28,35
+401056700,2018,regular,14,2018-12-02 00:45:00+00:00,True,False,True,23662,3653,Albertsons Stadium,68,Boise State,278,Fresno State,16,19
+401056697,2018,regular,14,2018-12-02 01:00:00+00:00,True,True,True,67784,3628,Bank of America Stadium,221,Pittsburgh,228,Clemson,10,42
+401056702,2018,regular,14,2018-12-02 01:00:00+00:00,True,True,True,66375,3812,Lucas Oil Stadium,194,Ohio State,77,Northwestern,45,24
+401013376,2018,regular,15,2018-12-08 20:00:00+00:00,True,True,False,66729,3806,Lincoln Financial Field,349,Army,2426,Navy,17,10

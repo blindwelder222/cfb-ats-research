@@ -1,0 +1,869 @@
+game_id,season,season_type,week,start_date,completed,neutral_site,conference_game,attendance,venue_id,venue,home_team_id,home_team,away_team_id,away_team,home_points,away_points
+401525434,2023,regular,1,2023-08-26 18:30:00+00:00,True,True,False,49000,3504,Aviva Stadium,87,Notre Dame,2426,Navy,42,3
+401520145,2023,regular,1,2023-08-26 21:30:00+00:00,True,False,True,17982,3662,AmFirst Stadium,55,Jacksonville State,2638,UTEP,17,14
+401532392,2023,regular,1,2023-08-26 23:00:00+00:00,True,False,False,23867,7311,Snapdragon Stadium,21,San Diego State,195,Ohio,20,13
+401525450,2023,regular,1,2023-08-26 23:00:00+00:00,True,False,False,15356,3601,Aggie Memorial Stadium,166,New Mexico State,113,Massachusetts,30,41
+401520147,2023,regular,1,2023-08-26 23:30:00+00:00,True,False,False,21407,3973,FirstBank Stadium,238,Vanderbilt,62,Hawai'i,35,28
+401523986,2023,regular,1,2023-08-27 00:00:00+00:00,True,False,False,63411,477,Los Angeles Memorial Coliseum,30,USC,23,San José State,56,28
+401520146,2023,regular,1,2023-08-27 01:00:00+00:00,True,False,True,16299,3776,Joe Aillet Stadium,2348,Louisiana Tech,2229,Florida International,22,17
+401531834,2023,regular,1,2023-08-31 23:00:00+00:00,True,False,False,15546,4246,Center Parc Stadium,2247,Georgia State,227,Rhode Island,42,35
+401525461,2023,regular,1,2023-08-31 23:00:00+00:00,True,False,False,30028,3630,Allegacy Federal Credit Union Stadium,154,Wake Forest,2210,Elon,37,17
+401532393,2023,regular,1,2023-08-31 23:00:00+00:00,True,False,False,19432,3980,Waldo Stadium,2711,Western Michigan,2598,St. Francis (PA),35,17
+401525816,2023,regular,1,2023-08-31 23:00:00+00:00,True,False,False,44088,3652,FBC Mortgage Stadium,2116,UCF,2309,Kent State,56,6
+401520174,2023,regular,1,2023-08-31 23:30:00+00:00,True,False,False,36526,3892,Pratt & Whitney Stadium,41,UConn,152,NC State,14,24
+401531337,2023,regular,1,2023-09-01 00:00:00+00:00,True,False,False,17529,3674,Chapman Stadium,202,Tulsa,2029,Arkansas-Pine Bluff,42,7
+401520165,2023,regular,1,2023-09-01 00:00:00+00:00,True,False,False,50434,3838,Memorial Stadium,142,Missouri,233,South Dakota,35,10
+401531377,2023,regular,1,2023-09-01 00:00:00+00:00,True,False,False,25363,7221,Protective Stadium,5,UAB,2448,North Carolina A&T,35,6
+401520148,2023,regular,1,2023-09-01 00:00:00+00:00,True,False,True,53629,3953,Huntington Bank Stadium,135,Minnesota,158,Nebraska,13,10
+401520176,2023,regular,1,2023-09-01 00:00:00+00:00,True,False,False,53644,587,Rice-Eccles Stadium,254,Utah,57,Florida,24,11
+401523987,2023,regular,1,2023-09-01 02:00:00+00:00,True,False,False,47773,3947,Mountain America Stadium,9,Arizona State,253,Southern Utah,24,21
+401532394,2023,regular,1,2023-09-01 22:30:00+00:00,True,False,False,18065,3912,Rynearson Stadium,2199,Eastern Michigan,47,Howard,33,23
+401520163,2023,regular,1,2023-09-01 23:00:00+00:00,True,False,False,,3936,Spartan Stadium,127,Michigan State,2117,Central Michigan,31,7
+401525463,2023,regular,1,2023-09-01 23:00:00+00:00,True,False,False,49024,3948,Hard Rock Stadium,2390,Miami,193,Miami (OH),38,3
+401525462,2023,regular,1,2023-09-01 23:30:00+00:00,True,True,True,,5348,Mercedes-Benz Stadium,59,Georgia Tech,97,Louisville,34,39
+401525815,2023,regular,1,2023-09-02 00:00:00+00:00,True,False,False,41091,3833,Memorial Stadium,2305,Kansas,2623,Missouri State,48,17
+401523988,2023,regular,1,2023-09-02 03:00:00+00:00,True,False,False,13739,7220,Clarence T.C. Ching Athletics Complex,62,Hawai'i,24,Stanford,24,37
+401520159,2023,regular,1,2023-09-02 16:00:00+00:00,True,False,False,58286,3683,Kroger Field,96,Kentucky,2050,Ball State,44,14
+401520172,2023,regular,1,2023-09-02 16:00:00+00:00,True,False,False,21490,3735,Gerald J. Ford Stadium,2567,SMU,2348,Louisiana Tech,38,14
+401520162,2023,regular,1,2023-09-02 16:00:00+00:00,True,False,False,109480,3558,Michigan Stadium,130,Michigan,151,East Carolina,30,3
+401520157,2023,regular,1,2023-09-02 16:00:00+00:00,True,False,False,69250,3793,Kinnick Stadium,2294,Iowa,328,Utah State,24,14
+401520160,2023,regular,1,2023-09-02 16:00:00+00:00,True,False,False,18811,3992,Williams Stadium (VA),2335,Liberty,189,Bowling Green,34,24
+401523994,2023,regular,1,2023-09-02 16:00:00+00:00,True,False,False,53294,3616,Amon G. Carter Stadium,2628,TCU,38,Colorado,42,45
+401525464,2023,regular,1,2023-09-02 16:00:00+00:00,True,False,False,30122,3615,"Alumni Stadium (Chestnut Hill, MA)",103,Boston College,2459,Northern Illinois,24,27
+401520179,2023,regular,1,2023-09-02 16:00:00+00:00,True,True,False,69507,3810,Nissan Stadium,2633,Tennessee,258,Virginia,49,13
+401525822,2023,regular,1,2023-09-02 16:00:00+00:00,True,False,False,83221,3835,"Memorial Stadium (Norman, OK)",201,Oklahoma,2032,Arkansas State,73,0
+401520170,2023,regular,1,2023-09-02 16:00:00+00:00,True,False,False,54898,3907,Ross-Ade Stadium,2509,Purdue,278,Fresno State,35,39
+401532570,2023,regular,1,2023-09-02 17:00:00+00:00,True,False,False,30142,3713,Falcon Stadium,2005,Air Force,2523,Robert Morris,42,7
+401520168,2023,regular,1,2023-09-02 18:00:00+00:00,True,False,False,60097,3974,Vaught-Hemingway Stadium,145,Ole Miss,2382,Mercer,73,7
+401532395,2023,regular,1,2023-09-02 18:00:00+00:00,True,False,False,18453,3876,Peden Stadium,195,Ohio,2341,Long Island University,27,10
+401525820,2023,regular,1,2023-09-02 18:00:00+00:00,True,False,False,58248,3772,Jack Trice Stadium,66,Iowa State,2460,Northern Iowa,30,9
+401520158,2023,regular,1,2023-09-02 18:00:00+00:00,True,False,False,21276,3662,AmFirst Stadium,55,Jacksonville State,2193,East Tennessee State,49,3
+401531387,2023,regular,1,2023-09-02 18:00:00+00:00,True,False,False,12456,3806,Lincoln Financial Field,218,Temple,2006,Akron,24,21
+401523992,2023,regular,1,2023-09-02 19:00:00+00:00,True,False,False,45723,3626,Autzen Stadium,2483,Oregon,2502,Portland State,81,7
+401525435,2023,regular,1,2023-09-02 19:30:00+00:00,True,False,False,77622,3855,Notre Dame Stadium,87,Notre Dame,2634,Tennessee State,56,3
+401525818,2023,regular,1,2023-09-02 19:30:00+00:00,True,False,False,38193,3854,Nippert Stadium,2132,Cincinnati,2198,Eastern Kentucky,66,13
+401520161,2023,regular,1,2023-09-02 19:30:00+00:00,True,False,False,37241,3665,SECU Stadium,120,Maryland,119,Towson,38,6
+401525465,2023,regular,1,2023-09-02 19:30:00+00:00,True,False,False,45096,3752,Acrisure Stadium,221,Pittsburgh,2747,Wofford,45,7
+401531835,2023,regular,1,2023-09-02 19:30:00+00:00,True,False,False,36075,3792,Kidd Brewer Stadium,2026,App State,2241,Gardner-Webb,45,24
+401523997,2023,regular,1,2023-09-02 19:30:00+00:00,True,False,False,67475,3765,Husky Stadium,264,Washington,68,Boise State,56,19
+401520151,2023,regular,1,2023-09-02 19:30:00+00:00,True,False,False,88043,3785,Jordan-Hare Stadium,2,Auburn,113,Massachusetts,59,14
+401520181,2023,regular,1,2023-09-02 19:30:00+00:00,True,False,False,15438,3796,Houchens Industries-L.T. Smith Stadium,98,Western Kentucky,58,South Florida,41,24
+401525824,2023,regular,1,2023-09-02 19:30:00+00:00,True,False,False,98017,3910,DKR-Texas Memorial Stadium,251,Texas,242,Rice,37,10
+401520180,2023,regular,1,2023-09-02 19:30:00+00:00,True,False,False,76224,347,Camp Randall Stadium,275,Wisconsin,2084,Buffalo,38,17
+401520156,2023,regular,1,2023-09-02 19:30:00+00:00,True,False,True,50050,3830,"Memorial Stadium (Bloomington, IN)",84,Indiana,194,Ohio State,3,23
+401520164,2023,regular,1,2023-09-02 20:00:00+00:00,True,False,False,50041,3693,Davis Wade Stadium,344,Mississippi State,2545,SE Louisiana,48,7
+401523991,2023,regular,1,2023-09-02 20:00:00+00:00,True,False,False,21350,3825,DATCU Stadium,249,North Texas,25,California,21,58
+401525466,2023,regular,1,2023-09-02 20:00:00+00:00,True,False,False,32465,1964,JMA Wireless Dome,183,Syracuse,2142,Colgate,65,0
+401532572,2023,regular,1,2023-09-02 20:00:00+00:00,True,False,False,20347,6501,Allegiant Stadium,2439,UNLV,2803,Bryant,44,14
+401520150,2023,regular,1,2023-09-02 20:00:00+00:00,True,True,False,44397,3983,War Memorial Stadium (AR),8,Arkansas,2717,Western Carolina,56,13
+401531836,2023,regular,1,2023-09-02 22:00:00+00:00,True,False,False,17803,3608,Allen E. Paulson Stadium,290,Georgia Southern,2643,The Citadel,34,0
+401531837,2023,regular,1,2023-09-02 22:00:00+00:00,True,False,False,23756,3651,Bridgeforth Stadium,256,James Madison,2083,Bucknell,38,3
+401531838,2023,regular,1,2023-09-02 22:00:00+00:00,True,False,False,25101,3775,Joan C. Edwards Stadium,276,Marshall,399,UAlbany,21,17
+401520154,2023,regular,1,2023-09-02 22:00:00+00:00,True,False,False,92746,3917,Sanford Stadium,61,Georgia,2630,UT Martin,48,7
+401531402,2023,regular,1,2023-09-02 22:00:00+00:00,True,False,False,15622,4418,Jerry Richardson Stadium,2429,Charlotte,2569,South Carolina State,24,3
+401531418,2023,regular,1,2023-09-02 22:00:00+00:00,True,False,False,20893,3715,FAU Stadium,2226,Florida Atlantic,2405,Monmouth,42,20
+401523996,2023,regular,1,2023-09-02 22:30:00+00:00,True,False,False,62916,477,Los Angeles Memorial Coliseum,30,USC,2440,Nevada,66,14
+401520153,2023,regular,1,2023-09-02 22:30:00+00:00,True,False,False,16878,218,FIU Stadium,2229,Florida International,311,Maine,14,12
+401531840,2023,regular,1,2023-09-02 23:00:00+00:00,True,False,False,30335,3815,M. M. Roberts Stadium,2572,Southern Miss,2016,Alcorn State,40,14
+401531426,2023,regular,1,2023-09-02 23:00:00+00:00,True,False,False,26632,3805,Simmons Bank Liberty Stadium,235,Memphis,2065,Bethune-Cookman,56,14
+401525823,2023,regular,1,2023-09-02 23:00:00+00:00,True,False,False,53855,3646,Boone Pickens Stadium,197,Oklahoma State,2110,Central Arkansas,27,13
+401520178,2023,regular,1,2023-09-02 23:00:00+00:00,True,False,False,22035,3973,FirstBank Stadium,238,Vanderbilt,2010,Alabama A&M,47,13
+401531841,2023,regular,1,2023-09-02 23:00:00+00:00,True,False,False,28179,3975,Veterans Memorial Stadium (AL),2653,Troy,2617,Stephen F. Austin,48,30
+401520173,2023,regular,1,2023-09-02 23:00:00+00:00,True,False,False,97560,3795,Kyle Field,245,Texas A&M,167,New Mexico,52,10
+401525817,2023,regular,1,2023-09-02 23:00:00+00:00,True,False,False,44945,4727,McLane Stadium,239,Baylor,326,Texas State,31,42
+401520175,2023,regular,1,2023-09-02 23:00:00+00:00,True,False,False,18914,3817,Malone Stadium,2433,UL Monroe,349,Army,17,13
+401523990,2023,regular,1,2023-09-02 23:00:00+00:00,True,False,False,31497,5388,Canvas Stadium,36,Colorado State,265,Washington State,24,50
+401525819,2023,regular,1,2023-09-02 23:00:00+00:00,True,False,False,37862,4728,TDECU Stadium,248,Houston,2636,UTSA,17,14
+401525821,2023,regular,1,2023-09-02 23:00:00+00:00,True,False,False,52066,3636,Bill Snyder Family Stadium,2306,Kansas State,2546,Southeast Missouri State,45,0
+401520167,2023,regular,1,2023-09-02 23:30:00+00:00,True,True,False,68723,3628,Bank of America Stadium,153,North Carolina,2579,South Carolina,31,17
+401520149,2023,regular,1,2023-09-02 23:30:00+00:00,True,False,False,100077,3657,Bryant-Denny Stadium,333,Alabama,2393,Middle Tennessee,56,7
+401525825,2023,regular,1,2023-09-02 23:30:00+00:00,True,False,False,26450,3984,War Memorial Stadium,2751,Wyoming,2641,Texas Tech,35,33
+401520155,2023,regular,1,2023-09-02 23:30:00+00:00,True,False,False,48898,3832,"Memorial Stadium (Champaign, IL)",356,Illinois,2649,Toledo,30,28
+401520169,2023,regular,1,2023-09-02 23:30:00+00:00,True,False,False,110747,3632,Beaver Stadium,213,Penn State,277,West Virginia,38,15
+401531839,2023,regular,1,2023-09-02 23:30:00+00:00,True,False,False,18186,3666,Cajun Field,309,Louisiana,2466,Northwestern State,38,13
+401525467,2023,regular,1,2023-09-03 00:00:00+00:00,True,False,False,65632,3799,Lane Stadium,259,Virginia Tech,295,Old Dominion,36,17
+401531347,2023,regular,1,2023-09-03 00:00:00+00:00,True,False,False,26973,4729,Yulman Stadium,2655,Tulane,6,South Alabama,37,17
+401520166,2023,regular,1,2023-09-03 01:00:00+00:00,True,False,False,17943,3601,Aggie Memorial Stadium,166,New Mexico State,2710,Western Illinois,58,21
+401520177,2023,regular,1,2023-09-03 01:00:00+00:00,True,False,False,30738,3946,Sun Bowl,2638,UTEP,2916,Incarnate Word,28,14
+401523989,2023,regular,1,2023-09-03 02:00:00+00:00,True,False,False,48159,3619,Arizona Stadium,12,Arizona,2464,Northern Arizona,38,3
+401520152,2023,regular,1,2023-09-03 02:15:00+00:00,True,False,False,59006,3801,LaVell Edwards Stadium,252,BYU,2534,Sam Houston,14,0
+401532571,2023,regular,1,2023-09-03 02:30:00+00:00,True,False,False,22345,7311,Snapdragon Stadium,21,San Diego State,304,Idaho State,36,28
+401523995,2023,regular,1,2023-09-03 02:30:00+00:00,True,False,False,43705,1056,Rose Bowl,26,UCLA,324,Coastal Carolina,27,13
+401520171,2023,regular,1,2023-09-03 16:00:00+00:00,True,False,True,53026,6577,SHI Stadium,164,Rutgers,77,Northwestern,24,7
+401532573,2023,regular,1,2023-09-03 19:30:00+00:00,True,False,False,20337,3935,CEFCU Stadium,23,San José State,204,Oregon State,17,42
+401520182,2023,regular,1,2023-09-03 23:30:00+00:00,True,True,False,65429,4013,Camping World Stadium,52,Florida State,99,LSU,45,24
+401525468,2023,regular,1,2023-09-05 00:00:00+00:00,True,False,True,31638,3982,Wallace Wade Stadium,150,Duke,228,Clemson,28,7
+401525469,2023,regular,2,2023-09-07 23:30:00+00:00,True,False,False,45273,3873,L&N Federal Credit Union Stadium,97,Louisville,93,Murray State,56,0
+401520193,2023,regular,2,2023-09-08 23:00:00+00:00,True,False,False,42775,3830,"Memorial Stadium (Bloomington, IN)",84,Indiana,282,Indiana State,41,7
+401520195,2023,regular,2,2023-09-08 23:30:00+00:00,True,False,False,45809,3833,Memorial Stadium,2305,Kansas,356,Illinois,34,23
+401520216,2023,regular,2,2023-09-09 15:00:00+00:00,True,False,False,28363,3630,Allegacy Federal Credit Union Stadium,154,Wake Forest,238,Vanderbilt,36,20
+401520215,2023,regular,2,2023-09-09 16:00:00+00:00,True,False,False,65632,3799,Lane Stadium,259,Virginia Tech,2509,Purdue,17,24
+401520185,2023,regular,2,2023-09-09 16:00:00+00:00,True,False,False,25153,3841,Michie Stadium,349,Army,2169,Delaware State,57,0
+401525498,2023,regular,2,2023-09-09 16:00:00+00:00,True,False,False,56508,3923,Scott Stadium,258,Virginia,256,James Madison,35,36
+401525490,2023,regular,2,2023-09-09 16:00:00+00:00,True,False,False,40122,3615,"Alumni Stadium (Chestnut Hill, MA)",103,Boston College,107,Holy Cross,31,28
+401525436,2023,regular,2,2023-09-09 16:00:00+00:00,True,False,False,56919,3670,Carter-Finley Stadium,152,NC State,87,Notre Dame,24,45
+401523999,2023,regular,2,2023-09-09 16:00:00+00:00,True,False,False,43732,4727,McLane Stadium,239,Baylor,254,Utah,13,20
+401520209,2023,regular,2,2023-09-09 16:00:00+00:00,True,False,False,108575,3632,Beaver Stadium,213,Penn State,48,Delaware,63,7
+401520208,2023,regular,2,2023-09-09 16:00:00+00:00,True,False,False,102897,3861,Ohio Stadium,194,Ohio State,2754,Youngstown State,35,7
+401520191,2023,regular,2,2023-09-09 16:00:00+00:00,True,False,False,92746,3917,Sanford Stadium,61,Georgia,2050,Ball State,45,3
+401525829,2023,regular,2,2023-09-09 16:00:00+00:00,True,False,False,51940,3636,Bill Snyder Family Stadium,2306,Kansas State,2653,Troy,42,13
+401520188,2023,regular,2,2023-09-09 16:00:00+00:00,True,False,False,53241,3726,Folsom Field,38,Colorado,158,Nebraska,36,14
+401525494,2023,regular,2,2023-09-09 17:00:00+00:00,True,False,False,31452,721,Bobby Dodd Stadium,59,Georgia Tech,2569,South Carolina State,48,13
+401532396,2023,regular,2,2023-09-09 17:30:00+00:00,True,False,False,17302,3786,Kelly/Shorts Stadium,2117,Central Michigan,160,New Hampshire,45,42
+401532400,2023,regular,2,2023-09-09 18:00:00+00:00,True,False,False,12312,3700,Doyt L. Perry Stadium,189,Bowling Green,2197,Eastern Illinois,38,15
+401525491,2023,regular,2,2023-09-09 18:15:00+00:00,True,False,False,81500,3836,"Memorial Stadium (Clemson, SC)",228,Clemson,2127,Charleston Southern,66,17
+401525828,2023,regular,2,2023-09-09 19:00:00+00:00,True,False,False,60834,3801,LaVell Edwards Stadium,252,BYU,253,Southern Utah,41,16
+401520196,2023,regular,2,2023-09-09 19:00:00+00:00,True,False,False,61876,3683,Kroger Field,96,Kentucky,2198,Eastern Kentucky,28,17
+401531432,2023,regular,2,2023-09-09 19:30:00+00:00,True,False,False,29789,3852,Navy-Marine Corps Memorial Stadium,2426,Navy,2681,Wagner,24,0
+401526833,2023,regular,2,2023-09-09 19:30:00+00:00,True,False,False,9207,3985,Warren McGuirk Alumni Stadium,113,Massachusetts,193,Miami (OH),28,41
+401531395,2023,regular,2,2023-09-09 19:30:00+00:00,True,False,False,49342,3604,Alamodome,2636,UTSA,326,Texas State,20,13
+401525497,2023,regular,2,2023-09-09 19:30:00+00:00,True,False,False,32637,1964,JMA Wireless Dome,183,Syracuse,2711,Western Michigan,48,7
+401520203,2023,regular,2,2023-09-09 19:30:00+00:00,True,False,False,,3936,Spartan Stadium,127,Michigan State,257,Richmond,45,14
+401520194,2023,regular,2,2023-09-09 19:30:00+00:00,True,False,False,61500,3772,Jack Trice Stadium,66,Iowa State,2294,Iowa,13,20
+401520201,2023,regular,2,2023-09-09 19:30:00+00:00,True,False,False,48792,3948,Hard Rock Stadium,2390,Miami,245,Texas A&M,48,33
+401520202,2023,regular,2,2023-09-09 19:30:00+00:00,True,False,False,109482,3558,Michigan Stadium,130,Michigan,2439,UNLV,35,7
+401520214,2023,regular,2,2023-09-09 19:30:00+00:00,True,False,False,30000,4729,Yulman Stadium,2655,Tulane,145,Ole Miss,20,37
+401520207,2023,regular,2,2023-09-09 19:30:00+00:00,True,False,False,14851,3911,Ryan Field,77,Northwestern,2638,UTEP,38,7
+401532397,2023,regular,2,2023-09-09 19:30:00+00:00,True,False,False,13114,3764,Huskie Stadium,2459,Northern Illinois,79,Southern Illinois,11,14
+401532398,2023,regular,2,2023-09-09 19:30:00+00:00,True,False,False,22742,3739,Glass Bowl,2649,Toledo,2640,Texas Southern,71,3
+401532578,2023,regular,2,2023-09-09 20:00:00+00:00,True,False,False,14224,3935,CEFCU Stadium,23,San José State,13,Cal Poly,59,3
+401520184,2023,regular,2,2023-09-09 20:00:00+00:00,True,False,False,73173,3887,Razorback Stadium,8,Arkansas,2309,Kent State,28,6
+401532580,2023,regular,2,2023-09-09 20:00:00+00:00,True,False,False,22121,3984,War Memorial Stadium,2751,Wyoming,2502,Portland State,31,17
+401531411,2023,regular,2,2023-09-09 20:00:00+00:00,True,False,False,38211,3699,Dowdy-Ficklen Stadium,151,East Carolina,276,Marshall,13,31
+401531844,2023,regular,2,2023-09-09 21:00:00+00:00,True,False,False,15237,6526,Hancock Whitney Stadium,6,South Alabama,2545,SE Louisiana,35,17
+401524004,2023,regular,2,2023-09-09 21:00:00+00:00,True,False,False,63128,3765,Husky Stadium,264,Washington,202,Tulsa,43,10
+401520213,2023,regular,2,2023-09-09 21:00:00+00:00,True,False,False,101915,3853,Neyland Stadium,2633,Tennessee,2046,Austin Peay,30,13
+401525495,2023,regular,2,2023-09-09 21:15:00+00:00,True,False,False,50500,3787,Kenan Stadium,153,North Carolina,2026,App State,40,34
+401531378,2023,regular,2,2023-09-09 22:00:00+00:00,True,False,False,20103,3608,Allen E. Paulson Stadium,290,Georgia Southern,5,UAB,49,35
+401531842,2023,regular,2,2023-09-09 22:00:00+00:00,True,False,True,18154,3918,S.B. Ballard Stadium,295,Old Dominion,309,Louisiana,38,31
+401525492,2023,regular,2,2023-09-09 22:00:00+00:00,True,False,False,17481,3982,Wallace Wade Stadium,150,Duke,322,Lafayette,42,7
+401532401,2023,regular,2,2023-09-09 22:00:00+00:00,True,False,False,15854,3965,UB Stadium,2084,Buffalo,2230,Fordham,37,40
+401525830,2023,regular,2,2023-09-09 22:00:00+00:00,True,False,False,84186,3835,"Memorial Stadium (Norman, OK)",201,Oklahoma,2567,SMU,28,11
+401531419,2023,regular,2,2023-09-09 22:00:00+00:00,True,False,False,17934,3715,FAU Stadium,2226,Florida Atlantic,195,Ohio,10,17
+401532399,2023,regular,2,2023-09-09 22:00:00+00:00,True,False,False,8213,3768,InfoCision Stadium,2006,Akron,2415,Morgan State,24,21
+401525833,2023,regular,2,2023-09-09 22:00:00+00:00,True,False,False,50037,3842,Milan Puskar Stadium,277,West Virginia,2184,Duquesne,56,17
+401520198,2023,regular,2,2023-09-09 22:00:00+00:00,True,False,True,20123,3992,Williams Stadium (VA),2335,Liberty,166,New Mexico State,33,17
+401525496,2023,regular,2,2023-09-09 22:30:00+00:00,True,False,False,49398,3752,Acrisure Stadium,221,Pittsburgh,2132,Cincinnati,21,27
+401520189,2023,regular,2,2023-09-09 22:30:00+00:00,True,False,False,15754,218,FIU Stadium,2229,Florida International,249,North Texas,46,39
+401520183,2023,regular,2,2023-09-09 23:00:00+00:00,True,False,False,100077,3657,Bryant-Denny Stadium,333,Alabama,251,Texas,24,34
+401525831,2023,regular,2,2023-09-09 23:00:00+00:00,True,False,False,23425,3895,Rice Stadium,242,Rice,248,Houston,43,41
+401520192,2023,regular,2,2023-09-09 23:00:00+00:00,True,False,False,15186,4246,Center Parc Stadium,2247,Georgia State,41,UConn,35,14
+401524002,2023,regular,2,2023-09-09 23:00:00+00:00,True,False,False,56200,3784,Jones AT&T Stadium,2641,Texas Tech,2483,Oregon,30,38
+401520187,2023,regular,2,2023-09-09 23:00:00+00:00,True,False,False,16006,3654,Brooks Stadium (SC),324,Coastal Carolina,55,Jacksonville State,30,16
+401525827,2023,regular,2,2023-09-09 23:00:00+00:00,True,False,False,36447,3653,Albertsons Stadium,68,Boise State,2116,UCF,16,18
+401531422,2023,regular,2,2023-09-09 23:00:00+00:00,True,False,False,36495,3886,Raymond James Stadium,58,South Florida,50,Florida A&M,38,24
+401520218,2023,regular,2,2023-09-09 23:00:00+00:00,True,False,False,20712,3796,Houchens Industries-L.T. Smith Stadium,98,Western Kentucky,2277,Houston Christian,52,22
+401531427,2023,regular,2,2023-09-09 23:00:00+00:00,True,False,False,18724,3625,Centennial Bank Stadium,2032,Arkansas State,235,Memphis,3,37
+401532576,2023,regular,2,2023-09-09 23:00:00+00:00,True,False,False,19852,3816,Mackay Stadium,2440,Nevada,70,Idaho,6,33
+401520206,2023,regular,2,2023-09-09 23:00:00+00:00,True,False,False,57645,3838,Memorial Stadium,142,Missouri,2393,Middle Tennessee,23,19
+401520197,2023,regular,2,2023-09-09 23:00:00+00:00,True,False,False,19152,3776,Joe Aillet Stadium,2348,Louisiana Tech,2466,Northwestern State,51,21
+401520212,2023,regular,2,2023-09-09 23:30:00+00:00,True,False,False,78281,3994,Williams-Brice Stadium,2579,South Carolina,231,Furman,47,21
+401520210,2023,regular,2,2023-09-09 23:30:00+00:00,True,False,False,45317,6577,SHI Stadium,164,Rutgers,218,Temple,36,7
+401520204,2023,regular,2,2023-09-09 23:30:00+00:00,True,False,False,48101,3953,Huntington Bank Stadium,135,Minnesota,2199,Eastern Michigan,25,6
+401520205,2023,regular,2,2023-09-09 23:30:00+00:00,True,False,False,51648,3693,Davis Wade Stadium,344,Mississippi State,12,Arizona,31,24
+401520217,2023,regular,2,2023-09-09 23:30:00+00:00,True,False,False,33024,3820,Gesa Field,265,Washington State,275,Wisconsin,31,22
+401520199,2023,regular,2,2023-09-09 23:30:00+00:00,True,False,False,97735,3958,Tiger Stadium (LA),99,LSU,2755,Grambling,72,10
+401520200,2023,regular,2,2023-09-09 23:30:00+00:00,True,False,False,32804,3665,SECU Stadium,120,Maryland,2429,Charlotte,38,20
+401524001,2023,regular,2,2023-09-09 23:30:00+00:00,True,False,False,32017,7311,Snapdragon Stadium,21,San Diego State,26,UCLA,10,35
+401520190,2023,regular,2,2023-09-09 23:30:00+00:00,True,False,False,88163,3634,Ben Hill Griffin Stadium,57,Florida,2377,McNeese,49,7
+401520211,2023,regular,2,2023-09-10 00:00:00+00:00,True,True,False,25121,3891,NRG Stadium,2534,Sam Houston,2005,Air Force,3,13
+401525832,2023,regular,2,2023-09-10 00:00:00+00:00,True,False,False,45010,3616,Amon G. Carter Stadium,2628,TCU,2447,Nicholls,41,6
+401531843,2023,regular,2,2023-09-10 00:00:00+00:00,True,False,False,13154,3817,Malone Stadium,2433,UL Monroe,2320,Lamar,24,14
+401532577,2023,regular,2,2023-09-10 00:00:00+00:00,True,False,False,17279,3971,University Stadium (NM),167,New Mexico,2635,Tennessee Tech,56,10
+401532579,2023,regular,2,2023-09-10 00:00:00+00:00,True,False,False,20034,3905,Maverik Stadium,328,Utah State,304,Idaho State,78,28
+401525493,2023,regular,2,2023-09-10 00:30:00+00:00,True,False,False,74467,3697,Doak Campbell Stadium,52,Florida State,2572,Southern Miss,66,13
+401524000,2023,regular,2,2023-09-10 01:00:00+00:00,True,False,False,35728,3893,Reser Stadium,204,Oregon State,302,UC Davis,55,7
+401532574,2023,regular,2,2023-09-10 01:00:00+00:00,True,False,False,41031,3660,Valley Children's Stadium,278,Fresno State,331,Eastern Washington,34,31
+401523998,2023,regular,2,2023-09-10 02:30:00+00:00,True,False,False,42569,3947,Mountain America Stadium,9,Arizona State,197,Oklahoma State,15,27
+401520186,2023,regular,2,2023-09-10 02:30:00+00:00,True,False,False,44141,3831,California Memorial Stadium,25,California,2,Auburn,10,14
+401524003,2023,regular,2,2023-09-10 02:30:00+00:00,True,False,True,67213,477,Los Angeles Memorial Coliseum,30,USC,24,Stanford,56,10
+401532575,2023,regular,2,2023-09-10 03:59:00+00:00,True,False,False,9485,7220,Clarence T.C. Ching Athletics Complex,62,Hawai'i,399,UAlbany,31,20
+401525499,2023,regular,3,2023-09-14 23:30:00+00:00,True,False,False,40077,3948,Hard Rock Stadium,2390,Miami,2065,Bethune-Cookman,48,7
+401531428,2023,regular,3,2023-09-14 23:30:00+00:00,True,False,True,25551,3805,Simmons Bank Liberty Stadium,235,Memphis,2426,Navy,28,24
+401531396,2023,regular,3,2023-09-15 23:00:00+00:00,True,False,False,27138,3604,Alamodome,2636,UTSA,349,Army,29,37
+401520231,2023,regular,3,2023-09-15 23:00:00+00:00,True,False,False,37041,3665,SECU Stadium,120,Maryland,258,Virginia,42,14
+401532581,2023,regular,3,2023-09-16 00:00:00+00:00,True,False,True,18400,3713,Falcon Stadium,2005,Air Force,328,Utah State,39,21
+401525504,2023,regular,3,2023-09-16 16:00:00+00:00,True,False,False,18276,3918,S.B. Ballard Stadium,295,Old Dominion,154,Wake Forest,24,27
+401520249,2023,regular,3,2023-09-16 16:00:00+00:00,True,False,False,75610,347,Camp Randall Stadium,275,Wisconsin,290,Georgia Southern,35,14
+401520222,2023,regular,3,2023-09-16 16:00:00+00:00,True,False,False,13020,3965,UB Stadium,2084,Buffalo,2335,Liberty,27,55
+401520226,2023,regular,3,2023-09-16 16:00:00+00:00,True,False,True,49099,3832,"Memorial Stadium (Champaign, IL)",356,Illinois,213,Penn State,13,30
+401525834,2023,regular,3,2023-09-16 16:00:00+00:00,True,False,False,43732,4727,McLane Stadium,239,Baylor,2341,Long Island University,30,7
+401532582,2023,regular,3,2023-09-16 16:00:00+00:00,True,False,False,35610,3653,Albertsons Stadium,68,Boise State,155,North Dakota,42,18
+401525838,2023,regular,3,2023-09-16 16:00:00+00:00,True,False,False,21991,3876,Peden Stadium,195,Ohio,66,Iowa State,10,7
+401525500,2023,regular,3,2023-09-16 16:00:00+00:00,True,False,True,41383,3615,"Alumni Stadium (Chestnut Hill, MA)",103,Boston College,52,Florida State,29,31
+401532404,2023,regular,3,2023-09-16 16:00:00+00:00,True,False,False,10731,3696,Dix Stadium,2309,Kent State,2115,Central Connecticut,38,10
+401520236,2023,regular,3,2023-09-16 16:00:00+00:00,True,False,False,62621,3838,Memorial Stadium,142,Missouri,2306,Kansas State,30,27
+401520235,2023,regular,3,2023-09-16 16:00:00+00:00,True,False,True,60084,3693,Davis Wade Stadium,344,Mississippi State,99,LSU,14,41
+401520230,2023,regular,3,2023-09-16 16:00:00+00:00,True,True,False,,3812,Lucas Oil Stadium,84,Indiana,97,Louisville,14,21
+401524012,2023,regular,3,2023-09-16 18:00:00+00:00,True,False,False,51532,587,Rice-Eccles Stadium,254,Utah,2692,Weber State,31,7
+401531388,2023,regular,3,2023-09-16 18:00:00+00:00,True,False,False,10932,3806,Lincoln Financial Field,218,Temple,2450,Norfolk State,41,9
+401532402,2023,regular,3,2023-09-16 18:00:00+00:00,True,False,False,15054,3919,Scheumann Stadium,2050,Ball State,282,Indiana State,45,7
+401526834,2023,regular,3,2023-09-16 18:00:00+00:00,True,False,False,16138,3912,Rynearson Stadium,2199,Eastern Michigan,113,Massachusetts,19,17
+401525502,2023,regular,3,2023-09-16 18:00:00+00:00,True,False,False,56919,3670,Carter-Finley Stadium,152,NC State,2678,VMI,45,7
+401525437,2023,regular,3,2023-09-16 18:30:00+00:00,True,False,False,77622,3855,Notre Dame Stadium,87,Notre Dame,2117,Central Michigan,41,17
+401520243,2023,regular,3,2023-09-16 19:30:00+00:00,True,False,False,52657,6577,SHI Stadium,164,Rutgers,259,Virginia Tech,35,16
+401525842,2023,regular,3,2023-09-16 19:30:00+00:00,True,False,False,30855,3674,Chapman Stadium,202,Tulsa,201,Oklahoma,17,66
+401520246,2023,regular,3,2023-09-16 19:30:00+00:00,True,False,False,20405,3892,Pratt & Whitney Stadium,41,UConn,2229,Florida International,17,24
+401524009,2023,regular,3,2023-09-16 19:30:00+00:00,True,False,False,35591,3893,Reser Stadium,204,Oregon State,21,San Diego State,26,9
+401520239,2023,regular,3,2023-09-16 19:30:00+00:00,True,False,False,45151,3787,Kenan Stadium,153,North Carolina,135,Minnesota,31,13
+401520244,2023,regular,3,2023-09-16 19:30:00+00:00,True,False,False,65138,3886,Raymond James Stadium,58,South Florida,333,Alabama,3,17
+401531412,2023,regular,3,2023-09-16 19:30:00+00:00,True,False,False,40168,3792,Kidd Brewer Stadium,2026,App State,151,East Carolina,43,28
+401520225,2023,regular,3,2023-09-16 19:30:00+00:00,True,False,True,92746,3917,Sanford Stadium,61,Georgia,2579,South Carolina,24,14
+401520227,2023,regular,3,2023-09-16 19:30:00+00:00,True,False,False,69250,3793,Kinnick Stadium,2294,Iowa,2711,Western Michigan,41,10
+401520223,2023,regular,3,2023-09-16 19:30:00+00:00,True,False,False,18141,3982,Wallace Wade Stadium,150,Duke,77,Northwestern,38,14
+401520245,2023,regular,3,2023-09-16 20:00:00+00:00,True,False,False,93090,3795,Kyle Field,245,Texas A&M,2433,UL Monroe,47,3
+401531348,2023,regular,3,2023-09-16 20:00:00+00:00,True,False,False,25038,3815,M. M. Roberts Stadium,2572,Southern Miss,2655,Tulane,3,21
+401524006,2023,regular,3,2023-09-16 20:00:00+00:00,True,False,False,36810,3831,California Memorial Stadium,25,California,70,Idaho,31,17
+401520240,2023,regular,3,2023-09-16 20:00:00+00:00,True,False,False,100217,3861,Ohio Stadium,194,Ohio State,98,Western Kentucky,63,10
+401520233,2023,regular,3,2023-09-16 21:00:00+00:00,True,False,False,70528,3936,Spartan Stadium,127,Michigan State,264,Washington,7,41
+401524013,2023,regular,3,2023-09-16 21:00:00+00:00,True,False,False,23595,3820,Gesa Field,265,Washington State,2458,Northern Colorado,64,21
+401524011,2023,regular,3,2023-09-16 21:00:00+00:00,True,False,False,38343,1056,Rose Bowl,26,UCLA,2428,North Carolina Central,59,7
+401531403,2023,regular,3,2023-09-16 22:00:00+00:00,True,False,False,14410,4418,Jerry Richardson Stadium,2429,Charlotte,2247,Georgia State,25,41
+401525843,2023,regular,3,2023-09-16 22:30:00+00:00,True,False,False,44206,3652,FBC Mortgage Stadium,2116,UCF,222,Villanova,48,14
+401520234,2023,regular,3,2023-09-16 23:00:00+00:00,True,False,False,16605,3725,"Johnny ""Red"" Floyd Stadium",2393,Middle Tennessee,93,Murray State,35,14
+401525835,2023,regular,3,2023-09-16 23:00:00+00:00,True,False,False,38193,3854,Nippert Stadium,2132,Cincinnati,193,Miami (OH),24,31
+401520221,2023,regular,3,2023-09-16 23:00:00+00:00,True,False,False,88043,3785,Jordan-Hare Stadium,2,Auburn,2535,Samford,45,13
+401520229,2023,regular,3,2023-09-16 23:00:00+00:00,True,False,False,17434,3776,Joe Aillet Stadium,2348,Louisiana Tech,249,North Texas,37,40
+401531845,2023,regular,3,2023-09-16 23:00:00+00:00,True,False,False,18116,3654,Brooks Stadium (SC),324,Coastal Carolina,2184,Duquesne,66,7
+401532403,2023,regular,3,2023-09-16 23:00:00+00:00,True,False,False,20039,3739,Glass Bowl,2649,Toledo,23,San José State,21,17
+401531379,2023,regular,3,2023-09-16 23:00:00+00:00,True,False,False,21673,7221,Protective Stadium,5,UAB,309,Louisiana,21,41
+401520237,2023,regular,3,2023-09-16 23:00:00+00:00,True,False,False,86875,3834,"Memorial Stadium (Lincoln, NE)",158,Nebraska,2459,Northern Illinois,35,11
+401520247,2023,regular,3,2023-09-16 23:00:00+00:00,True,False,False,22582,6501,Allegiant Stadium,2439,UNLV,238,Vanderbilt,40,37
+401531438,2023,regular,3,2023-09-16 23:00:00+00:00,True,False,False,24489,3735,Gerald J. Ford Stadium,2567,SMU,2504,Prairie View A&M,69,0
+401525841,2023,regular,3,2023-09-16 23:00:00+00:00,True,False,False,56200,3784,Jones AT&T Stadium,2641,Texas Tech,2627,Tarleton State,41,3
+401531441,2023,regular,3,2023-09-16 23:00:00+00:00,True,False,False,18103,3895,Rice Stadium,242,Rice,2640,Texas Southern,59,7
+401525839,2023,regular,3,2023-09-16 23:00:00+00:00,True,False,False,53855,3646,Boone Pickens Stadium,197,Oklahoma State,6,South Alabama,7,33
+401531848,2023,regular,3,2023-09-16 23:00:00+00:00,True,False,True,26634,3975,Veterans Memorial Stadium (AL),2653,Troy,256,James Madison,14,16
+401520224,2023,regular,3,2023-09-16 23:00:00+00:00,True,False,True,90751,3634,Ben Hill Griffin Stadium,57,Florida,2633,Tennessee,29,16
+401531846,2023,regular,3,2023-09-16 23:00:00+00:00,True,False,False,14327,3625,Centennial Bank Stadium,2032,Arkansas State,2619,Stony Brook,31,7
+401520228,2023,regular,3,2023-09-16 23:30:00+00:00,True,False,False,59456,3683,Kroger Field,96,Kentucky,2006,Akron,35,3
+401520232,2023,regular,3,2023-09-16 23:30:00+00:00,True,False,False,109955,3558,Michigan Stadium,130,Michigan,189,Bowling Green,31,6
+401525503,2023,regular,3,2023-09-16 23:30:00+00:00,True,False,False,61106,3842,Milan Puskar Stadium,277,West Virginia,221,Pittsburgh,17,6
+401520241,2023,regular,3,2023-09-16 23:30:00+00:00,True,False,False,64150,3974,Vaught-Hemingway Stadium,145,Ole Miss,59,Georgia Tech,48,23
+401520242,2023,regular,3,2023-09-16 23:30:00+00:00,True,False,False,61441,3907,Ross-Ade Stadium,2509,Purdue,183,Syracuse,20,35
+401520220,2023,regular,3,2023-09-16 23:30:00+00:00,True,False,False,74821,3887,Razorback Stadium,8,Arkansas,252,BYU,31,38
+401520238,2023,regular,3,2023-09-17 00:00:00+00:00,True,False,False,27414,3971,University Stadium (NM),167,New Mexico,166,New Mexico State,17,27
+401525501,2023,regular,3,2023-09-17 00:00:00+00:00,True,False,False,81295,3836,"Memorial Stadium (Clemson, SC)",228,Clemson,2226,Florida Atlantic,48,14
+401525840,2023,regular,3,2023-09-17 00:00:00+00:00,True,False,False,101777,3910,DKR-Texas Memorial Stadium,251,Texas,2751,Wyoming,31,10
+401524010,2023,regular,3,2023-09-17 00:00:00+00:00,True,False,False,23848,3940,Stanford Stadium,24,Stanford,16,Sacramento State,23,30
+401525836,2023,regular,3,2023-09-17 00:00:00+00:00,True,False,True,36049,4728,TDECU Stadium,248,Houston,2628,TCU,13,36
+401524008,2023,regular,3,2023-09-17 00:00:00+00:00,True,False,False,52779,3626,Autzen Stadium,2483,Oregon,62,Hawai'i,55,10
+401531847,2023,regular,3,2023-09-17 00:30:00+00:00,True,False,False,24118,3644,Bobcat Stadium (TX),326,Texas State,2296,Jackson State,77,34
+401524007,2023,regular,3,2023-09-17 02:00:00+00:00,True,False,False,53141,3726,Folsom Field,38,Colorado,36,Colorado State,43,35
+401525837,2023,regular,3,2023-09-17 02:30:00+00:00,True,False,False,44182,3816,Mackay Stadium,2440,Nevada,2305,Kansas,24,31
+401524005,2023,regular,3,2023-09-17 02:30:00+00:00,True,False,False,46723,3947,Mountain America Stadium,9,Arizona State,278,Fresno State,0,29
+401520219,2023,regular,3,2023-09-17 03:00:00+00:00,True,False,False,44182,3619,Arizona Stadium,12,Arizona,2638,UTEP,31,10
+401531849,2023,regular,4,2023-09-21 23:30:00+00:00,True,False,True,15248,3654,Brooks Stadium (SC),324,Coastal Carolina,2247,Georgia State,17,30
+401520266,2023,regular,4,2023-09-22 23:00:00+00:00,True,False,True,55529,3907,Ross-Ade Stadium,2509,Purdue,275,Wisconsin,17,38
+401525505,2023,regular,4,2023-09-22 23:30:00+00:00,True,False,True,42979,3923,Scott Stadium,258,Virginia,152,NC State,21,24
+401532583,2023,regular,4,2023-09-23 02:30:00+00:00,True,False,True,23374,7311,Snapdragon Stadium,21,San Diego State,68,Boise State,31,34
+401532584,2023,regular,4,2023-09-23 02:30:00+00:00,True,False,True,16124,3935,CEFCU Stadium,23,San José State,2005,Air Force,20,45
+401520271,2023,regular,4,2023-09-23 16:00:00+00:00,True,False,False,26124,3975,Veterans Memorial Stadium (AL),2653,Troy,98,Western Kentucky,27,24
+401520268,2023,regular,4,2023-09-23 16:00:00+00:00,True,False,False,37594,1964,JMA Wireless Dome,183,Syracuse,349,Army,29,16
+401520274,2023,regular,4,2023-09-23 16:00:00+00:00,True,False,True,26279,3973,FirstBank Stadium,238,Vanderbilt,96,Kentucky,28,45
+401531338,2023,regular,4,2023-09-23 16:00:00+00:00,True,False,False,10321,3764,Huskie Stadium,2459,Northern Illinois,202,Tulsa,14,22
+401525507,2023,regular,4,2023-09-23 16:00:00+00:00,True,False,True,81500,3836,"Memorial Stadium (Clemson, SC)",228,Clemson,52,Florida State,24,31
+401525511,2023,regular,4,2023-09-23 16:00:00+00:00,True,False,False,31475,3775,Joan C. Edwards Stadium,276,Marshall,259,Virginia Tech,24,17
+401525845,2023,regular,4,2023-09-23 16:00:00+00:00,True,False,True,38193,3854,Nippert Stadium,2132,Cincinnati,201,Oklahoma,6,20
+401520270,2023,regular,4,2023-09-23 16:00:00+00:00,True,False,True,102530,3795,Kyle Field,245,Texas A&M,2,Auburn,27,10
+401520260,2023,regular,4,2023-09-23 16:00:00+00:00,True,False,True,109756,3558,Michigan Stadium,130,Michigan,164,Rutgers,31,7
+401525849,2023,regular,4,2023-09-23 16:00:00+00:00,True,False,False,51243,3616,Amon G. Carter Stadium,2628,TCU,2567,SMU,34,17
+401532406,2023,regular,4,2023-09-23 17:30:00+00:00,True,False,True,19068,3739,Glass Bowl,2649,Toledo,2711,Western Michigan,49,31
+401531871,2023,regular,4,2023-09-23 18:00:00+00:00,True,False,False,10118,3919,Scheumann Stadium,2050,Ball State,290,Georgia Southern,3,40
+401525509,2023,regular,4,2023-09-23 19:30:00+00:00,True,False,False,17234,3806,Lincoln Financial Field,218,Temple,2390,Miami,7,41
+401525847,2023,regular,4,2023-09-23 19:30:00+00:00,True,False,True,47233,3833,Memorial Stadium,2305,Kansas,252,BYU,38,27
+401520272,2023,regular,4,2023-09-23 19:30:00+00:00,True,False,False,29033,3892,Pratt & Whitney Stadium,41,UConn,150,Duke,7,41
+401520261,2023,regular,4,2023-09-23 19:30:00+00:00,True,False,True,70131,3936,Spartan Stadium,127,Michigan State,120,Maryland,9,31
+401526835,2023,regular,4,2023-09-23 19:30:00+00:00,True,False,False,8298,3985,Warren McGuirk Alumni Stadium,113,Massachusetts,167,New Mexico,31,34
+401525850,2023,regular,4,2023-09-23 19:30:00+00:00,True,False,True,50071,3842,Milan Puskar Stadium,277,West Virginia,2641,Texas Tech,20,13
+401520263,2023,regular,4,2023-09-23 19:30:00+00:00,True,False,False,87115,3834,"Memorial Stadium (Lincoln, NE)",158,Nebraska,2348,Louisiana Tech,28,14
+401520250,2023,regular,4,2023-09-23 19:30:00+00:00,True,False,True,100077,3657,Bryant-Denny Stadium,333,Alabama,145,Ole Miss,24,10
+401532408,2023,regular,4,2023-09-23 19:30:00+00:00,True,False,False,15812,3996,Yager Stadium,193,Miami (OH),2169,Delaware State,62,20
+401532405,2023,regular,4,2023-09-23 19:30:00+00:00,True,False,True,18248,3700,Doyt L. Perry Stadium,189,Bowling Green,195,Ohio,7,38
+401520255,2023,regular,4,2023-09-23 19:30:00+00:00,True,False,False,53512,3832,"Memorial Stadium (Champaign, IL)",356,Illinois,2226,Florida Atlantic,23,17
+401524017,2023,regular,4,2023-09-23 19:30:00+00:00,True,False,True,52919,587,Rice-Eccles Stadium,254,Utah,26,UCLA,14,7
+401524015,2023,regular,4,2023-09-23 19:30:00+00:00,True,False,True,59889,3626,Autzen Stadium,2483,Oregon,38,Colorado,42,6
+401531873,2023,regular,4,2023-09-23 19:30:00+00:00,True,False,False,16938,3918,S.B. Ballard Stadium,295,Old Dominion,2837,East Texas A&M,10,9
+401525506,2023,regular,4,2023-09-23 19:30:00+00:00,True,False,True,48294,3873,L&N Federal Credit Union Stadium,97,Louisville,103,Boston College,56,28
+401531423,2023,regular,4,2023-09-23 20:00:00+00:00,True,False,True,29141,3886,Raymond James Stadium,58,South Florida,242,Rice,42,29
+401525846,2023,regular,4,2023-09-23 20:00:00+00:00,True,False,True,59022,3772,Jack Trice Stadium,66,Iowa State,197,Oklahoma State,34,27
+401520269,2023,regular,4,2023-09-23 20:00:00+00:00,True,False,False,101915,3853,Neyland Stadium,2633,Tennessee,2636,UTSA,45,14
+401520257,2023,regular,4,2023-09-23 21:00:00+00:00,True,False,False,20966,3662,AmFirst Stadium,55,Jacksonville State,2199,Eastern Michigan,21,0
+401531876,2023,regular,4,2023-09-23 21:00:00+00:00,True,False,False,18369,6526,Hancock Whitney Stadium,6,South Alabama,2117,Central Michigan,30,34
+401531413,2023,regular,4,2023-09-23 22:00:00+00:00,True,False,False,40589,3699,Dowdy-Ficklen Stadium,151,East Carolina,2241,Gardner-Webb,44,0
+401520275,2023,regular,4,2023-09-23 22:30:00+00:00,True,False,True,17437,218,FIU Stadium,2229,Florida International,2335,Liberty,6,38
+401525508,2023,regular,4,2023-09-23 22:30:00+00:00,True,False,True,31865,3630,Allegacy Federal Credit Union Stadium,154,Wake Forest,59,Georgia Tech,16,30
+401520258,2023,regular,4,2023-09-23 23:00:00+00:00,True,False,True,99648,3958,Tiger Stadium (LA),99,LSU,8,Arkansas,34,31
+401520254,2023,regular,4,2023-09-23 23:00:00+00:00,True,False,False,35044,4728,TDECU Stadium,248,Houston,2534,Sam Houston,38,7
+401520262,2023,regular,4,2023-09-23 23:00:00+00:00,True,False,False,19806,3725,"Johnny ""Red"" Floyd Stadium",2393,Middle Tennessee,36,Colorado State,23,31
+401524019,2023,regular,4,2023-09-23 23:00:00+00:00,True,False,True,33111,3820,Gesa Field,265,Washington State,204,Oregon State,38,35
+401531874,2023,regular,4,2023-09-23 23:00:00+00:00,True,False,True,16601,3625,Centennial Bank Stadium,2032,Arkansas State,2572,Southern Miss,44,37
+401531870,2023,regular,4,2023-09-23 23:00:00+00:00,True,False,False,21169,3984,War Memorial Stadium,2751,Wyoming,2026,App State,22,19
+401531349,2023,regular,4,2023-09-23 23:00:00+00:00,True,False,False,22842,4729,Yulman Stadium,2655,Tulane,2447,Nicholls,36,7
+401520251,2023,regular,4,2023-09-23 23:00:00+00:00,True,False,False,89053,3634,Ben Hill Griffin Stadium,57,Florida,2429,Charlotte,22,7
+401524016,2023,regular,4,2023-09-23 23:00:00+00:00,True,False,True,38046,3940,Stanford Stadium,24,Stanford,12,Arizona,20,21
+401531877,2023,regular,4,2023-09-23 23:00:00+00:00,True,False,False,19257,3644,Bobcat Stadium (TX),326,Texas State,2440,Nevada,35,24
+401521330,2023,regular,4,2023-09-23 23:30:00+00:00,True,False,False,77622,3855,Notre Dame Stadium,87,Notre Dame,194,Ohio State,14,17
+401531875,2023,regular,4,2023-09-23 23:30:00+00:00,True,False,False,17674,3666,Cajun Field,309,Louisiana,2084,Buffalo,45,38
+401520265,2023,regular,4,2023-09-23 23:30:00+00:00,True,False,True,110830,3632,Beaver Stadium,213,Penn State,2294,Iowa,31,0
+401520252,2023,regular,4,2023-09-23 23:30:00+00:00,True,False,False,92746,3917,Sanford Stadium,61,Georgia,5,UAB,49,21
+401520267,2023,regular,4,2023-09-23 23:30:00+00:00,True,False,True,78311,3994,Williams-Brice Stadium,2579,South Carolina,344,Mississippi State,37,30
+401520256,2023,regular,4,2023-09-23 23:30:00+00:00,True,False,False,44968,3830,"Memorial Stadium (Bloomington, IN)",84,Indiana,2006,Akron,29,27
+401520264,2023,regular,4,2023-09-23 23:30:00+00:00,True,False,True,20148,3911,Ryan Field,77,Northwestern,135,Minnesota,37,34
+401525844,2023,regular,4,2023-09-23 23:30:00+00:00,True,False,True,49165,4727,McLane Stadium,239,Baylor,251,Texas,6,38
+401520259,2023,regular,4,2023-09-23 23:30:00+00:00,True,True,False,45085,3494,The Dome at America's Center,142,Missouri,235,Memphis,34,27
+401531872,2023,regular,4,2023-09-24 00:00:00+00:00,True,False,False,19994,3905,Maverik Stadium,328,Utah State,256,James Madison,38,45
+401525848,2023,regular,4,2023-09-24 00:00:00+00:00,True,False,True,51912,3636,Bill Snyder Family Stadium,2306,Kansas State,2116,UCF,44,31
+401525510,2023,regular,4,2023-09-24 00:00:00+00:00,True,False,True,48544,3752,Acrisure Stadium,221,Pittsburgh,153,North Carolina,24,41
+401520273,2023,regular,4,2023-09-24 01:00:00+00:00,True,False,False,28042,3946,Sun Bowl,2638,UTEP,2439,UNLV,28,45
+401524014,2023,regular,4,2023-09-24 02:30:00+00:00,True,False,True,54166,3947,Mountain America Stadium,9,Arizona State,30,USC,28,42
+401532407,2023,regular,4,2023-09-24 02:30:00+00:00,True,False,False,38728,3660,Valley Children's Stadium,278,Fresno State,2309,Kent State,53,10
+401524018,2023,regular,4,2023-09-24 02:30:00+00:00,True,False,True,69107,3765,Husky Stadium,264,Washington,25,California,59,32
+401520253,2023,regular,4,2023-09-24 03:59:00+00:00,True,False,False,10254,7220,Clarence T.C. Ching Athletics Complex,62,Hawai'i,166,New Mexico State,20,17
+401531339,2023,regular,5,2023-09-28 23:30:00+00:00,True,False,True,17538,3674,Chapman Stadium,202,Tulsa,218,Temple,48,26
+401520277,2023,regular,5,2023-09-28 23:30:00+00:00,True,False,True,14712,3796,Houchens Industries-L.T. Smith Stadium,98,Western Kentucky,2393,Middle Tennessee,31,10
+401520276,2023,regular,5,2023-09-29 00:00:00+00:00,True,False,True,14566,3647,Elliott T. Bowers Stadium,2534,Sam Houston,55,Jacksonville State,28,35
+401525512,2023,regular,5,2023-09-29 23:00:00+00:00,True,False,True,56919,3670,Carter-Finley Stadium,152,NC State,97,Louisville,10,13
+401520278,2023,regular,5,2023-09-30 01:00:00+00:00,True,False,True,9101,3946,Sun Bowl,2638,UTEP,2348,Louisiana Tech,10,24
+401524020,2023,regular,5,2023-09-30 01:00:00+00:00,True,False,True,37372,3893,Reser Stadium,204,Oregon State,254,Utah,21,7
+401525851,2023,regular,5,2023-09-30 02:15:00+00:00,True,False,True,63834,3801,LaVell Edwards Stadium,252,BYU,2132,Cincinnati,35,27
+401520284,2023,regular,5,2023-09-30 16:00:00+00:00,True,False,False,46843,3953,Huntington Bank Stadium,135,Minnesota,309,Louisiana,35,24
+401532412,2023,regular,5,2023-09-30 16:00:00+00:00,True,False,True,5490,3768,InfoCision Stadium,2006,Akron,2084,Buffalo,10,13
+401520287,2023,regular,5,2023-09-30 16:00:00+00:00,True,False,True,25064,3911,Ryan Field,77,Northwestern,213,Penn State,13,41
+401525514,2023,regular,5,2023-09-30 16:00:00+00:00,True,False,True,40974,1964,JMA Wireless Dome,183,Syracuse,228,Clemson,14,31
+401520282,2023,regular,5,2023-09-30 16:00:00+00:00,True,False,True,61699,3683,Kroger Field,96,Kentucky,57,Florida,33,14
+401531370,2023,regular,5,2023-09-30 16:00:00+00:00,True,False,True,20102,4729,Yulman Stadium,2655,Tulane,5,UAB,35,23
+401531880,2023,regular,5,2023-09-30 16:00:00+00:00,True,False,True,26064,3651,Bridgeforth Stadium,256,James Madison,6,South Alabama,31,23
+401520292,2023,regular,5,2023-09-30 16:00:00+00:00,True,False,False,21227,3892,Pratt & Whitney Stadium,41,UConn,328,Utah State,33,34
+401520279,2023,regular,5,2023-09-30 16:00:00+00:00,True,True,True,59437,3687,AT&T Stadium,8,Arkansas,245,Texas A&M,22,34
+401524023,2023,regular,5,2023-09-30 16:00:00+00:00,True,False,True,54032,3726,Folsom Field,38,Colorado,30,USC,41,48
+401532410,2023,regular,5,2023-09-30 17:30:00+00:00,True,False,True,28323,3786,Kelly/Shorts Stadium,2117,Central Michigan,2199,Eastern Michigan,26,23
+401525513,2023,regular,5,2023-09-30 18:00:00+00:00,True,False,True,41868,3615,"Alumni Stadium (Chestnut Hill, MA)",103,Boston College,258,Virginia,27,24
+401532413,2023,regular,5,2023-09-30 18:30:00+00:00,True,False,True,13598,3696,Dix Stadium,2309,Kent State,193,Miami (OH),3,23
+401524022,2023,regular,5,2023-09-30 19:00:00+00:00,True,False,True,34353,3831,California Memorial Stadium,25,California,9,Arizona State,24,21
+401526836,2023,regular,5,2023-09-30 19:30:00+00:00,True,False,False,9494,3985,Warren McGuirk Alumni Stadium,113,Massachusetts,2032,Arkansas State,28,52
+401531424,2023,regular,5,2023-09-30 19:30:00+00:00,True,False,True,29789,3852,Navy-Marine Corps Memorial Stadium,2426,Navy,58,South Florida,30,44
+401525515,2023,regular,5,2023-09-30 19:30:00+00:00,True,False,False,30097,721,Bobby Dodd Stadium,59,Georgia Tech,189,Bowling Green,27,38
+401525855,2023,regular,5,2023-09-30 19:30:00+00:00,True,False,True,53308,3784,Jones AT&T Stadium,2641,Texas Tech,248,Houston,49,28
+401520286,2023,regular,5,2023-09-30 19:30:00+00:00,True,False,True,87134,3834,"Memorial Stadium (Lincoln, NE)",158,Nebraska,130,Michigan,7,45
+401520289,2023,regular,5,2023-09-30 19:30:00+00:00,True,False,True,59510,3907,Ross-Ade Stadium,2509,Purdue,356,Illinois,44,19
+401532409,2023,regular,5,2023-09-30 19:30:00+00:00,True,False,True,21880,3980,Waldo Stadium,2711,Western Michigan,2050,Ball State,42,24
+401532411,2023,regular,5,2023-09-30 19:30:00+00:00,True,False,True,23417,3739,Glass Bowl,2649,Toledo,2459,Northern Illinois,35,33
+401520283,2023,regular,5,2023-09-30 19:30:00+00:00,True,False,True,38181,3665,SECU Stadium,120,Maryland,84,Indiana,44,17
+401531881,2023,regular,5,2023-09-30 19:30:00+00:00,True,False,True,22652,3775,Joan C. Edwards Stadium,276,Marshall,295,Old Dominion,41,35
+401520290,2023,regular,5,2023-09-30 19:30:00+00:00,True,False,False,40165,6577,SHI Stadium,164,Rutgers,2681,Wagner,52,3
+401525856,2023,regular,5,2023-09-30 19:30:00+00:00,True,False,True,44005,3652,FBC Mortgage Stadium,2116,UCF,239,Baylor,35,36
+401525854,2023,regular,5,2023-09-30 19:30:00+00:00,True,False,True,102986,3910,DKR-Texas Memorial Stadium,251,Texas,2305,Kansas,40,14
+401520280,2023,regular,5,2023-09-30 19:30:00+00:00,True,False,True,88043,3785,Jordan-Hare Stadium,2,Auburn,61,Georgia,20,27
+401532586,2023,regular,5,2023-09-30 20:00:00+00:00,True,False,True,25328,6501,Allegiant Stadium,2439,UNLV,62,Hawai'i,44,20
+401532588,2023,regular,5,2023-09-30 20:00:00+00:00,True,False,True,25477,3984,War Memorial Stadium,2751,Wyoming,167,New Mexico,35,26
+401531429,2023,regular,5,2023-09-30 20:00:00+00:00,True,False,False,30364,3805,Simmons Bank Liberty Stadium,235,Memphis,68,Boise State,35,32
+401520293,2023,regular,5,2023-09-30 20:00:00+00:00,True,False,True,26332,3973,FirstBank Stadium,238,Vanderbilt,142,Missouri,21,38
+401520288,2023,regular,5,2023-09-30 22:00:00+00:00,True,False,True,66703,3974,Vaught-Hemingway Stadium,145,Ole Miss,99,LSU,55,49
+401524024,2023,regular,5,2023-09-30 22:30:00+00:00,True,False,True,32160,3940,Stanford Stadium,24,Stanford,2483,Oregon,6,42
+401531879,2023,regular,5,2023-09-30 23:00:00+00:00,True,False,True,16536,4246,Center Parc Stadium,2247,Georgia State,2653,Troy,7,28
+401531414,2023,regular,5,2023-09-30 23:00:00+00:00,True,False,True,19598,3895,Rice Stadium,242,Rice,151,East Carolina,24,17
+401531436,2023,regular,5,2023-09-30 23:00:00+00:00,True,False,False,21494,3825,DATCU Stadium,249,North Texas,2000,Abilene Christian,45,31
+401531883,2023,regular,5,2023-09-30 23:00:00+00:00,True,False,True,21304,3815,M. M. Roberts Stadium,2572,Southern Miss,326,Texas State,36,50
+401525852,2023,regular,5,2023-09-30 23:00:00+00:00,True,False,True,84371,3835,"Memorial Stadium (Norman, OK)",201,Oklahoma,66,Iowa State,50,20
+401531878,2023,regular,5,2023-09-30 23:00:00+00:00,True,False,True,26483,3608,Allen E. Paulson Stadium,290,Georgia Southern,324,Coastal Carolina,38,28
+401532585,2023,regular,5,2023-09-30 23:00:00+00:00,True,False,False,27932,5388,Canvas Stadium,36,Colorado State,3101,Utah Tech,41,20
+401525438,2023,regular,5,2023-09-30 23:30:00+00:00,True,False,False,40768,3982,Wallace Wade Stadium,150,Duke,87,Notre Dame,14,21
+401531404,2023,regular,5,2023-09-30 23:30:00+00:00,True,False,True,25385,3735,Gerald J. Ford Stadium,2567,SMU,2429,Charlotte,34,16
+401520291,2023,regular,5,2023-09-30 23:30:00+00:00,True,False,True,101915,3853,Neyland Stadium,2633,Tennessee,2579,South Carolina,41,20
+401520281,2023,regular,5,2023-09-30 23:30:00+00:00,True,False,True,69250,3793,Kinnick Stadium,2294,Iowa,127,Michigan State,26,16
+401525853,2023,regular,5,2023-10-01 00:00:00+00:00,True,False,True,43736,3616,Amon G. Carter Stadium,2628,TCU,277,West Virginia,21,24
+401525516,2023,regular,5,2023-10-01 00:00:00+00:00,True,False,True,65632,3799,Lane Stadium,259,Virginia Tech,221,Pittsburgh,38,21
+401531882,2023,regular,5,2023-10-01 00:00:00+00:00,True,False,True,19919,3817,Malone Stadium,2433,UL Monroe,2026,App State,40,41
+401532589,2023,regular,5,2023-10-01 00:00:00+00:00,True,False,True,24869,3713,Falcon Stadium,2005,Air Force,21,San Diego State,49,10
+401520285,2023,regular,5,2023-10-01 01:00:00+00:00,True,False,True,60111,3693,Davis Wade Stadium,344,Mississippi State,333,Alabama,17,40
+401524021,2023,regular,5,2023-10-01 02:00:00+00:00,True,False,True,50800,3619,Arizona Stadium,12,Arizona,264,Washington,24,31
+401532587,2023,regular,5,2023-10-01 02:30:00+00:00,True,False,True,39246,3660,Valley Children's Stadium,278,Fresno State,2440,Nevada,27,9
+401520294,2023,regular,6,2023-10-05 00:00:00+00:00,True,False,True,13066,3725,"Johnny ""Red"" Floyd Stadium",2393,Middle Tennessee,55,Jacksonville State,30,45
+401520297,2023,regular,6,2023-10-05 01:00:00+00:00,True,False,True,11540,3601,Aggie Memorial Stadium,166,New Mexico State,2229,Florida International,34,17
+401520296,2023,regular,6,2023-10-05 23:00:00+00:00,True,False,True,17100,3992,Williams Stadium (VA),2335,Liberty,2534,Sam Houston,21,16
+401520295,2023,regular,6,2023-10-06 00:00:00+00:00,True,False,True,13014,3776,Joe Aillet Stadium,2348,Louisiana Tech,98,Western Kentucky,28,35
+401525857,2023,regular,6,2023-10-06 23:30:00+00:00,True,False,True,53855,3646,Boone Pickens Stadium,197,Oklahoma State,2306,Kansas State,29,21
+401520301,2023,regular,6,2023-10-07 00:00:00+00:00,True,False,True,46703,3832,"Memorial Stadium (Champaign, IL)",356,Illinois,158,Nebraska,7,20
+401520307,2023,regular,6,2023-10-07 16:00:00+00:00,True,False,True,104974,3861,Ohio Stadium,194,Ohio State,120,Maryland,37,17
+401525861,2023,regular,6,2023-10-07 16:00:00+00:00,True,True,True,,499,Cotton Bowl,251,Texas,201,Oklahoma,30,34
+401520304,2023,regular,6,2023-10-07 16:00:00+00:00,True,False,False,47158,3693,Davis Wade Stadium,344,Mississippi State,2711,Western Michigan,41,28
+401526837,2023,regular,6,2023-10-07 16:00:00+00:00,True,False,False,9623,3985,Warren McGuirk Alumni Stadium,113,Massachusetts,2649,Toledo,24,41
+401520311,2023,regular,6,2023-10-07 16:00:00+00:00,True,False,True,74885,347,Camp Randall Stadium,275,Wisconsin,164,Rutgers,24,13
+401520298,2023,regular,6,2023-10-07 16:00:00+00:00,True,False,False,34017,3841,Michie Stadium,349,Army,103,Boston College,24,27
+401525522,2023,regular,6,2023-10-07 16:00:00+00:00,True,False,False,38289,3923,Scott Stadium,258,Virginia,2729,William & Mary,27,13
+401520305,2023,regular,6,2023-10-07 16:00:00+00:00,True,False,True,62621,3838,Memorial Stadium,142,Missouri,99,LSU,39,49
+401525521,2023,regular,6,2023-10-07 18:00:00+00:00,True,False,False,56919,3670,Carter-Finley Stadium,152,NC State,276,Marshall,48,41
+401532415,2023,regular,6,2023-10-07 18:00:00+00:00,True,False,True,12093,3965,UB Stadium,2084,Buffalo,2117,Central Michigan,37,13
+401531389,2023,regular,6,2023-10-07 18:00:00+00:00,True,False,True,18388,3806,Lincoln Financial Field,218,Temple,2636,UTSA,34,49
+401524028,2023,regular,6,2023-10-07 19:00:00+00:00,True,False,True,35437,1056,Rose Bowl,26,UCLA,265,Washington State,25,17
+401520306,2023,regular,6,2023-10-07 19:00:00+00:00,True,False,False,22160,3911,Ryan Field,77,Northwestern,47,Howard,23,20
+401532418,2023,regular,6,2023-10-07 19:30:00+00:00,True,False,True,8216,3768,InfoCision Stadium,2006,Akron,2459,Northern Illinois,14,55
+401532417,2023,regular,6,2023-10-07 19:30:00+00:00,True,False,True,22945,3876,Peden Stadium,195,Ohio,2309,Kent State,42,17
+401532414,2023,regular,6,2023-10-07 19:30:00+00:00,True,False,True,18696,3912,Rynearson Stadium,2199,Eastern Michigan,2050,Ball State,24,10
+401520310,2023,regular,6,2023-10-07 19:30:00+00:00,True,False,True,108101,3795,Kyle Field,245,Texas A&M,333,Alabama,20,26
+401525517,2023,regular,6,2023-10-07 19:30:00+00:00,True,False,True,80810,3836,"Memorial Stadium (Clemson, SC)",228,Clemson,154,Wake Forest,17,12
+401532416,2023,regular,6,2023-10-07 19:30:00+00:00,True,False,True,19047,3996,Yager Stadium,193,Miami (OH),189,Bowling Green,27,0
+401520302,2023,regular,6,2023-10-07 19:30:00+00:00,True,False,True,69250,3793,Kinnick Stadium,2294,Iowa,2509,Purdue,20,14
+401525518,2023,regular,6,2023-10-07 19:30:00+00:00,True,False,True,79560,3697,Doak Campbell Stadium,52,Florida State,259,Virginia Tech,39,17
+401525520,2023,regular,6,2023-10-07 19:30:00+00:00,True,False,True,50500,3787,Kenan Stadium,153,North Carolina,183,Syracuse,40,7
+401531884,2023,regular,6,2023-10-07 19:30:00+00:00,True,False,True,15053,3666,Cajun Field,309,Louisiana,326,Texas State,34,30
+401531433,2023,regular,6,2023-10-07 19:30:00+00:00,True,False,True,28648,3852,Navy-Marine Corps Memorial Stadium,2426,Navy,249,North Texas,27,24
+401531380,2023,regular,6,2023-10-07 20:00:00+00:00,True,False,True,23792,7221,Protective Stadium,5,UAB,58,South Florida,56,35
+401531887,2023,regular,6,2023-10-07 20:00:00+00:00,True,False,True,26957,3975,Veterans Memorial Stadium (AL),2653,Troy,2032,Arkansas State,37,3
+401525860,2023,regular,6,2023-10-07 20:00:00+00:00,True,False,True,46107,3833,Memorial Stadium,2305,Kansas,2116,UCF,51,22
+401520299,2023,regular,6,2023-10-07 20:00:00+00:00,True,False,True,89432,3634,Ben Hill Griffin Stadium,57,Florida,238,Vanderbilt,38,14
+401520309,2023,regular,6,2023-10-07 21:00:00+00:00,True,False,False,21207,3895,Rice Stadium,242,Rice,41,UConn,31,38
+401531340,2023,regular,6,2023-10-07 22:00:00+00:00,True,False,True,21077,3715,FAU Stadium,2226,Florida Atlantic,202,Tulsa,20,17
+401524026,2023,regular,6,2023-10-07 22:30:00+00:00,True,False,True,54086,3947,Mountain America Stadium,9,Arizona State,38,Colorado,24,27
+401520300,2023,regular,6,2023-10-07 23:00:00+00:00,True,False,True,92746,3917,Sanford Stadium,61,Georgia,96,Kentucky,51,13
+401531886,2023,regular,6,2023-10-07 23:00:00+00:00,True,False,True,23011,3815,M. M. Roberts Stadium,2572,Southern Miss,295,Old Dominion,13,17
+401531885,2023,regular,6,2023-10-07 23:00:00+00:00,True,False,True,12099,3817,Malone Stadium,2433,UL Monroe,6,South Alabama,7,55
+401520303,2023,regular,6,2023-10-07 23:30:00+00:00,True,False,True,52179,3953,Huntington Bank Stadium,135,Minnesota,130,Michigan,10,52
+401520308,2023,regular,6,2023-10-07 23:30:00+00:00,True,False,True,65748,3974,Vaught-Hemingway Stadium,145,Ole Miss,8,Arkansas,27,20
+401525439,2023,regular,6,2023-10-07 23:37:00+00:00,True,False,False,59081,3873,L&N Federal Credit Union Stadium,97,Louisville,87,Notre Dame,33,20
+401532591,2023,regular,6,2023-10-08 00:00:00+00:00,True,False,True,20788,3984,War Memorial Stadium,2751,Wyoming,278,Fresno State,24,19
+401525859,2023,regular,6,2023-10-08 00:00:00+00:00,True,False,True,60535,3772,Jack Trice Stadium,66,Iowa State,2628,TCU,27,14
+401532590,2023,regular,6,2023-10-08 00:00:00+00:00,True,False,True,22864,3905,Maverik Stadium,328,Utah State,36,Colorado State,44,24
+401532592,2023,regular,6,2023-10-08 00:00:00+00:00,True,False,True,37491,3653,Albertsons Stadium,68,Boise State,23,San José State,35,27
+401525519,2023,regular,6,2023-10-08 00:00:00+00:00,True,False,True,58045,3948,Hard Rock Stadium,2390,Miami,59,Georgia Tech,20,23
+401525858,2023,regular,6,2023-10-08 00:00:00+00:00,True,False,True,44620,4727,McLane Stadium,239,Baylor,2641,Texas Tech,14,39
+401524027,2023,regular,6,2023-10-08 02:00:00+00:00,True,False,True,34930,3831,California Memorial Stadium,25,California,204,Oregon State,40,52
+401524025,2023,regular,6,2023-10-08 02:30:00+00:00,True,False,True,62916,477,Los Angeles Memorial Coliseum,30,USC,12,Arizona,43,41
+401520313,2023,regular,7,2023-10-10 23:00:00+00:00,True,False,True,9602,3725,"Johnny ""Red"" Floyd Stadium",2393,Middle Tennessee,2348,Louisiana Tech,31,23
+401520312,2023,regular,7,2023-10-10 23:30:00+00:00,True,False,True,21745,3662,AmFirst Stadium,55,Jacksonville State,2335,Liberty,13,31
+401531888,2023,regular,7,2023-10-10 23:30:00+00:00,True,False,True,34252,3792,Kidd Brewer Stadium,2026,App State,324,Coastal Carolina,24,27
+401520314,2023,regular,7,2023-10-11 23:30:00+00:00,True,False,True,14872,218,FIU Stadium,2229,Florida International,2638,UTEP,14,27
+401520315,2023,regular,7,2023-10-12 01:00:00+00:00,True,False,True,12812,3601,Aggie Memorial Stadium,166,New Mexico State,2534,Sam Houston,27,13
+401525862,2023,regular,7,2023-10-12 23:00:00+00:00,True,False,True,32152,4728,TDECU Stadium,248,Houston,277,West Virginia,41,39
+401531415,2023,regular,7,2023-10-12 23:30:00+00:00,True,False,True,33444,3699,Dowdy-Ficklen Stadium,151,East Carolina,2567,SMU,10,31
+401531371,2023,regular,7,2023-10-13 23:00:00+00:00,True,False,True,35609,3805,Simmons Bank Liberty Stadium,235,Memphis,2655,Tulane,21,31
+401532594,2023,regular,7,2023-10-14 00:00:00+00:00,True,False,True,17220,3905,Maverik Stadium,328,Utah State,278,Fresno State,32,37
+401524029,2023,regular,7,2023-10-14 02:00:00+00:00,True,False,True,53154,3726,Folsom Field,38,Colorado,24,Stanford,43,46
+401532422,2023,regular,7,2023-10-14 16:00:00+00:00,True,False,True,18443,3912,Rynearson Stadium,2199,Eastern Michigan,2309,Kent State,28,14
+401520324,2023,regular,7,2023-10-14 16:00:00+00:00,True,False,True,52879,6577,SHI Stadium,164,Rutgers,127,Michigan State,27,24
+401525863,2023,regular,7,2023-10-14 16:00:00+00:00,True,False,True,38193,3854,Nippert Stadium,2132,Cincinnati,66,Iowa State,10,30
+401531890,2023,regular,7,2023-10-14 16:00:00+00:00,True,False,True,25097,3651,Bridgeforth Stadium,256,James Madison,290,Georgia Southern,41,13
+401520321,2023,regular,7,2023-10-14 16:00:00+00:00,True,False,True,110264,3558,Michigan Stadium,130,Michigan,84,Indiana,52,7
+401520327,2023,regular,7,2023-10-14 16:00:00+00:00,True,False,True,28500,3973,FirstBank Stadium,238,Vanderbilt,61,Georgia,20,37
+401520323,2023,regular,7,2023-10-14 16:00:00+00:00,True,False,True,57319,3907,Ross-Ade Stadium,2509,Purdue,194,Ohio State,7,41
+401531390,2023,regular,7,2023-10-14 16:00:00+00:00,True,False,True,13678,3825,DATCU Stadium,249,North Texas,218,Temple,45,14
+401525524,2023,regular,7,2023-10-14 16:00:00+00:00,True,False,True,79560,3697,Doak Campbell Stadium,52,Florida State,183,Syracuse,41,3
+401520316,2023,regular,7,2023-10-14 16:00:00+00:00,True,False,True,100077,3657,Bryant-Denny Stadium,333,Alabama,8,Arkansas,24,21
+401532419,2023,regular,7,2023-10-14 18:00:00+00:00,True,False,True,7673,3919,Scheumann Stadium,2050,Ball State,2649,Toledo,6,13
+401531405,2023,regular,7,2023-10-14 18:00:00+00:00,True,False,True,15659,4418,Jerry Richardson Stadium,2429,Charlotte,2426,Navy,0,14
+401524033,2023,regular,7,2023-10-14 19:00:00+00:00,True,False,True,52115,587,Rice-Eccles Stadium,254,Utah,25,California,34,14
+401524034,2023,regular,7,2023-10-14 19:30:00+00:00,True,False,True,71321,3765,Husky Stadium,264,Washington,2483,Oregon,36,33
+401525865,2023,regular,7,2023-10-14 19:30:00+00:00,True,False,True,44599,3616,Amon G. Carter Stadium,2628,TCU,252,BYU,44,11
+401525864,2023,regular,7,2023-10-14 19:30:00+00:00,True,False,True,53855,3646,Boone Pickens Stadium,197,Oklahoma State,2305,Kansas,39,32
+401525527,2023,regular,7,2023-10-14 19:30:00+00:00,True,False,True,65632,3799,Lane Stadium,259,Virginia Tech,154,Wake Forest,30,13
+401520322,2023,regular,7,2023-10-14 19:30:00+00:00,True,False,False,105533,3632,Beaver Stadium,213,Penn State,113,Massachusetts,63,0
+401532420,2023,regular,7,2023-10-14 19:30:00+00:00,True,False,True,17886,3786,Kelly/Shorts Stadium,2117,Central Michigan,2006,Akron,17,10
+401520317,2023,regular,7,2023-10-14 19:30:00+00:00,True,False,False,27829,3841,Michie Stadium,349,Army,2653,Troy,0,19
+401520320,2023,regular,7,2023-10-14 19:30:00+00:00,True,False,True,35580,3665,SECU Stadium,120,Maryland,356,Illinois,24,27
+401532421,2023,regular,7,2023-10-14 19:30:00+00:00,True,False,True,15196,3965,UB Stadium,2084,Buffalo,189,Bowling Green,14,24
+401520325,2023,regular,7,2023-10-14 19:30:00+00:00,True,False,True,79247,3994,Williams-Brice Stadium,2579,South Carolina,57,Florida,39,41
+401520326,2023,regular,7,2023-10-14 19:30:00+00:00,True,False,True,101915,3853,Neyland Stadium,2633,Tennessee,245,Texas A&M,20,13
+401532423,2023,regular,7,2023-10-14 19:30:00+00:00,True,False,True,20039,3980,Waldo Stadium,2711,Western Michigan,193,Miami (OH),21,34
+401531420,2023,regular,7,2023-10-14 19:30:00+00:00,True,False,True,,3886,Raymond James Stadium,58,South Florida,2226,Florida Atlantic,14,56
+401520328,2023,regular,7,2023-10-14 20:00:00+00:00,True,False,True,76205,347,Camp Randall Stadium,275,Wisconsin,2294,Iowa,6,15
+401532424,2023,regular,7,2023-10-14 20:00:00+00:00,True,False,True,11143,3764,Huskie Stadium,2459,Northern Illinois,195,Ohio,23,13
+401532597,2023,regular,7,2023-10-14 21:00:00+00:00,True,False,True,24578,3816,Mackay Stadium,2440,Nevada,2439,UNLV,27,45
+401532596,2023,regular,7,2023-10-14 22:00:00+00:00,True,False,True,13027,3971,University Stadium (NM),167,New Mexico,23,San José State,24,52
+401525525,2023,regular,7,2023-10-14 22:30:00+00:00,True,False,True,46296,3752,Acrisure Stadium,221,Pittsburgh,97,Louisville,38,21
+401525866,2023,regular,7,2023-10-14 23:00:00+00:00,True,False,True,56200,3784,Jones AT&T Stadium,2641,Texas Tech,2306,Kansas State,21,38
+401524030,2023,regular,7,2023-10-14 23:00:00+00:00,True,False,True,26155,3820,Gesa Field,265,Washington State,12,Arizona,6,44
+401520319,2023,regular,7,2023-10-14 23:00:00+00:00,True,False,True,102321,3958,Tiger Stadium (LA),99,LSU,2,Auburn,48,18
+401531889,2023,regular,7,2023-10-14 23:00:00+00:00,True,False,True,,4246,Center Parc Stadium,2247,Georgia State,276,Marshall,41,24
+401532598,2023,regular,7,2023-10-14 23:00:00+00:00,True,False,True,28311,3713,Falcon Stadium,2005,Air Force,2751,Wyoming,34,27
+401531891,2023,regular,7,2023-10-14 23:00:00+00:00,True,False,True,27537,3644,Bobcat Stadium (TX),326,Texas State,2433,UL Monroe,21,20
+401520318,2023,regular,7,2023-10-14 23:30:00+00:00,True,False,True,61654,3683,Kroger Field,96,Kentucky,142,Missouri,21,38
+401525526,2023,regular,7,2023-10-14 23:30:00+00:00,True,False,True,50500,3787,Kenan Stadium,153,North Carolina,2390,Miami,41,31
+401524031,2023,regular,7,2023-10-14 23:30:00+00:00,True,False,False,77622,3855,Notre Dame Stadium,87,Notre Dame,30,USC,48,20
+401525523,2023,regular,7,2023-10-15 00:00:00+00:00,True,False,True,31833,3982,Wallace Wade Stadium,150,Duke,152,NC State,24,3
+401524032,2023,regular,7,2023-10-15 00:00:00+00:00,True,False,True,37600,3893,Reser Stadium,204,Oregon State,26,UCLA,36,24
+401531381,2023,regular,7,2023-10-15 00:00:00+00:00,True,False,True,23808,3604,Alamodome,2636,UTSA,5,UAB,41,20
+401532593,2023,regular,7,2023-10-15 01:45:00+00:00,True,False,True,34901,5388,Canvas Stadium,36,Colorado State,68,Boise State,31,30
+401532595,2023,regular,7,2023-10-15 03:00:00+00:00,True,False,True,10039,7220,Clarence T.C. Ching Athletics Complex,62,Hawai'i,21,San Diego State,34,41
+401520330,2023,regular,8,2023-10-17 23:00:00+00:00,True,False,True,16354,3992,Williams Stadium (VA),2335,Liberty,2393,Middle Tennessee,42,35
+401531892,2023,regular,8,2023-10-17 23:30:00+00:00,True,False,True,23478,6526,Hancock Whitney Stadium,6,South Alabama,2572,Southern Miss,55,3
+401520329,2023,regular,8,2023-10-17 23:30:00+00:00,True,False,True,17977,3662,AmFirst Stadium,55,Jacksonville State,98,Western Kentucky,20,17
+401520331,2023,regular,8,2023-10-18 23:00:00+00:00,True,False,True,7543,3647,Elliott T. Bowers Stadium,2534,Sam Houston,2229,Florida International,27,33
+401520332,2023,regular,8,2023-10-19 01:00:00+00:00,True,False,True,19727,3946,Sun Bowl,2638,UTEP,166,New Mexico State,7,28
+401531893,2023,regular,8,2023-10-19 23:00:00+00:00,True,False,True,22109,3775,Joan C. Edwards Stadium,276,Marshall,256,James Madison,9,20
+401531341,2023,regular,8,2023-10-19 23:00:00+00:00,True,False,True,18527,3674,Chapman Stadium,202,Tulsa,242,Rice,10,42
+401531391,2023,regular,8,2023-10-20 23:00:00+00:00,True,False,True,11232,3806,Lincoln Financial Field,218,Temple,2567,SMU,0,55
+401520343,2023,regular,8,2023-10-21 16:00:00+00:00,True,False,True,105506,3861,Ohio Stadium,194,Ohio State,213,Penn State,20,12
+401520337,2023,regular,8,2023-10-21 16:00:00+00:00,True,False,True,,3830,"Memorial Stadium (Bloomington, IN)",84,Indiana,164,Rutgers,14,31
+401525868,2023,regular,8,2023-10-21 16:00:00+00:00,True,False,True,38193,3854,Nippert Stadium,2132,Cincinnati,239,Baylor,29,32
+401525871,2023,regular,8,2023-10-21 16:00:00+00:00,True,False,True,83476,3835,"Memorial Stadium (Norman, OK)",201,Oklahoma,2116,UCF,31,29
+401520334,2023,regular,8,2023-10-21 16:00:00+00:00,True,False,True,71505,3887,Razorback Stadium,8,Arkansas,344,Mississippi State,3,7
+401532428,2023,regular,8,2023-10-21 16:00:00+00:00,True,False,True,16048,3876,Peden Stadium,195,Ohio,2711,Western Michigan,20,17
+401525528,2023,regular,8,2023-10-21 16:00:00+00:00,True,False,True,35656,721,Bobby Dodd Stadium,59,Georgia Tech,103,Boston College,23,38
+401531382,2023,regular,8,2023-10-21 16:00:00+00:00,True,False,True,20269,7221,Protective Stadium,5,UAB,235,Memphis,21,45
+401531434,2023,regular,8,2023-10-21 16:00:00+00:00,True,False,False,38803,3852,Navy-Marine Corps Memorial Stadium,2426,Navy,2005,Air Force,6,17
+401531894,2023,regular,8,2023-10-21 18:00:00+00:00,True,False,True,21068,3608,Allen E. Paulson Stadium,290,Georgia Southern,2433,UL Monroe,38,28
+401532429,2023,regular,8,2023-10-21 18:00:00+00:00,True,False,True,10068,3700,Doyt L. Perry Stadium,189,Bowling Green,2006,Akron,41,14
+401531406,2023,regular,8,2023-10-21 18:00:00+00:00,True,False,True,39842,3699,Dowdy-Ficklen Stadium,151,East Carolina,2429,Charlotte,7,10
+401532426,2023,regular,8,2023-10-21 19:30:00+00:00,True,False,True,9458,3764,Huskie Stadium,2459,Northern Illinois,2199,Eastern Michigan,20,13
+401520342,2023,regular,8,2023-10-21 19:30:00+00:00,True,False,True,86769,3834,"Memorial Stadium (Lincoln, NE)",158,Nebraska,77,Northwestern,17,9
+401520336,2023,regular,8,2023-10-21 19:30:00+00:00,True,False,True,54205,3832,"Memorial Stadium (Champaign, IL)",356,Illinois,275,Wisconsin,21,25
+401520341,2023,regular,8,2023-10-21 19:30:00+00:00,True,False,True,62621,3838,Memorial Stadium,142,Missouri,2579,South Carolina,34,12
+401520333,2023,regular,8,2023-10-21 19:30:00+00:00,True,False,True,100077,3657,Bryant-Denny Stadium,333,Alabama,2633,Tennessee,34,20
+401520338,2023,regular,8,2023-10-21 19:30:00+00:00,True,False,True,69250,3793,Kinnick Stadium,2294,Iowa,135,Minnesota,10,12
+401532430,2023,regular,8,2023-10-21 19:30:00+00:00,True,False,True,11735,3696,Dix Stadium,2309,Kent State,2084,Buffalo,6,24
+401524035,2023,regular,8,2023-10-21 19:30:00+00:00,True,False,True,58886,3626,Autzen Stadium,2483,Oregon,265,Washington State,38,24
+401520344,2023,regular,8,2023-10-21 19:30:00+00:00,True,False,False,21704,3892,Pratt & Whitney Stadium,41,UConn,58,South Florida,21,24
+401532425,2023,regular,8,2023-10-21 19:30:00+00:00,True,False,True,15171,3919,Scheumann Stadium,2050,Ball State,2117,Central Michigan,24,17
+401525532,2023,regular,8,2023-10-21 19:30:00+00:00,True,False,True,31855,3630,Allegacy Federal Credit Union Stadium,154,Wake Forest,221,Pittsburgh,21,17
+401531372,2023,regular,8,2023-10-21 19:30:00+00:00,True,False,True,30000,4729,Yulman Stadium,2655,Tulane,249,North Texas,35,28
+401525872,2023,regular,8,2023-10-21 19:30:00+00:00,True,False,True,51870,3842,Milan Puskar Stadium,277,West Virginia,197,Oklahoma State,34,48
+401532427,2023,regular,8,2023-10-21 20:00:00+00:00,True,False,True,17321,3996,Yager Stadium,193,Miami (OH),2649,Toledo,17,21
+401525869,2023,regular,8,2023-10-21 20:00:00+00:00,True,False,True,42812,4728,TDECU Stadium,248,Houston,251,Texas,24,31
+401531397,2023,regular,8,2023-10-21 22:00:00+00:00,True,False,True,17241,3715,FAU Stadium,2226,Florida Atlantic,2636,UTSA,10,36
+401532600,2023,regular,8,2023-10-21 22:00:00+00:00,True,False,True,13723,3971,University Stadium (NM),167,New Mexico,62,Hawai'i,42,21
+401525531,2023,regular,8,2023-10-21 22:30:00+00:00,True,False,True,50500,3787,Kenan Stadium,153,North Carolina,258,Virginia,27,31
+401531896,2023,regular,8,2023-10-21 23:00:00+00:00,True,False,True,18228,3625,Centennial Bank Stadium,2032,Arkansas State,324,Coastal Carolina,17,27
+401520335,2023,regular,8,2023-10-21 23:00:00+00:00,True,False,True,63523,3785,Jordan-Hare Stadium,2,Auburn,145,Ole Miss,21,28
+401525867,2023,regular,8,2023-10-21 23:00:00+00:00,True,False,True,63523,3801,LaVell Edwards Stadium,252,BYU,2641,Texas Tech,27,14
+401531895,2023,regular,8,2023-10-21 23:00:00+00:00,True,False,True,20017,3918,S.B. Ballard Stadium,295,Old Dominion,2026,App State,28,21
+401532602,2023,regular,8,2023-10-21 23:00:00+00:00,True,False,True,15028,3935,CEFCU Stadium,23,San José State,328,Utah State,42,21
+401532599,2023,regular,8,2023-10-21 23:00:00+00:00,True,False,True,22585,6501,Allegiant Stadium,2439,UNLV,36,Colorado State,25,23
+401525870,2023,regular,8,2023-10-21 23:00:00+00:00,True,False,True,52580,3636,Bill Snyder Family Stadium,2306,Kansas State,2628,TCU,41,3
+401525530,2023,regular,8,2023-10-21 23:30:00+00:00,True,False,True,79560,3697,Doak Campbell Stadium,52,Florida State,150,Duke,38,20
+401520340,2023,regular,8,2023-10-21 23:30:00+00:00,True,False,True,74206,3936,Spartan Stadium,127,Michigan State,130,Michigan,0,49
+401520339,2023,regular,8,2023-10-21 23:30:00+00:00,True,False,False,101776,3958,Tiger Stadium (LA),99,LSU,349,Army,62,0
+401525529,2023,regular,8,2023-10-22 00:00:00+00:00,True,False,True,48562,3948,Hard Rock Stadium,2390,Miami,228,Clemson,28,20
+401524037,2023,regular,8,2023-10-22 00:00:00+00:00,True,False,True,61551,477,Los Angeles Memorial Coliseum,30,USC,254,Utah,32,34
+401531897,2023,regular,8,2023-10-22 00:00:00+00:00,True,False,True,20044,3666,Cajun Field,309,Louisiana,2247,Georgia State,17,20
+401532601,2023,regular,8,2023-10-22 01:00:00+00:00,True,False,True,27122,7311,Snapdragon Stadium,21,San Diego State,2440,Nevada,0,6
+401524038,2023,regular,8,2023-10-22 02:30:00+00:00,True,False,True,68379,3765,Husky Stadium,264,Washington,9,Arizona State,15,7
+401524036,2023,regular,8,2023-10-22 02:30:00+00:00,True,False,True,,3940,Stanford Stadium,24,Stanford,26,UCLA,7,42
+401520345,2023,regular,9,2023-10-24 23:00:00+00:00,True,False,True,13798,3776,Joe Aillet Stadium,2348,Louisiana Tech,166,New Mexico State,24,27
+401520346,2023,regular,9,2023-10-24 23:30:00+00:00,True,False,True,16036,3796,Houchens Industries-L.T. Smith Stadium,98,Western Kentucky,2335,Liberty,29,42
+401520347,2023,regular,9,2023-10-25 23:00:00+00:00,True,False,True,14074,218,FIU Stadium,2229,Florida International,55,Jacksonville State,16,41
+401520348,2023,regular,9,2023-10-26 00:00:00+00:00,True,False,True,6889,3647,Elliott T. Bowers Stadium,2534,Sam Houston,2638,UTEP,34,37
+401525533,2023,regular,9,2023-10-26 23:30:00+00:00,True,False,True,60236,3799,Lane Stadium,259,Virginia Tech,183,Syracuse,38,10
+401531929,2023,regular,9,2023-10-26 23:30:00+00:00,True,False,True,23389,3608,Allen E. Paulson Stadium,290,Georgia Southern,2247,Georgia State,44,27
+401531407,2023,regular,9,2023-10-27 23:30:00+00:00,True,False,True,10857,4418,Jerry Richardson Stadium,2429,Charlotte,2226,Florida Atlantic,16,38
+401520351,2023,regular,9,2023-10-28 16:00:00+00:00,True,False,False,36902,3615,"Alumni Stadium (Chestnut Hill, MA)",103,Boston College,41,UConn,21,14
+401520349,2023,regular,9,2023-10-28 16:00:00+00:00,True,False,True,29625,3841,Michie Stadium,349,Army,113,Massachusetts,14,21
+401520359,2023,regular,9,2023-10-28 16:00:00+00:00,True,False,True,95297,3795,Kyle Field,245,Texas A&M,2579,South Carolina,30,17
+401520356,2023,regular,9,2023-10-28 16:00:00+00:00,True,False,True,19286,3911,Ryan Field,77,Northwestern,120,Maryland,33,27
+401525536,2023,regular,9,2023-10-28 16:00:00+00:00,True,False,True,31288,3630,Allegacy Federal Credit Union Stadium,154,Wake Forest,52,Florida State,16,41
+401525878,2023,regular,9,2023-10-28 16:00:00+00:00,True,False,True,44136,3652,FBC Mortgage Stadium,2116,UCF,277,West Virginia,28,41
+401520358,2023,regular,9,2023-10-28 16:00:00+00:00,True,False,True,107209,3632,Beaver Stadium,213,Penn State,84,Indiana,33,24
+401525874,2023,regular,9,2023-10-28 16:00:00+00:00,True,False,True,47233,3833,Memorial Stadium,2305,Kansas,201,Oklahoma,38,33
+401525875,2023,regular,9,2023-10-28 16:00:00+00:00,True,False,True,51928,3636,Bill Snyder Family Stadium,2306,Kansas State,248,Houston,41,0
+401531342,2023,regular,9,2023-10-28 16:00:00+00:00,True,False,True,20800,3735,Gerald J. Ford Stadium,2567,SMU,202,Tulsa,69,10
+401532431,2023,regular,9,2023-10-28 17:00:00+00:00,True,False,True,16297,3912,Rynearson Stadium,2199,Eastern Michigan,2711,Western Michigan,21,45
+401525534,2023,regular,9,2023-10-28 18:00:00+00:00,True,False,True,56919,3670,Carter-Finley Stadium,152,NC State,228,Clemson,24,17
+401531430,2023,regular,9,2023-10-28 19:00:00+00:00,True,False,True,18062,3825,DATCU Stadium,249,North Texas,235,Memphis,42,45
+401520350,2023,regular,9,2023-10-28 19:30:00+00:00,True,False,True,88043,3785,Jordan-Hare Stadium,2,Auburn,344,Mississippi State,27,13
+401520352,2023,regular,9,2023-10-28 19:30:00+00:00,True,True,True,76251,3712,EverBank Stadium,57,Florida,61,Georgia,20,43
+401525440,2023,regular,9,2023-10-28 19:30:00+00:00,True,False,False,77622,3855,Notre Dame Stadium,87,Notre Dame,221,Pittsburgh,58,7
+401531898,2023,regular,9,2023-10-28 19:30:00+00:00,True,False,True,32601,3792,Kidd Brewer Stadium,2026,App State,2572,Southern Miss,48,38
+401532432,2023,regular,9,2023-10-28 19:30:00+00:00,True,False,True,19854,3876,Peden Stadium,195,Ohio,193,Miami (OH),16,30
+401525535,2023,regular,9,2023-10-28 19:30:00+00:00,True,False,True,52319,3873,L&N Federal Credit Union Stadium,97,Louisville,150,Duke,23,0
+401525877,2023,regular,9,2023-10-28 19:30:00+00:00,True,False,True,101670,3910,DKR-Texas Memorial Stadium,251,Texas,252,BYU,35,6
+401520355,2023,regular,9,2023-10-28 19:30:00+00:00,True,False,True,86709,3834,"Memorial Stadium (Lincoln, NE)",158,Nebraska,2509,Purdue,31,14
+401524044,2023,regular,9,2023-10-28 19:30:00+00:00,True,False,True,53586,587,Rice-Eccles Stadium,254,Utah,2483,Oregon,6,35
+401525538,2023,regular,9,2023-10-28 19:30:00+00:00,True,False,True,58503,3948,Hard Rock Stadium,2390,Miami,258,Virginia,29,26
+401520354,2023,regular,9,2023-10-28 19:30:00+00:00,True,False,True,47392,3953,Huntington Bank Stadium,135,Minnesota,127,Michigan State,27,12
+401525873,2023,regular,9,2023-10-28 19:30:00+00:00,True,False,True,43528,4727,McLane Stadium,239,Baylor,66,Iowa State,18,30
+401531398,2023,regular,9,2023-10-28 19:30:00+00:00,True,False,True,22629,3604,Alamodome,2636,UTSA,151,East Carolina,41,27
+401531373,2023,regular,9,2023-10-28 20:00:00+00:00,True,False,True,20436,3895,Rice Stadium,242,Rice,2655,Tulane,28,30
+401524041,2023,regular,9,2023-10-28 20:00:00+00:00,True,False,True,43716,3831,California Memorial Stadium,25,California,30,USC,49,50
+401531902,2023,regular,9,2023-10-28 21:00:00+00:00,True,False,True,16709,6526,Hancock Whitney Stadium,6,South Alabama,309,Louisiana,20,33
+401531901,2023,regular,9,2023-10-28 21:00:00+00:00,True,False,True,14006,3817,Malone Stadium,2433,UL Monroe,2032,Arkansas State,24,34
+401532607,2023,regular,9,2023-10-28 21:30:00+00:00,True,False,True,35189,3653,Albertsons Stadium,68,Boise State,2751,Wyoming,32,7
+401531899,2023,regular,9,2023-10-28 22:00:00+00:00,True,False,True,21324,3654,Brooks Stadium (SC),324,Coastal Carolina,276,Marshall,34,6
+401532603,2023,regular,9,2023-10-28 23:00:00+00:00,True,False,True,22570,5388,Canvas Stadium,36,Colorado State,2005,Air Force,13,30
+401531903,2023,regular,9,2023-10-28 23:00:00+00:00,True,False,True,22369,3644,Bobcat Stadium (TX),326,Texas State,2653,Troy,13,31
+401524042,2023,regular,9,2023-10-28 23:00:00+00:00,True,False,True,24381,3940,Stanford Stadium,24,Stanford,264,Washington,33,42
+401520353,2023,regular,9,2023-10-28 23:00:00+00:00,True,False,True,61665,3683,Kroger Field,96,Kentucky,2633,Tennessee,27,33
+401524043,2023,regular,9,2023-10-28 23:30:00+00:00,True,False,True,71343,1056,Rose Bowl,26,UCLA,38,Colorado,28,16
+401520357,2023,regular,9,2023-10-28 23:30:00+00:00,True,False,True,62914,3974,Vaught-Hemingway Stadium,145,Ole Miss,238,Vanderbilt,33,7
+401520360,2023,regular,9,2023-10-28 23:30:00+00:00,True,False,True,76453,347,Camp Randall Stadium,275,Wisconsin,194,Ohio State,10,24
+401524040,2023,regular,9,2023-10-29 00:00:00+00:00,True,False,True,47284,3947,Mountain America Stadium,9,Arizona State,265,Washington State,38,27
+401525876,2023,regular,9,2023-10-29 00:00:00+00:00,True,False,True,53855,3646,Boone Pickens Stadium,197,Oklahoma State,2132,Cincinnati,45,13
+401525537,2023,regular,9,2023-10-29 00:00:00+00:00,True,False,True,35945,721,Bobby Dodd Stadium,59,Georgia Tech,153,North Carolina,46,42
+401531900,2023,regular,9,2023-10-29 00:00:00+00:00,True,False,True,26239,3651,Bridgeforth Stadium,256,James Madison,295,Old Dominion,30,27
+401532604,2023,regular,9,2023-10-29 02:30:00+00:00,True,False,True,13083,3816,Mackay Stadium,2440,Nevada,167,New Mexico,34,24
+401532606,2023,regular,9,2023-10-29 02:30:00+00:00,True,False,True,41031,3660,Valley Children's Stadium,278,Fresno State,2439,UNLV,31,24
+401524039,2023,regular,9,2023-10-29 02:30:00+00:00,True,False,True,45023,3619,Arizona Stadium,12,Arizona,204,Oregon State,27,24
+401532605,2023,regular,9,2023-10-29 03:59:00+00:00,True,False,True,11486,7220,Clarence T.C. Ching Athletics Complex,62,Hawai'i,23,San José State,0,35
+401532433,2023,regular,10,2023-10-31 23:00:00+00:00,True,False,True,9625,3786,Kelly/Shorts Stadium,2117,Central Michigan,2459,Northern Illinois,37,31
+401532434,2023,regular,10,2023-10-31 23:30:00+00:00,True,False,True,14939,3739,Glass Bowl,2649,Toledo,2084,Buffalo,31,13
+401532435,2023,regular,10,2023-11-01 23:00:00+00:00,True,False,True,6091,3700,Doyt L. Perry Stadium,189,Bowling Green,2050,Ball State,24,21
+401532436,2023,regular,10,2023-11-01 23:30:00+00:00,True,False,True,8113,3768,InfoCision Stadium,2006,Akron,2309,Kent State,31,27
+401525879,2023,regular,10,2023-11-02 23:00:00+00:00,True,False,True,51185,3784,Jones AT&T Stadium,2641,Texas Tech,2628,TCU,35,28
+401525539,2023,regular,10,2023-11-02 23:30:00+00:00,True,False,True,18277,3982,Wallace Wade Stadium,150,Duke,154,Wake Forest,24,21
+401531904,2023,regular,10,2023-11-02 23:30:00+00:00,True,False,True,28212,3975,Veterans Memorial Stadium (AL),2653,Troy,6,South Alabama,28,10
+401525540,2023,regular,10,2023-11-03 23:30:00+00:00,True,False,True,42523,1964,JMA Wireless Dome,183,Syracuse,103,Boston College,10,17
+401532609,2023,regular,10,2023-11-04 00:00:00+00:00,True,False,True,27905,3984,War Memorial Stadium,2751,Wyoming,36,Colorado State,24,15
+401520375,2023,regular,10,2023-11-04 16:00:00+00:00,True,False,True,53703,6577,SHI Stadium,164,Rutgers,194,Ohio State,16,35
+401525441,2023,regular,10,2023-11-04 16:00:00+00:00,True,False,False,81500,3836,"Memorial Stadium (Clemson, SC)",228,Clemson,87,Notre Dame,31,23
+401525884,2023,regular,10,2023-11-04 16:00:00+00:00,True,False,True,102846,3910,DKR-Texas Memorial Stadium,251,Texas,2306,Kansas State,33,30
+401520369,2023,regular,10,2023-11-04 16:00:00+00:00,True,False,True,63134,3936,Spartan Stadium,127,Michigan State,158,Nebraska,20,17
+401520374,2023,regular,10,2023-11-04 16:00:00+00:00,True,False,True,65680,3974,Vaught-Hemingway Stadium,145,Ole Miss,245,Texas A&M,38,35
+401520377,2023,regular,10,2023-11-04 16:00:00+00:00,True,False,False,101915,3853,Neyland Stadium,2633,Tennessee,41,UConn,59,3
+401520363,2023,regular,10,2023-11-04 16:00:00+00:00,True,False,True,89782,3634,Ben Hill Griffin Stadium,57,Florida,8,Arkansas,36,39
+401525545,2023,regular,10,2023-11-04 16:00:00+00:00,True,False,False,47667,3787,Kenan Stadium,153,North Carolina,2097,Campbell,59,7
+401520365,2023,regular,10,2023-11-04 16:00:00+00:00,True,False,True,45466,3830,"Memorial Stadium (Bloomington, IN)",84,Indiana,275,Wisconsin,20,14
+401520376,2023,regular,10,2023-11-04 16:00:00+00:00,True,False,False,75348,3994,Williams-Brice Stadium,2579,South Carolina,55,Jacksonville State,38,28
+401525451,2023,regular,10,2023-11-04 17:00:00+00:00,True,False,False,7143,3647,Elliott T. Bowers Stadium,2534,Sam Houston,338,Kennesaw State,24,21
+401525542,2023,regular,10,2023-11-04 18:00:00+00:00,True,False,True,42606,3923,Scott Stadium,258,Virginia,59,Georgia Tech,17,45
+401524049,2023,regular,10,2023-11-04 18:00:00+00:00,True,False,True,52104,587,Rice-Eccles Stadium,254,Utah,9,Arizona State,55,3
+401531392,2023,regular,10,2023-11-04 18:00:00+00:00,True,False,True,13049,3806,Lincoln Financial Field,218,Temple,2426,Navy,32,18
+401520361,2023,regular,10,2023-11-04 18:30:00+00:00,True,True,False,52401,3937,Sports Authority Field at Mile High,2005,Air Force,349,Army,3,23
+401531908,2023,regular,10,2023-11-04 19:00:00+00:00,True,False,True,15881,3625,Centennial Bank Stadium,2032,Arkansas State,309,Louisiana,37,17
+401531399,2023,regular,10,2023-11-04 19:00:00+00:00,True,False,True,17354,3825,DATCU Stadium,249,North Texas,2636,UTSA,29,37
+401531383,2023,regular,10,2023-11-04 19:00:00+00:00,True,False,True,20676,7221,Protective Stadium,5,UAB,2226,Florida Atlantic,45,42
+401531425,2023,regular,10,2023-11-04 19:00:00+00:00,True,False,True,30223,3805,Simmons Bank Liberty Stadium,235,Memphis,58,South Florida,59,50
+401520367,2023,regular,10,2023-11-04 19:30:00+00:00,True,False,True,51802,3665,SECU Stadium,120,Maryland,213,Penn State,15,51
+401520373,2023,regular,10,2023-11-04 19:30:00+00:00,True,True,True,,4250,Wrigley Field,77,Northwestern,2294,Iowa,7,10
+401531906,2023,regular,10,2023-11-04 19:30:00+00:00,True,False,True,15320,4246,Center Parc Stadium,2247,Georgia State,256,James Madison,14,42
+401525880,2023,regular,10,2023-11-04 19:30:00+00:00,True,False,True,41180,4727,McLane Stadium,239,Baylor,248,Houston,24,25
+401525883,2023,regular,10,2023-11-04 19:30:00+00:00,True,False,True,54105,3646,Boone Pickens Stadium,197,Oklahoma State,201,Oklahoma,27,24
+401520364,2023,regular,10,2023-11-04 19:30:00+00:00,True,False,True,92746,3917,Sanford Stadium,61,Georgia,142,Missouri,30,21
+401531374,2023,regular,10,2023-11-04 19:30:00+00:00,True,False,True,33765,3699,Dowdy-Ficklen Stadium,151,East Carolina,2655,Tulane,10,13
+401525541,2023,regular,10,2023-11-04 19:30:00+00:00,True,False,True,57557,3752,Acrisure Stadium,221,Pittsburgh,52,Florida State,7,24
+401520400,2023,regular,10,2023-11-04 19:30:00+00:00,True,False,False,14672,3985,Warren McGuirk Alumni Stadium,113,Massachusetts,2771,Merrimack,31,21
+401525881,2023,regular,10,2023-11-04 19:30:00+00:00,True,False,True,38193,3854,Nippert Stadium,2132,Cincinnati,2116,UCF,26,28
+401520370,2023,regular,10,2023-11-04 19:30:00+00:00,True,False,True,42906,3953,Huntington Bank Stadium,135,Minnesota,356,Illinois,26,27
+401525543,2023,regular,10,2023-11-04 19:30:00+00:00,True,False,True,49945,3873,L&N Federal Credit Union Stadium,97,Louisville,259,Virginia Tech,34,3
+401531907,2023,regular,10,2023-11-04 19:30:00+00:00,True,False,True,17982,3918,S.B. Ballard Stadium,295,Old Dominion,324,Coastal Carolina,24,28
+401531343,2023,regular,10,2023-11-04 20:00:00+00:00,True,False,True,20151,3674,Chapman Stadium,202,Tulsa,2429,Charlotte,26,33
+401520379,2023,regular,10,2023-11-04 20:00:00+00:00,True,False,True,28500,3973,FirstBank Stadium,238,Vanderbilt,2,Auburn,15,31
+401531909,2023,regular,10,2023-11-04 20:00:00+00:00,True,False,True,20193,3815,M. M. Roberts Stadium,2572,Southern Miss,2433,UL Monroe,24,7
+401532610,2023,regular,10,2023-11-04 20:00:00+00:00,True,False,True,15540,3816,Mackay Stadium,2440,Nevada,62,Hawai'i,14,27
+401531910,2023,regular,10,2023-11-04 21:00:00+00:00,True,False,True,18204,3644,Bobcat Stadium (TX),326,Texas State,290,Georgia Southern,45,24
+401524047,2023,regular,10,2023-11-04 21:30:00+00:00,True,False,True,54046,3626,Autzen Stadium,2483,Oregon,25,California,63,19
+401520372,2023,regular,10,2023-11-04 22:00:00+00:00,True,False,True,,3601,Aggie Memorial Stadium,166,New Mexico State,2393,Middle Tennessee,13,7
+401520366,2023,regular,10,2023-11-04 22:00:00+00:00,True,False,True,21647,3992,Williams Stadium (VA),2335,Liberty,2348,Louisiana Tech,56,30
+401532611,2023,regular,10,2023-11-04 22:00:00+00:00,True,False,True,12353,3971,University Stadium (NM),167,New Mexico,2439,UNLV,14,56
+401531905,2023,regular,10,2023-11-04 22:00:00+00:00,True,False,True,34057,3792,Kidd Brewer Stadium,2026,App State,276,Marshall,31,9
+401525885,2023,regular,10,2023-11-04 23:00:00+00:00,True,False,True,50266,3842,Milan Puskar Stadium,277,West Virginia,252,BYU,37,7
+401525882,2023,regular,10,2023-11-04 23:00:00+00:00,True,False,True,61500,3772,Jack Trice Stadium,66,Iowa State,2305,Kansas,21,28
+401532612,2023,regular,10,2023-11-04 23:00:00+00:00,True,False,True,23096,7311,Snapdragon Stadium,21,San Diego State,328,Utah State,24,32
+401520368,2023,regular,10,2023-11-04 23:30:00+00:00,True,False,True,110245,3558,Michigan Stadium,130,Michigan,2509,Purdue,41,13
+401531440,2023,regular,10,2023-11-04 23:30:00+00:00,True,False,True,21632,3895,Rice Stadium,242,Rice,2567,SMU,31,36
+401524048,2023,regular,10,2023-11-04 23:30:00+00:00,True,False,True,72243,477,Los Angeles Memorial Coliseum,30,USC,264,Washington,42,52
+401520371,2023,regular,10,2023-11-04 23:30:00+00:00,True,False,True,52329,3693,Davis Wade Stadium,344,Mississippi State,96,Kentucky,3,24
+401520362,2023,regular,10,2023-11-04 23:45:00+00:00,True,False,True,100077,3657,Bryant-Denny Stadium,333,Alabama,99,LSU,42,28
+401525544,2023,regular,10,2023-11-05 00:00:00+00:00,True,False,True,56919,3670,Carter-Finley Stadium,152,NC State,2390,Miami,20,6
+401524050,2023,regular,10,2023-11-05 01:00:00+00:00,True,False,True,24385,3820,Gesa Field,265,Washington State,24,Stanford,7,10
+401520378,2023,regular,10,2023-11-05 01:00:00+00:00,True,False,True,11111,3946,Sun Bowl,2638,UTEP,98,Western Kentucky,13,21
+401524046,2023,regular,10,2023-11-05 02:00:00+00:00,True,False,True,52725,3726,Folsom Field,38,Colorado,204,Oregon State,19,26
+401532608,2023,regular,10,2023-11-05 02:00:00+00:00,True,False,True,41031,3660,Valley Children's Stadium,278,Fresno State,68,Boise State,37,30
+401524045,2023,regular,10,2023-11-05 02:30:00+00:00,True,False,True,44956,3619,Arizona Stadium,12,Arizona,26,UCLA,27,10
+401532438,2023,regular,11,2023-11-08 00:00:00+00:00,True,False,True,,3980,Waldo Stadium,2711,Western Michigan,2117,Central Michigan,38,28
+401532437,2023,regular,11,2023-11-08 00:00:00+00:00,True,False,True,6282,3764,Huskie Stadium,2459,Northern Illinois,2050,Ball State,17,20
+401532439,2023,regular,11,2023-11-08 00:30:00+00:00,True,False,True,11444,3965,UB Stadium,2084,Buffalo,195,Ohio,10,20
+401532441,2023,regular,11,2023-11-09 00:00:00+00:00,True,False,True,7233,3996,Yager Stadium,193,Miami (OH),2006,Akron,19,0
+401532442,2023,regular,11,2023-11-09 00:00:00+00:00,True,False,True,6065,3696,Dix Stadium,2309,Kent State,189,Bowling Green,19,49
+401532440,2023,regular,11,2023-11-09 00:30:00+00:00,True,False,True,17842,3739,Glass Bowl,2649,Toledo,2199,Eastern Michigan,49,23
+401531911,2023,regular,11,2023-11-10 00:30:00+00:00,True,False,True,15137,3666,Cajun Field,309,Louisiana,2572,Southern Miss,31,34
+401525546,2023,regular,11,2023-11-10 00:30:00+00:00,True,False,True,44628,3873,L&N Federal Credit Union Stadium,97,Louisville,258,Virginia,31,24
+401531437,2023,regular,11,2023-11-11 02:00:00+00:00,True,False,True,22043,3735,Gerald J. Ford Stadium,2567,SMU,249,North Texas,45,21
+401532618,2023,regular,11,2023-11-11 03:45:00+00:00,True,False,True,25568,6501,Allegiant Stadium,2439,UNLV,2751,Wyoming,34,14
+401525888,2023,regular,11,2023-11-11 17:00:00+00:00,True,False,True,47233,3833,Memorial Stadium,2305,Kansas,2641,Texas Tech,13,16
+401520386,2023,regular,11,2023-11-11 17:00:00+00:00,True,False,True,61936,3683,Kroger Field,96,Kentucky,333,Alabama,21,49
+401525547,2023,regular,11,2023-11-11 17:00:00+00:00,True,False,True,33665,3615,"Alumni Stadium (Chestnut Hill, MA)",103,Boston College,259,Virginia Tech,22,48
+401531344,2023,regular,11,2023-11-11 17:00:00+00:00,True,False,True,20126,4729,Yulman Stadium,2655,Tulane,202,Tulsa,24,22
+401520383,2023,regular,11,2023-11-11 17:00:00+00:00,True,False,True,53157,3832,"Memorial Stadium (Champaign, IL)",356,Illinois,84,Indiana,48,45
+401525548,2023,regular,11,2023-11-11 17:00:00+00:00,True,False,True,81426,3836,"Memorial Stadium (Clemson, SC)",228,Clemson,59,Georgia Tech,42,21
+401531393,2023,regular,11,2023-11-11 17:00:00+00:00,True,False,True,30938,3886,Raymond James Stadium,58,South Florida,218,Temple,27,23
+401520392,2023,regular,11,2023-11-11 17:00:00+00:00,True,False,True,86830,3834,"Memorial Stadium (Lincoln, NE)",158,Nebraska,120,Maryland,10,13
+401520381,2023,regular,11,2023-11-11 17:00:00+00:00,True,False,False,30602,3841,Michie Stadium,349,Army,107,Holy Cross,17,14
+401520396,2023,regular,11,2023-11-11 17:00:00+00:00,True,False,True,75682,3994,Williams-Brice Stadium,2579,South Carolina,238,Vanderbilt,47,6
+401520394,2023,regular,11,2023-11-11 17:00:00+00:00,True,False,True,110856,3632,Beaver Stadium,213,Penn State,130,Michigan,15,24
+401520388,2023,regular,11,2023-11-11 18:00:00+00:00,True,False,False,21481,3992,Williams Stadium (VA),2335,Liberty,295,Old Dominion,38,10
+401531913,2023,regular,11,2023-11-11 19:00:00+00:00,True,False,True,14260,4246,Center Parc Stadium,2247,Georgia State,2026,App State,14,42
+401531915,2023,regular,11,2023-11-11 19:00:00+00:00,True,False,True,7683,3817,Malone Stadium,2433,UL Monroe,2653,Troy,14,45
+401520385,2023,regular,11,2023-11-11 19:00:00+00:00,True,False,False,25240,3651,Bridgeforth Stadium,256,James Madison,41,UConn,44,6
+401531408,2023,regular,11,2023-11-11 19:00:00+00:00,True,False,True,8895,4418,Jerry Richardson Stadium,2429,Charlotte,235,Memphis,38,44
+401525551,2023,regular,11,2023-11-11 19:00:00+00:00,True,False,True,29591,3630,Allegacy Federal Credit Union Stadium,154,Wake Forest,152,NC State,6,26
+401524052,2023,regular,11,2023-11-11 19:00:00+00:00,True,False,True,52788,3726,Folsom Field,38,Colorado,12,Arizona,31,34
+401532615,2023,regular,11,2023-11-11 20:00:00+00:00,True,False,True,17760,3905,Maverik Stadium,328,Utah State,2440,Nevada,41,24
+401520387,2023,regular,11,2023-11-11 20:00:00+00:00,True,False,True,15080,3776,Joe Aillet Stadium,2348,Louisiana Tech,2534,Sam Houston,27,42
+401525889,2023,regular,11,2023-11-11 20:00:00+00:00,True,False,True,51790,3636,Bill Snyder Family Stadium,2306,Kansas State,239,Baylor,59,25
+401520399,2023,regular,11,2023-11-11 20:30:00+00:00,True,False,True,16319,3796,Houchens Industries-L.T. Smith Stadium,98,Western Kentucky,166,New Mexico State,29,38
+401525550,2023,regular,11,2023-11-11 20:30:00+00:00,True,False,True,79560,3697,Doak Campbell Stadium,52,Florida State,2390,Miami,27,20
+401520384,2023,regular,11,2023-11-11 20:30:00+00:00,True,False,True,69250,3793,Kinnick Stadium,2294,Iowa,164,Rutgers,22,0
+401524056,2023,regular,11,2023-11-11 20:30:00+00:00,True,False,True,70976,3765,Husky Stadium,264,Washington,254,Utah,35,28
+401525552,2023,regular,11,2023-11-11 20:30:00+00:00,True,True,True,17101,4102,Yankee Stadium,183,Syracuse,221,Pittsburgh,28,13
+401525892,2023,regular,11,2023-11-11 20:30:00+00:00,True,False,True,44046,3652,FBC Mortgage Stadium,2116,UCF,197,Oklahoma State,45,3
+401520391,2023,regular,11,2023-11-11 20:30:00+00:00,True,False,True,62621,3838,Memorial Stadium,142,Missouri,2633,Tennessee,36,7
+401520390,2023,regular,11,2023-11-11 20:30:00+00:00,True,False,True,11111,3725,"Johnny ""Red"" Floyd Stadium",2393,Middle Tennessee,2229,Florida International,40,6
+401520395,2023,regular,11,2023-11-11 20:30:00+00:00,True,False,True,59049,3907,Ross-Ade Stadium,2509,Purdue,135,Minnesota,49,30
+401531384,2023,regular,11,2023-11-11 20:30:00+00:00,True,False,True,29078,3852,Navy-Marine Corps Memorial Stadium,2426,Navy,5,UAB,31,6
+401531912,2023,regular,11,2023-11-11 20:30:00+00:00,True,False,True,15832,3654,Brooks Stadium (SC),324,Coastal Carolina,326,Texas State,31,23
+401520398,2023,regular,11,2023-11-11 20:30:00+00:00,True,False,True,76124,347,Camp Randall Stadium,275,Wisconsin,77,Northwestern,10,24
+401531416,2023,regular,11,2023-11-11 21:00:00+00:00,True,False,True,,3715,FAU Stadium,2226,Florida Atlantic,151,East Carolina,7,22
+401520380,2023,regular,11,2023-11-11 21:00:00+00:00,True,False,True,72033,3887,Razorback Stadium,8,Arkansas,2,Auburn,10,48
+401524051,2023,regular,11,2023-11-11 21:00:00+00:00,True,False,True,38155,3831,California Memorial Stadium,25,California,265,Washington State,42,39
+401531916,2023,regular,11,2023-11-11 22:00:00+00:00,True,False,True,15242,6526,Hancock Whitney Stadium,6,South Alabama,2032,Arkansas State,21,14
+401524054,2023,regular,11,2023-11-11 22:30:00+00:00,True,False,True,37107,3893,Reser Stadium,204,Oregon State,24,Stanford,62,17
+401525887,2023,regular,11,2023-11-12 00:00:00+00:00,True,False,True,34312,4728,TDECU Stadium,248,Houston,2132,Cincinnati,14,24
+401525890,2023,regular,11,2023-11-12 00:00:00+00:00,True,False,True,83525,3835,"Memorial Stadium (Norman, OK)",201,Oklahoma,277,West Virginia,59,20
+401520382,2023,regular,11,2023-11-12 00:00:00+00:00,True,False,True,92746,3917,Sanford Stadium,61,Georgia,145,Ole Miss,52,17
+401532617,2023,regular,11,2023-11-12 00:00:00+00:00,True,False,True,22033,5388,Canvas Stadium,36,Colorado State,21,San Diego State,22,19
+401531914,2023,regular,11,2023-11-12 00:00:00+00:00,True,False,True,19175,3775,Joan C. Edwards Stadium,276,Marshall,290,Georgia Southern,38,33
+401520397,2023,regular,11,2023-11-12 00:30:00+00:00,True,False,True,103266,3795,Kyle Field,245,Texas A&M,344,Mississippi State,51,10
+401520393,2023,regular,11,2023-11-12 00:30:00+00:00,True,False,True,105137,3861,Ohio Stadium,194,Ohio State,127,Michigan State,38,3
+401525891,2023,regular,11,2023-11-12 00:30:00+00:00,True,False,True,50812,3616,Amon G. Carter Stadium,2628,TCU,251,Texas,26,29
+401520389,2023,regular,11,2023-11-12 00:30:00+00:00,True,False,True,102321,3958,Tiger Stadium (LA),99,LSU,57,Florida,52,35
+401531400,2023,regular,11,2023-11-12 00:30:00+00:00,True,False,True,28245,3604,Alamodome,2636,UTSA,242,Rice,34,14
+401525549,2023,regular,11,2023-11-12 01:00:00+00:00,True,False,True,50500,3787,Kenan Stadium,153,North Carolina,150,Duke,47,45
+401524055,2023,regular,11,2023-11-12 02:00:00+00:00,True,False,True,56436,1056,Rose Bowl,26,UCLA,9,Arizona State,7,17
+401532616,2023,regular,11,2023-11-12 03:00:00+00:00,True,False,True,34076,3653,Albertsons Stadium,68,Boise State,167,New Mexico,42,14
+401525886,2023,regular,11,2023-11-12 03:15:00+00:00,True,False,True,60754,3801,LaVell Edwards Stadium,252,BYU,66,Iowa State,13,45
+401532614,2023,regular,11,2023-11-12 03:30:00+00:00,True,False,True,18886,3935,CEFCU Stadium,23,San José State,278,Fresno State,42,18
+401524053,2023,regular,11,2023-11-12 03:30:00+00:00,True,False,True,59957,3626,Autzen Stadium,2483,Oregon,30,USC,36,27
+401532613,2023,regular,11,2023-11-12 04:00:00+00:00,True,False,True,12742,7220,Clarence T.C. Ching Athletics Complex,62,Hawai'i,2005,Air Force,27,13
+401532444,2023,regular,12,2023-11-15 00:00:00+00:00,True,False,True,6417,3764,Huskie Stadium,2459,Northern Illinois,2711,Western Michigan,24,0
+401532445,2023,regular,12,2023-11-15 00:00:00+00:00,True,False,True,13664,3912,Rynearson Stadium,2199,Eastern Michigan,2006,Akron,30,27
+401532443,2023,regular,12,2023-11-15 00:00:00+00:00,True,False,True,20590,3700,Doyt L. Perry Stadium,189,Bowling Green,2649,Toledo,31,32
+401532446,2023,regular,12,2023-11-16 00:00:00+00:00,True,False,True,14736,3876,Peden Stadium,195,Ohio,2117,Central Michigan,34,20
+401532447,2023,regular,12,2023-11-16 00:00:00+00:00,True,False,True,7561,3996,Yager Stadium,193,Miami (OH),2084,Buffalo,23,10
+401525553,2023,regular,12,2023-11-17 00:00:00+00:00,True,False,True,41842,3752,Acrisure Stadium,221,Pittsburgh,103,Boston College,24,16
+401531401,2023,regular,12,2023-11-18 02:00:00+00:00,True,False,True,22096,3604,Alamodome,2636,UTSA,58,South Florida,49,21
+401524057,2023,regular,12,2023-11-18 03:30:00+00:00,True,False,True,27869,3820,Gesa Field,265,Washington State,38,Colorado,56,14
+401520416,2023,regular,12,2023-11-18 17:00:00+00:00,True,False,False,60752,3974,Vaught-Hemingway Stadium,145,Ole Miss,2433,UL Monroe,35,3
+401525893,2023,regular,12,2023-11-18 17:00:00+00:00,True,False,True,63714,3801,LaVell Edwards Stadium,252,BYU,201,Oklahoma,24,31
+401525558,2023,regular,12,2023-11-18 17:00:00+00:00,True,False,True,44996,3948,Hard Rock Stadium,2390,Miami,97,Louisville,31,38
+401520410,2023,regular,12,2023-11-18 17:00:00+00:00,True,False,True,49546,3665,SECU Stadium,120,Maryland,130,Michigan,24,31
+401520414,2023,regular,12,2023-11-18 17:00:00+00:00,True,False,True,23291,3911,Ryan Field,77,Northwestern,2509,Purdue,23,15
+401520405,2023,regular,12,2023-11-18 17:00:00+00:00,True,False,True,40666,3830,"Memorial Stadium (Bloomington, IN)",84,Indiana,127,Michigan State,21,24
+401520403,2023,regular,12,2023-11-18 17:00:00+00:00,True,False,False,26867,3841,Michie Stadium,349,Army,324,Coastal Carolina,28,21
+401520412,2023,regular,12,2023-11-18 17:00:00+00:00,True,False,False,,3693,Davis Wade Stadium,344,Mississippi State,2572,Southern Miss,41,20
+401520420,2023,regular,12,2023-11-18 17:00:00+00:00,True,False,False,94794,3795,Kyle Field,245,Texas A&M,2000,Abilene Christian,38,10
+401520421,2023,regular,12,2023-11-18 17:00:00+00:00,True,False,False,19053,3892,Pratt & Whitney Stadium,41,UConn,2529,Sacred Heart,31,3
+401520401,2023,regular,12,2023-11-18 17:00:00+00:00,True,False,False,100077,3657,Bryant-Denny Stadium,333,Alabama,236,Chattanooga,66,10
+401531431,2023,regular,12,2023-11-18 17:00:00+00:00,True,False,True,30313,3805,Simmons Bank Liberty Stadium,235,Memphis,2567,SMU,34,38
+401531417,2023,regular,12,2023-11-18 17:00:00+00:00,True,False,True,28708,3852,Navy-Marine Corps Memorial Stadium,2426,Navy,151,East Carolina,10,0
+401520417,2023,regular,12,2023-11-18 17:00:00+00:00,True,False,True,105114,3632,Beaver Stadium,213,Penn State,164,Rutgers,27,6
+401531375,2023,regular,12,2023-11-18 17:00:00+00:00,True,False,True,15871,3715,FAU Stadium,2226,Florida Atlantic,2655,Tulane,8,24
+401520408,2023,regular,12,2023-11-18 18:00:00+00:00,True,False,False,16860,3992,Williams Stadium (VA),2335,Liberty,113,Massachusetts,49,25
+401531409,2023,regular,12,2023-11-18 19:00:00+00:00,True,False,True,9385,4418,Jerry Richardson Stadium,2429,Charlotte,242,Rice,7,28
+401532620,2023,regular,12,2023-11-18 19:00:00+00:00,True,False,True,18233,3984,War Memorial Stadium,2751,Wyoming,62,Hawai'i,42,9
+401531918,2023,regular,12,2023-11-18 19:00:00+00:00,True,False,True,25838,3651,Bridgeforth Stadium,256,James Madison,2026,App State,23,26
+401520411,2023,regular,12,2023-11-18 19:00:00+00:00,True,False,True,9122,3725,"Johnny ""Red"" Floyd Stadium",2393,Middle Tennessee,2638,UTEP,34,30
+401520407,2023,regular,12,2023-11-18 19:00:00+00:00,True,False,True,20252,3662,AmFirst Stadium,55,Jacksonville State,2348,Louisiana Tech,56,17
+401532448,2023,regular,12,2023-11-18 19:00:00+00:00,True,False,True,8554,3919,Scheumann Stadium,2050,Ball State,2309,Kent State,34,3
+401524058,2023,regular,12,2023-11-18 19:30:00+00:00,True,False,True,50800,3619,Arizona Stadium,12,Arizona,254,Utah,42,18
+401525899,2023,regular,12,2023-11-18 19:30:00+00:00,True,False,True,43588,3842,Milan Puskar Stadium,277,West Virginia,2132,Cincinnati,42,21
+401531919,2023,regular,12,2023-11-18 20:00:00+00:00,True,False,True,16721,3625,Centennial Bank Stadium,2032,Arkansas State,326,Texas State,77,31
+401532621,2023,regular,12,2023-11-18 20:00:00+00:00,True,False,True,20121,5388,Canvas Stadium,36,Colorado State,2440,Nevada,30,20
+401531345,2023,regular,12,2023-11-18 20:00:00+00:00,True,False,True,16520,3674,Chapman Stadium,202,Tulsa,249,North Texas,28,35
+401525555,2023,regular,12,2023-11-18 20:00:00+00:00,True,False,True,36400,3923,Scott Stadium,258,Virginia,150,Duke,30,27
+401531385,2023,regular,12,2023-11-18 20:00:00+00:00,True,False,True,17486,7221,Protective Stadium,5,UAB,218,Temple,34,24
+401525554,2023,regular,12,2023-11-18 20:30:00+00:00,True,False,True,81305,3836,"Memorial Stadium (Clemson, SC)",228,Clemson,153,North Carolina,31,20
+401520419,2023,regular,12,2023-11-18 20:30:00+00:00,True,False,True,101915,3853,Neyland Stadium,2633,Tennessee,61,Georgia,10,38
+401520406,2023,regular,12,2023-11-18 20:30:00+00:00,True,False,True,69250,3793,Kinnick Stadium,2294,Iowa,356,Illinois,15,13
+401531921,2023,regular,12,2023-11-18 20:30:00+00:00,True,False,True,26621,3975,Veterans Memorial Stadium (AL),2653,Troy,309,Louisiana,31,24
+401532624,2023,regular,12,2023-11-18 20:30:00+00:00,True,False,True,23574,3713,Falcon Stadium,2005,Air Force,2439,UNLV,27,31
+401525559,2023,regular,12,2023-11-18 20:30:00+00:00,True,False,True,65632,3799,Lane Stadium,259,Virginia Tech,152,NC State,28,35
+401525442,2023,regular,12,2023-11-18 20:30:00+00:00,True,False,False,77622,3855,Notre Dame Stadium,87,Notre Dame,154,Wake Forest,45,7
+401524062,2023,regular,12,2023-11-18 20:30:00+00:00,True,False,True,72244,477,Los Angeles Memorial Coliseum,30,USC,26,UCLA,20,38
+401525897,2023,regular,12,2023-11-18 20:30:00+00:00,True,False,True,42621,3616,Amon G. Carter Stadium,2628,TCU,239,Baylor,42,17
+401520423,2023,regular,12,2023-11-18 20:30:00+00:00,True,False,True,11041,3796,Houchens Industries-L.T. Smith Stadium,98,Western Kentucky,2534,Sam Houston,28,23
+401525894,2023,regular,12,2023-11-18 21:00:00+00:00,True,False,True,33906,4728,TDECU Stadium,248,Houston,197,Oklahoma State,30,43
+401520415,2023,regular,12,2023-11-18 21:00:00+00:00,True,False,True,104019,3861,Ohio Stadium,194,Ohio State,135,Minnesota,37,3
+401520404,2023,regular,12,2023-11-18 21:00:00+00:00,True,False,False,88043,3785,Jordan-Hare Stadium,2,Auburn,166,New Mexico State,10,31
+401524059,2023,regular,12,2023-11-18 21:00:00+00:00,True,False,True,44741,3947,Mountain America Stadium,9,Arizona State,2483,Oregon,13,49
+401525898,2023,regular,12,2023-11-18 22:00:00+00:00,True,False,True,53851,3784,Jones AT&T Stadium,2641,Texas Tech,2116,UCF,24,23
+401531920,2023,regular,12,2023-11-18 22:00:00+00:00,True,False,True,14105,6526,Hancock Whitney Stadium,6,South Alabama,276,Marshall,28,0
+401531917,2023,regular,12,2023-11-18 23:00:00+00:00,True,False,True,20032,3608,Allen E. Paulson Stadium,290,Georgia Southern,295,Old Dominion,17,20
+401525556,2023,regular,12,2023-11-18 23:30:00+00:00,True,False,False,79560,3697,Doak Campbell Stadium,52,Florida State,2453,North Alabama,58,13
+401524061,2023,regular,12,2023-11-18 23:30:00+00:00,True,False,True,52971,3940,Stanford Stadium,24,Stanford,25,California,15,27
+401525896,2023,regular,12,2023-11-19 00:00:00+00:00,True,False,True,47233,3833,Memorial Stadium,2305,Kansas,2306,Kansas State,27,31
+401532619,2023,regular,12,2023-11-19 00:00:00+00:00,True,False,True,17821,3905,Maverik Stadium,328,Utah State,68,Boise State,10,45
+401520418,2023,regular,12,2023-11-19 00:30:00+00:00,True,False,True,77788,3994,Williams-Brice Stadium,2579,South Carolina,96,Kentucky,17,14
+401520413,2023,regular,12,2023-11-19 00:30:00+00:00,True,False,True,62621,3838,Memorial Stadium,142,Missouri,57,Florida,33,31
+401520402,2023,regular,12,2023-11-19 00:30:00+00:00,True,False,False,61442,3887,Razorback Stadium,8,Arkansas,2229,Florida International,44,20
+401520422,2023,regular,12,2023-11-19 00:30:00+00:00,True,False,True,72237,347,Camp Randall Stadium,275,Wisconsin,158,Nebraska,24,17
+401524060,2023,regular,12,2023-11-19 00:30:00+00:00,True,False,True,38415,3893,Reser Stadium,204,Oregon State,264,Washington,20,22
+401520409,2023,regular,12,2023-11-19 01:00:00+00:00,True,False,False,100212,3958,Tiger Stadium (LA),99,LSU,2247,Georgia State,56,14
+401525557,2023,regular,12,2023-11-19 01:00:00+00:00,True,False,True,33332,721,Bobby Dodd Stadium,59,Georgia Tech,183,Syracuse,31,22
+401525895,2023,regular,12,2023-11-19 01:00:00+00:00,True,False,True,61500,3772,Jack Trice Stadium,66,Iowa State,251,Texas,16,26
+401532623,2023,regular,12,2023-11-19 03:30:00+00:00,True,False,True,16224,3935,CEFCU Stadium,23,San José State,21,San Diego State,24,13
+401532622,2023,regular,12,2023-11-19 03:30:00+00:00,True,False,True,38569,3660,Valley Children's Stadium,278,Fresno State,167,New Mexico,17,25
+401532450,2023,regular,13,2023-11-22 00:00:00+00:00,True,False,True,8901,3980,Waldo Stadium,2711,Western Michigan,189,Bowling Green,10,34
+401532449,2023,regular,13,2023-11-22 00:30:00+00:00,True,False,True,11243,3965,UB Stadium,2084,Buffalo,2199,Eastern Michigan,11,24
+401520424,2023,regular,13,2023-11-24 00:30:00+00:00,True,False,True,60412,3693,Davis Wade Stadium,344,Mississippi State,145,Ole Miss,7,17
+401532452,2023,regular,13,2023-11-24 17:00:00+00:00,True,False,True,6152,3768,InfoCision Stadium,2006,Akron,195,Ohio,14,25
+401525900,2023,regular,13,2023-11-24 17:00:00+00:00,True,False,True,83669,3835,"Memorial Stadium (Norman, OK)",201,Oklahoma,2628,TCU,69,45
+401532451,2023,regular,13,2023-11-24 17:00:00+00:00,True,False,True,8612,3786,Kelly/Shorts Stadium,2117,Central Michigan,2649,Toledo,17,32
+401525560,2023,regular,13,2023-11-24 17:00:00+00:00,True,False,True,30569,3615,"Alumni Stadium (Chestnut Hill, MA)",103,Boston College,2390,Miami,20,45
+401520425,2023,regular,13,2023-11-24 17:00:00+00:00,True,False,True,86183,3834,"Memorial Stadium (Lincoln, NE)",158,Nebraska,2294,Iowa,10,13
+401531394,2023,regular,13,2023-11-24 17:00:00+00:00,True,False,True,10830,3806,Lincoln Financial Field,218,Temple,235,Memphis,21,45
+401531376,2023,regular,13,2023-11-24 20:30:00+00:00,True,False,True,25103,4729,Yulman Stadium,2655,Tulane,2636,UTSA,29,16
+401532629,2023,regular,13,2023-11-24 20:30:00+00:00,True,False,True,12094,3971,University Stadium (NM),167,New Mexico,328,Utah State,41,44
+401520426,2023,regular,13,2023-11-24 21:00:00+00:00,True,False,True,59847,3887,Razorback Stadium,8,Arkansas,142,Missouri,14,48
+401532625,2023,regular,13,2023-11-24 21:00:00+00:00,True,False,True,36390,3653,Albertsons Stadium,68,Boise State,2005,Air Force,27,19
+401520435,2023,regular,13,2023-11-25 00:30:00+00:00,True,True,True,51927,3727,Ford Field,127,Michigan State,213,Penn State,0,42
+401525901,2023,regular,13,2023-11-25 00:30:00+00:00,True,False,True,102452,3910,DKR-Texas Memorial Stadium,251,Texas,2641,Texas Tech,57,7
+401524063,2023,regular,13,2023-11-25 01:30:00+00:00,True,False,True,59987,3626,Autzen Stadium,2483,Oregon,204,Oregon State,31,7
+401532453,2023,regular,13,2023-11-25 17:00:00+00:00,True,False,True,,3696,Dix Stadium,2309,Kent State,2459,Northern Illinois,27,37
+401532454,2023,regular,13,2023-11-25 17:00:00+00:00,True,False,True,8054,3919,Scheumann Stadium,2050,Ball State,193,Miami (OH),15,17
+401525561,2023,regular,13,2023-11-25 17:00:00+00:00,True,False,True,17639,3982,Wallace Wade Stadium,150,Duke,221,Pittsburgh,30,19
+401531435,2023,regular,13,2023-11-25 17:00:00+00:00,True,False,True,21490,3735,Gerald J. Ford Stadium,2567,SMU,2426,Navy,59,14
+401520432,2023,regular,13,2023-11-25 17:00:00+00:00,True,False,False,59225,3873,L&N Federal Credit Union Stadium,97,Louisville,96,Kentucky,31,38
+401520443,2023,regular,13,2023-11-25 17:00:00+00:00,True,False,True,12291,3985,Warren McGuirk Alumni Stadium,113,Massachusetts,41,UConn,18,31
+401531927,2023,regular,13,2023-11-25 17:00:00+00:00,True,False,True,19766,3815,M. M. Roberts Stadium,2572,Southern Miss,2653,Troy,17,35
+401520433,2023,regular,13,2023-11-25 17:00:00+00:00,True,False,True,101178,3958,Tiger Stadium (LA),99,LSU,245,Texas A&M,42,30
+401520438,2023,regular,13,2023-11-25 17:00:00+00:00,True,False,True,59993,3907,Ross-Ade Stadium,2509,Purdue,84,Indiana,35,31
+401520434,2023,regular,13,2023-11-25 17:00:00+00:00,True,False,True,110615,3558,Michigan Stadium,130,Michigan,194,Ohio State,30,24
+401525906,2023,regular,13,2023-11-25 17:00:00+00:00,True,False,True,43610,3652,FBC Mortgage Stadium,2116,UCF,248,Houston,27,13
+401520440,2023,regular,13,2023-11-25 17:00:00+00:00,True,False,True,5349,3647,Elliott T. Bowers Stadium,2534,Sam Houston,2393,Middle Tennessee,23,20
+401531421,2023,regular,13,2023-11-25 18:00:00+00:00,True,False,True,19393,3895,Rice Stadium,242,Rice,2226,Florida Atlantic,24,21
+401531346,2023,regular,13,2023-11-25 19:00:00+00:00,True,False,True,29567,3699,Dowdy-Ficklen Stadium,151,East Carolina,202,Tulsa,27,29
+401525563,2023,regular,13,2023-11-25 19:00:00+00:00,True,False,True,35018,1964,JMA Wireless Dome,183,Syracuse,154,Wake Forest,35,31
+401531925,2023,regular,13,2023-11-25 19:00:00+00:00,True,False,True,15717,3918,S.B. Ballard Stadium,295,Old Dominion,2247,Georgia State,25,24
+401531386,2023,regular,13,2023-11-25 19:00:00+00:00,True,False,True,14628,3825,DATCU Stadium,249,North Texas,5,UAB,45,42
+401531926,2023,regular,13,2023-11-25 20:00:00+00:00,True,False,True,13892,3666,Cajun Field,309,Louisiana,2433,UL Monroe,52,21
+401520428,2023,regular,13,2023-11-25 20:00:00+00:00,True,False,True,12724,218,FIU Stadium,2229,Florida International,98,Western Kentucky,28,41
+401524067,2023,regular,13,2023-11-25 20:00:00+00:00,True,False,True,51595,587,Rice-Eccles Stadium,254,Utah,38,Colorado,23,17
+401532628,2023,regular,13,2023-11-25 20:00:00+00:00,True,False,True,25554,6501,Allegiant Stadium,2439,UNLV,23,San José State,31,37
+401520442,2023,regular,13,2023-11-25 20:30:00+00:00,True,False,True,101915,3853,Neyland Stadium,2633,Tennessee,238,Vanderbilt,48,24
+401520439,2023,regular,13,2023-11-25 20:30:00+00:00,True,False,True,,6577,SHI Stadium,164,Rutgers,120,Maryland,24,42
+401520431,2023,regular,13,2023-11-25 20:30:00+00:00,True,False,True,42310,3832,"Memorial Stadium (Champaign, IL)",356,Illinois,77,Northwestern,43,45
+401520436,2023,regular,13,2023-11-25 20:30:00+00:00,True,False,True,48119,3953,Huntington Bank Stadium,135,Minnesota,275,Wisconsin,14,28
+401524064,2023,regular,13,2023-11-25 20:30:00+00:00,True,False,True,53414,3947,Mountain America Stadium,9,Arizona State,12,Arizona,23,59
+401520427,2023,regular,13,2023-11-25 20:30:00+00:00,True,False,True,88043,3785,Jordan-Hare Stadium,2,Auburn,333,Alabama,24,27
+401525905,2023,regular,13,2023-11-25 20:30:00+00:00,True,False,True,53855,3646,Boone Pickens Stadium,197,Oklahoma State,252,BYU,40,34
+401531923,2023,regular,13,2023-11-25 20:30:00+00:00,True,False,True,16196,3654,Brooks Stadium (SC),324,Coastal Carolina,256,James Madison,14,56
+401520444,2023,regular,13,2023-11-25 20:30:00+00:00,True,False,True,10240,3946,Sun Bowl,2638,UTEP,2335,Liberty,28,42
+401531924,2023,regular,13,2023-11-25 20:30:00+00:00,True,False,True,18673,3775,Joan C. Edwards Stadium,276,Marshall,2032,Arkansas State,35,21
+401525564,2023,regular,13,2023-11-25 20:30:00+00:00,True,False,True,42976,3923,Scott Stadium,258,Virginia,259,Virginia Tech,17,55
+401531922,2023,regular,13,2023-11-25 20:30:00+00:00,True,False,True,31248,3792,Kidd Brewer Stadium,2026,App State,290,Georgia Southern,55,27
+401524068,2023,regular,13,2023-11-25 21:00:00+00:00,True,False,True,71312,3765,Husky Stadium,264,Washington,265,Washington State,24,21
+401520437,2023,regular,13,2023-11-25 21:00:00+00:00,True,False,True,15702,3601,Aggie Memorial Stadium,166,New Mexico State,55,Jacksonville State,20,17
+401524065,2023,regular,13,2023-11-26 00:00:00+00:00,True,False,False,30901,3940,Stanford Stadium,24,Stanford,87,Notre Dame,23,56
+401531928,2023,regular,13,2023-11-26 00:00:00+00:00,True,False,True,15617,3644,Bobcat Stadium (TX),326,Texas State,6,South Alabama,52,44
+401520429,2023,regular,13,2023-11-26 00:00:00+00:00,True,False,False,90341,3634,Ben Hill Griffin Stadium,57,Florida,52,Florida State,15,24
+401525902,2023,regular,13,2023-11-26 00:00:00+00:00,True,False,True,36200,4727,McLane Stadium,239,Baylor,277,West Virginia,31,34
+401520441,2023,regular,13,2023-11-26 00:30:00+00:00,True,False,False,80172,3994,Williams-Brice Stadium,2579,South Carolina,228,Clemson,7,16
+401531410,2023,regular,13,2023-11-26 00:30:00+00:00,True,False,True,29279,3886,Raymond James Stadium,58,South Florida,2429,Charlotte,48,14
+401520430,2023,regular,13,2023-11-26 00:30:00+00:00,True,False,False,51447,721,Bobby Dodd Stadium,59,Georgia Tech,61,Georgia,23,31
+401525903,2023,regular,13,2023-11-26 00:30:00+00:00,True,False,True,38193,3854,Nippert Stadium,2132,Cincinnati,2305,Kansas,16,49
+401525562,2023,regular,13,2023-11-26 01:00:00+00:00,True,False,True,,3670,Carter-Finley Stadium,152,NC State,153,North Carolina,39,20
+401525904,2023,regular,13,2023-11-26 01:00:00+00:00,True,False,True,51481,3636,Bill Snyder Family Stadium,2306,Kansas State,66,Iowa State,35,42
+401532630,2023,regular,13,2023-11-26 02:00:00+00:00,True,False,True,12044,3816,Mackay Stadium,2440,Nevada,2751,Wyoming,6,42
+401524066,2023,regular,13,2023-11-26 03:30:00+00:00,True,False,True,42439,1056,Rose Bowl,26,UCLA,25,California,7,33
+401532627,2023,regular,13,2023-11-26 03:30:00+00:00,True,False,True,22000,7311,Snapdragon Stadium,21,San Diego State,278,Fresno State,33,18
+401532626,2023,regular,13,2023-11-26 04:00:00+00:00,True,False,True,11013,7220,Clarence T.C. Ching Athletics Complex,62,Hawai'i,36,Colorado State,27,24
+401539476,2023,regular,14,2023-12-02 00:00:00+00:00,True,False,True,20077,3992,Williams Stadium (VA),2335,Liberty,166,New Mexico State,49,35
+401539475,2023,regular,14,2023-12-02 01:00:00+00:00,True,True,True,61195,6501,Allegiant Stadium,264,Washington,2483,Oregon,34,31
+401539479,2023,regular,14,2023-12-02 17:00:00+00:00,True,True,True,84523,3687,AT&T Stadium,251,Texas,197,Oklahoma State,49,21
+401539481,2023,regular,14,2023-12-02 17:00:00+00:00,True,True,True,20200,3727,Ford Field,2649,Toledo,193,Miami (OH),14,23
+401539482,2023,regular,14,2023-12-02 20:00:00+00:00,True,False,True,31473,6501,Allegiant Stadium,2439,UNLV,68,Boise State,20,44
+401539483,2023,regular,14,2023-12-02 21:00:00+00:00,True,True,True,78320,5348,Mercedes-Benz Stadium,333,Alabama,61,Georgia,27,24
+401539477,2023,regular,14,2023-12-02 21:00:00+00:00,True,False,True,25206,4729,Yulman Stadium,2655,Tulane,2567,SMU,14,26
+401539484,2023,regular,14,2023-12-02 21:00:00+00:00,True,False,True,20183,3975,Veterans Memorial Stadium (AL),2653,Troy,2026,App State,49,23
+401539480,2023,regular,14,2023-12-03 01:00:00+00:00,True,True,True,67842,3812,Lucas Oil Stadium,2294,Iowa,130,Michigan,0,26
+401539478,2023,regular,14,2023-12-03 01:00:00+00:00,True,True,True,62314,3628,Bank of America Stadium,52,Florida State,97,Louisville,16,6
+401520445,2023,regular,15,2023-12-09 20:00:00+00:00,True,True,False,65878,3738,Gillette Stadium,349,Army,2426,Navy,17,11
