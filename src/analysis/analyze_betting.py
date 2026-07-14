@@ -50,7 +50,7 @@ for year in YEARS:
         filename = (
             DATA_DIR /
             season /
-            f"{year}_{'lines' if season == 'regular' else 'lines_post'}.json"
+            f"{year}_{'lines' if season == 'regular' else 'lines_b'}.json"
         )
 
         with filename.open(
