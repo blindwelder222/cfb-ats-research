@@ -17,6 +17,9 @@ from betting.providers import analyze_providers
 from betting.spreads import analyze_spreads
 from betting.totals import analyze_totals
 from betting.markdown import write_report
+from betting.quality import analyze_quality
+from betting.consensus import analyze_consensus
+from betting.anomalies import analyze_anomalies
 
 
 OUTPUT_REPORT = "reports/profiling/betting_profile_v2.md"
@@ -45,14 +48,26 @@ def main():
     print("Analyzing totals...")
     totals = analyze_totals(data)
 
+    print("Analyzing data quality...")
+    quality = analyze_quality(data)
+    
+    print("Analyzing betting consensus...")
+    consensus = analyze_consensus(data)
+    
+    print("Detecting anomalies...")
+    anomalies = analyze_anomalies(data)
+    
     print("Generating Markdown report...")
 
     write_report(
-        summary=summary,
-        providers=providers,
-        spreads=spreads,
-        totals=totals,
-        output_path=OUTPUT_REPORT,
+    summary=summary,
+    providers=providers,
+    spreads=spreads,
+    totals=totals,
+    quality=quality,
+    consensus=consensus,
+    anomalies=anomalies,
+    output_path=OUTPUT_REPORT,
     )
 
     print()
