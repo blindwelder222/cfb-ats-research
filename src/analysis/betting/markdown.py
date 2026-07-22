@@ -19,6 +19,9 @@ def write_report(
     providers,
     spreads,
     totals,
+    quality, 
+    consensus, 
+    anomalies,
     output_path,
 ):
     """
