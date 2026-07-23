@@ -1,10 +1,21 @@
 """
-Markdown report generation for betting analysis.
+# College Football Betting Dataset Profile
 
-This module is responsible ONLY for rendering analysis results
-into a Markdown report.
+**Profiler Version:** 2.1
 
-It intentionally performs no analysis.
+This report validates the betting dataset prior to integration into the
+master research database.
+
+The profiler summarizes:
+
+- Dataset completeness
+- Seasonal coverage
+- Sportsbook participation
+- Point spread characteristics
+- Game total characteristics
+- Data quality observations
+- Betting market consensus
+- Dataset anomalies
 """
 
 from pathlib import Path
@@ -259,3 +270,157 @@ def write_report(
         "".join(lines),
         encoding="utf-8",
     )
+
+    # ---------------------------------------------------------
+    # Data Quality
+    # ---------------------------------------------------------
+    
+    lines.append(_line("## Data Quality"))
+    lines.append(_line())
+    
+    lines.append(
+        _line(
+            f"- Provider Variants: "
+            f"{quality['provider_variants']}"
+        )
+    )
+    
+    lines.append(
+        _line(
+            f"- Negative Totals: "
+            f"{quality['negative_totals']}"
+        )
+    )
+    
+    lines.append(
+        _line(
+             f"- Zero Totals: "
+             f"{quality['zero_totals']}"
+        )
+    )
+    
+    lines.append(
+     _line(
+            f"- Invalid Spreads: "
+            f"{quality['invalid_spreads']}"
+        )
+    )
+    
+    lines.append(
+        _line(
+            f"- Extreme Spreads: "
+            f"{quality['extreme_spreads']}"
+        )
+    )
+
+    lines.append(_line())
+
+    # ---------------------------------------------------------
+    # Consensus Analysis
+    # ---------------------------------------------------------
+    
+    lines.append(_line("## Consensus Analysis"))
+    lines.append(_line())
+    
+    lines.append(
+        _line(
+            f"- Games Evaluated: "
+            f"{consensus['games']:,}"
+        )
+    )
+    
+    lines.append(
+        _line(
+            f"- Average Providers/Game: "
+            f"{consensus['average_providers']:.2f}"
+        )
+    )
+    
+    lines.append(
+        _line(
+            f"- Minimum Providers: "
+            f"{consensus['minimum_providers']}"
+        )
+    )
+    
+    lines.append(
+        _line(
+            f"- Maximum Providers: "
+            f"{consensus['maximum_providers']}"
+        )
+    )
+    
+    lines.append(_line())
+    
+    lines.append(_line("### Provider Distribution"))
+    lines.append(_line())
+    
+    lines.append(_line("| Providers | Games |"))
+    lines.append(_line("|----------:|------:|"))
+    
+    for providers_per_game, count in consensus["distribution"].items():
+        lines.append(
+            _line(
+                f"| {providers_per_game} | {count:,} |"
+            )
+        )
+    
+    lines.append(_line())
+    
+    # ---------------------------------------------------------
+    # Anomaly Detection
+    # ---------------------------------------------------------
+    
+    lines.append(_line("## Anomaly Detection"))
+    lines.append(_line())
+    
+    lines.append(
+        _line(
+            f"- Largest Favorite: "
+            f"{anomalies['largest_favorite']}"
+        )
+    )
+    
+    lines.append(
+        _line(
+            f"- Largest Underdog: "
+            f"{anomalies['largest_underdog']}"
+        )
+    )
+    
+    lines.append(
+        _line(
+            f"- Highest Total: "
+            f"{anomalies['highest_total']}"
+        )
+    )
+    
+    lines.append(
+        _line(
+            f"- Lowest Total: "
+            f"{anomalies['lowest_total']}"
+        )
+    )
+    
+    lines.append(
+        _line(
+            f"- Largest Provider Count: "
+            f"{anomalies['largest_provider_count']}"
+        )
+    )
+    
+    lines.append(
+        _line(
+            f"- Distinct Spread Values: "
+            f"{anomalies['distinct_spreads']}"
+        )
+    )
+    
+    lines.append(
+        _line(
+            f"- Distinct Total Values: "
+            f"{anomalies['distinct_totals']}"
+        )
+    )
+    
+    lines.append(_line())
