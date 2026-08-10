@@ -1,0 +1,28 @@
+name: Build Betting Consensus
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build-betting-consensus:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Build betting consensus
+        run: |
+          python src/normalization/build_betting_consensus.py
+
+      - name: Upload betting consensus artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: betting-consensus
+          path: data/normalized/betting/consensus/
+          if-no-files-found: error
