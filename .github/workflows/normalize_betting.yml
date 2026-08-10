@@ -1,0 +1,28 @@
+name: Normalize Betting Dataset
+
+on:
+  workflow_dispatch:
+
+jobs:
+  normalize-betting:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run betting normalization
+        run: |
+          python src/normalization/normalize_betting.py
+
+      - name: Upload normalized betting artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: normalized-betting
+          path: data/normalized/betting/
+          if-no-files-found: error
