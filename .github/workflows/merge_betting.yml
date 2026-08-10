@@ -1,0 +1,28 @@
+name: Merge Betting Seasons
+
+on:
+  workflow_dispatch:
+
+jobs:
+  merge-betting:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run betting season merge
+        run: |
+          python src/normalization/merge_betting.py
+
+      - name: Upload merged betting artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: merged-betting
+          path: data/normalized/betting/*_betting.csv
+          if-no-files-found: error
