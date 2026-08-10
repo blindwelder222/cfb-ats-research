@@ -1,0 +1,143 @@
+game_id,season,season_type,week,start_date,home_team_id,home_team,away_team_id,away_team,provider,spread,spread_open,over_under,over_under_open,home_moneyline,away_moneyline
+401677189,2024,postseason,1,2025-01-10 00:30:00+00:00,213,Penn State,87,Notre Dame,DraftKings,-1.5,,45.5,47,-115,-105
+401677189,2024,postseason,1,2025-01-10 00:30:00+00:00,213,Penn State,87,Notre Dame,Bovada,-1,1.5,46,46,105,-125
+401677189,2024,postseason,1,2025-01-10 00:30:00+00:00,213,Penn State,87,Notre Dame,ESPN Bet,-1.5,2,45.5,46.5,-120,-105
+401677184,2024,postseason,1,2025-01-02 21:00:00+00:00,61,Georgia,87,Notre Dame,ESPN Bet,1.5,-1.5,46.5,44.5,-105,-115
+401677184,2024,postseason,1,2025-01-02 21:00:00+00:00,61,Georgia,87,Notre Dame,DraftKings,1,,45.5,,-110,-110
+401677184,2024,postseason,1,2025-01-02 21:00:00+00:00,61,Georgia,87,Notre Dame,Bovada,1,-1.5,46,44,-120,100
+401677077,2024,postseason,1,2024-12-15 02:00:00+00:00,2711,Western Michigan,6,South Alabama,DraftKings,6,10,53.5,,185,-225
+401677077,2024,postseason,1,2024-12-15 02:00:00+00:00,2711,Western Michigan,6,South Alabama,ESPN Bet,5.5,8.5,54.5,59.5,180,-215
+401677077,2024,postseason,1,2024-12-15 02:00:00+00:00,2711,Western Michigan,6,South Alabama,Bovada,9,7,57.5,57,255,-310
+401677080,2024,postseason,1,2024-12-18 02:00:00+00:00,277,West Virginia,235,Memphis,DraftKings,5,2,60,,170,-205
+401677080,2024,postseason,1,2024-12-18 02:00:00+00:00,277,West Virginia,235,Memphis,ESPN Bet,5.5,1.5,60.5,56.5,175,-210
+401677080,2024,postseason,1,2024-12-18 02:00:00+00:00,277,West Virginia,235,Memphis,Bovada,5,3,60.5,56.5,130,-150
+401677081,2024,postseason,1,2024-12-19 02:00:00+00:00,2439,UNLV,25,California,DraftKings,-3,,45,,-148,124
+401677081,2024,postseason,1,2024-12-19 02:00:00+00:00,2439,UNLV,25,California,ESPN Bet,-3.5,3,44.5,51.5,-165,140
+401677081,2024,postseason,1,2024-12-19 02:00:00+00:00,2439,UNLV,25,California,Bovada,-3,3.5,45.5,51.5,150,-175
+401677079,2024,postseason,1,2024-12-18 22:30:00+00:00,256,James Madison,98,Western Kentucky,DraftKings,-7.5,,50.5,,-285,230
+401677079,2024,postseason,1,2024-12-18 22:30:00+00:00,256,James Madison,98,Western Kentucky,ESPN Bet,-7.5,-7,50.5,53.5,-300,250
+401677079,2024,postseason,1,2024-12-18 22:30:00+00:00,256,James Madison,98,Western Kentucky,Bovada,-7,-8,50.5,52.5,-310,255
+401677082,2024,postseason,1,2024-12-20 00:00:00+00:00,2534,Sam Houston,290,Georgia Southern,DraftKings,3.5,,48,,140,-166
+401677082,2024,postseason,1,2024-12-20 00:00:00+00:00,2534,Sam Houston,290,Georgia Southern,ESPN Bet,3.5,5.5,48.5,46.5,145,-170
+401677082,2024,postseason,1,2024-12-20 00:00:00+00:00,2534,Sam Houston,290,Georgia Southern,Bovada,4.5,6,48.5,47,185,-225
+401677179,2024,postseason,1,2024-12-21 01:00:00+00:00,87,Notre Dame,84,Indiana,Bovada,-7,-7.5,50,50.5,-320,260
+401677179,2024,postseason,1,2024-12-21 01:00:00+00:00,87,Notre Dame,84,Indiana,DraftKings,-7,,50.5,,-265,215
+401677179,2024,postseason,1,2024-12-21 01:00:00+00:00,87,Notre Dame,84,Indiana,ESPN Bet,-6.5,-7.5,50.5,50.5,-275,225
+401677083,2024,postseason,1,2024-12-20 17:00:00+00:00,55,Jacksonville State,195,Ohio,DraftKings,6.5,2.5,57.5,52,185,-225
+401677083,2024,postseason,1,2024-12-20 17:00:00+00:00,55,Jacksonville State,195,Ohio,ESPN Bet,5.5,2,56.5,53.5,210,-250
+401677083,2024,postseason,1,2024-12-20 17:00:00+00:00,55,Jacksonville State,195,Ohio,Bovada,6.5,2,58,54,110,-130
+401677084,2024,postseason,1,2024-12-20 20:30:00+00:00,57,Florida,2655,Tulane,DraftKings,-10,,50.5,49.5,-395,310
+401677084,2024,postseason,1,2024-12-20 20:30:00+00:00,57,Florida,2655,Tulane,ESPN Bet,-9.5,-12,49.5,51.5,-400,300
+401677084,2024,postseason,1,2024-12-20 20:30:00+00:00,57,Florida,2655,Tulane,Bovada,-10,-13,49.5,50.5,-480,350
+401677176,2024,postseason,1,2024-12-21 21:00:00+00:00,251,Texas,228,Clemson,DraftKings,-13.5,,49.5,52.5,-650,470
+401677176,2024,postseason,1,2024-12-21 21:00:00+00:00,251,Texas,228,Clemson,Bovada,-13.5,-10.5,49.5,52,-435,325
+401677176,2024,postseason,1,2024-12-21 21:00:00+00:00,251,Texas,228,Clemson,ESPN Bet,-13.5,-11,49.5,51.5,-650,425
+401677178,2024,postseason,1,2024-12-21 17:00:00+00:00,213,Penn State,2567,SMU,DraftKings,-9,,52.5,53,-325,260
+401677178,2024,postseason,1,2024-12-21 17:00:00+00:00,213,Penn State,2567,SMU,Bovada,-7.5,-9,53,53,-370,285
+401677178,2024,postseason,1,2024-12-21 17:00:00+00:00,213,Penn State,2567,SMU,ESPN Bet,-7.5,-9,50.5,53.5,-360,280
+401677177,2024,postseason,1,2024-12-22 01:00:00+00:00,194,Ohio State,2633,Tennessee,DraftKings,-7.5,,47,,-290,235
+401677177,2024,postseason,1,2024-12-22 01:00:00+00:00,194,Ohio State,2633,Tennessee,Bovada,-8,-7,47,48,,
+401677177,2024,postseason,1,2024-12-22 01:00:00+00:00,194,Ohio State,2633,Tennessee,ESPN Bet,-7.5,-7.5,46.5,47.5,-300,250
+401677085,2024,postseason,1,2024-12-23 16:00:00+00:00,2636,UTSA,324,Coastal Carolina,DraftKings,-12.5,,56.5,57.5,-440,340
+401677085,2024,postseason,1,2024-12-23 16:00:00+00:00,2636,UTSA,324,Coastal Carolina,ESPN Bet,13.5,-6.5,56.5,56.5,-550,380
+401677085,2024,postseason,1,2024-12-23 16:00:00+00:00,2636,UTSA,324,Coastal Carolina,Bovada,-12.5,-8,57,57,-320,260
+401677086,2024,postseason,1,2024-12-23 19:30:00+00:00,278,Fresno State,2459,Northern Illinois,DraftKings,2,,41,,105,-125
+401677086,2024,postseason,1,2024-12-23 19:30:00+00:00,278,Fresno State,2459,Northern Illinois,ESPN Bet,2.5,2.5,40.5,42.5,110,-130
+401677086,2024,postseason,1,2024-12-23 19:30:00+00:00,278,Fresno State,2459,Northern Illinois,Bovada,3,3,40.5,40.5,125,-145
+401677088,2024,postseason,1,2024-12-26 22:30:00+00:00,2306,Kansas State,164,Rutgers,ESPN Bet,-7.5,-7,51.5,51.5,-290,240
+401677088,2024,postseason,1,2024-12-26 22:30:00+00:00,2306,Kansas State,164,Rutgers,Bovada,-7,-7,52.5,51,-260,215
+401677089,2024,postseason,1,2024-12-27 02:00:00+00:00,189,Bowling Green,2032,Arkansas State,DraftKings,-10.5,-6.5,54.5,,-380,300
+401677089,2024,postseason,1,2024-12-27 02:00:00+00:00,189,Bowling Green,2032,Arkansas State,ESPN Bet,-10.5,-6.5,54.5,49.5,-380,290
+401677089,2024,postseason,1,2024-12-27 02:00:00+00:00,189,Bowling Green,2032,Arkansas State,Bovada,-10,-7,53.5,50.5,-260,215
+401729867,2024,postseason,1,2024-12-28 01:00:00+00:00,265,Washington State,183,Syracuse,DraftKings,19,,58.5,60.5,675,-1050
+401729867,2024,postseason,1,2024-12-28 01:00:00+00:00,265,Washington State,183,Syracuse,ESPN Bet,18.5,6.5,57.5,60.5,600,-1000
+401729867,2024,postseason,1,2024-12-28 01:00:00+00:00,265,Washington State,183,Syracuse,Bovada,19,6.5,58.5,61.5,210,-250
+401677090,2024,postseason,1,2024-12-27 17:00:00+00:00,2426,Navy,201,Oklahoma,Bovada,2.5,7,42.5,43.5,235,-285
+401677090,2024,postseason,1,2024-12-27 17:00:00+00:00,2426,Navy,201,Oklahoma,DraftKings,-1,,44,46.5,-112,-108
+401677090,2024,postseason,1,2024-12-27 17:00:00+00:00,2426,Navy,201,Oklahoma,ESPN Bet,2.5,8.5,44.5,44.5,-115,-105
+401677091,2024,postseason,1,2024-12-27 20:30:00+00:00,238,Vanderbilt,59,Georgia Tech,DraftKings,3,,49,,120,-142
+401677091,2024,postseason,1,2024-12-27 20:30:00+00:00,238,Vanderbilt,59,Georgia Tech,ESPN Bet,2.5,2.5,48.5,53.5,120,-140
+401677091,2024,postseason,1,2024-12-27 20:30:00+00:00,238,Vanderbilt,59,Georgia Tech,Bovada,3,2.5,50,51.5,115,-135
+401677092,2024,postseason,1,2024-12-28 00:00:00+00:00,8,Arkansas,2641,Texas Tech,DraftKings,3.5,-2.5,52.5,,136,-162
+401677092,2024,postseason,1,2024-12-28 00:00:00+00:00,8,Arkansas,2641,Texas Tech,ESPN Bet,3.5,-2.5,52.5,59.5,135,-155
+401677092,2024,postseason,1,2024-12-28 00:00:00+00:00,8,Arkansas,2641,Texas Tech,Bovada,3,-3,52.5,60.5,-145,125
+401677093,2024,postseason,1,2024-12-28 03:30:00+00:00,30,USC,245,Texas A&M,DraftKings,3.5,,56.5,50.5,150,-180
+401677093,2024,postseason,1,2024-12-28 03:30:00+00:00,30,USC,245,Texas A&M,ESPN Bet,-3.5,2.5,56.5,50.5,-185,155
+401677093,2024,postseason,1,2024-12-28 03:30:00+00:00,30,USC,245,Texas A&M,Bovada,3.5,3,55.5,52,130,-150
+401677097,2024,postseason,1,2024-12-28 20:30:00+00:00,2390,Miami,66,Iowa State,DraftKings,-5,1,62,,-218,180
+401677097,2024,postseason,1,2024-12-28 20:30:00+00:00,2390,Miami,66,Iowa State,ESPN Bet,-5.5,-1,61.5,55.5,-215,180
+401677097,2024,postseason,1,2024-12-28 20:30:00+00:00,2390,Miami,66,Iowa State,Bovada,-4.5,-4,58.5,55,-180,155
+401677099,2024,postseason,1,2024-12-29 00:30:00+00:00,38,Colorado,252,BYU,DraftKings,-3,,55.5,,-148,124
+401677099,2024,postseason,1,2024-12-29 00:30:00+00:00,38,Colorado,252,BYU,ESPN Bet,-2.5,-2,53.5,53.5,-155,135
+401677099,2024,postseason,1,2024-12-29 00:30:00+00:00,38,Colorado,252,BYU,Bovada,-3,-3,55.5,54,-145,125
+401677100,2024,postseason,1,2024-12-29 02:15:00+00:00,349,Army,2348,Louisiana Tech,Bovada,-14,-17,44,44,-900,575
+401677100,2024,postseason,1,2024-12-29 02:15:00+00:00,349,Army,2348,Louisiana Tech,DraftKings,-15,,44.5,,-675,490
+401677100,2024,postseason,1,2024-12-29 02:15:00+00:00,349,Army,2348,Louisiana Tech,ESPN Bet,-14.5,-9,44.5,48.5,-800,500
+401677094,2024,postseason,1,2024-12-28 16:00:00+00:00,153,North Carolina,41,UConn,DraftKings,-2,-5.5,53.5,,-125,105
+401677094,2024,postseason,1,2024-12-28 16:00:00+00:00,153,North Carolina,41,UConn,ESPN Bet,-1.5,-4,52.5,55.5,-130,110
+401677094,2024,postseason,1,2024-12-28 16:00:00+00:00,153,North Carolina,41,UConn,Bovada,-2.5,-5,53.5,54.5,-210,175
+401677095,2024,postseason,1,2024-12-28 17:00:00+00:00,158,Nebraska,103,Boston College,DraftKings,-3,,47.5,45.5,-162,136
+401677095,2024,postseason,1,2024-12-28 17:00:00+00:00,158,Nebraska,103,Boston College,ESPN Bet,-3.5,-3,47.5,45.5,-165,140
+401677095,2024,postseason,1,2024-12-28 17:00:00+00:00,158,Nebraska,103,Boston College,Bovada,-3.5,-3,46.5,45.5,-145,125
+401677096,2024,postseason,1,2024-12-28 19:15:00+00:00,2628,TCU,309,Louisiana,DraftKings,-9.5,,61,,-325,260
+401677096,2024,postseason,1,2024-12-28 19:15:00+00:00,2628,TCU,309,Louisiana,ESPN Bet,-9.5,-10,59.5,60.5,-360,280
+401677096,2024,postseason,1,2024-12-28 19:15:00+00:00,2628,TCU,309,Louisiana,Bovada,-10,-12,59,60,-440,330
+401677188,2024,postseason,1,2024-12-28 21:30:00+00:00,36,Colorado State,193,Miami (OH),DraftKings,1,,42.5,43.5,100,-120
+401677188,2024,postseason,1,2024-12-28 21:30:00+00:00,36,Colorado State,193,Miami (OH),ESPN Bet,1.5,1.5,42.5,43.5,105,-120
+401677188,2024,postseason,1,2024-12-28 21:30:00+00:00,36,Colorado State,193,Miami (OH),Bovada,2.5,2.5,40.5,43.5,115,-135
+401677098,2024,postseason,1,2024-12-28 22:45:00+00:00,152,NC State,151,East Carolina,DraftKings,-7.5,,61.5,,-298,240
+401677098,2024,postseason,1,2024-12-28 22:45:00+00:00,152,NC State,151,East Carolina,ESPN Bet,-7.5,-5,60.5,59.5,-275,225
+401677098,2024,postseason,1,2024-12-28 22:45:00+00:00,152,NC State,151,East Carolina,Bovada,-7,-5,60,58,-210,175
+401677101,2024,postseason,1,2024-12-30 19:30:00+00:00,142,Missouri,2294,Iowa,DraftKings,-1,,41,43.5,-112,-108
+401677101,2024,postseason,1,2024-12-30 19:30:00+00:00,142,Missouri,2294,Iowa,ESPN Bet,-1.5,-3,41.5,40.5,-115,-105
+401677101,2024,postseason,1,2024-12-30 19:30:00+00:00,142,Missouri,2294,Iowa,Bovada,-2.5,-3.5,40,40,-170,145
+401677181,2024,postseason,1,2025-01-01 00:30:00+00:00,68,Boise State,213,Penn State,ESPN Bet,11.5,10.5,54.5,53.5,360,-500
+401677181,2024,postseason,1,2025-01-01 00:30:00+00:00,68,Boise State,213,Penn State,DraftKings,12,,55,,350,-455
+401677181,2024,postseason,1,2025-01-01 00:30:00+00:00,68,Boise State,213,Penn State,Bovada,12.5,9.5,54.5,52,300,-400
+401677102,2024,postseason,1,2024-12-31 17:00:00+00:00,130,Michigan,333,Alabama,DraftKings,16.5,,45.5,43.5,575,-850
+401677102,2024,postseason,1,2024-12-31 17:00:00+00:00,130,Michigan,333,Alabama,ESPN Bet,16.5,11.5,45.5,43.5,550,-900
+401677102,2024,postseason,1,2024-12-31 17:00:00+00:00,130,Michigan,333,Alabama,Bovada,16.5,10,45,43,295,-390
+401677103,2024,postseason,1,2024-12-31 20:00:00+00:00,356,Illinois,2579,South Carolina,DraftKings,9.5,,50,,280,-355
+401677103,2024,postseason,1,2024-12-31 20:00:00+00:00,356,Illinois,2579,South Carolina,ESPN Bet,9.5,10,49.5,47.5,280,-360
+401677103,2024,postseason,1,2024-12-31 20:00:00+00:00,356,Illinois,2579,South Carolina,Bovada,9.5,11,50,48,320,-430
+401677190,2024,postseason,1,2024-12-31 19:00:00+00:00,264,Washington,97,Louisville,DraftKings,-1,,50.5,,-118,-102
+401677190,2024,postseason,1,2024-12-31 19:00:00+00:00,264,Washington,97,Louisville,ESPN Bet,-1.5,4.5,50.5,51.5,-120,105
+401677190,2024,postseason,1,2024-12-31 19:00:00+00:00,264,Washington,97,Louisville,Bovada,-1,5.5,49.5,52,180,-220
+401677104,2024,postseason,1,2024-12-31 20:30:00+00:00,99,LSU,239,Baylor,DraftKings,3,,62.5,,130,-155
+401677104,2024,postseason,1,2024-12-31 20:30:00+00:00,99,LSU,239,Baylor,ESPN Bet,2.5,-2,62.5,60.5,140,-165
+401677104,2024,postseason,1,2024-12-31 20:30:00+00:00,99,LSU,239,Baylor,Bovada,3.5,-1.5,62.5,59.5,-120,100
+401677182,2024,postseason,1,2025-01-01 18:00:00+00:00,9,Arizona State,251,Texas,DraftKings,13.5,,52.5,52,440,-600
+401677182,2024,postseason,1,2025-01-01 18:00:00+00:00,9,Arizona State,251,Texas,ESPN Bet,13.5,13.5,52.5,51.5,425,-650
+401677182,2024,postseason,1,2025-01-01 18:00:00+00:00,9,Arizona State,251,Texas,Bovada,13,13.5,51.5,52,410,-585
+401677105,2024,postseason,1,2025-01-03 01:00:00+00:00,145,Ole Miss,150,Duke,DraftKings,-17.5,,50.5,,-900,600
+401677105,2024,postseason,1,2025-01-03 01:00:00+00:00,145,Ole Miss,150,Duke,ESPN Bet,-14.5,-11.5,50.5,54.5,-900,550
+401677105,2024,postseason,1,2025-01-03 01:00:00+00:00,145,Ole Miss,150,Duke,Bovada,-17,-14.5,50.5,52.5,-625,430
+401677106,2024,postseason,1,2025-01-03 21:00:00+00:00,326,Texas State,249,North Texas,DraftKings,-15.5,,67.5,,-650,470
+401677106,2024,postseason,1,2025-01-03 21:00:00+00:00,326,Texas State,249,North Texas,ESPN Bet,-15.5,-7.5,66.5,68.5,-700,450
+401677106,2024,postseason,1,2025-01-03 21:00:00+00:00,326,Texas State,249,North Texas,Bovada,-14,-10,63.5,68,-370,285
+401677107,2024,postseason,1,2025-01-04 00:30:00+00:00,259,Virginia Tech,135,Minnesota,DraftKings,10,,43.5,,320,-410
+401677107,2024,postseason,1,2025-01-04 00:30:00+00:00,259,Virginia Tech,135,Minnesota,ESPN Bet,10.5,4.5,43.5,42.5,300,-400
+401677107,2024,postseason,1,2025-01-04 00:30:00+00:00,259,Virginia Tech,135,Minnesota,Bovada,10,5.5,43,42.5,180,-220
+401677108,2024,postseason,1,2025-01-04 16:00:00+00:00,2335,Liberty,2084,Buffalo,DraftKings,4.5,-2.5,50.5,51.5,160,-192
+401677108,2024,postseason,1,2025-01-04 16:00:00+00:00,2335,Liberty,2084,Buffalo,ESPN Bet,3.5,-2,50.5,51.5,160,-190
+401677108,2024,postseason,1,2025-01-04 16:00:00+00:00,2335,Liberty,2084,Buffalo,Bovada,4,-2.5,50.5,52.5,-130,110
+401677183,2024,postseason,1,2025-01-01 22:00:00+00:00,2483,Oregon,194,Ohio State,Bovada,2.5,2,55.5,54.5,,
+401677183,2024,postseason,1,2025-01-01 22:00:00+00:00,2483,Oregon,194,Ohio State,DraftKings,2.5,2.5,55.5,,120,-142
+401677183,2024,postseason,1,2025-01-01 22:00:00+00:00,2483,Oregon,194,Ohio State,ESPN Bet,2.5,2,54.5,53.5,120,-140
+401677076,2024,postseason,1,2024-12-14 17:00:00+00:00,2569,South Carolina State,2296,Jackson State,ESPN Bet,-3.5,1.5,54.5,54.5,,
+401729786,2024,postseason,1,2024-12-21 17:00:00+00:00,2449,North Dakota State,2571,South Dakota State,ESPN Bet,3.5,,49.5,,,
+401729787,2024,postseason,1,2024-12-21 20:30:00+00:00,147,Montana State,233,South Dakota,ESPN Bet,-9.5,,56.5,,,
+401677087,2024,postseason,1,2024-12-25 01:00:00+00:00,23,San José State,58,South Florida,DraftKings,1.5,-2.5,66.5,62.5,-102,-118
+401677087,2024,postseason,1,2024-12-25 01:00:00+00:00,23,San José State,58,South Florida,ESPN Bet,0.5,-2.5,64.5,62.5,-105,-120
+401677087,2024,postseason,1,2024-12-25 01:00:00+00:00,23,San José State,58,South Florida,Bovada,2,-3,66.5,61.5,-145,125
+401677180,2024,postseason,1,2024-12-26 19:00:00+00:00,2649,Toledo,221,Pittsburgh,DraftKings,6.5,9.5,48.5,51.5,190,-230
+401677180,2024,postseason,1,2024-12-26 19:00:00+00:00,2649,Toledo,221,Pittsburgh,ESPN Bet,6.5,9,48.5,51.5,220,-270
+401677180,2024,postseason,1,2024-12-26 19:00:00+00:00,2649,Toledo,221,Pittsburgh,Bovada,7,9,50,51.5,270,-340
+401680057,2024,postseason,1,2025-01-07 00:00:00+00:00,147,Montana State,2449,North Dakota State,Bovada,-4,-3.5,58.5,58.5,-170,145
+401680057,2024,postseason,1,2025-01-07 00:00:00+00:00,147,Montana State,2449,North Dakota State,ESPN Bet,-6.5,,58.5,,,
+401677191,2024,postseason,1,2025-01-11 00:30:00+00:00,251,Texas,194,Ohio State,DraftKings,6.5,,51.5,,210,-258
+401677191,2024,postseason,1,2025-01-11 00:30:00+00:00,251,Texas,194,Ohio State,ESPN Bet,5.5,6,51.5,53.5,220,-270
+401677191,2024,postseason,1,2025-01-11 00:30:00+00:00,251,Texas,194,Ohio State,Bovada,5.5,6,51.5,53.5,185,-225
+401677192,2024,postseason,1,2025-01-21 00:30:00+00:00,87,Notre Dame,194,Ohio State,DraftKings,8.5,,45.5,45.5,295,-375
+401677192,2024,postseason,1,2025-01-21 00:30:00+00:00,87,Notre Dame,194,Ohio State,Bovada,8.5,9,45.5,45.5,,
+401677192,2024,postseason,1,2025-01-21 00:30:00+00:00,87,Notre Dame,194,Ohio State,ESPN Bet,8.5,9,44.5,45.5,300,-400

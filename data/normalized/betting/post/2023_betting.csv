@@ -1,0 +1,139 @@
+game_id,season,season_type,week,start_date,home_team_id,home_team,away_team_id,away_team,provider,spread,spread_open,over_under,over_under_open,home_moneyline,away_moneyline
+401614603,2023,postseason,13,2023-11-25 18:00:00+00:00,155,North Dakota,16,Sacramento State,ESPN Bet,-3,,59.5,,,
+401551778,2023,postseason,1,2024-01-01 17:00:00+00:00,99,LSU,275,Wisconsin,DraftKings,-10,-10,55,55,-340,270
+401551778,2023,postseason,1,2024-01-01 17:00:00+00:00,99,LSU,275,Wisconsin,Bovada,-9.5,-10,59.5,56,-380,290
+401551778,2023,postseason,1,2024-01-01 17:00:00+00:00,99,LSU,275,Wisconsin,ESPN Bet,-8.5,,58.5,,,
+401614616,2023,postseason,13,2023-11-25 19:00:00+00:00,48,Delaware,322,Lafayette,ESPN Bet,-7.5,,49.5,,,
+401614601,2023,postseason,13,2023-11-25 19:00:00+00:00,257,Richmond,2428,North Carolina Central,ESPN Bet,-5,,57.5,,,
+401614615,2023,postseason,13,2023-11-25 20:00:00+00:00,2046,Austin Peay,236,Chattanooga,ESPN Bet,-5.5,,55.5,,,
+401614599,2023,postseason,13,2023-11-25 20:00:00+00:00,2382,Mercer,2241,Gardner-Webb,ESPN Bet,-4,,54.5,,,
+401614602,2023,postseason,13,2023-11-25 20:00:00+00:00,79,Southern Illinois,2447,Nicholls,ESPN Bet,-14,,44.5,,,
+401614604,2023,postseason,13,2023-11-25 20:30:00+00:00,2449,North Dakota State,2181,Drake,ESPN Bet,-40.5,,48.5,,,
+401614600,2023,postseason,13,2023-11-25 22:00:00+00:00,2754,Youngstown State,2184,Duquesne,ESPN Bet,-21.5,,63.5,,,
+401615860,2023,postseason,14,2023-12-02 17:00:00+00:00,399,UAlbany,257,Richmond,ESPN Bet,-7.5,,48.5,,,
+401615939,2023,postseason,14,2023-12-02 17:00:00+00:00,222,Villanova,2754,Youngstown State,ESPN Bet,-6,,57.5,,,
+401615901,2023,postseason,14,2023-12-02 18:00:00+00:00,231,Furman,236,Chattanooga,ESPN Bet,-5.5,,41.5,,,
+401615819,2023,postseason,14,2023-12-02 19:00:00+00:00,233,South Dakota,16,Sacramento State,ESPN Bet,-4,,50.5,,,
+401615899,2023,postseason,14,2023-12-02 19:00:00+00:00,2571,South Dakota State,2382,Mercer,ESPN Bet,-33.5,,47.5,,,
+401615900,2023,postseason,14,2023-12-02 20:00:00+00:00,147,Montana State,2449,North Dakota State,ESPN Bet,-3.5,,55.5,,,
+401539485,2023,postseason,14,2023-12-02 21:00:00+00:00,50,Florida A&M,2504,Prairie View A&M,Bovada,-17.5,-17.5,48,51,-1000,625
+401539485,2023,postseason,14,2023-12-02 21:00:00+00:00,50,Florida A&M,2504,Prairie View A&M,ESPN Bet,-17.5,,48.5,,,
+401615859,2023,postseason,14,2023-12-03 02:00:00+00:00,149,Montana,48,Delaware,ESPN Bet,-21,,47.5,,,
+401617310,2023,postseason,15,2023-12-09 02:00:00+00:00,149,Montana,231,Furman,Bovada,-18,-17.5,44,45,-950,600
+401617310,2023,postseason,15,2023-12-09 02:00:00+00:00,149,Montana,231,Furman,ESPN Bet,-14.5,,42.5,,,
+401617307,2023,postseason,15,2023-12-09 17:00:00+00:00,2571,South Dakota State,222,Villanova,Bovada,-20.5,-20.5,50.5,50.5,,
+401617307,2023,postseason,15,2023-12-09 17:00:00+00:00,2571,South Dakota State,222,Villanova,ESPN Bet,-20.5,,44.5,,,
+401617308,2023,postseason,15,2023-12-09 19:30:00+00:00,233,South Dakota,2449,North Dakota State,Bovada,6.5,6.5,49.5,49.5,,
+401617308,2023,postseason,15,2023-12-09 19:30:00+00:00,233,South Dakota,2449,North Dakota State,ESPN Bet,5.5,,47.5,,,
+401617309,2023,postseason,15,2023-12-10 03:00:00+00:00,70,Idaho,399,UAlbany,Bovada,-4.5,-4.5,51.5,51.5,,
+401617309,2023,postseason,15,2023-12-10 03:00:00+00:00,70,Idaho,399,UAlbany,ESPN Bet,-5.5,,50.5,,,
+401618179,2023,postseason,1,2023-12-16 00:00:00+00:00,2571,South Dakota State,399,UAlbany,ESPN Bet,-17.5,,48.5,,,
+401551733,2023,postseason,1,2023-12-16 16:00:00+00:00,195,Ohio,290,Georgia Southern,DraftKings,-1.5,-1.5,,,102,-122
+401551733,2023,postseason,1,2023-12-16 16:00:00+00:00,195,Ohio,290,Georgia Southern,Bovada,1.5,-1.5,48.5,52.5,145,-170
+401551733,2023,postseason,1,2023-12-16 16:00:00+00:00,195,Ohio,290,Georgia Southern,ESPN Bet,1.5,,48.5,,,
+401551470,2023,postseason,1,2023-12-16 17:00:00+00:00,50,Florida A&M,47,Howard,ESPN Bet,-7.5,,48.5,,,
+401551751,2023,postseason,1,2023-12-16 19:15:00+00:00,309,Louisiana,55,Jacksonville State,DraftKings,-1.5,-1.5,,,140,-166
+401551751,2023,postseason,1,2023-12-16 19:15:00+00:00,309,Louisiana,55,Jacksonville State,Bovada,3.5,3,58.5,56,135,-160
+401551751,2023,postseason,1,2023-12-16 19:15:00+00:00,309,Louisiana,55,Jacksonville State,ESPN Bet,3.5,,57.5,,,
+401551731,2023,postseason,1,2023-12-16 20:30:00+00:00,2026,App State,193,Miami (OH),DraftKings,-4.5,-4.5,,,-225,185
+401551731,2023,postseason,1,2023-12-16 20:30:00+00:00,2026,App State,193,Miami (OH),Bovada,-6.5,-4.5,41,48.5,-210,175
+401551731,2023,postseason,1,2023-12-16 20:30:00+00:00,2026,App State,193,Miami (OH),ESPN Bet,-6.5,,40.5,,,
+401618099,2023,postseason,1,2023-12-16 21:30:00+00:00,149,Montana,2449,North Dakota State,ESPN Bet,1.5,,51.5,,,
+401551732,2023,postseason,1,2023-12-16 22:45:00+00:00,278,Fresno State,166,New Mexico State,DraftKings,1,1,,,140,-166
+401551732,2023,postseason,1,2023-12-16 22:45:00+00:00,278,Fresno State,166,New Mexico State,Bovada,3,1.5,52.5,51.5,150,-175
+401551732,2023,postseason,1,2023-12-16 22:45:00+00:00,278,Fresno State,166,New Mexico State,ESPN Bet,3.5,,53.5,,,
+401551752,2023,postseason,1,2023-12-17 00:30:00+00:00,68,Boise State,26,UCLA,DraftKings,2.5,2.5,,,210,-258
+401551752,2023,postseason,1,2023-12-17 00:30:00+00:00,68,Boise State,26,UCLA,Bovada,6.5,2.5,46,50.5,115,-135
+401551752,2023,postseason,1,2023-12-17 00:30:00+00:00,68,Boise State,26,UCLA,ESPN Bet,6.5,,44.5,,,
+401551753,2023,postseason,1,2023-12-17 02:15:00+00:00,2641,Texas Tech,25,California,DraftKings,-1.5,-1.5,,,-180,150
+401551753,2023,postseason,1,2023-12-17 02:15:00+00:00,2641,Texas Tech,25,California,Bovada,-3.5,-3,54.5,58.5,-145,125
+401551753,2023,postseason,1,2023-12-17 02:15:00+00:00,2641,Texas Tech,25,California,ESPN Bet,-3.5,,56.5,,,
+401551469,2023,postseason,1,2023-12-18 19:30:00+00:00,295,Old Dominion,98,Western Kentucky,DraftKings,1,1,,,-185,154
+401551469,2023,postseason,1,2023-12-18 19:30:00+00:00,295,Old Dominion,98,Western Kentucky,Bovada,-4,-2.5,49,56,-130,110
+401551469,2023,postseason,1,2023-12-18 19:30:00+00:00,295,Old Dominion,98,Western Kentucky,ESPN Bet,-4.5,,48.5,,,
+401551735,2023,postseason,1,2023-12-20 02:00:00+00:00,276,Marshall,2636,UTSA,DraftKings,8.5,8.5,,,205,-250
+401551735,2023,postseason,1,2023-12-20 02:00:00+00:00,276,Marshall,2636,UTSA,Bovada,7,9.5,47,55,290,
+401551735,2023,postseason,1,2023-12-20 02:00:00+00:00,276,Marshall,2636,UTSA,ESPN Bet,7.5,,46.5,,,
+401551737,2023,postseason,1,2023-12-22 01:00:00+00:00,183,Syracuse,58,South Florida,Bovada,-3,-3,56,59,100,-120
+401551737,2023,postseason,1,2023-12-22 01:00:00+00:00,183,Syracuse,58,South Florida,ESPN Bet,-5.5,,55.5,,,
+401551754,2023,postseason,1,2023-12-22 23:30:00+00:00,2116,UCF,59,Georgia Tech,Bovada,-6,-4.5,66.5,63,175,-210
+401551754,2023,postseason,1,2023-12-22 23:30:00+00:00,2116,UCF,59,Georgia Tech,ESPN Bet,-6.5,,65.5,,,
+401551739,2023,postseason,1,2023-12-23 17:00:00+00:00,150,Duke,2653,Troy,Bovada,7,7,44,44,-300,250
+401551739,2023,postseason,1,2023-12-23 17:00:00+00:00,150,Duke,2653,Troy,ESPN Bet,6.5,,44.5,,,
+401551741,2023,postseason,1,2023-12-23 17:00:00+00:00,2459,Northern Illinois,2032,Arkansas State,Bovada,2.5,1.5,54,53.5,-110,-110
+401551741,2023,postseason,1,2023-12-23 17:00:00+00:00,2459,Northern Illinois,2032,Arkansas State,ESPN Bet,2.5,,53.5,,,
+401551743,2023,postseason,1,2023-12-23 20:30:00+00:00,328,Utah State,2247,Georgia State,Bovada,-2,2,58,63,-110,-110
+401551743,2023,postseason,1,2023-12-23 20:30:00+00:00,328,Utah State,2247,Georgia State,ESPN Bet,-1.5,,57.5,,,
+401551742,2023,postseason,1,2023-12-23 20:30:00+00:00,2005,Air Force,256,James Madison,Bovada,-2.5,3,44.5,41,135,-160
+401551742,2023,postseason,1,2023-12-23 20:30:00+00:00,2005,Air Force,256,James Madison,ESPN Bet,-2.5,,43.5,,,
+401551755,2023,postseason,1,2023-12-24 00:00:00+00:00,2199,Eastern Michigan,6,South Alabama,Bovada,18,15,43,48,500,-750
+401551755,2023,postseason,1,2023-12-24 00:00:00+00:00,2199,Eastern Michigan,6,South Alabama,ESPN Bet,17.5,,42.5,,,
+401551744,2023,postseason,1,2023-12-24 00:30:00+00:00,77,Northwestern,254,Utah,Bovada,6.5,7,44.5,42,225,-275
+401551744,2023,postseason,1,2023-12-24 00:30:00+00:00,77,Northwestern,254,Utah,ESPN Bet,6.5,,43.5,,,
+401551746,2023,postseason,1,2023-12-24 03:30:00+00:00,23,San José State,324,Coastal Carolina,DraftKings,-7.5,-7.5,54.5,54.5,-310,250
+401551746,2023,postseason,1,2023-12-24 03:30:00+00:00,23,San José State,324,Coastal Carolina,Bovada,-7.5,-9,48,54.5,-360,280
+401551746,2023,postseason,1,2023-12-24 03:30:00+00:00,23,San José State,324,Coastal Carolina,ESPN Bet,-8.5,,48.5,,,
+401551756,2023,postseason,1,2023-12-26 19:00:00+00:00,135,Minnesota,189,Bowling Green,Bovada,-2.5,-6,45,37.5,-180,155
+401551756,2023,postseason,1,2023-12-26 19:00:00+00:00,135,Minnesota,189,Bowling Green,ESPN Bet,-2.5,,44.5,,,
+401551748,2023,postseason,1,2023-12-26 22:30:00+00:00,242,Rice,326,Texas State,Bovada,3.5,4.5,58.5,60,165,-195
+401551748,2023,postseason,1,2023-12-26 22:30:00+00:00,242,Rice,326,Texas State,ESPN Bet,3.5,,59.5,,,
+401551757,2023,postseason,1,2023-12-27 02:00:00+00:00,2439,UNLV,2305,Kansas,DraftKings,10.5,10.5,64.5,64.5,250,-310
+401551757,2023,postseason,1,2023-12-27 02:00:00+00:00,2439,UNLV,2305,Kansas,Bovada,8,10.5,64.5,65,375,-525
+401551757,2023,postseason,1,2023-12-27 02:00:00+00:00,2439,UNLV,2305,Kansas,ESPN Bet,8.5,,65.5,,,
+401551758,2023,postseason,1,2023-12-27 19:00:00+00:00,2655,Tulane,259,Virginia Tech,Bovada,13.5,6,43.5,47,235,-285
+401551758,2023,postseason,1,2023-12-27 19:00:00+00:00,2655,Tulane,259,Virginia Tech,ESPN Bet,12.5,,44.5,,,
+401551761,2023,postseason,1,2023-12-27 22:30:00+00:00,277,West Virginia,153,North Carolina,Bovada,-4.5,-3,62,56.5,-160,135
+401551761,2023,postseason,1,2023-12-27 22:30:00+00:00,277,West Virginia,153,North Carolina,ESPN Bet,-3.5,,61.5,,,
+401581109,2023,postseason,1,2023-12-28 01:00:00+00:00,30,USC,97,Louisville,Bovada,4.5,8,58,57,260,-320
+401581109,2023,postseason,1,2023-12-28 01:00:00+00:00,30,USC,97,Louisville,ESPN Bet,4.5,,56.5,,,
+401551749,2023,postseason,1,2023-12-28 02:00:00+00:00,197,Oklahoma State,245,Texas A&M,DraftKings,4.5,4.5,53.5,53.5,-192,160
+401551749,2023,postseason,1,2023-12-28 02:00:00+00:00,197,Oklahoma State,245,Texas A&M,Bovada,-4,3.5,56,53,130,-150
+401551749,2023,postseason,1,2023-12-28 02:00:00+00:00,197,Oklahoma State,245,Texas A&M,ESPN Bet,-4.5,,55.5,,,
+401551750,2023,postseason,1,2023-12-28 16:00:00+00:00,103,Boston College,2567,SMU,Bovada,13.5,11,49,51,325,-435
+401551750,2023,postseason,1,2023-12-28 16:00:00+00:00,103,Boston College,2567,SMU,ESPN Bet,13.5,,48.5,,,
+401551762,2023,postseason,1,2023-12-28 19:15:00+00:00,2390,Miami,164,Rutgers,Bovada,3,-3.5,41,41.5,-135,115
+401551762,2023,postseason,1,2023-12-28 19:15:00+00:00,2390,Miami,164,Rutgers,ESPN Bet,2.5,,40.5,,,
+401551764,2023,postseason,1,2023-12-28 22:45:00+00:00,2306,Kansas State,152,NC State,DraftKings,-5.5,-5.5,48.5,48.5,-148,124
+401551764,2023,postseason,1,2023-12-28 22:45:00+00:00,2306,Kansas State,152,NC State,Bovada,-3,-4,48.5,48,-170,145
+401551764,2023,postseason,1,2023-12-28 22:45:00+00:00,2306,Kansas State,152,NC State,ESPN Bet,-3.5,,47.5,,,
+401551765,2023,postseason,1,2023-12-29 02:15:00+00:00,201,Oklahoma,12,Arizona,DraftKings,1,1,64.5,64.5,110,-130
+401551765,2023,postseason,1,2023-12-29 02:15:00+00:00,201,Oklahoma,12,Arizona,Bovada,2.5,3.5,59.5,62,125,-145
+401551765,2023,postseason,1,2023-12-29 02:15:00+00:00,201,Oklahoma,12,Arizona,ESPN Bet,2.5,,58.5,,,
+401551766,2023,postseason,1,2023-12-29 17:00:00+00:00,96,Kentucky,228,Clemson,DraftKings,7.5,7.5,48.5,48.5,142,-170
+401551766,2023,postseason,1,2023-12-29 17:00:00+00:00,96,Kentucky,228,Clemson,Bovada,3.5,7,44.5,47,225,-275
+401551766,2023,postseason,1,2023-12-29 17:00:00+00:00,96,Kentucky,228,Clemson,ESPN Bet,3.5,,43.5,,,
+401551798,2023,postseason,1,2023-12-29 19:00:00+00:00,87,Notre Dame,204,Oregon State,Bovada,-5.5,-11,40.5,45.5,210,-250
+401551798,2023,postseason,1,2023-12-29 19:00:00+00:00,87,Notre Dame,204,Oregon State,ESPN Bet,-5.5,,40.5,,,
+401551767,2023,postseason,1,2023-12-29 20:30:00+00:00,66,Iowa State,235,Memphis,DraftKings,-5.5,-5.5,57.5,57.5,-395,310
+401551767,2023,postseason,1,2023-12-29 20:30:00+00:00,66,Iowa State,235,Memphis,Bovada,-10.5,-7,58,57.5,-340,270
+401551767,2023,postseason,1,2023-12-29 20:30:00+00:00,66,Iowa State,235,Memphis,ESPN Bet,-10.5,,58.5,,,
+401551768,2023,postseason,1,2023-12-30 01:00:00+00:00,194,Ohio State,142,Missouri,DraftKings,-6.5,-6.5,51.5,51.5,-192,160
+401551768,2023,postseason,1,2023-12-30 01:00:00+00:00,194,Ohio State,142,Missouri,Bovada,-4,-2.5,51,49,125,-145
+401551768,2023,postseason,1,2023-12-30 01:00:00+00:00,194,Ohio State,142,Missouri,ESPN Bet,-3.5,,50.5,,,
+401551769,2023,postseason,1,2023-12-30 17:00:00+00:00,213,Penn State,145,Ole Miss,DraftKings,-3.5,-3.5,48.5,48.5,-192,160
+401551769,2023,postseason,1,2023-12-30 17:00:00+00:00,213,Penn State,145,Ole Miss,Bovada,-5.5,-4,53,49.5,-180,155
+401551769,2023,postseason,1,2023-12-30 17:00:00+00:00,213,Penn State,145,Ole Miss,ESPN Bet,-5.5,,52.5,,,
+401551770,2023,postseason,1,2023-12-30 19:00:00+00:00,120,Maryland,2,Auburn,DraftKings,1.5,1.5,48.5,48.5,160,-192
+401551770,2023,postseason,1,2023-12-30 19:00:00+00:00,120,Maryland,2,Auburn,Bovada,4,2.5,47.5,50,120,-140
+401551770,2023,postseason,1,2023-12-30 19:00:00+00:00,120,Maryland,2,Auburn,ESPN Bet,5.5,,48.5,,,
+401551773,2023,postseason,1,2023-12-30 21:00:00+00:00,52,Florida State,61,Georgia,DraftKings,13.5,13.5,45,45,1100,-2100
+401551773,2023,postseason,1,2023-12-30 21:00:00+00:00,52,Florida State,61,Georgia,Bovada,23.5,14,47,45.5,700,-1200
+401551773,2023,postseason,1,2023-12-30 21:00:00+00:00,52,Florida State,61,Georgia,ESPN Bet,23.5,,47.5,,,
+401554566,2023,postseason,1,2023-12-30 21:30:00+00:00,2751,Wyoming,2649,Toledo,Bovada,-4.5,2,43.5,46,-130,110
+401554566,2023,postseason,1,2023-12-30 21:30:00+00:00,2751,Wyoming,2649,Toledo,ESPN Bet,-4.5,,44.5,,,
+401551782,2023,postseason,1,2024-01-01 18:00:00+00:00,2483,Oregon,2335,Liberty,DraftKings,-16.5,-16.5,64.5,64.5,-1100,700
+401551782,2023,postseason,1,2024-01-01 18:00:00+00:00,2483,Oregon,2335,Liberty,Bovada,-18.5,-15,71.5,65.5,-750,500
+401551782,2023,postseason,1,2024-01-01 18:00:00+00:00,2483,Oregon,2335,Liberty,ESPN Bet,-22.5,,71.5,,,
+401551780,2023,postseason,1,2024-01-01 18:00:00+00:00,2633,Tennessee,2294,Iowa,DraftKings,-8,-8,36,36,-198,164
+401551780,2023,postseason,1,2024-01-01 18:00:00+00:00,2633,Tennessee,2294,Iowa,Bovada,-4.5,-7.5,37,36.5,-320,260
+401551780,2023,postseason,1,2024-01-01 18:00:00+00:00,2633,Tennessee,2294,Iowa,ESPN Bet,-4.5,,36.5,,,
+401551786,2023,postseason,1,2024-01-01 22:00:00+00:00,130,Michigan,333,Alabama,DraftKings,-1.5,-1.5,46,46,-130,110
+401551786,2023,postseason,1,2024-01-01 22:00:00+00:00,130,Michigan,333,Alabama,Bovada,-2,-2.5,46,45.5,-125,105
+401551786,2023,postseason,1,2024-01-01 22:00:00+00:00,130,Michigan,333,Alabama,ESPN Bet,-2.5,,45.5,,,
+401551788,2023,postseason,1,2024-01-02 01:45:00+00:00,264,Washington,251,Texas,DraftKings,4.5,4.5,64,64,140,-166
+401551788,2023,postseason,1,2024-01-02 01:45:00+00:00,264,Washington,251,Texas,Bovada,3,4,61.5,64.5,155,-180
+401551788,2023,postseason,1,2024-01-02 01:45:00+00:00,264,Washington,251,Texas,ESPN Bet,3.5,,61.5,,,
+401555031,2023,postseason,1,2024-01-07 19:00:00+00:00,2571,South Dakota State,149,Montana,ESPN Bet,-14.5,,48.5,,,
+401555031,2023,postseason,1,2024-01-07 19:00:00+00:00,2571,South Dakota State,149,Montana,Bovada,-12.5,-12.5,49.5,49.5,-510,370
+401551789,2023,postseason,1,2024-01-09 00:30:00+00:00,130,Michigan,264,Washington,ESPN Bet,-4.5,,55.5,,,
+401551789,2023,postseason,1,2024-01-09 00:30:00+00:00,130,Michigan,264,Washington,Bovada,-5.5,-4,55.5,54.5,,

@@ -1,0 +1,144 @@
+game_id,season,season_type,week,start_date,home_team_id,home_team,away_team_id,away_team,provider,spread,spread_open,over_under,over_under_open,home_moneyline,away_moneyline
+401778304,2025,postseason,1,2025-12-17 22:00:00+00:00,58,South Florida,295,Old Dominion,DraftKings,-4,,52.5,,-192,160
+401778304,2025,postseason,1,2025-12-17 22:00:00+00:00,58,South Florida,295,Old Dominion,Bovada,-3,-6,54,55.5,-230,190
+401778304,2025,postseason,1,2025-12-17 22:00:00+00:00,58,South Florida,295,Old Dominion,DraftKings,-4,,52.5,,,
+401838053,2025,postseason,1,2025-12-19 02:00:00+00:00,2032,Arkansas State,2623,Missouri State,DraftKings,-1.5,,55.5,,-125,105
+401838053,2025,postseason,1,2025-12-19 02:00:00+00:00,2032,Arkansas State,2623,Missouri State,Bovada,-1.5,-2.5,55,56.5,-130,110
+401838053,2025,postseason,1,2025-12-19 02:00:00+00:00,2032,Arkansas State,2623,Missouri State,DraftKings,-1.5,,55.5,,,
+401778312,2025,postseason,1,2025-12-25 01:00:00+00:00,62,Hawai'i,25,California,DraftKings,-1.5,,50.5,,,
+401778312,2025,postseason,1,2025-12-25 01:00:00+00:00,62,Hawai'i,25,California,DraftKings,-1.5,,50.5,,-118,-102
+401778312,2025,postseason,1,2025-12-25 01:00:00+00:00,62,Hawai'i,25,California,Bovada,-1.5,3,54.5,55.5,125,-145
+401779840,2025,postseason,1,2025-12-20 01:00:00+00:00,201,Oklahoma,333,Alabama,Bovada,-1.5,1,42,41,,
+401779840,2025,postseason,1,2025-12-20 01:00:00+00:00,201,Oklahoma,333,Alabama,DraftKings,-1.5,,42.5,,-130,110
+401779840,2025,postseason,1,2025-12-20 01:00:00+00:00,201,Oklahoma,333,Alabama,DraftKings,-2.5,,42.5,,,
+401779841,2025,postseason,1,2025-12-20 17:00:00+00:00,245,Texas A&M,2390,Miami,DraftKings,-3,,48.5,,-142,120
+401779841,2025,postseason,1,2025-12-20 17:00:00+00:00,245,Texas A&M,2390,Miami,Bovada,-3,-4.5,48.5,50.5,,
+401779841,2025,postseason,1,2025-12-20 17:00:00+00:00,245,Texas A&M,2390,Miami,DraftKings,-3,,48.5,,,
+401779842,2025,postseason,1,2025-12-20 20:30:00+00:00,145,Ole Miss,2655,Tulane,Bovada,-17.5,-17,57.5,57,,
+401779842,2025,postseason,1,2025-12-20 20:30:00+00:00,145,Ole Miss,2655,Tulane,DraftKings,-16.5,,57.5,56.5,-850,575
+401779842,2025,postseason,1,2025-12-20 20:30:00+00:00,145,Ole Miss,2655,Tulane,DraftKings,-16.5,,57.5,,,
+401779843,2025,postseason,1,2025-12-21 00:30:00+00:00,2483,Oregon,256,James Madison,Bovada,-22.5,-21,47.5,50,,
+401779843,2025,postseason,1,2025-12-21 00:30:00+00:00,2483,Oregon,256,James Madison,DraftKings,-20.5,,47.5,,,
+401779843,2025,postseason,1,2025-12-21 00:30:00+00:00,2483,Oregon,256,James Madison,DraftKings,-20.5,,47.5,,-2100,1100
+401778330,2025,postseason,1,2025-12-31 20:00:00+00:00,251,Texas,130,Michigan,Bovada,-7,-5.5,50,46,-210,175
+401778330,2025,postseason,1,2025-12-31 20:00:00+00:00,251,Texas,130,Michigan,DraftKings,-4,,50.5,,,
+401778330,2025,postseason,1,2025-12-31 20:00:00+00:00,251,Texas,130,Michigan,DraftKings,-4.5,,50.5,,-198,164
+401778329,2025,postseason,1,2025-12-31 19:00:00+00:00,150,Duke,9,Arizona State,DraftKings,-4,,49.5,,,
+401778329,2025,postseason,1,2025-12-31 19:00:00+00:00,150,Duke,9,Arizona State,Bovada,-2,-1.5,49.5,49.5,-120,100
+401778329,2025,postseason,1,2025-12-31 19:00:00+00:00,150,Duke,9,Arizona State,DraftKings,-4,,49.5,49.5,-180,150
+401778332,2025,postseason,1,2026-01-02 18:00:00+00:00,326,Texas State,242,Rice,DraftKings,-19.5,-10.5,55.5,59.5,-900,600
+401778332,2025,postseason,1,2026-01-02 18:00:00+00:00,326,Texas State,242,Rice,DraftKings,-19.5,,55.5,,,
+401778332,2025,postseason,1,2026-01-02 18:00:00+00:00,326,Texas State,242,Rice,Bovada,-19.5,-10.5,55.5,59.5,-400,300
+401831583,2025,postseason,1,2026-01-03 01:00:00+00:00,2567,SMU,12,Arizona,DraftKings,-2.5,,55.5,,,
+401831583,2025,postseason,1,2026-01-03 01:00:00+00:00,2567,SMU,12,Arizona,Bovada,-2.5,3,55,52.5,125,-145
+401831583,2025,postseason,1,2026-01-03 01:00:00+00:00,2567,SMU,12,Arizona,DraftKings,-2.5,,55.5,,-142,120
+401778302,2025,postseason,1,2025-12-14 01:00:00+00:00,264,Washington,68,Boise State,Bovada,-9.5,-8.5,55.5,51.5,-320,260
+401778302,2025,postseason,1,2025-12-14 01:00:00+00:00,264,Washington,68,Boise State,DraftKings,-10,,55.5,,,
+401778302,2025,postseason,1,2025-12-14 01:00:00+00:00,264,Washington,68,Boise State,DraftKings,-10,,55.5,,-380,300
+401778303,2025,postseason,1,2025-12-17 02:00:00+00:00,55,Jacksonville State,2653,Troy,Bovada,-3,4,47.5,46.5,160,-185
+401778303,2025,postseason,1,2025-12-17 02:00:00+00:00,55,Jacksonville State,2653,Troy,DraftKings,-3,,47.5,,,
+401778303,2025,postseason,1,2025-12-17 02:00:00+00:00,55,Jacksonville State,2653,Troy,DraftKings,-3.5,,47.5,,-175,145
+401778306,2025,postseason,1,2025-12-19 16:00:00+00:00,2711,Western Michigan,338,Kennesaw State,Bovada,-3,-4,47,49.5,-185,160
+401778306,2025,postseason,1,2025-12-19 16:00:00+00:00,2711,Western Michigan,338,Kennesaw State,DraftKings,-3.5,,47.5,,,
+401778306,2025,postseason,1,2025-12-19 16:00:00+00:00,2711,Western Michigan,338,Kennesaw State,DraftKings,-3.5,,47.5,,-162,136
+401778307,2025,postseason,1,2025-12-19 19:30:00+00:00,152,NC State,235,Memphis,Bovada,-6,-5.5,56.5,58.5,-225,185
+401778307,2025,postseason,1,2025-12-19 19:30:00+00:00,152,NC State,235,Memphis,DraftKings,-3.5,,56.5,,,
+401778307,2025,postseason,1,2025-12-19 19:30:00+00:00,152,NC State,235,Memphis,DraftKings,-3.5,,56.5,,-162,136
+401778308,2025,postseason,1,2025-12-22 19:00:00+00:00,328,Utah State,265,Washington State,Bovada,-1,-4,50,52.5,-180,155
+401778308,2025,postseason,1,2025-12-22 19:00:00+00:00,328,Utah State,265,Washington State,DraftKings,-1.5,,50.5,,-115,-105
+401778308,2025,postseason,1,2025-12-22 19:00:00+00:00,328,Utah State,265,Washington State,DraftKings,-1.5,,50.5,,,
+401778309,2025,postseason,1,2025-12-23 19:00:00+00:00,97,Louisville,2649,Toledo,DraftKings,-12.5,-9.5,44.5,46.5,-485,370
+401778309,2025,postseason,1,2025-12-23 19:00:00+00:00,97,Louisville,2649,Toledo,Bovada,-8.5,-8,44.5,45.5,-320,260
+401778309,2025,postseason,1,2025-12-23 19:00:00+00:00,97,Louisville,2649,Toledo,DraftKings,-11.5,,44.5,,,
+401778310,2025,postseason,1,2025-12-23 22:30:00+00:00,2572,Southern Miss,98,Western Kentucky,Bovada,-3,4,59,55.5,160,-185
+401778310,2025,postseason,1,2025-12-23 22:30:00+00:00,2572,Southern Miss,98,Western Kentucky,DraftKings,-2.5,,59.5,,,
+401778310,2025,postseason,1,2025-12-23 22:30:00+00:00,2572,Southern Miss,98,Western Kentucky,DraftKings,-3,,59.5,,-142,120
+401778311,2025,postseason,1,2025-12-24 02:00:00+00:00,195,Ohio,2439,UNLV,DraftKings,6.5,,64.5,,,
+401778311,2025,postseason,1,2025-12-24 02:00:00+00:00,195,Ohio,2439,UNLV,DraftKings,6.5,4,64.5,,205,-250
+401778311,2025,postseason,1,2025-12-24 02:00:00+00:00,195,Ohio,2439,UNLV,Bovada,6,4,64.5,62.5,170,-200
+401778313,2025,postseason,1,2025-12-26 18:00:00+00:00,77,Northwestern,2117,Central Michigan,DraftKings,-13.5,,43.5,,,
+401778313,2025,postseason,1,2025-12-26 18:00:00+00:00,77,Northwestern,2117,Central Michigan,DraftKings,-13.5,,43.5,,-500,380
+401778313,2025,postseason,1,2025-12-26 18:00:00+00:00,77,Northwestern,2117,Central Michigan,Bovada,-12,-12.5,43,43.5,-480,350
+401778314,2025,postseason,1,2025-12-26 21:30:00+00:00,135,Minnesota,167,New Mexico,DraftKings,-1.5,,44.5,,,
+401778314,2025,postseason,1,2025-12-26 21:30:00+00:00,135,Minnesota,167,New Mexico,DraftKings,-1.5,,44.5,47.5,-125,105
+401778314,2025,postseason,1,2025-12-26 21:30:00+00:00,135,Minnesota,167,New Mexico,Bovada,-2,-3,44.5,47.5,-145,125
+401778315,2025,postseason,1,2025-12-27 01:00:00+00:00,2636,UTSA,2229,Florida International,DraftKings,-7,,62.5,,-265,215
+401778315,2025,postseason,1,2025-12-27 01:00:00+00:00,2636,UTSA,2229,Florida International,DraftKings,-7.5,,63.5,,,
+401778315,2025,postseason,1,2025-12-27 01:00:00+00:00,2636,UTSA,2229,Florida International,Bovada,-7,-8.5,62.5,59,-320,260
+401778316,2025,postseason,1,2025-12-27 16:00:00+00:00,151,East Carolina,221,Pittsburgh,DraftKings,13.5,,51.5,,,
+401778316,2025,postseason,1,2025-12-27 16:00:00+00:00,151,East Carolina,221,Pittsburgh,DraftKings,12.5,,51.5,60.5,370,-485
+401778316,2025,postseason,1,2025-12-27 16:00:00+00:00,151,East Carolina,221,Pittsburgh,Bovada,6,6,59,58.5,185,-225
+401778317,2025,postseason,1,2025-12-27 17:00:00+00:00,228,Clemson,213,Penn State,DraftKings,-2.5,,47.5,,,
+401778317,2025,postseason,1,2025-12-27 17:00:00+00:00,228,Clemson,213,Penn State,DraftKings,-2.5,,47.5,,-135,114
+401778317,2025,postseason,1,2025-12-27 17:00:00+00:00,228,Clemson,213,Penn State,Bovada,-2.5,-3,47.5,48.5,-160,135
+401778318,2025,postseason,1,2025-12-27 19:15:00+00:00,349,Army,41,UConn,Bovada,-5.5,-3,41.5,50.5,-250,210
+401778318,2025,postseason,1,2025-12-27 19:15:00+00:00,349,Army,41,UConn,DraftKings,-7.5,,41.5,,,
+401778318,2025,postseason,1,2025-12-27 19:15:00+00:00,349,Army,41,UConn,DraftKings,-8.5,,41.5,,-310,250
+401778319,2025,postseason,1,2025-12-27 20:30:00+00:00,252,BYU,59,Georgia Tech,Bovada,-3.5,-3,55,56,-160,135
+401778319,2025,postseason,1,2025-12-27 20:30:00+00:00,252,BYU,59,Georgia Tech,DraftKings,-3.5,,55.5,,,
+401778319,2025,postseason,1,2025-12-27 20:30:00+00:00,252,BYU,59,Georgia Tech,DraftKings,-3.5,,54.5,56.5,-170,142
+401778320,2025,postseason,1,2025-12-27 21:30:00+00:00,278,Fresno State,193,Miami (OH),Bovada,-5,-3.5,41,42,-165,140
+401778320,2025,postseason,1,2025-12-27 21:30:00+00:00,278,Fresno State,193,Miami (OH),DraftKings,-5.5,,40.5,,,
+401778320,2025,postseason,1,2025-12-27 21:30:00+00:00,278,Fresno State,193,Miami (OH),DraftKings,-5.5,,40.5,44.5,-205,170
+401778326,2025,postseason,1,2025-12-30 22:30:00+00:00,356,Illinois,2633,Tennessee,DraftKings,3,5.5,62.5,61.5,120,-142
+401778326,2025,postseason,1,2025-12-30 22:30:00+00:00,356,Illinois,2633,Tennessee,Bovada,2.5,5.5,62,61.5,180,-220
+401778326,2025,postseason,1,2025-12-30 22:30:00+00:00,356,Illinois,2633,Tennessee,DraftKings,3,,61.5,,,
+401778327,2025,postseason,1,2025-12-31 02:00:00+00:00,2628,TCU,30,USC,DraftKings,4.5,,56.5,,,
+401778327,2025,postseason,1,2025-12-31 02:00:00+00:00,2628,TCU,30,USC,Bovada,4.5,6,56.5,59.5,190,-230
+401778327,2025,postseason,1,2025-12-31 02:00:00+00:00,2628,TCU,30,USC,DraftKings,4.5,,56.5,,164,-198
+401778328,2025,postseason,1,2025-12-31 17:00:00+00:00,238,Vanderbilt,2294,Iowa,DraftKings,-3,-4,47.5,49.5,-170,142
+401778328,2025,postseason,1,2025-12-31 17:00:00+00:00,238,Vanderbilt,2294,Iowa,Bovada,-3,-5,47,49,-220,180
+401778328,2025,postseason,1,2025-12-31 17:00:00+00:00,238,Vanderbilt,2294,Iowa,DraftKings,-3,,47.5,,,
+401778123,2025,postseason,1,2025-12-13 17:00:00+00:00,2504,Prairie View A&M,2569,South Carolina State,DraftKings,-3,,53.5,,,
+401833989,2025,postseason,1,2025-12-20 21:00:00+00:00,147,Montana State,149,Montana,Bovada,-4.5,-4.5,55.5,55.5,-165,140
+401833989,2025,postseason,1,2025-12-20 21:00:00+00:00,147,Montana State,149,Montana,DraftKings,-6.5,,56.5,,,
+401833990,2025,postseason,1,2025-12-21 00:30:00+00:00,222,Villanova,2287,Illinois State,DraftKings,-1.5,,51.5,,,
+401778321,2025,postseason,1,2025-12-27 22:45:00+00:00,21,San Diego State,249,North Texas,DraftKings,7.5,,55.5,,,
+401778321,2025,postseason,1,2025-12-27 22:45:00+00:00,21,San Diego State,249,North Texas,DraftKings,7.5,,54.5,,230,-285
+401778321,2025,postseason,1,2025-12-27 22:45:00+00:00,21,San Diego State,249,North Texas,Bovada,3,3,54.5,56,135,-160
+401778322,2025,postseason,1,2025-12-28 00:30:00+00:00,142,Missouri,258,Virginia,DraftKings,-4,,43.5,,,
+401778322,2025,postseason,1,2025-12-28 00:30:00+00:00,142,Missouri,258,Virginia,Bovada,-4,-7,43.5,48.5,-260,215
+401778322,2025,postseason,1,2025-12-28 00:30:00+00:00,142,Missouri,258,Virginia,DraftKings,-4,,43.5,,-185,154
+401778323,2025,postseason,1,2025-12-28 02:15:00+00:00,248,Houston,99,LSU,DraftKings,-1.5,,43.5,,,
+401778323,2025,postseason,1,2025-12-28 02:15:00+00:00,248,Houston,99,LSU,Bovada,-1,-3,44,41.5,-145,125
+401778323,2025,postseason,1,2025-12-28 02:15:00+00:00,248,Houston,99,LSU,DraftKings,-1.5,,43.5,,-110,-110
+401778324,2025,postseason,1,2025-12-29 19:00:00+00:00,2026,App State,290,Georgia Southern,DraftKings,10,,58.5,,,
+401778324,2025,postseason,1,2025-12-29 19:00:00+00:00,2026,App State,290,Georgia Southern,Bovada,10,2,58,59.5,110,-130
+401778324,2025,postseason,1,2025-12-29 19:00:00+00:00,2026,App State,290,Georgia Southern,DraftKings,10,,57.5,,300,-380
+401778325,2025,postseason,1,2025-12-30 19:00:00+00:00,2348,Louisiana Tech,324,Coastal Carolina,Bovada,-10,-7,51,50.5,-280,230
+401778325,2025,postseason,1,2025-12-30 19:00:00+00:00,2348,Louisiana Tech,324,Coastal Carolina,DraftKings,-10,,51.5,,,
+401778325,2025,postseason,1,2025-12-30 19:00:00+00:00,2348,Louisiana Tech,324,Coastal Carolina,DraftKings,-10,,51.5,,-375,295
+401778305,2025,postseason,1,2025-12-18 01:30:00+00:00,48,Delaware,309,Louisiana,DraftKings,1.5,,60.5,,,
+401778305,2025,postseason,1,2025-12-18 01:30:00+00:00,48,Delaware,309,Louisiana,DraftKings,1.5,,60.5,,105,-125
+401778305,2025,postseason,1,2025-12-18 01:30:00+00:00,48,Delaware,309,Louisiana,Bovada,1.5,3,60.5,58,130,-150
+401769070,2025,postseason,1,2026-01-01 00:30:00+00:00,194,Ohio State,2390,Miami,DraftKings,-7.5,,39.5,,,
+401769070,2025,postseason,1,2026-01-01 00:30:00+00:00,194,Ohio State,2390,Miami,DraftKings,-7.5,-10,39.5,,-325,260
+401769070,2025,postseason,1,2026-01-01 00:30:00+00:00,194,Ohio State,2390,Miami,Bovada,-8,-9,40,41.5,,
+401833680,2025,postseason,1,2026-01-06 00:30:00+00:00,147,Montana State,2287,Illinois State,DraftKings,-10.5,,58.5,,,
+401778331,2025,postseason,1,2025-12-31 20:30:00+00:00,254,Utah,158,Nebraska,DraftKings,-13.5,,51.5,,,
+401778331,2025,postseason,1,2025-12-31 20:30:00+00:00,254,Utah,158,Nebraska,Bovada,-14,-14.5,51,49.5,-625,430
+401778331,2025,postseason,1,2025-12-31 20:30:00+00:00,254,Utah,158,Nebraska,DraftKings,-13.5,,51.5,,-535,400
+401769071,2025,postseason,1,2026-01-01 17:00:00+00:00,2641,Texas Tech,2483,Oregon,DraftKings,-1.5,,50.5,,,
+401769071,2025,postseason,1,2026-01-01 17:00:00+00:00,2641,Texas Tech,2483,Oregon,DraftKings,-1.5,,50.5,52.5,-115,-105
+401769071,2025,postseason,1,2026-01-01 17:00:00+00:00,2641,Texas Tech,2483,Oregon,Bovada,-1,1.5,51,52.5,,
+401769073,2025,postseason,1,2026-01-02 01:00:00+00:00,61,Georgia,145,Ole Miss,DraftKings,-6,,53.5,,-218,180
+401769073,2025,postseason,1,2026-01-02 01:00:00+00:00,61,Georgia,145,Ole Miss,DraftKings,-6,,53.5,,,
+401769073,2025,postseason,1,2026-01-02 01:00:00+00:00,61,Georgia,145,Ole Miss,Bovada,-6,-6.5,54,56,,
+401769072,2025,postseason,1,2026-01-01 21:00:00+00:00,84,Indiana,333,Alabama,DraftKings,-7.5,,46.5,,,
+401769072,2025,postseason,1,2026-01-01 21:00:00+00:00,84,Indiana,333,Alabama,DraftKings,-7.5,,46.5,,-250,205
+401769072,2025,postseason,1,2026-01-01 21:00:00+00:00,84,Indiana,333,Alabama,Bovada,-7.5,-7,46.5,48,,
+401778333,2025,postseason,1,2026-01-02 21:30:00+00:00,2132,Cincinnati,2426,Navy,DraftKings,7.5,,57.5,,,
+401778333,2025,postseason,1,2026-01-02 21:30:00+00:00,2132,Cincinnati,2426,Navy,Bovada,4,-1.5,57.5,55.5,155,-180
+401778333,2025,postseason,1,2026-01-02 21:30:00+00:00,2132,Cincinnati,2426,Navy,DraftKings,7.5,,57.5,,240,-298
+401778334,2025,postseason,1,2026-01-03 01:00:00+00:00,344,Mississippi State,154,Wake Forest,DraftKings,-3,-3,52.5,56.5,-148,124
+401778334,2025,postseason,1,2026-01-03 01:00:00+00:00,344,Mississippi State,154,Wake Forest,Bovada,-2.5,-3,52.5,56.5,-150,130
+401778334,2025,postseason,1,2026-01-03 01:00:00+00:00,344,Mississippi State,154,Wake Forest,DraftKings,-3,,52.5,,,
+401769074,2025,postseason,1,2026-01-10 00:30:00+00:00,84,Indiana,2483,Oregon,DraftKings,-3,,50.5,,-175,145
+401769074,2025,postseason,1,2026-01-10 00:30:00+00:00,84,Indiana,2483,Oregon,DraftKings,-3,,50.5,,,
+401769074,2025,postseason,1,2026-01-10 00:30:00+00:00,84,Indiana,2483,Oregon,Bovada,-3,-3.5,50,46.5,,
+401769076,2025,postseason,1,2026-01-20 00:30:00+00:00,84,Indiana,2390,Miami,DraftKings,-7.5,,46.5,,-305,245
+401769076,2025,postseason,1,2026-01-20 00:30:00+00:00,84,Indiana,2390,Miami,DraftKings,-7.5,,47.5,,,
+401769076,2025,postseason,1,2026-01-20 00:30:00+00:00,84,Indiana,2390,Miami,Bovada,-7,-8,47,48.5,,
+401769075,2025,postseason,1,2026-01-09 00:30:00+00:00,145,Ole Miss,2390,Miami,DraftKings,3,,52.5,,142,-170
+401769075,2025,postseason,1,2026-01-09 00:30:00+00:00,145,Ole Miss,2390,Miami,Bovada,3,3,53,52,130,-150
+401769075,2025,postseason,1,2026-01-09 00:30:00+00:00,145,Ole Miss,2390,Miami,DraftKings,3,,52.5,,,

@@ -1,0 +1,177 @@
+game_id,season,season_type,week,start_date,home_team_id,home_team,away_team_id,away_team,provider,spread,spread_open,over_under,over_under_open,home_moneyline,away_moneyline
+401441993,2022,postseason,1,2022-12-16 16:30:00+00:00,5,UAB,193,Miami (OH),Bovada,-11,-11,44.5,44,,300
+401441993,2022,postseason,1,2022-12-16 16:30:00+00:00,5,UAB,193,Miami (OH),teamrankings,-10.5,,45.5,,,
+401441993,2022,postseason,1,2022-12-16 16:30:00+00:00,5,UAB,193,Miami (OH),consensus,-11,,46,,,
+401441993,2022,postseason,1,2022-12-16 16:30:00+00:00,5,UAB,193,Miami (OH),William Hill (New Jersey),-10.5,,46,,,
+401441994,2022,postseason,1,2022-12-16 20:00:00+00:00,2653,Troy,2636,UTSA,Bovada,-2,1.5,55.5,55,100,-120
+401441994,2022,postseason,1,2022-12-16 20:00:00+00:00,2653,Troy,2636,UTSA,teamrankings,3,,56.5,,,
+401441994,2022,postseason,1,2022-12-16 20:00:00+00:00,2653,Troy,2636,UTSA,consensus,3,,56.5,,,
+401441994,2022,postseason,1,2022-12-16 20:00:00+00:00,2653,Troy,2636,UTSA,William Hill (New Jersey),3,,56.5,,,
+401508850,2022,postseason,1,2022-12-17 00:00:00+00:00,2449,North Dakota State,2916,Incarnate Word,William Hill (New Jersey),-7.5,,70,,,
+401441995,2022,postseason,1,2022-12-17 16:00:00+00:00,97,Louisville,2132,Cincinnati,Bovada,-2.5,-1.5,38.5,43.5,100,-120
+401441995,2022,postseason,1,2022-12-17 16:00:00+00:00,97,Louisville,2132,Cincinnati,teamrankings,-2.5,,38.5,,,
+401441995,2022,postseason,1,2022-12-17 16:00:00+00:00,97,Louisville,2132,Cincinnati,consensus,-2.5,,38.5,,,
+401441995,2022,postseason,1,2022-12-17 16:00:00+00:00,97,Louisville,2132,Cincinnati,William Hill (New Jersey),-2.5,,38.5,,,
+401441996,2022,postseason,1,2022-12-17 17:00:00+00:00,2428,North Carolina Central,2296,Jackson State,Bovada,16,16.5,56,,525,-800
+401441996,2022,postseason,1,2022-12-17 17:00:00+00:00,2428,North Carolina Central,2296,Jackson State,consensus,14,,55,,,
+401441996,2022,postseason,1,2022-12-17 17:00:00+00:00,2428,North Carolina Central,2296,Jackson State,William Hill (New Jersey),14,,55,,,
+401441999,2022,postseason,1,2022-12-17 19:30:00+00:00,204,Oregon State,57,Florida,Bovada,-7.5,-5.5,52,55.5,-400,300
+401441999,2022,postseason,1,2022-12-17 19:30:00+00:00,204,Oregon State,57,Florida,teamrankings,-7.5,,52,,,
+401441999,2022,postseason,1,2022-12-17 19:30:00+00:00,204,Oregon State,57,Florida,consensus,-7.5,,51.5,,,
+401441999,2022,postseason,1,2022-12-17 19:30:00+00:00,204,Oregon State,57,Florida,William Hill (New Jersey),-7.5,,51.5,,,
+401442038,2022,postseason,1,2022-12-17 20:30:00+00:00,278,Fresno State,265,Washington State,Bovada,-5.5,-4.5,54,54,-115,-105
+401442038,2022,postseason,1,2022-12-17 20:30:00+00:00,278,Fresno State,265,Washington State,teamrankings,-5.5,,53.5,,,
+401442038,2022,postseason,1,2022-12-17 20:30:00+00:00,278,Fresno State,265,Washington State,consensus,-5.5,,54,,,
+401442038,2022,postseason,1,2022-12-17 20:30:00+00:00,278,Fresno State,265,Washington State,William Hill (New Jersey),-5.5,,54,,,
+401508851,2022,postseason,1,2022-12-17 21:00:00+00:00,2571,South Dakota State,147,Montana State,Bovada,-4,-5,56.5,57.5,,
+401508851,2022,postseason,1,2022-12-17 21:00:00+00:00,2571,South Dakota State,147,Montana State,William Hill (New Jersey),-4,,57,,,
+401442041,2022,postseason,1,2022-12-17 22:45:00+00:00,2572,Southern Miss,242,Rice,Bovada,-7,-6,46.5,48,-270,220
+401442041,2022,postseason,1,2022-12-17 22:45:00+00:00,2572,Southern Miss,242,Rice,teamrankings,-6.5,,45.5,,,
+401442041,2022,postseason,1,2022-12-17 22:45:00+00:00,2572,Southern Miss,242,Rice,consensus,-6.5,,45.5,,,
+401442041,2022,postseason,1,2022-12-17 22:45:00+00:00,2572,Southern Miss,242,Rice,William Hill (New Jersey),-6.5,,45.5,,,
+401441997,2022,postseason,1,2022-12-18 00:30:00+00:00,252,BYU,2567,SMU,Bovada,4.5,-1.5,65,74,-200,170
+401441997,2022,postseason,1,2022-12-18 00:30:00+00:00,252,BYU,2567,SMU,teamrankings,4.5,,65,,,
+401441997,2022,postseason,1,2022-12-18 00:30:00+00:00,252,BYU,2567,SMU,consensus,4.5,,65,,,
+401441997,2022,postseason,1,2022-12-18 00:30:00+00:00,252,BYU,2567,SMU,William Hill (New Jersey),4.5,,65,,,
+401442001,2022,postseason,1,2022-12-18 02:15:00+00:00,68,Boise State,249,North Texas,Bovada,-12,-8.5,63,55.5,300,-400
+401442001,2022,postseason,1,2022-12-18 02:15:00+00:00,68,Boise State,249,North Texas,teamrankings,-11.5,,63,,,
+401442001,2022,postseason,1,2022-12-18 02:15:00+00:00,68,Boise State,249,North Texas,consensus,-11.5,,63,,,
+401442001,2022,postseason,1,2022-12-18 02:15:00+00:00,68,Boise State,249,North Texas,William Hill (New Jersey),-12,,64,,,
+401442003,2022,postseason,1,2022-12-19 19:30:00+00:00,41,UConn,276,Marshall,Bovada,11.5,10.5,42,40,-360,280
+401442003,2022,postseason,1,2022-12-19 19:30:00+00:00,41,UConn,276,Marshall,teamrankings,12.5,,42,,,
+401442003,2022,postseason,1,2022-12-19 19:30:00+00:00,41,UConn,276,Marshall,consensus,12.5,,42,,,
+401442003,2022,postseason,1,2022-12-19 19:30:00+00:00,41,UConn,276,Marshall,William Hill (New Jersey),12,,42,,,
+401442004,2022,postseason,1,2022-12-20 20:30:00+00:00,23,San José State,2199,Eastern Michigan,Bovada,-3.5,-4.5,54,53.5,-175,150
+401442004,2022,postseason,1,2022-12-20 20:30:00+00:00,23,San José State,2199,Eastern Michigan,teamrankings,-3.5,,54.5,,,
+401442004,2022,postseason,1,2022-12-20 20:30:00+00:00,23,San José State,2199,Eastern Michigan,consensus,-3.5,,54,,,
+401442004,2022,postseason,1,2022-12-20 20:30:00+00:00,23,San José State,2199,Eastern Michigan,William Hill (New Jersey),-3.5,,54,,,
+401442006,2022,postseason,1,2022-12-21 00:30:00+00:00,2649,Toledo,2335,Liberty,Bovada,-4,-1.5,51.5,54,160,-185
+401442006,2022,postseason,1,2022-12-21 00:30:00+00:00,2649,Toledo,2335,Liberty,teamrankings,-3.5,,51,,,
+401442006,2022,postseason,1,2022-12-21 00:30:00+00:00,2649,Toledo,2335,Liberty,consensus,-3.5,,51,,,
+401442006,2022,postseason,1,2022-12-21 00:30:00+00:00,2649,Toledo,2335,Liberty,William Hill (New Jersey),-3.5,,51,,,
+401442039,2022,postseason,1,2022-12-22 02:00:00+00:00,6,South Alabama,98,Western Kentucky,Bovada,-4,-5,58,60.5,175,-210
+401442039,2022,postseason,1,2022-12-22 02:00:00+00:00,6,South Alabama,98,Western Kentucky,teamrankings,-3.5,,58,,,
+401442039,2022,postseason,1,2022-12-22 02:00:00+00:00,6,South Alabama,98,Western Kentucky,consensus,-3.5,,57.5,,,
+401442039,2022,postseason,1,2022-12-22 02:00:00+00:00,6,South Alabama,98,Western Kentucky,William Hill (New Jersey),-4,,58,,,
+401442040,2022,postseason,1,2022-12-23 00:30:00+00:00,2005,Air Force,239,Baylor,Bovada,3.5,6.5,42,47,-250,210
+401442040,2022,postseason,1,2022-12-23 00:30:00+00:00,2005,Air Force,239,Baylor,teamrankings,3.5,,43,,,
+401442040,2022,postseason,1,2022-12-23 00:30:00+00:00,2005,Air Force,239,Baylor,consensus,3.5,,42.5,,,
+401442040,2022,postseason,1,2022-12-23 00:30:00+00:00,2005,Air Force,239,Baylor,William Hill (New Jersey),3,,42,,,
+401442042,2022,postseason,1,2022-12-23 20:00:00+00:00,248,Houston,309,Louisiana,Bovada,-5.5,-6.5,56.5,60.5,-250,210
+401442042,2022,postseason,1,2022-12-23 20:00:00+00:00,248,Houston,309,Louisiana,teamrankings,-5.5,,56.5,,,
+401442042,2022,postseason,1,2022-12-23 20:00:00+00:00,248,Houston,309,Louisiana,consensus,-5,,56.5,,,
+401442042,2022,postseason,1,2022-12-23 20:00:00+00:00,248,Houston,309,Louisiana,William Hill (New Jersey),-5,,56.5,,,
+401442007,2022,postseason,1,2022-12-23 23:30:00+00:00,142,Missouri,154,Wake Forest,Bovada,3,3.5,59,62,120,-140
+401442007,2022,postseason,1,2022-12-23 23:30:00+00:00,142,Missouri,154,Wake Forest,teamrankings,2.5,,58.5,,,
+401442007,2022,postseason,1,2022-12-23 23:30:00+00:00,142,Missouri,154,Wake Forest,consensus,2.5,,58.5,,,
+401442007,2022,postseason,1,2022-12-23 23:30:00+00:00,142,Missouri,154,Wake Forest,William Hill (New Jersey),3,,59,,,
+401442009,2022,postseason,1,2022-12-25 01:00:00+00:00,21,San Diego State,2393,Middle Tennessee,Bovada,-7,-3.5,47,47,-250,210
+401442009,2022,postseason,1,2022-12-25 01:00:00+00:00,21,San Diego State,2393,Middle Tennessee,teamrankings,-7,,47,,,
+401442009,2022,postseason,1,2022-12-25 01:00:00+00:00,21,San Diego State,2393,Middle Tennessee,consensus,-7,,47.5,,,
+401442009,2022,postseason,1,2022-12-25 01:00:00+00:00,21,San Diego State,2393,Middle Tennessee,William Hill (New Jersey),-7,,47,,,
+401442037,2022,postseason,1,2022-12-26 19:30:00+00:00,189,Bowling Green,166,New Mexico State,Bovada,-3,1,51,49.5,-130,110
+401442037,2022,postseason,1,2022-12-26 19:30:00+00:00,189,Bowling Green,166,New Mexico State,teamrankings,-3.5,,50,,,
+401442037,2022,postseason,1,2022-12-26 19:30:00+00:00,189,Bowling Green,166,New Mexico State,consensus,-3.5,,50.5,,,
+401442037,2022,postseason,1,2022-12-26 19:30:00+00:00,189,Bowling Green,166,New Mexico State,William Hill (New Jersey),-3,,50.5,,,
+401441998,2022,postseason,1,2022-12-27 17:00:00+00:00,2084,Buffalo,290,Georgia Southern,Bovada,6,4,67,63.5,150,-175
+401441998,2022,postseason,1,2022-12-27 17:00:00+00:00,2084,Buffalo,290,Georgia Southern,teamrankings,6,,66.5,,,
+401441998,2022,postseason,1,2022-12-27 17:00:00+00:00,2084,Buffalo,290,Georgia Southern,consensus,6,,66.5,,,
+401441998,2022,postseason,1,2022-12-27 17:00:00+00:00,2084,Buffalo,290,Georgia Southern,William Hill (New Jersey),6,,66.5,,,
+401442000,2022,postseason,1,2022-12-27 20:15:00+00:00,328,Utah State,235,Memphis,Bovada,8,9.5,57,61.5,-280,230
+401442000,2022,postseason,1,2022-12-27 20:15:00+00:00,328,Utah State,235,Memphis,teamrankings,8,,57,,,
+401442000,2022,postseason,1,2022-12-27 20:15:00+00:00,328,Utah State,235,Memphis,consensus,8,,57,,,
+401442000,2022,postseason,1,2022-12-27 20:15:00+00:00,328,Utah State,235,Memphis,William Hill (New Jersey),8,,57,,,
+401442002,2022,postseason,1,2022-12-27 23:45:00+00:00,151,East Carolina,324,Coastal Carolina,Bovada,-7,-7,67.5,63,275,-350
+401442002,2022,postseason,1,2022-12-27 23:45:00+00:00,151,East Carolina,324,Coastal Carolina,teamrankings,-7,,67,,,
+401442002,2022,postseason,1,2022-12-27 23:45:00+00:00,151,East Carolina,324,Coastal Carolina,consensus,-7.5,,67,,,
+401442002,2022,postseason,1,2022-12-27 23:45:00+00:00,151,East Carolina,324,Coastal Carolina,William Hill (New Jersey),-7,,67,,,
+401442005,2022,postseason,1,2022-12-28 03:15:00+00:00,197,Oklahoma State,275,Wisconsin,Bovada,5,3.5,45,48.5,,135
+401442005,2022,postseason,1,2022-12-28 03:15:00+00:00,197,Oklahoma State,275,Wisconsin,teamrankings,4.5,,44.5,,,
+401442005,2022,postseason,1,2022-12-28 03:15:00+00:00,197,Oklahoma State,275,Wisconsin,consensus,5,,45,,,
+401442005,2022,postseason,1,2022-12-28 03:15:00+00:00,197,Oklahoma State,275,Wisconsin,William Hill (New Jersey),5,,45,,,
+401442008,2022,postseason,1,2022-12-28 19:00:00+00:00,150,Duke,2116,UCF,Bovada,-3.5,2.5,63,61.5,-110,-110
+401442008,2022,postseason,1,2022-12-28 19:00:00+00:00,150,Duke,2116,UCF,teamrankings,-3,,62.5,,,
+401442008,2022,postseason,1,2022-12-28 19:00:00+00:00,150,Duke,2116,UCF,consensus,-3.5,,62.5,,,
+401442008,2022,postseason,1,2022-12-28 19:00:00+00:00,150,Duke,2116,UCF,William Hill (New Jersey),-3,,63,,,
+401442030,2022,postseason,1,2022-12-28 22:30:00+00:00,8,Arkansas,2305,Kansas,Bovada,-1.5,-5,70.5,67.5,-200,170
+401442030,2022,postseason,1,2022-12-28 22:30:00+00:00,8,Arkansas,2305,Kansas,teamrankings,-1.5,,70.5,,,
+401442030,2022,postseason,1,2022-12-28 22:30:00+00:00,8,Arkansas,2305,Kansas,consensus,-1,,70,,,
+401442030,2022,postseason,1,2022-12-28 22:30:00+00:00,8,Arkansas,2305,Kansas,William Hill (New Jersey),-1.5,,70.5,,,
+401470891,2022,postseason,1,2022-12-29 01:00:00+00:00,153,North Carolina,2483,Oregon,Bovada,13,10.5,76,74,-525,375
+401470891,2022,postseason,1,2022-12-29 01:00:00+00:00,153,North Carolina,2483,Oregon,teamrankings,13,,76,,,
+401470891,2022,postseason,1,2022-12-29 01:00:00+00:00,153,North Carolina,2483,Oregon,consensus,13,,76,,,
+401470891,2022,postseason,1,2022-12-29 01:00:00+00:00,153,North Carolina,2483,Oregon,William Hill (New Jersey),13,,76,,,
+401442031,2022,postseason,1,2022-12-29 02:00:00+00:00,145,Ole Miss,2641,Texas Tech,Bovada,-4.5,-4,73,65.5,160,
+401442031,2022,postseason,1,2022-12-29 02:00:00+00:00,145,Ole Miss,2641,Texas Tech,teamrankings,-4,,72,,,
+401442031,2022,postseason,1,2022-12-29 02:00:00+00:00,145,Ole Miss,2641,Texas Tech,consensus,-4,,72.5,,,
+401442031,2022,postseason,1,2022-12-29 02:00:00+00:00,145,Ole Miss,2641,Texas Tech,William Hill (New Jersey),-4.5,,72.5,,,
+401442032,2022,postseason,1,2022-12-29 19:00:00+00:00,135,Minnesota,183,Syracuse,Bovada,-10.5,-7,45,42,250,-300
+401442032,2022,postseason,1,2022-12-29 19:00:00+00:00,135,Minnesota,183,Syracuse,teamrankings,-10.5,,44.5,,,
+401442032,2022,postseason,1,2022-12-29 19:00:00+00:00,135,Minnesota,183,Syracuse,consensus,-10.5,,44.5,,,
+401442032,2022,postseason,1,2022-12-29 19:00:00+00:00,135,Minnesota,183,Syracuse,William Hill (New Jersey),-11,,45.5,,,
+401442033,2022,postseason,1,2022-12-29 22:30:00+00:00,52,Florida State,201,Oklahoma,Bovada,-10.5,-8,67,62,-290,
+401442033,2022,postseason,1,2022-12-29 22:30:00+00:00,52,Florida State,201,Oklahoma,teamrankings,-10.5,,66.5,,,
+401442033,2022,postseason,1,2022-12-29 22:30:00+00:00,52,Florida State,201,Oklahoma,consensus,-10.5,,66.5,,,
+401442033,2022,postseason,1,2022-12-29 22:30:00+00:00,52,Florida State,201,Oklahoma,William Hill (New Jersey),-10,,67,,,
+401442034,2022,postseason,1,2022-12-30 02:00:00+00:00,264,Washington,251,Texas,Bovada,3,6,67,68.5,-195,165
+401442034,2022,postseason,1,2022-12-30 02:00:00+00:00,264,Washington,251,Texas,teamrankings,3,,67,,,
+401442034,2022,postseason,1,2022-12-30 02:00:00+00:00,264,Washington,251,Texas,consensus,3.5,,67.5,,,
+401442034,2022,postseason,1,2022-12-30 02:00:00+00:00,264,Washington,251,Texas,William Hill (New Jersey),3,,67,,,
+401442035,2022,postseason,1,2022-12-30 17:00:00+00:00,152,NC State,120,Maryland,Bovada,-2.5,1,45,46,105,-125
+401442035,2022,postseason,1,2022-12-30 17:00:00+00:00,152,NC State,120,Maryland,teamrankings,-2,,45.5,,,
+401442035,2022,postseason,1,2022-12-30 17:00:00+00:00,152,NC State,120,Maryland,consensus,-2,,45.5,,,
+401442035,2022,postseason,1,2022-12-30 17:00:00+00:00,152,NC State,120,Maryland,William Hill (New Jersey),-2,,45,,,
+401443542,2022,postseason,1,2022-12-30 19:00:00+00:00,26,UCLA,221,Pittsburgh,Bovada,-9,-4,55,60.5,-310,255
+401443542,2022,postseason,1,2022-12-30 19:00:00+00:00,26,UCLA,221,Pittsburgh,teamrankings,-8.5,,54.5,,,
+401443542,2022,postseason,1,2022-12-30 19:00:00+00:00,26,UCLA,221,Pittsburgh,consensus,-8.5,,54.5,,,
+401443542,2022,postseason,1,2022-12-30 19:00:00+00:00,26,UCLA,221,Pittsburgh,William Hill (New Jersey),-8.5,,54.5,,,
+401442036,2022,postseason,1,2022-12-30 20:30:00+00:00,2579,South Carolina,87,Notre Dame,Bovada,5,3,50.5,51.5,-140,120
+401442036,2022,postseason,1,2022-12-30 20:30:00+00:00,2579,South Carolina,87,Notre Dame,teamrankings,5,,50.5,,,
+401442036,2022,postseason,1,2022-12-30 20:30:00+00:00,2579,South Carolina,87,Notre Dame,consensus,5,,50.5,,,
+401442036,2022,postseason,1,2022-12-30 20:30:00+00:00,2579,South Carolina,87,Notre Dame,William Hill (New Jersey),5.5,,50.5,,,
+401443543,2022,postseason,1,2022-12-30 21:30:00+00:00,2751,Wyoming,195,Ohio,Bovada,3,0,43,42.5,-125,105
+401443543,2022,postseason,1,2022-12-30 21:30:00+00:00,2751,Wyoming,195,Ohio,teamrankings,3,,43,,,
+401443543,2022,postseason,1,2022-12-30 21:30:00+00:00,2751,Wyoming,195,Ohio,consensus,3,,43,,,
+401443543,2022,postseason,1,2022-12-30 21:30:00+00:00,2751,Wyoming,195,Ohio,William Hill (New Jersey),3,,43,,,
+401442019,2022,postseason,1,2022-12-31 01:00:00+00:00,228,Clemson,2633,Tennessee,Bovada,-4,-4.5,62,64,220,-270
+401442019,2022,postseason,1,2022-12-31 01:00:00+00:00,228,Clemson,2633,Tennessee,teamrankings,-3.5,,62,,,
+401442019,2022,postseason,1,2022-12-31 01:00:00+00:00,228,Clemson,2633,Tennessee,consensus,-4.5,,61,,,
+401442019,2022,postseason,1,2022-12-31 01:00:00+00:00,228,Clemson,2633,Tennessee,William Hill (New Jersey),-4,,61,,,
+401442017,2022,postseason,1,2022-12-31 17:00:00+00:00,96,Kentucky,2294,Iowa,Bovada,3,-3,31.5,31.5,110,-130
+401442017,2022,postseason,1,2022-12-31 17:00:00+00:00,96,Kentucky,2294,Iowa,teamrankings,3,,31.5,,,
+401442017,2022,postseason,1,2022-12-31 17:00:00+00:00,96,Kentucky,2294,Iowa,consensus,3,,31.5,,,
+401442017,2022,postseason,1,2022-12-31 17:00:00+00:00,96,Kentucky,2294,Iowa,William Hill (New Jersey),3,,31.5,,,
+401442018,2022,postseason,1,2022-12-31 17:00:00+00:00,2306,Kansas State,333,Alabama,Bovada,8,5.5,58.5,55,-195,165
+401442018,2022,postseason,1,2022-12-31 17:00:00+00:00,2306,Kansas State,333,Alabama,teamrankings,7.5,,58,,,
+401442018,2022,postseason,1,2022-12-31 17:00:00+00:00,2306,Kansas State,333,Alabama,consensus,7.5,,58,,,
+401442018,2022,postseason,1,2022-12-31 17:00:00+00:00,2306,Kansas State,333,Alabama,William Hill (New Jersey),7.5,,58,,,
+401442016,2022,postseason,1,2022-12-31 21:00:00+00:00,130,Michigan,2628,TCU,Bovada,-8,-9,56,60,-290,240
+401442016,2022,postseason,1,2022-12-31 21:00:00+00:00,130,Michigan,2628,TCU,teamrankings,-8,,56,,,
+401442016,2022,postseason,1,2022-12-31 21:00:00+00:00,130,Michigan,2628,TCU,consensus,-8,,56,,,
+401442016,2022,postseason,1,2022-12-31 21:00:00+00:00,130,Michigan,2628,TCU,William Hill (New Jersey),-7.5,,56,,,
+401442015,2022,postseason,1,2023-01-01 01:00:00+00:00,61,Georgia,194,Ohio State,Bovada,-5.5,-7,62,61,-250,210
+401442015,2022,postseason,1,2023-01-01 01:00:00+00:00,61,Georgia,194,Ohio State,teamrankings,-4.5,,62,,,
+401442015,2022,postseason,1,2023-01-01 01:00:00+00:00,61,Georgia,194,Ohio State,consensus,-5.5,,62.5,,,
+401442015,2022,postseason,1,2023-01-01 01:00:00+00:00,61,Georgia,194,Ohio State,William Hill (New Jersey),-5,,61.5,,,
+401442011,2022,postseason,1,2023-01-02 17:00:00+00:00,356,Illinois,344,Mississippi State,Bovada,3.5,0,46.5,46,-105,-115
+401442011,2022,postseason,1,2023-01-02 17:00:00+00:00,356,Illinois,344,Mississippi State,teamrankings,3.5,,46.5,,,
+401442011,2022,postseason,1,2023-01-02 17:00:00+00:00,356,Illinois,344,Mississippi State,consensus,3.5,,46.5,,,
+401442011,2022,postseason,1,2023-01-02 17:00:00+00:00,356,Illinois,344,Mississippi State,William Hill (New Jersey),4,,46.5,,,
+401442012,2022,postseason,1,2023-01-02 18:00:00+00:00,2509,Purdue,99,LSU,Bovada,15,10,54,58.5,-625,430
+401442012,2022,postseason,1,2023-01-02 18:00:00+00:00,2509,Purdue,99,LSU,teamrankings,15,,54.5,,,
+401442012,2022,postseason,1,2023-01-02 18:00:00+00:00,2509,Purdue,99,LSU,consensus,15.5,,54.5,,,
+401442012,2022,postseason,1,2023-01-02 18:00:00+00:00,2509,Purdue,99,LSU,Caesars Sportsbook (Colorado),15,,53.5,,,
+401442013,2022,postseason,1,2023-01-02 18:00:00+00:00,30,USC,2655,Tulane,Bovada,-1.5,0,67,63.5,-130,110
+401442013,2022,postseason,1,2023-01-02 18:00:00+00:00,30,USC,2655,Tulane,teamrankings,-1.5,,66.5,,,
+401442013,2022,postseason,1,2023-01-02 18:00:00+00:00,30,USC,2655,Tulane,consensus,-1.5,,66.5,,,
+401442013,2022,postseason,1,2023-01-02 18:00:00+00:00,30,USC,2655,Tulane,William Hill (New Jersey),-1.5,,66,,,
+401442014,2022,postseason,1,2023-01-02 22:00:00+00:00,254,Utah,213,Penn State,Bovada,1.5,0,55.5,49,130,-150
+401442014,2022,postseason,1,2023-01-02 22:00:00+00:00,254,Utah,213,Penn State,teamrankings,1.5,,55,,,
+401442014,2022,postseason,1,2023-01-02 22:00:00+00:00,254,Utah,213,Penn State,consensus,1.5,,55,,,
+401442014,2022,postseason,1,2023-01-02 22:00:00+00:00,254,Utah,213,Penn State,William Hill (New Jersey),1,,55,,,
+401445817,2022,postseason,1,2023-01-08 19:00:00+00:00,2571,South Dakota State,2449,North Dakota State,Bovada,-5,-4,47,47.5,,145
+401445817,2022,postseason,1,2023-01-08 19:00:00+00:00,2571,South Dakota State,2449,North Dakota State,William Hill (New Jersey),-5.5,,47,,,
+401442010,2022,postseason,1,2023-01-10 00:30:00+00:00,61,Georgia,2628,TCU,Bovada,-13.5,-13.5,62,62.5,-500,360
+401442010,2022,postseason,1,2023-01-10 00:30:00+00:00,61,Georgia,2628,TCU,teamrankings,-13.5,,62,,,
+401442010,2022,postseason,1,2023-01-10 00:30:00+00:00,61,Georgia,2628,TCU,consensus,-13.5,,61.5,,,
+401442010,2022,postseason,1,2023-01-10 00:30:00+00:00,61,Georgia,2628,TCU,William Hill (New Jersey),-13.5,,61.5,,,
