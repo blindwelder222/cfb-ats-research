@@ -29,7 +29,7 @@ YEARS = range(2016, 2026)
 
 GAME_TEAM_DIR = Path("data/normalized/teams")
 CONSENSUS_DIR = Path("data/normalized/betting/consensus")
-OUTPUT_DIR = Path("data/normalized/master")
+OUTPUT_DIR = Path("data/normalized/joined")
 
 CONSENSUS_FIELDS = [
     "spread_provider_count",
