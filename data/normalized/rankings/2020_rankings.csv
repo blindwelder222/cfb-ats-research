@@ -1,0 +1,425 @@
+season,season_type,week,team_id,school,conference,cfp_rank,ap_rank,coaches_rank,effective_rank,ranking_source
+2020,postseason,1,333,Alabama,SEC,1,1,1,1,CFP
+2020,postseason,1,228,Clemson,ACC,2,3,3,2,CFP
+2020,postseason,1,194,Ohio State,Big Ten,3,2,2,3,CFP
+2020,postseason,1,87,Notre Dame,FBS Independents,4,5,5,4,CFP
+2020,postseason,1,245,Texas A&M,SEC,5,4,4,5,CFP
+2020,postseason,1,201,Oklahoma,Big 12,6,6,6,6,CFP
+2020,postseason,1,57,Florida,SEC,7,13,12,7,CFP
+2020,postseason,1,2132,Cincinnati,American Athletic,8,8,8,8,CFP
+2020,postseason,1,61,Georgia,SEC,9,7,7,9,CFP
+2020,postseason,1,66,Iowa State,Big 12,10,9,9,10,CFP
+2020,postseason,1,84,Indiana,Big Ten,11,12,13,11,CFP
+2020,postseason,1,324,Coastal Carolina,Sun Belt,12,14,14,12,CFP
+2020,postseason,1,153,North Carolina,ACC,13,18,17,13,CFP
+2020,postseason,1,77,Northwestern,Big Ten,14,10,10,14,CFP
+2020,postseason,1,2294,Iowa,Big Ten,15,16,15,15,CFP
+2020,postseason,1,252,BYU,FBS Independents,16,11,11,16,CFP
+2020,postseason,1,30,USC,Pac-12,17,21,21,17,CFP
+2020,postseason,1,2335,Liberty,FBS Independents,,17,18,17,AP
+2020,postseason,1,2390,Miami,ACC,18,22,22,18,CFP
+2020,postseason,1,309,Louisiana,Sun Belt,19,15,16,19,CFP
+2020,postseason,1,251,Texas,Big 12,20,19,20,20,CFP
+2020,postseason,1,197,Oklahoma State,Big 12,21,20,19,21,CFP
+2020,postseason,1,23,San José State,Mountain West,22,24,24,22,CFP
+2020,postseason,1,152,NC State,ACC,23,,,23,CFP
+2020,postseason,1,2050,Ball State,Mid-American,,23,23,23,AP
+2020,postseason,1,202,Tulsa,American Athletic,24,,,24,CFP
+2020,postseason,1,2084,Buffalo,Mid-American,,25,25,25,AP
+2020,postseason,1,2483,Oregon,Pac-12,25,,,25,CFP
+2020,regular,1,228,Clemson,ACC,,1,1,1,AP
+2020,regular,1,194,Ohio State,Big Ten,,2,2,2,AP
+2020,regular,1,333,Alabama,SEC,,3,3,3,AP
+2020,regular,1,61,Georgia,SEC,,4,4,4,AP
+2020,regular,1,201,Oklahoma,Big 12,,5,6,5,AP
+2020,regular,1,99,LSU,SEC,,6,5,6,AP
+2020,regular,1,213,Penn State,Big Ten,,7,7,7,AP
+2020,regular,1,57,Florida,SEC,,8,8,8,AP
+2020,regular,1,2483,Oregon,Pac-12,,9,9,9,AP
+2020,regular,1,87,Notre Dame,FBS Independents,,10,10,10,AP
+2020,regular,1,2,Auburn,SEC,,11,11,11,AP
+2020,regular,1,275,Wisconsin,Big Ten,,12,12,12,AP
+2020,regular,1,245,Texas A&M,SEC,,13,13,13,AP
+2020,regular,1,251,Texas,Big 12,,14,14,14,AP
+2020,regular,1,197,Oklahoma State,Big 12,,15,16,15,AP
+2020,regular,1,130,Michigan,Big Ten,,16,15,16,AP
+2020,regular,1,30,USC,Pac-12,,17,17,17,AP
+2020,regular,1,153,North Carolina,ACC,,18,19,18,AP
+2020,regular,1,135,Minnesota,Big Ten,,19,18,19,AP
+2020,regular,1,2132,Cincinnati,American Athletic,,20,22,20,AP
+2020,regular,1,2116,UCF,American Athletic,,21,21,21,AP
+2020,regular,1,254,Utah,Pac-12,,22,20,22,AP
+2020,regular,1,66,Iowa State,Big 12,,23,25,23,AP
+2020,regular,1,259,Virginia Tech,ACC,,,24,24,Coaches
+2020,regular,1,2294,Iowa,Big Ten,,24,23,24,AP
+2020,regular,1,2633,Tennessee,SEC,,25,,25,AP
+2020,regular,3,228,Clemson,ACC,,1,1,1,AP
+2020,regular,3,333,Alabama,SEC,,2,2,2,AP
+2020,regular,3,201,Oklahoma,Big 12,,3,3,3,AP
+2020,regular,3,61,Georgia,SEC,,4,4,4,AP
+2020,regular,3,57,Florida,SEC,,5,6,5,AP
+2020,regular,3,99,LSU,SEC,,6,5,6,AP
+2020,regular,3,87,Notre Dame,FBS Independents,,7,7,7,AP
+2020,regular,3,2,Auburn,SEC,,8,9,8,AP
+2020,regular,3,251,Texas,Big 12,,9,8,9,AP
+2020,regular,3,245,Texas A&M,SEC,,10,10,10,AP
+2020,regular,3,197,Oklahoma State,Big 12,,11,12,11,AP
+2020,regular,3,153,North Carolina,ACC,,12,11,12,AP
+2020,regular,3,2132,Cincinnati,American Athletic,,13,14,13,AP
+2020,regular,3,2116,UCF,American Athletic,,14,13,14,AP
+2020,regular,3,2633,Tennessee,SEC,,15,17,15,AP
+2020,regular,3,235,Memphis,American Athletic,,16,15,16,AP
+2020,regular,3,2390,Miami,ACC,,17,18,17,AP
+2020,regular,3,97,Louisville,ACC,,18,16,18,AP
+2020,regular,3,309,Louisiana,Sun Belt,,19,21,19,AP
+2020,regular,3,259,Virginia Tech,ACC,,20,19,20,AP
+2020,regular,3,252,BYU,FBS Independents,,21,22,21,AP
+2020,regular,3,349,Army,FBS Independents,,22,25,22,AP
+2020,regular,3,96,Kentucky,SEC,,23,20,23,AP
+2020,regular,3,239,Baylor,Big 12,,,24,24,Coaches
+2020,regular,3,2026,App State,Sun Belt,,24,23,24,AP
+2020,regular,3,221,Pittsburgh,ACC,,25,,25,AP
+2020,regular,4,228,Clemson,ACC,,1,1,1,AP
+2020,regular,4,333,Alabama,SEC,,2,2,2,AP
+2020,regular,4,201,Oklahoma,Big 12,,3,3,3,AP
+2020,regular,4,61,Georgia,SEC,,4,3,4,AP
+2020,regular,4,57,Florida,SEC,,5,6,5,AP
+2020,regular,4,99,LSU,SEC,,6,5,6,AP
+2020,regular,4,87,Notre Dame,FBS Independents,,7,7,7,AP
+2020,regular,4,2,Auburn,SEC,,8,8,8,AP
+2020,regular,4,251,Texas,Big 12,,8,9,8,AP
+2020,regular,4,194,Ohio State,Big Ten,,,10,10,Coaches
+2020,regular,4,245,Texas A&M,SEC,,10,11,10,AP
+2020,regular,4,153,North Carolina,ACC,,11,12,11,AP
+2020,regular,4,2390,Miami,ACC,,12,14,12,AP
+2020,regular,4,213,Penn State,Big Ten,,,13,13,Coaches
+2020,regular,4,2116,UCF,American Athletic,,13,15,13,AP
+2020,regular,4,2132,Cincinnati,American Athletic,,14,16,14,AP
+2020,regular,4,197,Oklahoma State,Big 12,,15,18,15,AP
+2020,regular,4,2633,Tennessee,SEC,,16,21,16,AP
+2020,regular,4,235,Memphis,American Athletic,,17,20,17,AP
+2020,regular,4,275,Wisconsin,Big Ten,,,17,17,Coaches
+2020,regular,4,252,BYU,FBS Independents,,18,23,18,AP
+2020,regular,4,130,Michigan,Big Ten,,,19,19,Coaches
+2020,regular,4,309,Louisiana,Sun Belt,,19,25,19,AP
+2020,regular,4,259,Virginia Tech,ACC,,20,24,20,AP
+2020,regular,4,221,Pittsburgh,ACC,,21,,21,AP
+2020,regular,4,135,Minnesota,Big Ten,,,22,22,Coaches
+2020,regular,4,349,Army,FBS Independents,,22,,22,AP
+2020,regular,4,96,Kentucky,SEC,,23,,23,AP
+2020,regular,4,97,Louisville,ACC,,24,,24,AP
+2020,regular,4,276,Marshall,Conference USA,,25,,25,AP
+2020,regular,5,228,Clemson,ACC,,1,1,1,AP
+2020,regular,5,333,Alabama,SEC,,2,2,2,AP
+2020,regular,5,57,Florida,SEC,,3,3,3,AP
+2020,regular,5,61,Georgia,SEC,,4,4,4,AP
+2020,regular,5,87,Notre Dame,FBS Independents,,5,5,5,AP
+2020,regular,5,194,Ohio State,Big Ten,,6,6,6,AP
+2020,regular,5,2,Auburn,SEC,,7,7,7,AP
+2020,regular,5,2390,Miami,ACC,,8,8,8,AP
+2020,regular,5,251,Texas,Big 12,,9,9,9,AP
+2020,regular,5,213,Penn State,Big Ten,,10,10,10,AP
+2020,regular,5,2116,UCF,American Athletic,,11,12,11,AP
+2020,regular,5,153,North Carolina,ACC,,12,11,12,AP
+2020,regular,5,245,Texas A&M,SEC,,13,13,13,AP
+2020,regular,5,2483,Oregon,Pac-12,,14,,14,AP
+2020,regular,5,2132,Cincinnati,American Athletic,,15,15,15,AP
+2020,regular,5,344,Mississippi State,SEC,,16,14,16,AP
+2020,regular,5,197,Oklahoma State,Big 12,,17,19,17,AP
+2020,regular,5,201,Oklahoma,Big 12,,18,16,18,AP
+2020,regular,5,275,Wisconsin,Big Ten,,19,18,19,AP
+2020,regular,5,99,LSU,SEC,,20,17,20,AP
+2020,regular,5,2633,Tennessee,SEC,,21,20,21,AP
+2020,regular,5,252,BYU,FBS Independents,,22,22,22,AP
+2020,regular,5,130,Michigan,Big Ten,,23,21,23,AP
+2020,regular,5,259,Virginia Tech,ACC,,,23,23,Coaches
+2020,regular,5,221,Pittsburgh,ACC,,24,25,24,AP
+2020,regular,5,235,Memphis,American Athletic,,25,24,25,AP
+2020,regular,6,228,Clemson,ACC,,1,1,1,AP
+2020,regular,6,333,Alabama,SEC,,2,2,2,AP
+2020,regular,6,61,Georgia,SEC,,3,3,3,AP
+2020,regular,6,57,Florida,SEC,,4,3,4,AP
+2020,regular,6,87,Notre Dame,FBS Independents,,5,5,5,AP
+2020,regular,6,194,Ohio State,Big Ten,,6,6,6,AP
+2020,regular,6,2390,Miami,ACC,,7,7,7,AP
+2020,regular,6,153,North Carolina,ACC,,8,9,8,AP
+2020,regular,6,213,Penn State,Big Ten,,9,8,9,AP
+2020,regular,6,197,Oklahoma State,Big 12,,10,10,10,AP
+2020,regular,6,2132,Cincinnati,American Athletic,,11,11,11,AP
+2020,regular,6,2483,Oregon,Pac-12,,12,17,12,AP
+2020,regular,6,2,Auburn,SEC,,13,13,13,AP
+2020,regular,6,2633,Tennessee,SEC,,14,12,14,AP
+2020,regular,6,252,BYU,FBS Independents,,15,15,15,AP
+2020,regular,6,275,Wisconsin,Big Ten,,16,14,16,AP
+2020,regular,6,99,LSU,SEC,,17,16,17,AP
+2020,regular,6,2567,SMU,American Athletic,,18,21,18,AP
+2020,regular,6,259,Virginia Tech,ACC,,19,18,19,AP
+2020,regular,6,130,Michigan,Big Ten,,20,19,20,AP
+2020,regular,6,245,Texas A&M,SEC,,21,20,21,AP
+2020,regular,6,251,Texas,Big 12,,22,22,22,AP
+2020,regular,6,309,Louisiana,Sun Belt,,23,23,23,AP
+2020,regular,6,66,Iowa State,Big 12,,24,24,24,AP
+2020,regular,6,135,Minnesota,Big Ten,,25,,25,AP
+2020,regular,6,2116,UCF,American Athletic,,,25,25,Coaches
+2020,regular,7,228,Clemson,ACC,,1,1,1,AP
+2020,regular,7,333,Alabama,SEC,,2,2,2,AP
+2020,regular,7,61,Georgia,SEC,,3,3,3,AP
+2020,regular,7,87,Notre Dame,FBS Independents,,4,4,4,AP
+2020,regular,7,153,North Carolina,ACC,,5,6,5,AP
+2020,regular,7,194,Ohio State,Big Ten,,6,5,6,AP
+2020,regular,7,197,Oklahoma State,Big 12,,7,7,7,AP
+2020,regular,7,2132,Cincinnati,American Athletic,,8,10,8,AP
+2020,regular,7,213,Penn State,Big Ten,,9,8,9,AP
+2020,regular,7,57,Florida,SEC,,10,9,10,AP
+2020,regular,7,245,Texas A&M,SEC,,11,11,11,AP
+2020,regular,7,2483,Oregon,Pac-12,,12,16,12,AP
+2020,regular,7,2390,Miami,ACC,,13,12,13,AP
+2020,regular,7,2,Auburn,SEC,,14,14,14,AP
+2020,regular,7,252,BYU,FBS Independents,,15,13,15,AP
+2020,regular,7,275,Wisconsin,Big Ten,,16,15,16,AP
+2020,regular,7,2567,SMU,American Athletic,,17,18,17,AP
+2020,regular,7,2633,Tennessee,SEC,,18,17,18,AP
+2020,regular,7,130,Michigan,Big Ten,,19,19,19,AP
+2020,regular,7,66,Iowa State,Big 12,,20,20,20,AP
+2020,regular,7,309,Louisiana,Sun Belt,,21,21,21,AP
+2020,regular,7,2306,Kansas State,Big 12,,22,22,22,AP
+2020,regular,7,259,Virginia Tech,ACC,,23,23,23,AP
+2020,regular,7,135,Minnesota,Big Ten,,24,25,24,AP
+2020,regular,7,30,USC,Pac-12,,25,24,25,AP
+2020,regular,8,228,Clemson,ACC,,1,1,1,AP
+2020,regular,8,333,Alabama,SEC,,2,2,2,AP
+2020,regular,8,87,Notre Dame,FBS Independents,,3,3,3,AP
+2020,regular,8,61,Georgia,SEC,,4,4,4,AP
+2020,regular,8,194,Ohio State,Big Ten,,5,5,5,AP
+2020,regular,8,197,Oklahoma State,Big 12,,6,6,6,AP
+2020,regular,8,245,Texas A&M,SEC,,7,9,7,AP
+2020,regular,8,213,Penn State,Big Ten,,8,7,8,AP
+2020,regular,8,2132,Cincinnati,American Athletic,,9,10,9,AP
+2020,regular,8,57,Florida,SEC,,10,8,10,AP
+2020,regular,8,2390,Miami,ACC,,11,11,11,AP
+2020,regular,8,252,BYU,FBS Independents,,12,11,12,AP
+2020,regular,8,2483,Oregon,Pac-12,,13,15,13,AP
+2020,regular,8,153,North Carolina,ACC,,14,13,14,AP
+2020,regular,8,275,Wisconsin,Big Ten,,14,14,14,AP
+2020,regular,8,2567,SMU,American Athletic,,16,16,16,AP
+2020,regular,8,66,Iowa State,Big 12,,17,18,17,AP
+2020,regular,8,130,Michigan,Big Ten,,18,17,18,AP
+2020,regular,8,259,Virginia Tech,ACC,,19,20,19,AP
+2020,regular,8,2306,Kansas State,Big 12,,20,19,20,AP
+2020,regular,8,135,Minnesota,Big Ten,,21,21,21,AP
+2020,regular,8,276,Marshall,Conference USA,,22,25,22,AP
+2020,regular,8,152,NC State,ACC,,23,22,23,AP
+2020,regular,8,30,USC,Pac-12,,24,23,24,AP
+2020,regular,8,324,Coastal Carolina,Sun Belt,,25,24,25,AP
+2020,regular,9,228,Clemson,ACC,,1,1,1,AP
+2020,regular,9,333,Alabama,SEC,,2,2,2,AP
+2020,regular,9,194,Ohio State,Big Ten,,3,3,3,AP
+2020,regular,9,87,Notre Dame,FBS Independents,,4,4,4,AP
+2020,regular,9,61,Georgia,SEC,,5,5,5,AP
+2020,regular,9,197,Oklahoma State,Big 12,,6,6,6,AP
+2020,regular,9,2132,Cincinnati,American Athletic,,7,7,7,AP
+2020,regular,9,245,Texas A&M,SEC,,8,8,8,AP
+2020,regular,9,275,Wisconsin,Big Ten,,9,11,9,AP
+2020,regular,9,57,Florida,SEC,,10,9,10,AP
+2020,regular,9,252,BYU,FBS Independents,,11,10,11,AP
+2020,regular,9,2390,Miami,ACC,,12,12,12,AP
+2020,regular,9,130,Michigan,Big Ten,,13,14,13,AP
+2020,regular,9,2483,Oregon,Pac-12,,14,15,14,AP
+2020,regular,9,153,North Carolina,ACC,,15,13,15,AP
+2020,regular,9,2306,Kansas State,Big 12,,16,16,16,AP
+2020,regular,9,84,Indiana,Big Ten,,17,19,17,AP
+2020,regular,9,213,Penn State,Big Ten,,18,17,18,AP
+2020,regular,9,276,Marshall,Conference USA,,19,18,19,AP
+2020,regular,9,324,Coastal Carolina,Sun Belt,,20,21,20,AP
+2020,regular,9,30,USC,Pac-12,,21,20,21,AP
+2020,regular,9,2567,SMU,American Athletic,,22,23,22,AP
+2020,regular,9,66,Iowa State,Big 12,,23,22,23,AP
+2020,regular,9,201,Oklahoma,Big 12,,24,24,24,AP
+2020,regular,9,68,Boise State,Mountain West,,25,,25,AP
+2020,regular,9,349,Army,FBS Independents,,,25,25,Coaches
+2020,regular,10,228,Clemson,ACC,,1,1,1,AP
+2020,regular,10,333,Alabama,SEC,,2,2,2,AP
+2020,regular,10,194,Ohio State,Big Ten,,3,3,3,AP
+2020,regular,10,87,Notre Dame,FBS Independents,,4,4,4,AP
+2020,regular,10,61,Georgia,SEC,,5,5,5,AP
+2020,regular,10,2132,Cincinnati,American Athletic,,6,6,6,AP
+2020,regular,10,245,Texas A&M,SEC,,7,7,7,AP
+2020,regular,10,57,Florida,SEC,,8,8,8,AP
+2020,regular,10,252,BYU,FBS Independents,,9,9,9,AP
+2020,regular,10,275,Wisconsin,Big Ten,,10,11,10,AP
+2020,regular,10,2390,Miami,ACC,,11,10,11,AP
+2020,regular,10,2483,Oregon,Pac-12,,12,14,12,AP
+2020,regular,10,84,Indiana,Big Ten,,13,13,13,AP
+2020,regular,10,197,Oklahoma State,Big 12,,14,12,14,AP
+2020,regular,10,324,Coastal Carolina,Sun Belt,,15,16,15,AP
+2020,regular,10,276,Marshall,Conference USA,,16,15,16,AP
+2020,regular,10,66,Iowa State,Big 12,,17,17,17,AP
+2020,regular,10,2567,SMU,American Athletic,,18,18,18,AP
+2020,regular,10,201,Oklahoma,Big 12,,19,19,19,AP
+2020,regular,10,30,USC,Pac-12,,20,20,20,AP
+2020,regular,10,68,Boise State,Mountain West,,21,23,21,AP
+2020,regular,10,251,Texas,Big 12,,22,,22,AP
+2020,regular,10,349,Army,FBS Independents,,,22,22,Coaches
+2020,regular,10,130,Michigan,Big Ten,,23,25,23,AP
+2020,regular,10,2,Auburn,SEC,,24,21,24,AP
+2020,regular,10,153,North Carolina,ACC,,,24,24,Coaches
+2020,regular,10,2335,Liberty,FBS Independents,,25,,25,AP
+2020,regular,11,333,Alabama,SEC,,1,1,1,AP
+2020,regular,11,87,Notre Dame,FBS Independents,,2,2,2,AP
+2020,regular,11,194,Ohio State,Big Ten,,3,3,3,AP
+2020,regular,11,228,Clemson,ACC,,4,4,4,AP
+2020,regular,11,245,Texas A&M,SEC,,5,6,5,AP
+2020,regular,11,57,Florida,SEC,,6,5,6,AP
+2020,regular,11,2132,Cincinnati,American Athletic,,7,7,7,AP
+2020,regular,11,252,BYU,FBS Independents,,8,8,8,AP
+2020,regular,11,2390,Miami,ACC,,9,9,9,AP
+2020,regular,11,84,Indiana,Big Ten,,10,10,10,AP
+2020,regular,11,2483,Oregon,Pac-12,,11,12,11,AP
+2020,regular,11,61,Georgia,SEC,,12,11,12,AP
+2020,regular,11,275,Wisconsin,Big Ten,,13,14,13,AP
+2020,regular,11,197,Oklahoma State,Big 12,,14,13,14,AP
+2020,regular,11,324,Coastal Carolina,Sun Belt,,15,17,15,AP
+2020,regular,11,276,Marshall,Conference USA,,16,15,16,AP
+2020,regular,11,66,Iowa State,Big 12,,17,16,17,AP
+2020,regular,11,201,Oklahoma,Big 12,,18,18,18,AP
+2020,regular,11,2567,SMU,American Athletic,,19,19,19,AP
+2020,regular,11,30,USC,Pac-12,,20,20,20,AP
+2020,regular,11,251,Texas,Big 12,,21,24,21,AP
+2020,regular,11,2335,Liberty,FBS Independents,,22,22,22,AP
+2020,regular,11,77,Northwestern,Big Ten,,23,23,23,AP
+2020,regular,11,2,Auburn,SEC,,24,21,24,AP
+2020,regular,11,309,Louisiana,Sun Belt,,25,,25,AP
+2020,regular,11,349,Army,FBS Independents,,,25,25,Coaches
+2020,regular,12,333,Alabama,SEC,,1,1,1,AP
+2020,regular,12,87,Notre Dame,FBS Independents,,2,2,2,AP
+2020,regular,12,194,Ohio State,Big Ten,,3,3,3,AP
+2020,regular,12,228,Clemson,ACC,,4,4,4,AP
+2020,regular,12,245,Texas A&M,SEC,,5,6,5,AP
+2020,regular,12,57,Florida,SEC,,6,5,6,AP
+2020,regular,12,2132,Cincinnati,American Athletic,,7,7,7,AP
+2020,regular,12,252,BYU,FBS Independents,,8,8,8,AP
+2020,regular,12,84,Indiana,Big Ten,,9,10,9,AP
+2020,regular,12,275,Wisconsin,Big Ten,,10,12,10,AP
+2020,regular,12,2483,Oregon,Pac-12,,11,13,11,AP
+2020,regular,12,2390,Miami,ACC,,12,9,12,AP
+2020,regular,12,61,Georgia,SEC,,13,11,13,AP
+2020,regular,12,197,Oklahoma State,Big 12,,14,14,14,AP
+2020,regular,12,276,Marshall,Conference USA,,15,15,15,AP
+2020,regular,12,324,Coastal Carolina,Sun Belt,,15,18,15,AP
+2020,regular,12,66,Iowa State,Big 12,,17,16,17,AP
+2020,regular,12,201,Oklahoma,Big 12,,18,17,18,AP
+2020,regular,12,77,Northwestern,Big Ten,,19,20,19,AP
+2020,regular,12,30,USC,Pac-12,,20,19,20,AP
+2020,regular,12,2335,Liberty,FBS Independents,,21,22,21,AP
+2020,regular,12,251,Texas,Big 12,,22,23,22,AP
+2020,regular,12,2,Auburn,SEC,,23,21,23,AP
+2020,regular,12,153,North Carolina,ACC,,,24,24,Coaches
+2020,regular,12,309,Louisiana,Sun Belt,,24,25,24,AP
+2020,regular,12,202,Tulsa,American Athletic,,25,,25,AP
+2020,regular,13,333,Alabama,SEC,1,1,1,1,CFP
+2020,regular,13,87,Notre Dame,FBS Independents,2,2,2,2,CFP
+2020,regular,13,228,Clemson,ACC,3,4,4,3,CFP
+2020,regular,13,194,Ohio State,Big Ten,4,3,3,4,CFP
+2020,regular,13,245,Texas A&M,SEC,5,5,6,5,CFP
+2020,regular,13,57,Florida,SEC,6,6,5,6,CFP
+2020,regular,13,2132,Cincinnati,American Athletic,7,7,7,7,CFP
+2020,regular,13,77,Northwestern,Big Ten,8,11,13,8,CFP
+2020,regular,13,61,Georgia,SEC,9,13,10,9,CFP
+2020,regular,13,2390,Miami,ACC,10,10,9,10,CFP
+2020,regular,13,201,Oklahoma,Big 12,11,14,14,11,CFP
+2020,regular,13,84,Indiana,Big Ten,12,12,12,12,CFP
+2020,regular,13,66,Iowa State,Big 12,13,15,15,13,CFP
+2020,regular,13,252,BYU,FBS Independents,14,8,8,14,CFP
+2020,regular,13,2483,Oregon,Pac-12,15,9,11,15,CFP
+2020,regular,13,275,Wisconsin,Big Ten,16,18,20,16,CFP
+2020,regular,13,251,Texas,Big 12,17,20,21,17,CFP
+2020,regular,13,30,USC,Pac-12,18,19,18,18,CFP
+2020,regular,13,153,North Carolina,ACC,19,25,23,19,CFP
+2020,regular,13,324,Coastal Carolina,Sun Belt,20,16,17,20,CFP
+2020,regular,13,276,Marshall,Conference USA,21,17,16,21,CFP
+2020,regular,13,2,Auburn,SEC,22,22,19,22,CFP
+2020,regular,13,197,Oklahoma State,Big 12,23,21,22,23,CFP
+2020,regular,13,309,Louisiana,Sun Belt,,23,24,23,AP
+2020,regular,13,2294,Iowa,Big Ten,24,,,24,CFP
+2020,regular,13,202,Tulsa,American Athletic,25,24,25,25,CFP
+2020,regular,14,333,Alabama,SEC,1,1,1,1,CFP
+2020,regular,14,87,Notre Dame,FBS Independents,2,2,2,2,CFP
+2020,regular,14,228,Clemson,ACC,3,4,3,3,CFP
+2020,regular,14,194,Ohio State,Big Ten,4,3,4,4,CFP
+2020,regular,14,245,Texas A&M,SEC,5,5,6,5,CFP
+2020,regular,14,57,Florida,SEC,6,6,5,6,CFP
+2020,regular,14,2132,Cincinnati,American Athletic,7,7,7,7,CFP
+2020,regular,14,61,Georgia,SEC,8,11,10,8,CFP
+2020,regular,14,66,Iowa State,Big 12,9,12,12,9,CFP
+2020,regular,14,2390,Miami,ACC,10,9,9,10,CFP
+2020,regular,14,201,Oklahoma,Big 12,11,13,13,11,CFP
+2020,regular,14,84,Indiana,Big Ten,12,10,11,12,CFP
+2020,regular,14,252,BYU,FBS Independents,13,8,8,13,CFP
+2020,regular,14,77,Northwestern,Big Ten,14,16,17,14,CFP
+2020,regular,14,197,Oklahoma State,Big 12,15,19,18,15,CFP
+2020,regular,14,275,Wisconsin,Big Ten,16,18,19,16,CFP
+2020,regular,14,153,North Carolina,ACC,17,,,17,CFP
+2020,regular,14,324,Coastal Carolina,Sun Belt,18,14,14,18,CFP
+2020,regular,14,2294,Iowa,Big Ten,19,24,24,19,CFP
+2020,regular,14,30,USC,Pac-12,20,17,16,20,CFP
+2020,regular,14,276,Marshall,Conference USA,21,15,15,21,CFP
+2020,regular,14,264,Washington,Pac-12,22,23,23,22,CFP
+2020,regular,14,2483,Oregon,Pac-12,23,21,20,23,CFP
+2020,regular,14,202,Tulsa,American Athletic,24,22,22,24,CFP
+2020,regular,14,309,Louisiana,Sun Belt,25,20,21,25,CFP
+2020,regular,14,2335,Liberty,FBS Independents,,25,25,25,AP
+2020,regular,15,333,Alabama,SEC,1,1,1,1,CFP
+2020,regular,15,87,Notre Dame,FBS Independents,2,2,2,2,CFP
+2020,regular,15,228,Clemson,ACC,3,4,3,3,CFP
+2020,regular,15,194,Ohio State,Big Ten,4,3,4,4,CFP
+2020,regular,15,245,Texas A&M,SEC,5,5,5,5,CFP
+2020,regular,15,57,Florida,SEC,6,6,6,6,CFP
+2020,regular,15,66,Iowa State,Big 12,7,10,11,7,CFP
+2020,regular,15,2132,Cincinnati,American Athletic,8,7,7,8,CFP
+2020,regular,15,61,Georgia,SEC,9,12,10,9,CFP
+2020,regular,15,2390,Miami,ACC,10,9,8,10,CFP
+2020,regular,15,201,Oklahoma,Big 12,11,13,12,11,CFP
+2020,regular,15,84,Indiana,Big Ten,12,8,9,12,CFP
+2020,regular,15,324,Coastal Carolina,Sun Belt,13,11,13,13,CFP
+2020,regular,15,77,Northwestern,Big Ten,14,15,14,14,CFP
+2020,regular,15,30,USC,Pac-12,15,16,15,15,CFP
+2020,regular,15,2294,Iowa,Big Ten,16,19,18,16,CFP
+2020,regular,15,153,North Carolina,ACC,17,20,20,17,CFP
+2020,regular,15,252,BYU,FBS Independents,18,14,16,18,CFP
+2020,regular,15,309,Louisiana,Sun Belt,19,17,17,19,CFP
+2020,regular,15,251,Texas,Big 12,20,23,23,20,CFP
+2020,regular,15,38,Colorado,Pac-12,21,21,22,21,CFP
+2020,regular,15,197,Oklahoma State,Big 12,22,,,22,CFP
+2020,regular,15,2335,Liberty,FBS Independents,,22,21,22,AP
+2020,regular,15,152,NC State,ACC,23,,24,23,CFP
+2020,regular,15,202,Tulsa,American Athletic,24,18,19,24,CFP
+2020,regular,15,2084,Buffalo,Mid-American,,24,,24,AP
+2020,regular,15,142,Missouri,SEC,25,,,25,CFP
+2020,regular,15,275,Wisconsin,Big Ten,,25,25,25,AP
+2020,regular,16,333,Alabama,SEC,1,1,1,1,CFP
+2020,regular,16,87,Notre Dame,FBS Independents,2,2,2,2,CFP
+2020,regular,16,228,Clemson,ACC,3,4,3,3,CFP
+2020,regular,16,194,Ohio State,Big Ten,4,3,4,4,CFP
+2020,regular,16,245,Texas A&M,SEC,5,5,5,5,CFP
+2020,regular,16,66,Iowa State,Big 12,6,8,8,6,CFP
+2020,regular,16,57,Florida,SEC,7,11,11,7,CFP
+2020,regular,16,61,Georgia,SEC,8,10,9,8,CFP
+2020,regular,16,2132,Cincinnati,American Athletic,9,6,6,9,CFP
+2020,regular,16,201,Oklahoma,Big 12,10,12,10,10,CFP
+2020,regular,16,84,Indiana,Big Ten,11,7,7,11,CFP
+2020,regular,16,324,Coastal Carolina,Sun Belt,12,9,12,12,CFP
+2020,regular,16,30,USC,Pac-12,13,13,13,13,CFP
+2020,regular,16,77,Northwestern,Big Ten,14,15,14,14,CFP
+2020,regular,16,153,North Carolina,ACC,15,16,15,15,CFP
+2020,regular,16,2294,Iowa,Big Ten,16,18,17,16,CFP
+2020,regular,16,252,BYU,FBS Independents,17,14,16,17,CFP
+2020,regular,16,2390,Miami,ACC,18,19,19,18,CFP
+2020,regular,16,309,Louisiana,Sun Belt,19,17,18,19,CFP
+2020,regular,16,251,Texas,Big 12,20,21,24,20,CFP
+2020,regular,16,197,Oklahoma State,Big 12,21,,22,21,CFP
+2020,regular,16,152,NC State,ACC,22,24,23,22,CFP
+2020,regular,16,2335,Liberty,FBS Independents,,22,21,22,AP
+2020,regular,16,202,Tulsa,American Athletic,23,20,20,23,CFP
+2020,regular,16,2084,Buffalo,Mid-American,,23,,23,AP
+2020,regular,16,23,San José State,Mountain West,24,25,25,24,CFP
+2020,regular,16,38,Colorado,Pac-12,25,,,25,CFP
