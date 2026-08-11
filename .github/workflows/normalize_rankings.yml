@@ -1,0 +1,28 @@
+name: Normalize Rankings
+
+on:
+  workflow_dispatch:
+
+jobs:
+  normalize-rankings:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Normalize historical rankings
+        run: |
+          python src/normalization/normalize_rankings.py
+
+      - name: Upload normalized rankings artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: normalized-rankings
+          path: data/normalized/rankings/
+          if-no-files-found: error
