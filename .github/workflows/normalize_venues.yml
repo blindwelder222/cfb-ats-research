@@ -1,0 +1,28 @@
+name: Normalize Venues
+
+on:
+  workflow_dispatch:
+
+jobs:
+  normalize-venues:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Normalize venue reference data
+        run: |
+          python src/normalization/normalize_venues.py
+
+      - name: Upload normalized venue artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: normalized-venues
+          path: data/normalized/venues/
+          if-no-files-found: error
