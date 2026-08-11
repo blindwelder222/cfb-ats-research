@@ -104,7 +104,7 @@ def join_season(year):
     """Join one season's game/team records to betting consensus."""
     game_path = GAME_TEAM_DIR / f"{year}_games_teams.csv"
     consensus_path = CONSENSUS_DIR / f"{year}_consensus.csv"
-    output_path = OUTPUT_DIR / f"{year}_games_master.csv"
+    output_path = OUTPUT_DIR / f"{year}_games_teams_betting.csv"
 
     game_fields, games = load_csv(game_path)
     consensus_fields, consensus_rows = load_csv(consensus_path)
