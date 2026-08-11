@@ -1,0 +1,28 @@
+name: Join Betting Consensus
+
+on:
+  workflow_dispatch:
+
+jobs:
+  join-betting:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Join games and betting consensus
+        run: |
+          python src/normalization/join_betting.py
+
+      - name: Upload joined betting artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: joined-betting
+          path: data/normalized/joined/
+          if-no-files-found: error
