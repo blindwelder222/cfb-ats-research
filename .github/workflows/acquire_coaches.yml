@@ -24,7 +24,7 @@ jobs:
         env:
           CFBD_API_KEY: ${{ secrets.CFBD_API_KEY }}
         run: |
-          python src/acquisition/acquire_coaches.py
+          python src/acquisition/jobs/acquire_coaches.py
 
       - name: Upload raw coach artifact
         uses: actions/upload-artifact@v4
