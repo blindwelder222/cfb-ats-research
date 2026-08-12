@@ -1,0 +1,34 @@
+name: Acquire Coaches
+
+on:
+  workflow_dispatch:
+
+jobs:
+  acquire-coaches:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install cfbd
+
+      - name: Acquire coach reference data
+        env:
+          CFBD_API_KEY: ${{ secrets.CFBD_API_KEY }}
+        run: |
+          python src/acquisition/acquire_coaches.py
+
+      - name: Upload raw coach artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: raw-coaches
+          path: data/raw/coaches/coaches.json
+          if-no-files-found: error
