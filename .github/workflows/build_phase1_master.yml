@@ -1,0 +1,105 @@
+name: Build Phase 1 Master Dataset
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build-phase1-master:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Build Phase 1 master dataset
+        run: |
+          python - <<'PY'
+          import csv
+          from pathlib import Path
+
+          input_dir = Path("data/normalized/venues/joined")
+          output_dir = Path("data/analysis/phase1_master")
+          output_path = output_dir / "cfb_phase1_master_2016_2025.csv"
+
+          years = range(2016, 2026)
+          files = [
+              input_dir / f"{year}_games_teams_betting_rankings_venues.csv"
+              for year in years
+          ]
+
+          missing = [str(path) for path in files if not path.exists()]
+          if missing:
+              raise FileNotFoundError(
+                  "Missing expected season files:\n" + "\n".join(missing)
+              )
+
+          output_dir.mkdir(parents=True, exist_ok=True)
+
+          fieldnames = None
+          total_rows = 0
+          game_ids = set()
+
+          with output_path.open("w", newline="", encoding="utf-8") as out_file:
+              writer = None
+
+              for path in files:
+                  with path.open("r", newline="", encoding="utf-8") as in_file:
+                      reader = csv.DictReader(in_file)
+
+                      if reader.fieldnames is None:
+                          raise ValueError(f"No header found in {path}")
+
+                      if fieldnames is None:
+                          fieldnames = reader.fieldnames
+                          writer = csv.DictWriter(
+                              out_file,
+                              fieldnames=fieldnames,
+                              extrasaction="raise",
+                          )
+                          writer.writeheader()
+                      elif reader.fieldnames != fieldnames:
+                          raise ValueError(
+                              f"Column mismatch in {path.name}"
+                          )
+
+                      for row in reader:
+                          game_id = row.get("game_id", "")
+                          if not game_id:
+                              raise ValueError(
+                                  f"Missing game_id in {path.name}"
+                              )
+                          if game_id in game_ids:
+                              raise ValueError(
+                                  f"Duplicate game_id detected: {game_id}"
+                              )
+
+                          game_ids.add(game_id)
+                          writer.writerow(row)
+                          total_rows += 1
+
+          expected_rows = 8634
+          if total_rows != expected_rows:
+              raise ValueError(
+                  f"Expected {expected_rows:,} rows, found {total_rows:,}"
+              )
+
+          if len(game_ids) != total_rows:
+              raise ValueError("Master dataset contains duplicate game IDs.")
+
+          print(f"Master dataset: {output_path}")
+          print(f"Rows: {total_rows:,}")
+          print(f"Unique games: {len(game_ids):,}")
+          print("Validation: PASS")
+          PY
+
+      - name: Upload Phase 1 master artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: cfb-phase1-master-2016-2025
+          path: data/analysis/phase1_master/cfb_phase1_master_2016_2025.csv
+          if-no-files-found: error
