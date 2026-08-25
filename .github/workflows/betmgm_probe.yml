@@ -28,14 +28,14 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install -r sandbox/betmgm/requirements.txt
 
       - name: Run BetMGM Selenium probe
         env:
           BETMGM_URL: ${{ inputs.betmgm_url }}
           WAIT_SECONDS: ${{ inputs.wait_seconds }}
         run: |
-          python betmgm_selenium_probe.py
+          python sandbox/betmgm/betmgm_selenium_probe.py
 
       - name: Upload probe artifacts
         uses: actions/upload-artifact@v4
