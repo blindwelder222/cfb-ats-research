@@ -1,0 +1,38 @@
+name: Covers Selenium Probe
+on:
+  workflow_dispatch:
+    inputs:
+      covers_url:
+        description: "Covers NCAAF matchup page to inspect"
+        required: false
+        default: "https://www.covers.com/sports/ncaaf/matchups"
+      wait_seconds:
+        description: "Seconds to allow JavaScript to render"
+        required: false
+        default: "8"
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r sandbox/covers/requirements.txt
+      - name: Run Covers NCAAF navigation probe
+        env:
+          COVERS_URL: ${{ inputs.covers_url }}
+          WAIT_SECONDS: ${{ inputs.wait_seconds }}
+          OUTPUT_DIR: output
+        run: python sandbox/covers/covers_selenium_probe.py
+      - name: Upload probe artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: covers-selenium-probe
+          path: output/
+          if-no-files-found: error
