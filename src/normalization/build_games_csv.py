@@ -25,7 +25,7 @@ import re
 from collections import defaultdict
 from pathlib import Path
 
-INPUT_DIR = Path("data/raw/games")
+INPUT_DIR = Path("data/raw/games/2026")
 OUTPUT_DIR = Path("data/normalized/games")
 
 FIELDS = [
